@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "company": "Power Finance Corporation Limited",
+      "symbol": "PFC",
+      "isin": "INE134E01011",
+      "series": "EQ",
+      "date": "2025-11-26",
+      "close": 362.4,
+      "dividend_type": "interim",
+      "dividend_amount": 3.65,
+      "dividend_percent": 1.0072
+    },
+    {
+      "company": "Power Finance Corporation Limited",
+      "symbol": "PFC",
+      "isin": "INE134E01011",
+      "series": "EQ",
+      "date": "2026-02-20",
+      "close": 410.1,
+      "dividend_type": "interim",
+      "dividend_amount": 4.0,
+      "dividend_percent": 0.9754
+    },
+    {
+      "company": "Power Finance Corporation Limited",
+      "symbol": "PFC",
+      "isin": "INE134E01011",
+      "series": "EQ",
+      "date": "2026-03-23",
+      "close": 398,
+      "dividend_type": "interim",
+      "dividend_amount": 3.25,
+      "dividend_percent": 0.8166
+    },
+    {
+      "company": "Power Finance Corporation Limited",
+      "symbol": "PFC",
+      "isin": "INE134E01011",
+      "series": "EQ",
+      "date": "2026-07-31",
+      "close": 424.35,
+      "dividend_type": "final",
+      "dividend_amount": 3.95,
+      "dividend_percent": 0.9308
+    },
+    {
+      "company": "Power Finance Corporation Limited",
+      "symbol": "PFC",
+      "isin": "INE134E01011",
+      "series": "EQ",
+      "date": "2026-08-27",
+      "close": 355.85,
+      "dividend_type": "interim",
+      "dividend_amount": 3.9,
+      "dividend_percent": 1.096
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Samvardhana Motherson International Limited",
+      "symbol": "MOTHERSON",
+      "isin": "INE775A01035",
+      "series": "EQ",
+      "date": "2026-03-27",
+      "close": 109.38,
+      "dividend_type": "interim",
+      "dividend_amount": 0.35,
+      "dividend_percent": 0.32
+    },
+    {
+      "company": "Samvardhana Motherson International Limited",
+      "symbol": "MOTHERSON",
+      "isin": "INE775A01035",
+      "series": "EQ",
+      "date": "2026-07-14",
+      "close": 142.06,
+      "dividend_type": "final",
+      "dividend_amount": 0.25,
+      "dividend_percent": 0.176
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "LTM Limited",
+      "symbol": "LTM",
+      "isin": "INE214T01019",
+      "series": "EQ",
+      "date": "2026-05-25",
+      "close": 3991.6,
+      "dividend_type": "final",
+      "dividend_amount": 53.0,
+      "dividend_percent": 1.3278
+    },
+    {
+      "company": "LTM Limited",
+      "symbol": "LTM",
+      "isin": "INE214T01019",
+      "series": "EQ",
+      "date": "2026-10-23",
+      "close": 4134,
+      "dividend_type": "interim",
+      "dividend_amount": 25.0,
+      "dividend_percent": 0.6047
+    }
+  ]
+}

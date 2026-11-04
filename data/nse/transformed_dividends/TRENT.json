@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "company": "Trent Limited",
+      "symbol": "TRENT",
+      "isin": "INE849A01012",
+      "series": "EQ",
+      "date": "12-Jun-2026",
+      "close": 2755.3,
+      "subject": "Dividend - Rs 4 Per Share"
+    }
+  ]
+}

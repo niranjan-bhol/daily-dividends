@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "AIA Engineering Limited",
+      "symbol": "AIAENG",
+      "isin": "INE212H01026",
+      "series": "EQ",
+      "date": "2026-09-04",
+      "close": 4231.2,
+      "dividend_type": "final",
+      "dividend_amount": 16.0,
+      "dividend_percent": 0.3781
+    }
+  ]
+}

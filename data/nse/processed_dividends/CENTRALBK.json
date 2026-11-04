@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Central Bank of India",
+      "symbol": "CENTRALBK",
+      "isin": "INE483A01010",
+      "series": "EQ",
+      "date": "2026-01-23",
+      "close": 36.31,
+      "dividend_type": "interim",
+      "dividend_amount": 0.2,
+      "dividend_percent": 0.5508
+    },
+    {
+      "company": "Central Bank of India",
+      "symbol": "CENTRALBK",
+      "isin": "INE483A01010",
+      "series": "EQ",
+      "date": "2026-05-08",
+      "close": 36.51,
+      "dividend_type": "interim",
+      "dividend_amount": 0.6,
+      "dividend_percent": 1.6434
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Kajaria Ceramics Limited",
+      "symbol": "KAJARIACER",
+      "isin": "INE217B01028",
+      "series": "EQ",
+      "date": "2026-09-21",
+      "close": 1200.5,
+      "dividend_type": "final",
+      "dividend_amount": 6.0,
+      "dividend_percent": 0.4998
+    },
+    {
+      "company": "Kajaria Ceramics Limited",
+      "symbol": "KAJARIACER",
+      "isin": "INE217B01028",
+      "series": "EQ",
+      "date": "2026-10-29",
+      "close": 1102.1,
+      "dividend_type": "interim",
+      "dividend_amount": 12.0,
+      "dividend_percent": 1.0888
+    }
+  ]
+}

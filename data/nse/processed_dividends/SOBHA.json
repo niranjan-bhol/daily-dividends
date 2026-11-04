@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Sobha Limited",
+      "symbol": "SOBHA",
+      "isin": "INE671H01015",
+      "series": "EQ",
+      "date": "2026-07-10",
+      "close": 1511.3,
+      "dividend_type": "final",
+      "dividend_amount": 6.0,
+      "dividend_percent": 0.397
+    }
+  ]
+}

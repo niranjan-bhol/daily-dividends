@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "company": "State Bank of India",
+      "symbol": "SBIN",
+      "isin": "INE062A01012",
+      "series": "EQ",
+      "date": "15-May-2026",
+      "close": 963.2,
+      "subject": "Dividend - Rs 17.35 Per Share"
+    }
+  ]
+}

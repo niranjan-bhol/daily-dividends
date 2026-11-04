@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "company": "Garden Reach Shipbuilders & Engineers Limited",
+      "symbol": "GRSE",
+      "isin": "INE382Z01011",
+      "series": "EQ",
+      "date": "11-Nov-2025",
+      "close": 2785.9,
+      "subject": "Interim Dividend - Rs 5.75 Per Sh"
+    },
+    {
+      "company": "Garden Reach Shipbuilders & Engineers Limited",
+      "symbol": "GRSE",
+      "isin": "INE382Z01011",
+      "series": "EQ",
+      "date": "03-Feb-2026",
+      "close": 2546.1,
+      "subject": "Interim Dividend - Rs 7.15 Per Share"
+    },
+    {
+      "company": "Garden Reach Shipbuilders & Engineers Limited",
+      "symbol": "GRSE",
+      "isin": "INE382Z01011",
+      "series": "EQ",
+      "date": "18-Sep-2026",
+      "close": 2411.8,
+      "subject": "Dividend - Rs 6.70 Per Share"
+    }
+  ]
+}

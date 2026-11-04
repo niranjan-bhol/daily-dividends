@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "K.P.R. Mill Limited",
+      "symbol": "KPRMILL",
+      "isin": "INE930H01015",
+      "series": "EQ",
+      "date": "2026-02-13",
+      "close": 930.5,
+      "dividend_type": "interim",
+      "dividend_amount": 2.5,
+      "dividend_percent": 0.2687
+    },
+    {
+      "company": "K.P.R. Mill Limited",
+      "symbol": "KPRMILL",
+      "isin": "INE930H01015",
+      "series": "EQ",
+      "date": "2026-07-20",
+      "close": 1113.3,
+      "dividend_type": "final",
+      "dividend_amount": 2.5,
+      "dividend_percent": 0.2246
+    }
+  ]
+}

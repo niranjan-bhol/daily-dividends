@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Mahindra & Mahindra Financial Services Limited",
+      "symbol": "M&MFIN",
+      "isin": "INE774D01016",
+      "series": "EQ",
+      "date": "2026-07-13",
+      "close": 332.7,
+      "dividend_type": "final",
+      "dividend_amount": 7.5,
+      "dividend_percent": 2.2543
+    }
+  ]
+}

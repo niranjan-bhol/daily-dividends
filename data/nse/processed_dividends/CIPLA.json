@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Cipla Limited",
+      "symbol": "CIPLA",
+      "isin": "INE059A01026",
+      "series": "EQ",
+      "date": "2026-06-05",
+      "close": 1401.3,
+      "dividend_type": "final",
+      "dividend_amount": 13.0,
+      "dividend_percent": 0.9277
+    }
+  ]
+}

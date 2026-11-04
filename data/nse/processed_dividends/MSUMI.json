@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Motherson Sumi Wiring India Limited",
+      "symbol": "MSUMI",
+      "isin": "INE0FS801015",
+      "series": "EQ",
+      "date": "2026-07-14",
+      "close": 39.61,
+      "dividend_type": "final",
+      "dividend_amount": 0.58,
+      "dividend_percent": 1.4643
+    }
+  ]
+}

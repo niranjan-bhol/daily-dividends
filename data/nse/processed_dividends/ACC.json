@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "ACC Limited",
+      "symbol": "ACC",
+      "isin": "INE012A01025",
+      "series": "EQ",
+      "date": "2026-06-12",
+      "close": 1336.6,
+      "dividend_type": "final",
+      "dividend_amount": 7.5,
+      "dividend_percent": 0.5611
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Paradeep Phosphates Limited",
+      "symbol": "PARADEEP",
+      "isin": "INE088F01024",
+      "series": "EQ",
+      "date": "2026-09-04",
+      "close": 157,
+      "dividend_type": "final",
+      "dividend_amount": 1.5,
+      "dividend_percent": 0.9554
+    }
+  ]
+}

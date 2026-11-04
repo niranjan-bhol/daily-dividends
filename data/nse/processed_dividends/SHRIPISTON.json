@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "SPR Auto Technologies Limited",
+      "symbol": "SHRIPISTON",
+      "isin": "INE526E01018",
+      "series": "EQ",
+      "date": "2026-02-06",
+      "close": 2967.2,
+      "dividend_type": "interim",
+      "dividend_amount": 5.0,
+      "dividend_percent": 0.1685
+    },
+    {
+      "company": "SPR Auto Technologies Limited",
+      "symbol": "SHRIPISTON",
+      "isin": "INE526E01018",
+      "series": "EQ",
+      "date": "2026-07-20",
+      "close": 4233.8,
+      "dividend_type": "final",
+      "dividend_amount": 5.0,
+      "dividend_percent": 0.1181
+    }
+  ]
+}

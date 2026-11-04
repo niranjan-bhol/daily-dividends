@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "ITC Limited",
+      "symbol": "ITC",
+      "isin": "INE154A01025",
+      "series": "EQ",
+      "date": "2026-02-04",
+      "close": 313.85,
+      "dividend_type": "interim",
+      "dividend_amount": 6.5,
+      "dividend_percent": 2.0711
+    },
+    {
+      "company": "ITC Limited",
+      "symbol": "ITC",
+      "isin": "INE154A01025",
+      "series": "EQ",
+      "date": "2026-05-27",
+      "close": 291.95,
+      "dividend_type": "final",
+      "dividend_amount": 8.0,
+      "dividend_percent": 2.7402
+    }
+  ]
+}

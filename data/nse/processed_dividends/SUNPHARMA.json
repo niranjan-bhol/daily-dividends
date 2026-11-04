@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Sun Pharmaceutical Industries Limited",
+      "symbol": "SUNPHARMA",
+      "isin": "INE044A01028",
+      "series": "EQ",
+      "date": "2026-02-05",
+      "close": 1702.6,
+      "dividend_type": "interim",
+      "dividend_amount": 11.0,
+      "dividend_percent": 0.6461
+    },
+    {
+      "company": "Sun Pharmaceutical Industries Limited",
+      "symbol": "SUNPHARMA",
+      "isin": "INE044A01028",
+      "series": "EQ",
+      "date": "2026-07-07",
+      "close": 1903.4,
+      "dividend_type": "final",
+      "dividend_amount": 5.0,
+      "dividend_percent": 0.2627
+    }
+  ]
+}

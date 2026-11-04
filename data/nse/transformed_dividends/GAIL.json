@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "GAIL (India) Limited",
+      "symbol": "GAIL",
+      "isin": "INE129A01019",
+      "series": "EQ",
+      "date": "05-Feb-2026",
+      "close": 160.18,
+      "subject": "Interim Dividend - Rs 5 Per Share"
+    },
+    {
+      "company": "GAIL (India) Limited",
+      "symbol": "GAIL",
+      "isin": "INE129A01019",
+      "series": "EQ",
+      "date": "02-Sep-2026",
+      "close": 173,
+      "subject": "Dividend - Re 0.50 Per Share"
+    }
+  ]
+}

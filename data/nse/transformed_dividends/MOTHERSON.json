@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Samvardhana Motherson International Limited",
+      "symbol": "MOTHERSON",
+      "isin": "INE775A01035",
+      "series": "EQ",
+      "date": "27-Mar-2026",
+      "close": 109.38,
+      "subject": "Interim Dividend - Re 0.35 Per Share"
+    },
+    {
+      "company": "Samvardhana Motherson International Limited",
+      "symbol": "MOTHERSON",
+      "isin": "INE775A01035",
+      "series": "EQ",
+      "date": "14-Jul-2026",
+      "close": 142.06,
+      "subject": "Dividend - Rs 0.25 Per Share"
+    }
+  ]
+}

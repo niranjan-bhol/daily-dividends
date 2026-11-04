@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "company": "Nestle India Limited",
+      "symbol": "NESTLEIND",
+      "isin": "INE239A01016",
+      "series": "EQ",
+      "date": "06-Feb-2026",
+      "close": 1303.3,
+      "subject": "Interim Dividend - Rs 7 Per Share"
+    },
+    {
+      "company": "Nestle India Limited",
+      "symbol": "NESTLEIND",
+      "isin": "INE239A01016",
+      "series": "EQ",
+      "date": "10-Jul-2026",
+      "close": 1455.2,
+      "subject": "Special Dividend - Rs 2 Per Share"
+    },
+    {
+      "company": "Nestle India Limited",
+      "symbol": "NESTLEIND",
+      "isin": "INE239A01016",
+      "series": "EQ",
+      "date": "10-Jul-2026",
+      "close": 1455.2,
+      "subject": "Dividend - Rs 5 Per Share"
+    }
+  ]
+}

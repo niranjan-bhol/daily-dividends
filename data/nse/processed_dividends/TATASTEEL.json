@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Tata Steel Limited",
+      "symbol": "TATASTEEL",
+      "isin": "INE081A01012",
+      "series": "EQ",
+      "date": "2026-06-12",
+      "close": 197.86,
+      "dividend_type": "final",
+      "dividend_amount": 4.0,
+      "dividend_percent": 2.0216
+    }
+  ]
+}

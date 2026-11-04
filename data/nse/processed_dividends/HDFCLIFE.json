@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "HDFC Life Insurance Company Limited",
+      "symbol": "HDFCLIFE",
+      "isin": "INE795G01014",
+      "series": "EQ",
+      "date": "2026-06-19",
+      "close": 591.85,
+      "dividend_type": "final",
+      "dividend_amount": 2.1,
+      "dividend_percent": 0.3548
+    }
+  ]
+}

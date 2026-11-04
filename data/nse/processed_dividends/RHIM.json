@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "RHI MAGNESITA INDIA LIMITED",
+      "symbol": "RHIM",
+      "isin": "INE743M01012",
+      "series": "EQ",
+      "date": "2026-09-11",
+      "close": 375.8,
+      "dividend_type": "final",
+      "dividend_amount": 2.5,
+      "dividend_percent": 0.6652
+    }
+  ]
+}

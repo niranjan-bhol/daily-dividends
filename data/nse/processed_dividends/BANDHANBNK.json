@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Bandhan Bank Limited",
+      "symbol": "BANDHANBNK",
+      "isin": "INE545U01014",
+      "series": "EQ",
+      "date": "2026-08-17",
+      "close": 173.25,
+      "dividend_type": "final",
+      "dividend_amount": 1.5,
+      "dividend_percent": 0.8658
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Bharti Airtel Limited",
+      "symbol": "BHARTIARTL",
+      "isin": "INE397D01024",
+      "series": "EQ",
+      "date": "2026-07-24",
+      "close": 1898.2,
+      "dividend_type": "final",
+      "dividend_amount": 24.0,
+      "dividend_percent": 1.2644
+    }
+  ]
+}

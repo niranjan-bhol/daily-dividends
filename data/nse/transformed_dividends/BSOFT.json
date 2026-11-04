@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "BIRLASOFT LIMITED",
+      "symbol": "BSOFT",
+      "isin": "INE836A01035",
+      "series": "EQ",
+      "date": "14-Nov-2025",
+      "close": 388.7,
+      "subject": "Interim Dividend - Rs  2.50 Per Share"
+    },
+    {
+      "company": "BIRLASOFT LIMITED",
+      "symbol": "BSOFT",
+      "isin": "INE836A01035",
+      "series": "EQ",
+      "date": "10-Jul-2026",
+      "close": 290.15,
+      "subject": "Dividend - Rs 4 Per Share"
+    }
+  ]
+}

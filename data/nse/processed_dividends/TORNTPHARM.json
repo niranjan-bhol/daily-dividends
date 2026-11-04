@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Torrent Pharmaceuticals Limited",
+      "symbol": "TORNTPHARM",
+      "isin": "INE685A01028",
+      "series": "EQ",
+      "date": "2026-02-18",
+      "close": 4210.8,
+      "dividend_type": "interim",
+      "dividend_amount": 29.0,
+      "dividend_percent": 0.6887
+    },
+    {
+      "company": "Torrent Pharmaceuticals Limited",
+      "symbol": "TORNTPHARM",
+      "isin": "INE685A01028",
+      "series": "EQ",
+      "date": "2026-05-29",
+      "close": 4410.8,
+      "dividend_type": "final",
+      "dividend_amount": 9.0,
+      "dividend_percent": 0.204
+    }
+  ]
+}

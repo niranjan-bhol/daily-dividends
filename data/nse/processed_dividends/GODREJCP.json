@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "company": "Godrej Consumer Products Limited",
+      "symbol": "GODREJCP",
+      "isin": "INE102D01028",
+      "series": "EQ",
+      "date": "2025-11-07",
+      "close": 1121.8,
+      "dividend_type": "interim",
+      "dividend_amount": 5.0,
+      "dividend_percent": 0.4457
+    },
+    {
+      "company": "Godrej Consumer Products Limited",
+      "symbol": "GODREJCP",
+      "isin": "INE102D01028",
+      "series": "EQ",
+      "date": "2026-01-30",
+      "close": 1154.1,
+      "dividend_type": "interim",
+      "dividend_amount": 5.0,
+      "dividend_percent": 0.4332
+    },
+    {
+      "company": "Godrej Consumer Products Limited",
+      "symbol": "GODREJCP",
+      "isin": "INE102D01028",
+      "series": "EQ",
+      "date": "2026-05-12",
+      "close": 1030.2,
+      "dividend_type": "interim",
+      "dividend_amount": 5.0,
+      "dividend_percent": 0.4853
+    },
+    {
+      "company": "Godrej Consumer Products Limited",
+      "symbol": "GODREJCP",
+      "isin": "INE102D01028",
+      "series": "EQ",
+      "date": "2026-08-13",
+      "close": 936.9,
+      "dividend_type": "interim",
+      "dividend_amount": 5.0,
+      "dividend_percent": 0.5337
+    }
+  ]
+}

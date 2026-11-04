@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Ashok Leyland Limited",
+      "symbol": "ASHOKLEY",
+      "isin": "INE208A01029",
+      "series": "EQ",
+      "date": "2025-11-18",
+      "close": 147.23,
+      "dividend_type": "interim",
+      "dividend_amount": 1.0,
+      "dividend_percent": 0.6792
+    },
+    {
+      "company": "Ashok Leyland Limited",
+      "symbol": "ASHOKLEY",
+      "isin": "INE208A01029",
+      "series": "EQ",
+      "date": "2026-06-03",
+      "close": 145.84,
+      "dividend_type": "interim",
+      "dividend_amount": 2.5,
+      "dividend_percent": 1.7142
+    }
+  ]
+}

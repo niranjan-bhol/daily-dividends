@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "company": "Shipping Corporation Of India Limited",
+      "symbol": "SCI",
+      "isin": "INE109A01011",
+      "series": "EQ",
+      "date": "19-Nov-2025",
+      "close": 249,
+      "subject": "Interim Dividend - Rs 3 Per Share"
+    },
+    {
+      "company": "Shipping Corporation Of India Limited",
+      "symbol": "SCI",
+      "isin": "INE109A01011",
+      "series": "EQ",
+      "date": "17-Feb-2026",
+      "close": 273.12,
+      "subject": "Interim Dividend - Rs 3.50 Per Share"
+    },
+    {
+      "company": "Shipping Corporation Of India Limited",
+      "symbol": "SCI",
+      "isin": "INE109A01011",
+      "series": "EQ",
+      "date": "04-Sep-2026",
+      "close": 295.35,
+      "subject": "Dividend - Re 1 Per Share"
+    }
+  ]
+}

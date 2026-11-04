@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Bajaj Finance Limited",
+      "symbol": "BAJFINANCE",
+      "isin": "INE296A01016",
+      "series": "EQ",
+      "date": "2026-06-30",
+      "close": 1004.75,
+      "dividend_type": "final",
+      "dividend_amount": 6.0,
+      "dividend_percent": 0.5972
+    }
+  ]
+}

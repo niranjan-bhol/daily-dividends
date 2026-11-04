@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Narayana Hrudayalaya Ltd.",
+      "symbol": "NH",
+      "isin": "INE410P01011",
+      "series": "EQ",
+      "date": "2026-07-17",
+      "close": 2029.5,
+      "dividend_type": "final",
+      "dividend_amount": 4.5,
+      "dividend_percent": 0.2217
+    }
+  ]
+}

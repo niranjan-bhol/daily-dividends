@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "CEAT Limited",
+      "symbol": "CEATLTD",
+      "isin": "INE482A01020",
+      "series": "EQ",
+      "date": "2026-07-31",
+      "close": 3429.9,
+      "dividend_type": "final",
+      "dividend_amount": 35.0,
+      "dividend_percent": 1.0204
+    }
+  ]
+}

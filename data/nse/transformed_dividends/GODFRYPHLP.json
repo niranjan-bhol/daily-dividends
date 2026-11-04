@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Godfrey Phillips India Limited",
+      "symbol": "GODFRYPHLP",
+      "isin": "INE260B01010",
+      "series": "EQ",
+      "date": "10-Nov-2025",
+      "close": 2998.7,
+      "subject": "Interim Dividend - Rs 17 Per Share"
+    },
+    {
+      "company": "Godfrey Phillips India Limited",
+      "symbol": "GODFRYPHLP",
+      "isin": "INE260B01010",
+      "series": "EQ",
+      "date": "11-Aug-2026",
+      "close": 2224.9,
+      "subject": "Dividend - Rs 33 Per Sh"
+    }
+  ]
+}

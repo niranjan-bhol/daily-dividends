@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "SJVN Limited",
+      "symbol": "SJVN",
+      "isin": "INE002L01015",
+      "series": "EQ",
+      "date": "20-Feb-2026",
+      "close": 75.3,
+      "subject": "Interim Dividend - Rs 1.15 Per Share"
+    },
+    {
+      "company": "SJVN Limited",
+      "symbol": "SJVN",
+      "isin": "INE002L01015",
+      "series": "EQ",
+      "date": "24-Aug-2026",
+      "close": 65.8,
+      "subject": "Dividend - Re 0.35 Per Share"
+    }
+  ]
+}

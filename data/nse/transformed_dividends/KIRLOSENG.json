@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Kirloskar Oil Engines Limited",
+      "symbol": "KIRLOSENG",
+      "isin": "INE146L01010",
+      "series": "EQ",
+      "date": "20-Feb-2026",
+      "close": 1418.5,
+      "subject": "Interim Dividend - Rs 2.50 Per Share"
+    },
+    {
+      "company": "Kirloskar Oil Engines Limited",
+      "symbol": "KIRLOSENG",
+      "isin": "INE146L01010",
+      "series": "EQ",
+      "date": "31-Jul-2026",
+      "close": 2189.8,
+      "subject": "Dividend - Rs 4.50 Per Share"
+    }
+  ]
+}

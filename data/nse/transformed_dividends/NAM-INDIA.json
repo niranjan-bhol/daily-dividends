@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "company": "Nippon Life India Asset Management Limited",
+      "symbol": "NAM-INDIA",
+      "isin": "INE298J01013",
+      "series": "EQ",
+      "date": "06-Nov-2025",
+      "close": 866.85,
+      "subject": "Interim Dividend - Rs 9 Per Share"
+    },
+    {
+      "company": "Nippon Life India Asset Management Limited",
+      "symbol": "NAM-INDIA",
+      "isin": "INE298J01013",
+      "series": "EQ",
+      "date": "25-Jun-2026",
+      "close": 1139,
+      "subject": "Dividend - Rs 12.50 Per Share"
+    },
+    {
+      "company": "Nippon Life India Asset Management Limited",
+      "symbol": "NAM-INDIA",
+      "isin": "INE298J01013",
+      "series": "EQ",
+      "date": "28-Oct-2026",
+      "close": 922.5,
+      "subject": "Interim Dividend - Rs 9.50 Per Share"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "company": "Tata Chemicals Limited",
+      "symbol": "TATACHEM",
+      "isin": "INE092A01019",
+      "series": "EQ",
+      "date": "10-Jun-2026",
+      "close": 720.4,
+      "subject": "Dividend - Rs 11 Per Share"
+    }
+  ]
+}

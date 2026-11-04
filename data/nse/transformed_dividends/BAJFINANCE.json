@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "company": "Bajaj Finance Limited",
+      "symbol": "BAJFINANCE",
+      "isin": "INE296A01016",
+      "series": "EQ",
+      "date": "30-Jun-2026",
+      "close": 1004.75,
+      "subject": "Dividend - Rs 6 Per Share"
+    }
+  ]
+}

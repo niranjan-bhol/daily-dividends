@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "HDB Financial Services Limited",
+      "symbol": "HDBFS",
+      "isin": "INE756I01012",
+      "series": "EQ",
+      "date": "18-Jun-2026",
+      "close": 695.45,
+      "subject": "Dividend - Rs 2 Per Share"
+    },
+    {
+      "company": "HDB Financial Services Limited",
+      "symbol": "HDBFS",
+      "isin": "INE756I01012",
+      "series": "EQ",
+      "date": "23-Oct-2026",
+      "close": 504.85,
+      "subject": "Interim Dividend - Rs 2 Per Share"
+    }
+  ]
+}

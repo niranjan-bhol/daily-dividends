@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Concord Biotech Limited",
+      "symbol": "CONCORDBIO",
+      "isin": "INE338H01029",
+      "series": "EQ",
+      "date": "2026-07-24",
+      "close": 1248.5,
+      "dividend_type": "final",
+      "dividend_amount": 7.55,
+      "dividend_percent": 0.6047
+    }
+  ]
+}

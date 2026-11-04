@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Carborundum Universal Limited",
+      "symbol": "CARBORUNIV",
+      "isin": "INE120A01026",
+      "series": "EQ",
+      "date": "2026-02-04",
+      "close": 804.05,
+      "dividend_type": "interim",
+      "dividend_amount": 1.5,
+      "dividend_percent": 0.1866
+    },
+    {
+      "company": "Carborundum Universal Limited",
+      "symbol": "CARBORUNIV",
+      "isin": "INE120A01026",
+      "series": "EQ",
+      "date": "2026-07-31",
+      "close": 1063.8,
+      "dividend_type": "final",
+      "dividend_amount": 2.5,
+      "dividend_percent": 0.235
+    }
+  ]
+}

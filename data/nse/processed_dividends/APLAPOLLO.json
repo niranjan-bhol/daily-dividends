@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "APL Apollo Tubes Limited",
+      "symbol": "APLAPOLLO",
+      "isin": "INE702C01019",
+      "series": "EQ",
+      "date": "2026-09-08",
+      "close": 2185,
+      "dividend_type": "final",
+      "dividend_amount": 8.5,
+      "dividend_percent": 0.389
+    }
+  ]
+}

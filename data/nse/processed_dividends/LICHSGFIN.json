@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "LIC Housing Finance Limited",
+      "symbol": "LICHSGFIN",
+      "isin": "INE115A01018",
+      "series": "EQ",
+      "date": "2026-08-21",
+      "close": 497,
+      "dividend_type": "final",
+      "dividend_amount": 10.0,
+      "dividend_percent": 2.0121
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "eClerx Services Limited",
+      "symbol": "ECLERX",
+      "isin": "INE738I01010",
+      "series": "EQ",
+      "date": "2026-08-21",
+      "close": 1815.7,
+      "dividend_type": "final",
+      "dividend_amount": 1.0,
+      "dividend_percent": 0.0551
+    }
+  ]
+}

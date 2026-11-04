@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Bharat Heavy Electricals Limited",
+      "symbol": "BHEL",
+      "isin": "INE257A01018",
+      "series": "EQ",
+      "date": "2026-07-17",
+      "close": 422,
+      "dividend_type": "final",
+      "dividend_amount": 1.4,
+      "dividend_percent": 0.3318
+    }
+  ]
+}

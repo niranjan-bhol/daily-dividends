@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Dr. Reddy's Laboratories Limited",
+      "symbol": "DRREDDY",
+      "isin": "INE089A01023",
+      "series": "EQ",
+      "date": "2026-07-10",
+      "close": 1244.3,
+      "dividend_type": "final",
+      "dividend_amount": 8.0,
+      "dividend_percent": 0.6429
+    }
+  ]
+}

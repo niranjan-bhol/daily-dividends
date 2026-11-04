@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "company": "Central Mine Planning & Design Institute Limited",
+      "symbol": "CMPDI",
+      "isin": "INE05HV01027",
+      "series": "EQ",
+      "date": "2026-07-24",
+      "close": 248.43,
+      "dividend_type": "interim",
+      "dividend_amount": 1.05,
+      "dividend_percent": 0.4227
+    },
+    {
+      "company": "Central Mine Planning & Design Institute Limited",
+      "symbol": "CMPDI",
+      "isin": "INE05HV01027",
+      "series": "EQ",
+      "date": "2026-08-10",
+      "close": 246.83,
+      "dividend_type": "final",
+      "dividend_amount": 1.06,
+      "dividend_percent": 0.4294
+    },
+    {
+      "company": "Central Mine Planning & Design Institute Limited",
+      "symbol": "CMPDI",
+      "isin": "INE05HV01027",
+      "series": "EQ",
+      "date": "2026-10-29",
+      "close": 189.53,
+      "dividend_type": "interim",
+      "dividend_amount": 1.05,
+      "dividend_percent": 0.554
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Prestige Estates Projects Limited",
+      "symbol": "PRESTIGE",
+      "isin": "INE811K01011",
+      "series": "EQ",
+      "date": "2026-08-13",
+      "close": 1618.9,
+      "dividend_type": "final",
+      "dividend_amount": 2.0,
+      "dividend_percent": 0.1235
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Can Fin Homes Limited",
+      "symbol": "CANFINHOME",
+      "isin": "INE477A01012",
+      "series": "EQ",
+      "date": "19-Dec-2025",
+      "close": 936.6,
+      "subject": "Interim Dividend - Rs 7 Per Share"
+    },
+    {
+      "company": "Can Fin Homes Limited",
+      "symbol": "CANFINHOME",
+      "isin": "INE477A01012",
+      "series": "EQ",
+      "date": "03-Jul-2026",
+      "close": 900.1,
+      "subject": "Dividend - Rs 8 Per Share"
+    }
+  ]
+}

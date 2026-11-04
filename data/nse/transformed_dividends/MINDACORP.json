@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Minda Corporation Limited",
+      "symbol": "MINDACORP",
+      "isin": "INE842C01013",
+      "series": "EQ",
+      "date": "13-Feb-2026",
+      "close": 598,
+      "subject": "Interim Dividend - Re 0.60 Per Share"
+    },
+    {
+      "company": "Minda Corporation Limited",
+      "symbol": "MINDACORP",
+      "isin": "INE842C01013",
+      "series": "EQ",
+      "date": "14-Aug-2026",
+      "close": 720.05,
+      "subject": "Dividend - Re 0.80 Per Share"
+    }
+  ]
+}

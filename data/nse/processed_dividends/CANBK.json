@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Canara Bank",
+      "symbol": "CANBK",
+      "isin": "INE476A01014",
+      "series": "EQ",
+      "date": "2026-06-12",
+      "close": 131.67,
+      "dividend_type": "final",
+      "dividend_amount": 4.2,
+      "dividend_percent": 3.1898
+    }
+  ]
+}

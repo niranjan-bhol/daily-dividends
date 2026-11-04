@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "The Federal Bank  Limited",
+      "symbol": "FEDERALBNK",
+      "isin": "INE171A01011",
+      "series": "EQ",
+      "date": "2026-08-14",
+      "close": 351.3,
+      "dividend_type": "final",
+      "dividend_amount": 1.2,
+      "dividend_percent": 0.3416
+    }
+  ]
+}

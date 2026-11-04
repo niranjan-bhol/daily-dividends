@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Britannia Industries Limited",
+      "symbol": "BRITANNIA",
+      "isin": "INE216A01014",
+      "series": "EQ",
+      "date": "2026-07-31",
+      "close": 5416.5,
+      "dividend_type": "final",
+      "dividend_amount": 90.5,
+      "dividend_percent": 1.6708
+    }
+  ]
+}

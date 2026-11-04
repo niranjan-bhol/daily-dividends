@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Nuvama Wealth Management Limited",
+      "symbol": "NUVAMA",
+      "isin": "INE531F01015",
+      "series": "EQ",
+      "date": "11-Nov-2025",
+      "close": 7346.5,
+      "subject": "Interim Dividend - Rs 70 Per Share"
+    },
+    {
+      "company": "Nuvama Wealth Management Limited",
+      "symbol": "NUVAMA",
+      "isin": "INE531F01015",
+      "series": "EQ",
+      "date": "15-May-2026",
+      "close": 1458.5,
+      "subject": "Interim Dividend - Rs 14 Per Share"
+    }
+  ]
+}

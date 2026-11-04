@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Central Depository Services (India) Limited",
+      "symbol": "CDSL",
+      "isin": "INE736A01011",
+      "series": "EQ",
+      "date": "2026-07-17",
+      "close": 1418.2,
+      "dividend_type": "final",
+      "dividend_amount": 12.75,
+      "dividend_percent": 0.899
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Blue Star Limited",
+      "symbol": "BLUESTARCO",
+      "isin": "INE472A01039",
+      "series": "EQ",
+      "date": "2026-07-17",
+      "close": 1686.9,
+      "dividend_type": "final",
+      "dividend_amount": 8.5,
+      "dividend_percent": 0.5039
+    }
+  ]
+}

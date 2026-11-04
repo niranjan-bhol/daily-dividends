@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "HFCL Limited",
+      "symbol": "HFCL",
+      "isin": "INE548A01028",
+      "series": "EQ",
+      "date": "2026-09-22",
+      "close": 221.06,
+      "dividend_type": "final",
+      "dividend_amount": 0.2,
+      "dividend_percent": 0.0905
+    }
+  ]
+}

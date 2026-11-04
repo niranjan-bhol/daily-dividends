@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Kirloskar Brothers Limited",
+      "symbol": "KIRLOSBROS",
+      "isin": "INE732A01036",
+      "series": "EQ",
+      "date": "2026-07-24",
+      "close": 1836.1,
+      "dividend_type": "final",
+      "dividend_amount": 7.0,
+      "dividend_percent": 0.3812
+    }
+  ]
+}

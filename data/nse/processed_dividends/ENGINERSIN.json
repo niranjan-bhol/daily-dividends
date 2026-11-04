@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "company": "Engineers India Limited",
+      "symbol": "ENGINERSIN",
+      "isin": "INE510A01010",
+      "series": "EQ",
+      "date": "2025-12-04",
+      "close": 201.62,
+      "dividend_type": "interim",
+      "dividend_amount": 1.0,
+      "dividend_percent": 0.496
+    },
+    {
+      "company": "Engineers India Limited",
+      "symbol": "ENGINERSIN",
+      "isin": "INE510A01010",
+      "series": "EQ",
+      "date": "2026-03-06",
+      "close": 204.87,
+      "dividend_type": "interim",
+      "dividend_amount": 1.5,
+      "dividend_percent": 0.7322
+    },
+    {
+      "company": "Engineers India Limited",
+      "symbol": "ENGINERSIN",
+      "isin": "INE510A01010",
+      "series": "EQ",
+      "date": "2026-09-24",
+      "close": 296.65,
+      "dividend_type": "final",
+      "dividend_amount": 2.5,
+      "dividend_percent": 0.8427
+    }
+  ]
+}

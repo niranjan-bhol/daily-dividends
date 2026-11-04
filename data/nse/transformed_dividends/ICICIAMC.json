@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "company": "ICICI Prudential Asset Management Company Limited",
+      "symbol": "ICICIAMC",
+      "isin": "INE346A01027",
+      "series": "EQ",
+      "date": "21-Jan-2026",
+      "close": 2843.3,
+      "subject": "Interim Dividend - Rs 14.85 Per Share"
+    },
+    {
+      "company": "ICICI Prudential Asset Management Company Limited",
+      "symbol": "ICICIAMC",
+      "isin": "INE346A01027",
+      "series": "EQ",
+      "date": "12-Jun-2026",
+      "close": 3238.8,
+      "subject": "Dividend - Rs 12.40 Per Share"
+    },
+    {
+      "company": "ICICI Prudential Asset Management Company Limited",
+      "symbol": "ICICIAMC",
+      "isin": "INE346A01027",
+      "series": "EQ",
+      "date": "21-Oct-2026",
+      "close": 2717.3,
+      "subject": "Interim Dividend - Rs 30 Per Share"
+    }
+  ]
+}

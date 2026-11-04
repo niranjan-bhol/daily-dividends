@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "IDFC First Bank Limited",
+      "symbol": "IDFCFIRSTB",
+      "isin": "INE092T01019",
+      "series": "EQ",
+      "date": "2026-08-07",
+      "close": 84.62,
+      "dividend_type": "final",
+      "dividend_amount": 0.25,
+      "dividend_percent": 0.2954
+    }
+  ]
+}

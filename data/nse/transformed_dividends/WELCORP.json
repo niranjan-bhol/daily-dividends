@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "company": "Welspun Corp Limited",
+      "symbol": "WELCORP",
+      "isin": "INE191B01025",
+      "series": "EQ",
+      "date": "30-Jun-2026",
+      "close": 1521.9,
+      "subject": "Dividend - Rs 5 Per Share"
+    }
+  ]
+}

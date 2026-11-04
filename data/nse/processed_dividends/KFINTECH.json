@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Kfin Technologies Limited",
+      "symbol": "KFINTECH",
+      "isin": "INE138Y01010",
+      "series": "EQ",
+      "date": "2026-07-15",
+      "close": 893.95,
+      "dividend_type": "final",
+      "dividend_amount": 12.0,
+      "dividend_percent": 1.3424
+    }
+  ]
+}

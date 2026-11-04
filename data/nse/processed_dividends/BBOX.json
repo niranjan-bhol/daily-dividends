@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Black Box Limited",
+      "symbol": "BBOX",
+      "isin": "INE676A01019",
+      "series": "EQ",
+      "date": "2026-08-28",
+      "close": 745.9,
+      "dividend_type": "final",
+      "dividend_amount": 1.0,
+      "dividend_percent": 0.1341
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "company": "Oil India Limited",
+      "symbol": "OIL",
+      "isin": "INE274J01014",
+      "series": "EQ",
+      "date": "21-Nov-2025",
+      "close": 425.05,
+      "subject": "Interim Dividend - Rs 3.50 Per Share"
+    },
+    {
+      "company": "Oil India Limited",
+      "symbol": "OIL",
+      "isin": "INE274J01014",
+      "series": "EQ",
+      "date": "18-Feb-2026",
+      "close": 453.45,
+      "subject": "Interim Dividend - Rs 7 Per Share"
+    },
+    {
+      "company": "Oil India Limited",
+      "symbol": "OIL",
+      "isin": "INE274J01014",
+      "series": "EQ",
+      "date": "04-Sep-2026",
+      "close": 488.3,
+      "subject": "Dividend - Re 1 Per Share"
+    }
+  ]
+}

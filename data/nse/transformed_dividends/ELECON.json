@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Elecon Engineering Company Limited",
+      "symbol": "ELECON",
+      "isin": "INE205B01023",
+      "series": "EQ",
+      "date": "12-Jun-2026",
+      "close": 536.85,
+      "subject": "Dividend - Rs 1.5 Per Share"
+    },
+    {
+      "company": "Elecon Engineering Company Limited",
+      "symbol": "ELECON",
+      "isin": "INE205B01023",
+      "series": "EQ",
+      "date": "21-Oct-2026",
+      "close": 433.25,
+      "subject": "Interim Dividend - Re 0.50 Per Share"
+    }
+  ]
+}

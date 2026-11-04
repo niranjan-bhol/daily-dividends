@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "The Indian Hotels Company Limited",
+      "symbol": "INDHOTEL",
+      "isin": "INE053A01029",
+      "series": "EQ",
+      "date": "2026-06-23",
+      "close": 724.05,
+      "dividend_type": "final",
+      "dividend_amount": 3.25,
+      "dividend_percent": 0.4489
+    }
+  ]
+}

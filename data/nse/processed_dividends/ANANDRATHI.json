@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Anand Rathi Wealth Limited",
+      "symbol": "ANANDRATHI",
+      "isin": "INE463V01026",
+      "series": "EQ",
+      "date": "2026-05-15",
+      "close": 3583.1,
+      "dividend_type": "final",
+      "dividend_amount": 7.0,
+      "dividend_percent": 0.1954
+    },
+    {
+      "company": "Anand Rathi Wealth Limited",
+      "symbol": "ANANDRATHI",
+      "isin": "INE463V01026",
+      "series": "EQ",
+      "date": "2026-10-15",
+      "close": 2142.6,
+      "dividend_type": "interim",
+      "dividend_amount": 4.0,
+      "dividend_percent": 0.1867
+    }
+  ]
+}

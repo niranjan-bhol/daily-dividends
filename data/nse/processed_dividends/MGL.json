@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Mahanagar Gas Limited",
+      "symbol": "MGL",
+      "isin": "INE002S01010",
+      "series": "EQ",
+      "date": "2026-02-13",
+      "close": 1107.1,
+      "dividend_type": "interim",
+      "dividend_amount": 12.0,
+      "dividend_percent": 1.0839
+    },
+    {
+      "company": "Mahanagar Gas Limited",
+      "symbol": "MGL",
+      "isin": "INE002S01010",
+      "series": "EQ",
+      "date": "2026-08-18",
+      "close": 1111.4,
+      "dividend_type": "final",
+      "dividend_amount": 18.0,
+      "dividend_percent": 1.6196
+    }
+  ]
+}

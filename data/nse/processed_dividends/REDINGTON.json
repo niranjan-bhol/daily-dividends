@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Redington Limited",
+      "symbol": "REDINGTON",
+      "isin": "INE891D01018",
+      "series": "EQ",
+      "date": "2026-07-03",
+      "close": 275,
+      "dividend_type": "final",
+      "dividend_amount": 6.0,
+      "dividend_percent": 2.1818
+    }
+  ]
+}

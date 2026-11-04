@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Data Patterns (India) Limited",
+      "symbol": "DATAPATTNS",
+      "isin": "INE0IX101010",
+      "series": "EQ",
+      "date": "2026-07-24",
+      "close": 4584.5,
+      "dividend_type": "final",
+      "dividend_amount": 10.0,
+      "dividend_percent": 0.2181
+    }
+  ]
+}

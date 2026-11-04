@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Max Healthcare Institute Limited",
+      "symbol": "MAXHEALTH",
+      "isin": "INE027H01010",
+      "series": "EQ",
+      "date": "2026-07-03",
+      "close": 1153.4,
+      "dividend_type": "final",
+      "dividend_amount": 2.0,
+      "dividend_percent": 0.1734
+    }
+  ]
+}

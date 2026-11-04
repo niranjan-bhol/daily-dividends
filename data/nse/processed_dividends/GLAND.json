@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Gland Pharma Limited",
+      "symbol": "GLAND",
+      "isin": "INE068V01023",
+      "series": "EQ",
+      "date": "2026-08-11",
+      "close": 2924.4,
+      "dividend_type": "final",
+      "dividend_amount": 20.0,
+      "dividend_percent": 0.6839
+    }
+  ]
+}

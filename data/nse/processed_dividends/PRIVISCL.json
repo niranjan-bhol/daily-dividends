@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Privi Speciality Chemicals Limited",
+      "symbol": "PRIVISCL",
+      "isin": "INE959A01019",
+      "series": "EQ",
+      "date": "2026-07-31",
+      "close": 3617.1,
+      "dividend_type": "final",
+      "dividend_amount": 10.0,
+      "dividend_percent": 0.2765
+    }
+  ]
+}

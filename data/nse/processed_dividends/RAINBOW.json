@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Rainbow Childrens Medicare Limited",
+      "symbol": "RAINBOW",
+      "isin": "INE961O01016",
+      "series": "EQ",
+      "date": "2026-07-21",
+      "close": 1483.7,
+      "dividend_type": "final",
+      "dividend_amount": 3.5,
+      "dividend_percent": 0.2359
+    }
+  ]
+}

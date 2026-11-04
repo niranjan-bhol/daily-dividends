@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Lodha Developers Limited",
+      "symbol": "LODHA",
+      "isin": "INE670K01029",
+      "series": "EQ",
+      "date": "2026-08-07",
+      "close": 1218.7,
+      "dividend_type": "final",
+      "dividend_amount": 4.25,
+      "dividend_percent": 0.3487
+    }
+  ]
+}

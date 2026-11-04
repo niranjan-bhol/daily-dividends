@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "company": "Crisil Limited",
+      "symbol": "CRISIL",
+      "isin": "INE007A01017",
+      "series": "EQ",
+      "date": "02-Apr-2026",
+      "close": 3705.9,
+      "subject": "Dividend - Rs 28 Per Share"
+    },
+    {
+      "company": "Crisil Limited",
+      "symbol": "CRISIL",
+      "isin": "INE007A01017",
+      "series": "EQ",
+      "date": "23-Apr-2026",
+      "close": 4353.9,
+      "subject": "Interim Dividend - Rs 9 Per Share"
+    },
+    {
+      "company": "Crisil Limited",
+      "symbol": "CRISIL",
+      "isin": "INE007A01017",
+      "series": "EQ",
+      "date": "27-Jul-2026",
+      "close": 4486.3,
+      "subject": "Interim Dividend - Rs 10  Per Share"
+    },
+    {
+      "company": "Crisil Limited",
+      "symbol": "CRISIL",
+      "isin": "INE007A01017",
+      "series": "EQ",
+      "date": "29-Oct-2026",
+      "close": 4598.4,
+      "subject": "Interim Dividend - Rs 17 Per Share"
+    }
+  ]
+}

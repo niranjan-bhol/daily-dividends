@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "The Ramco Cements Limited",
+      "symbol": "RAMCOCEM",
+      "isin": "INE331A01037",
+      "series": "EQ",
+      "date": "2026-08-13",
+      "close": 908.8,
+      "dividend_type": "final",
+      "dividend_amount": 2.5,
+      "dividend_percent": 0.2751
+    }
+  ]
+}

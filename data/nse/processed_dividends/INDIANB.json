@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Indian Bank",
+      "symbol": "INDIANB",
+      "isin": "INE562A01011",
+      "series": "EQ",
+      "date": "2026-06-10",
+      "close": 833.45,
+      "dividend_type": "final",
+      "dividend_amount": 18.25,
+      "dividend_percent": 2.1897
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "company": "ICICI Prudential Asset Management Company Limited",
+      "symbol": "ICICIAMC",
+      "isin": "INE346A01027",
+      "series": "EQ",
+      "date": "2026-01-21",
+      "close": 2843.3,
+      "dividend_type": "interim",
+      "dividend_amount": 14.85,
+      "dividend_percent": 0.5223
+    },
+    {
+      "company": "ICICI Prudential Asset Management Company Limited",
+      "symbol": "ICICIAMC",
+      "isin": "INE346A01027",
+      "series": "EQ",
+      "date": "2026-06-12",
+      "close": 3238.8,
+      "dividend_type": "final",
+      "dividend_amount": 12.4,
+      "dividend_percent": 0.3829
+    },
+    {
+      "company": "ICICI Prudential Asset Management Company Limited",
+      "symbol": "ICICIAMC",
+      "isin": "INE346A01027",
+      "series": "EQ",
+      "date": "2026-10-21",
+      "close": 2717.3,
+      "dividend_type": "interim",
+      "dividend_amount": 30.0,
+      "dividend_percent": 1.104
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Intellect Design Arena Limited",
+      "symbol": "INTELLECT",
+      "isin": "INE306R01017",
+      "series": "EQ",
+      "date": "2026-07-24",
+      "close": 732.2,
+      "dividend_type": "special",
+      "dividend_amount": 4.0,
+      "dividend_percent": 0.5463
+    }
+  ]
+}

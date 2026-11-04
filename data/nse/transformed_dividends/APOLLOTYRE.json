@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Apollo Tyres Limited",
+      "symbol": "APOLLOTYRE",
+      "isin": "INE438A01022",
+      "series": "EQ",
+      "date": "10-Feb-2026",
+      "close": 507.2,
+      "subject": "Interim Dividend - Rs 3.50 Per Share"
+    },
+    {
+      "company": "Apollo Tyres Limited",
+      "symbol": "APOLLOTYRE",
+      "isin": "INE438A01022",
+      "series": "EQ",
+      "date": "10-Jul-2026",
+      "close": 440.1,
+      "subject": "Dividend - Rs2.50 Per Share"
+    }
+  ]
+}

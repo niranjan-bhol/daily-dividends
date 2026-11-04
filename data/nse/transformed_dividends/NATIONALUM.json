@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "company": "National Aluminium Company Limited",
+      "symbol": "NATIONALUM",
+      "isin": "INE139A01026",
+      "series": "EQ",
+      "date": "14-Nov-2025",
+      "close": 262.57,
+      "subject": "Interim Dividend - Rs 4 Per Share"
+    },
+    {
+      "company": "National Aluminium Company Limited",
+      "symbol": "NATIONALUM",
+      "isin": "INE139A01026",
+      "series": "EQ",
+      "date": "06-Feb-2026",
+      "close": 354.65,
+      "subject": "Interim Dividend - Rs 4.50 Per Share"
+    },
+    {
+      "company": "National Aluminium Company Limited",
+      "symbol": "NATIONALUM",
+      "isin": "INE139A01026",
+      "series": "EQ",
+      "date": "08-May-2026",
+      "close": 401.95,
+      "subject": "Interim Dividend - Rs 2 Per Share"
+    },
+    {
+      "company": "National Aluminium Company Limited",
+      "symbol": "NATIONALUM",
+      "isin": "INE139A01026",
+      "series": "EQ",
+      "date": "24-Aug-2026",
+      "close": 403.3,
+      "subject": "Dividend - Re 1 Per Share"
+    }
+  ]
+}

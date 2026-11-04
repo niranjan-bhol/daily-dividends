@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "JBM Auto Limited",
+      "symbol": "JBMA",
+      "isin": "INE927D01010",
+      "series": "EQ",
+      "date": "2026-09-09",
+      "close": 614.25,
+      "dividend_type": "final",
+      "dividend_amount": 0.85,
+      "dividend_percent": 0.1384
+    }
+  ]
+}

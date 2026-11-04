@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "SJVN Limited",
+      "symbol": "SJVN",
+      "isin": "INE002L01015",
+      "series": "EQ",
+      "date": "2026-02-20",
+      "close": 75.3,
+      "dividend_type": "interim",
+      "dividend_amount": 1.15,
+      "dividend_percent": 1.5272
+    },
+    {
+      "company": "SJVN Limited",
+      "symbol": "SJVN",
+      "isin": "INE002L01015",
+      "series": "EQ",
+      "date": "2026-08-24",
+      "close": 65.8,
+      "dividend_type": "final",
+      "dividend_amount": 0.35,
+      "dividend_percent": 0.5319
+    }
+  ]
+}

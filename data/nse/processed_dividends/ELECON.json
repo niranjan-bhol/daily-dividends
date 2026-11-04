@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Elecon Engineering Company Limited",
+      "symbol": "ELECON",
+      "isin": "INE205B01023",
+      "series": "EQ",
+      "date": "2026-06-12",
+      "close": 536.85,
+      "dividend_type": "final",
+      "dividend_amount": 1.5,
+      "dividend_percent": 0.2794
+    },
+    {
+      "company": "Elecon Engineering Company Limited",
+      "symbol": "ELECON",
+      "isin": "INE205B01023",
+      "series": "EQ",
+      "date": "2026-10-21",
+      "close": 433.25,
+      "dividend_type": "interim",
+      "dividend_amount": 0.5,
+      "dividend_percent": 0.1154
+    }
+  ]
+}

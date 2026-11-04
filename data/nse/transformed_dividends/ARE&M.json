@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Amara Raja Energy & Mobility Limited",
+      "symbol": "ARE&M",
+      "isin": "INE885A01032",
+      "series": "EQ",
+      "date": "13-Nov-2025",
+      "close": 966.9,
+      "subject": "Interim Dividend - Rs 5.40 Per Share"
+    },
+    {
+      "company": "Amara Raja Energy & Mobility Limited",
+      "symbol": "ARE&M",
+      "isin": "INE885A01032",
+      "series": "EQ",
+      "date": "27-Jul-2026",
+      "close": 874,
+      "subject": "Dividend - Rs 5.20 Per Share"
+    }
+  ]
+}

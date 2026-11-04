@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Bharat Petroleum Corporation Limited",
+      "symbol": "BPCL",
+      "isin": "INE029A01011",
+      "series": "EQ",
+      "date": "07-Nov-2025",
+      "close": 367.15,
+      "subject": "Interim Dividend - Rs 7.50 Per Share"
+    },
+    {
+      "company": "Bharat Petroleum Corporation Limited",
+      "symbol": "BPCL",
+      "isin": "INE029A01011",
+      "series": "EQ",
+      "date": "02-Feb-2026",
+      "close": 366.7,
+      "subject": "Interim Dividend - Rs 10 Per Share"
+    }
+  ]
+}

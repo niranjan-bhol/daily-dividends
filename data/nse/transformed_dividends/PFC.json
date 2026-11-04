@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "company": "Power Finance Corporation Limited",
+      "symbol": "PFC",
+      "isin": "INE134E01011",
+      "series": "EQ",
+      "date": "26-Nov-2025",
+      "close": 362.4,
+      "subject": "Interim Dividend - Rs 3.65 Per Share"
+    },
+    {
+      "company": "Power Finance Corporation Limited",
+      "symbol": "PFC",
+      "isin": "INE134E01011",
+      "series": "EQ",
+      "date": "20-Feb-2026",
+      "close": 410.1,
+      "subject": "Interim Dividend - Rs 4 Per Share"
+    },
+    {
+      "company": "Power Finance Corporation Limited",
+      "symbol": "PFC",
+      "isin": "INE134E01011",
+      "series": "EQ",
+      "date": "23-Mar-2026",
+      "close": 398,
+      "subject": "Interim Dividend - Rs 3.25 Per Share"
+    },
+    {
+      "company": "Power Finance Corporation Limited",
+      "symbol": "PFC",
+      "isin": "INE134E01011",
+      "series": "EQ",
+      "date": "31-Jul-2026",
+      "close": 424.35,
+      "subject": "Dividend - Rs 3.95 Per Share"
+    },
+    {
+      "company": "Power Finance Corporation Limited",
+      "symbol": "PFC",
+      "isin": "INE134E01011",
+      "series": "EQ",
+      "date": "27-Aug-2026",
+      "close": 355.85,
+      "subject": "Interim Dividend - Rs 3.90 Per Share"
+    }
+  ]
+}

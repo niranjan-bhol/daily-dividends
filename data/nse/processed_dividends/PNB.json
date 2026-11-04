@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Punjab National Bank",
+      "symbol": "PNB",
+      "isin": "INE160A01014",
+      "series": "EQ",
+      "date": "2026-06-12",
+      "close": 106.88,
+      "dividend_type": "final",
+      "dividend_amount": 3.0,
+      "dividend_percent": 2.8069
+    }
+  ]
+}

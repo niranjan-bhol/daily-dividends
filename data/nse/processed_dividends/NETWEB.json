@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Netweb Technologies India Limited",
+      "symbol": "NETWEB",
+      "isin": "INE0NT901020",
+      "series": "EQ",
+      "date": "2026-08-07",
+      "close": 4939.2,
+      "dividend_type": "final",
+      "dividend_amount": 3.0,
+      "dividend_percent": 0.0607
+    }
+  ]
+}

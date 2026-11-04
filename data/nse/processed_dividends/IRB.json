@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "company": "IRB Infrastructure Developers Limited",
+      "symbol": "IRB",
+      "isin": "INE821I01014",
+      "series": "EQ",
+      "date": "2025-11-18",
+      "close": 44.11,
+      "dividend_type": "interim",
+      "dividend_amount": 0.07,
+      "dividend_percent": 0.1587
+    },
+    {
+      "company": "IRB Infrastructure Developers Limited",
+      "symbol": "IRB",
+      "isin": "INE821I01014",
+      "series": "EQ",
+      "date": "2026-02-18",
+      "close": 42.14,
+      "dividend_type": "interim",
+      "dividend_amount": 0.07,
+      "dividend_percent": 0.1661
+    },
+    {
+      "company": "IRB Infrastructure Developers Limited",
+      "symbol": "IRB",
+      "isin": "INE821I01014",
+      "series": "EQ",
+      "date": "2026-05-26",
+      "close": 21.66,
+      "dividend_type": "interim",
+      "dividend_amount": 0.05,
+      "dividend_percent": 0.2308
+    },
+    {
+      "company": "IRB Infrastructure Developers Limited",
+      "symbol": "IRB",
+      "isin": "INE821I01014",
+      "series": "EQ",
+      "date": "2026-08-05",
+      "close": 20.09,
+      "dividend_type": "interim",
+      "dividend_amount": 0.05,
+      "dividend_percent": 0.2489
+    }
+  ]
+}

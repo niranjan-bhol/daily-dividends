@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "company": "BSE Limited",
+      "symbol": "BSE",
+      "isin": "INE118H01025",
+      "series": "EQ",
+      "date": "10-Jul-2026",
+      "close": 3811.6,
+      "subject": "Dividend - Rs 10 Per Share"
+    }
+  ]
+}

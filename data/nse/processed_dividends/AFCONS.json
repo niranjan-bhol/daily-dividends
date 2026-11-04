@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Afcons Infrastructure Limited",
+      "symbol": "AFCONS",
+      "isin": "INE101I01011",
+      "series": "EQ",
+      "date": "2026-07-23",
+      "close": 283.8,
+      "dividend_type": "final",
+      "dividend_amount": 2.0,
+      "dividend_percent": 0.7047
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Tube Investments of India Limited",
+      "symbol": "TIINDIA",
+      "isin": "INE974X01010",
+      "series": "EQ",
+      "date": "2026-02-10",
+      "close": 2438.6,
+      "dividend_type": "interim",
+      "dividend_amount": 2.0,
+      "dividend_percent": 0.082
+    },
+    {
+      "company": "Tube Investments of India Limited",
+      "symbol": "TIINDIA",
+      "isin": "INE974X01010",
+      "series": "EQ",
+      "date": "2026-08-07",
+      "close": 2772,
+      "dividend_type": "final",
+      "dividend_amount": 1.5,
+      "dividend_percent": 0.0541
+    }
+  ]
+}

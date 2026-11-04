@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "NLC India Limited",
+      "symbol": "NLCINDIA",
+      "isin": "INE589A01014",
+      "series": "EQ",
+      "date": "2026-01-20",
+      "close": 253.5,
+      "dividend_type": "interim",
+      "dividend_amount": 3.6,
+      "dividend_percent": 1.4201
+    },
+    {
+      "company": "NLC India Limited",
+      "symbol": "NLCINDIA",
+      "isin": "INE589A01014",
+      "series": "EQ",
+      "date": "2026-09-22",
+      "close": 267,
+      "dividend_type": "final",
+      "dividend_amount": 0.25,
+      "dividend_percent": 0.0936
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "company": "Container Corporation of India Limited",
+      "symbol": "CONCOR",
+      "isin": "INE111A01017",
+      "series": "EQ",
+      "date": "20-Nov-2025",
+      "close": 515.4,
+      "subject": "Interim Dividend - Rs  2.60 Per Share"
+    },
+    {
+      "company": "Container Corporation of India Limited",
+      "symbol": "CONCOR",
+      "isin": "INE111A01017",
+      "series": "EQ",
+      "date": "09-Feb-2026",
+      "close": 513.6,
+      "subject": "Interim Dividend - Rs 3.40 Per Share"
+    },
+    {
+      "company": "Container Corporation of India Limited",
+      "symbol": "CONCOR",
+      "isin": "INE111A01017",
+      "series": "EQ",
+      "date": "04-Aug-2026",
+      "close": 515,
+      "subject": "Interim Dividend - Rs 1.60 Per Share"
+    },
+    {
+      "company": "Container Corporation of India Limited",
+      "symbol": "CONCOR",
+      "isin": "INE111A01017",
+      "series": "EQ",
+      "date": "21-Sep-2026",
+      "close": 487.05,
+      "subject": "Dividend - Re 1 Per Sh"
+    }
+  ]
+}

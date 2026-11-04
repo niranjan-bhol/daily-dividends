@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "company": "Housing & Urban Development Corporation Limited",
+      "symbol": "HUDCO",
+      "isin": "INE031A07873",
+      "series": "EQ",
+      "date": "19-Nov-2025",
+      "close": 237.28,
+      "subject": "Interim Dividend - Re 1 Per Share"
+    },
+    {
+      "company": "Housing & Urban Development Corporation Limited",
+      "symbol": "HUDCO",
+      "isin": "INE031A07873",
+      "series": "EQ",
+      "date": "06-Feb-2026",
+      "close": 192.17,
+      "subject": "Interim Dividend - Rs 1.15 Per Share"
+    },
+    {
+      "company": "Housing & Urban Development Corporation Limited",
+      "symbol": "HUDCO",
+      "isin": "INE031A07873",
+      "series": "EQ",
+      "date": "27-Mar-2026",
+      "close": 168.06,
+      "subject": "Interim Dividend - Rs 1.25 Per Share"
+    },
+    {
+      "company": "Housing & Urban Development Corporation Limited",
+      "symbol": "HUDCO",
+      "isin": "INE031A07873",
+      "series": "EQ",
+      "date": "31-Jul-2026",
+      "close": 195.1,
+      "subject": "Interim Dividend - Rs 1.25 Per Share"
+    },
+    {
+      "company": "Housing & Urban Development Corporation Limited",
+      "symbol": "HUDCO",
+      "isin": "INE031A07873",
+      "series": "EQ",
+      "date": "17-Aug-2026",
+      "close": 189.01,
+      "subject": "Dividend - Rs 1.50 Per Share"
+    }
+  ]
+}

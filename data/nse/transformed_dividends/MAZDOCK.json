@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "company": "Mazagon Dock Shipbuilders Limited",
+      "symbol": "MAZDOCK",
+      "isin": "INE249Z01012",
+      "series": "EQ",
+      "date": "04-Nov-2025",
+      "close": 2683,
+      "subject": "Interim Dividend - Rs 6 Per Share"
+    },
+    {
+      "company": "Mazagon Dock Shipbuilders Limited",
+      "symbol": "MAZDOCK",
+      "isin": "INE249Z01012",
+      "series": "EQ",
+      "date": "13-Feb-2026",
+      "close": 2350.2,
+      "subject": "Interim Dividend - Rs 7.50 Per Share"
+    },
+    {
+      "company": "Mazagon Dock Shipbuilders Limited",
+      "symbol": "MAZDOCK",
+      "isin": "INE249Z01012",
+      "series": "EQ",
+      "date": "20-Aug-2026",
+      "close": 2570,
+      "subject": "Dividend - Rs 4.62 Per Share"
+    },
+    {
+      "company": "Mazagon Dock Shipbuilders Limited",
+      "symbol": "MAZDOCK",
+      "isin": "INE249Z01012",
+      "series": "EQ",
+      "date": "03-Nov-2026",
+      "close": 1785.1,
+      "subject": "Interim Dividend - Rs 5 Per Share"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "NLC India Limited",
+      "symbol": "NLCINDIA",
+      "isin": "INE589A01014",
+      "series": "EQ",
+      "date": "20-Jan-2026",
+      "close": 253.5,
+      "subject": "Interim Dividend - Rs 3.60 Per Share"
+    },
+    {
+      "company": "NLC India Limited",
+      "symbol": "NLCINDIA",
+      "isin": "INE589A01014",
+      "series": "EQ",
+      "date": "22-Sep-2026",
+      "close": 267,
+      "subject": "Dividend - Re 0.25 Per Share"
+    }
+  ]
+}

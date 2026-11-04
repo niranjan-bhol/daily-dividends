@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Capri Global Capital Limited",
+      "symbol": "CGCL",
+      "isin": "INE180C01018",
+      "series": "EQ",
+      "date": "2026-09-04",
+      "close": 279.9,
+      "dividend_type": "final",
+      "dividend_amount": 0.2,
+      "dividend_percent": 0.0715
+    }
+  ]
+}

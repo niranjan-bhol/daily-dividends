@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "UTI Asset Management Company Limited",
+      "symbol": "UTIAMC",
+      "isin": "INE094J01016",
+      "series": "EQ",
+      "date": "2026-07-14",
+      "close": 985.8,
+      "dividend_type": "final",
+      "dividend_amount": 40.0,
+      "dividend_percent": 4.0576
+    }
+  ]
+}

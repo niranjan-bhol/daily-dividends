@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "International Gemological Institute Limited",
+      "symbol": "IGIL",
+      "isin": "INE0Q9301021",
+      "series": "EQ",
+      "date": "2026-02-17",
+      "close": 330.25,
+      "dividend_type": "interim",
+      "dividend_amount": 2.5,
+      "dividend_percent": 0.757
+    },
+    {
+      "company": "International Gemological Institute Limited",
+      "symbol": "IGIL",
+      "isin": "INE0Q9301021",
+      "series": "EQ",
+      "date": "2026-08-24",
+      "close": 340.65,
+      "dividend_type": "interim",
+      "dividend_amount": 2.55,
+      "dividend_percent": 0.7486
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "KPIT Technologies Limited",
+      "symbol": "KPITTECH",
+      "isin": "INE04I401011",
+      "series": "EQ",
+      "date": "04-Feb-2026",
+      "close": 981.4,
+      "subject": "Interim Dividend - Rs 2.25 Per Share"
+    },
+    {
+      "company": "KPIT Technologies Limited",
+      "symbol": "KPITTECH",
+      "isin": "INE04I401011",
+      "series": "EQ",
+      "date": "12-Aug-2026",
+      "close": 609.2,
+      "subject": "Dividend - Rs 5.25 Per Share"
+    }
+  ]
+}

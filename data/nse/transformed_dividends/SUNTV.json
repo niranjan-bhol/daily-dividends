@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "company": "Sun TV Network Limited",
+      "symbol": "SUNTV",
+      "isin": "INE424H01027",
+      "series": "EQ",
+      "date": "20-Nov-2025",
+      "close": 537.1,
+      "subject": "Interim Dividend - Rs 3.75 Per Share"
+    },
+    {
+      "company": "Sun TV Network Limited",
+      "symbol": "SUNTV",
+      "isin": "INE424H01027",
+      "series": "EQ",
+      "date": "12-Feb-2026",
+      "close": 601.9,
+      "subject": "Interim Dividend - Rs 2.50 Per Share"
+    },
+    {
+      "company": "Sun TV Network Limited",
+      "symbol": "SUNTV",
+      "isin": "INE424H01027",
+      "series": "EQ",
+      "date": "12-Mar-2026",
+      "close": 593.3,
+      "subject": "Interim Dividend - Rs 1.25 Per Share"
+    },
+    {
+      "company": "Sun TV Network Limited",
+      "symbol": "SUNTV",
+      "isin": "INE424H01027",
+      "series": "EQ",
+      "date": "18-Aug-2026",
+      "close": 482.8,
+      "subject": "Interim Dividend - Rs 5 Per Share"
+    }
+  ]
+}

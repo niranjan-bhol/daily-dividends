@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "company": "Patanjali Foods Limited",
+      "symbol": "PATANJALI",
+      "isin": "INE619A01035",
+      "series": "EQ",
+      "date": "13-Nov-2025",
+      "close": 590.45,
+      "subject": "Interim Dividend - Rs 1.75 Per Share"
+    },
+    {
+      "company": "Patanjali Foods Limited",
+      "symbol": "PATANJALI",
+      "isin": "INE619A01035",
+      "series": "EQ",
+      "date": "24-Apr-2026",
+      "close": 462.95,
+      "subject": "Interim Dividend - Rs 1.75 Per Share"
+    },
+    {
+      "company": "Patanjali Foods Limited",
+      "symbol": "PATANJALI",
+      "isin": "INE619A01035",
+      "series": "EQ",
+      "date": "21-Aug-2026",
+      "close": 348,
+      "subject": "Interim Dividend - Rs 1.50 Per Share"
+    },
+    {
+      "company": "Patanjali Foods Limited",
+      "symbol": "PATANJALI",
+      "isin": "INE619A01035",
+      "series": "EQ",
+      "date": "21-Aug-2026",
+      "close": 348,
+      "subject": "Interim Dividend - Re 0.80 Per Share"
+    }
+  ]
+}

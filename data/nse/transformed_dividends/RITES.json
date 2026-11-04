@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "company": "RITES Limited",
+      "symbol": "RITES",
+      "isin": "INE320J01015",
+      "series": "EQ",
+      "date": "14-Nov-2025",
+      "close": 246.32,
+      "subject": "Interim Dividend - Rs 2 Per Share"
+    },
+    {
+      "company": "RITES Limited",
+      "symbol": "RITES",
+      "isin": "INE320J01015",
+      "series": "EQ",
+      "date": "10-Feb-2026",
+      "close": 228.34,
+      "subject": "Interim Dividend - Rs 1.90 Per Share"
+    },
+    {
+      "company": "RITES Limited",
+      "symbol": "RITES",
+      "isin": "INE320J01015",
+      "series": "EQ",
+      "date": "10-Aug-2026",
+      "close": 232.84,
+      "subject": "Interim Dividend - Rs 1.40 Per Share"
+    },
+    {
+      "company": "RITES Limited",
+      "symbol": "RITES",
+      "isin": "INE320J01015",
+      "series": "EQ",
+      "date": "18-Sep-2026",
+      "close": 207.23,
+      "subject": "Dividend - Rs 2.75 Per Share"
+    }
+  ]
+}

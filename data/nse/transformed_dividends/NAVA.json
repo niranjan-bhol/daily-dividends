@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "NAVA LIMITED",
+      "symbol": "NAVA",
+      "isin": "INE725A01022",
+      "series": "EQ",
+      "date": "14-Nov-2025",
+      "close": 549.25,
+      "subject": "Interim Dividend - Rs 3 Per Share"
+    },
+    {
+      "company": "NAVA LIMITED",
+      "symbol": "NAVA",
+      "isin": "INE725A01022",
+      "series": "EQ",
+      "date": "07-Aug-2026",
+      "close": 581.85,
+      "subject": "Dividend - Rs 5.50 Per Share"
+    }
+  ]
+}

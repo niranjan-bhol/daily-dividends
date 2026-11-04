@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Torrent Pharmaceuticals Limited",
+      "symbol": "TORNTPHARM",
+      "isin": "INE685A01028",
+      "series": "EQ",
+      "date": "18-Feb-2026",
+      "close": 4210.8,
+      "subject": "Interim Dividend - Rs 29 Per Share"
+    },
+    {
+      "company": "Torrent Pharmaceuticals Limited",
+      "symbol": "TORNTPHARM",
+      "isin": "INE685A01028",
+      "series": "EQ",
+      "date": "29-May-2026",
+      "close": 4410.8,
+      "subject": "Dividend - Rs 9 Per Share"
+    }
+  ]
+}

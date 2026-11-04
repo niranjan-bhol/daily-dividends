@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "JSW Infrastructure Limited",
+      "symbol": "JSWINFRA",
+      "isin": "INE880J01026",
+      "series": "EQ",
+      "date": "2026-06-18",
+      "close": 307.95,
+      "dividend_type": "final",
+      "dividend_amount": 0.9,
+      "dividend_percent": 0.2923
+    }
+  ]
+}

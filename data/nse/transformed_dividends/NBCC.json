@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "company": "NBCC (India) Limited",
+      "symbol": "NBCC",
+      "isin": "INE095N01015",
+      "series": "EQ",
+      "date": "19-Nov-2025",
+      "close": 113.04,
+      "subject": "Interim Dividend - Re 0.21 Per Share"
+    },
+    {
+      "company": "NBCC (India) Limited",
+      "symbol": "NBCC",
+      "isin": "INE095N01015",
+      "series": "EQ",
+      "date": "25-Feb-2026",
+      "close": 94.63,
+      "subject": "Interim Dividend - Re 0.12 Per Share"
+    },
+    {
+      "company": "NBCC (India) Limited",
+      "symbol": "NBCC",
+      "isin": "INE095N01015",
+      "series": "EQ",
+      "date": "17-Aug-2026",
+      "close": 89.75,
+      "subject": "Interim Dividend - Re 0.15 Per Share"
+    },
+    {
+      "company": "NBCC (India) Limited",
+      "symbol": "NBCC",
+      "isin": "INE095N01015",
+      "series": "EQ",
+      "date": "28-Aug-2026",
+      "close": 87.5,
+      "subject": "Dividend - Re 0.46 Per Share"
+    }
+  ]
+}

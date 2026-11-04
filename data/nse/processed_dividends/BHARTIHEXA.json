@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Bharti Hexacom Limited",
+      "symbol": "BHARTIHEXA",
+      "isin": "INE343G01021",
+      "series": "EQ",
+      "date": "2026-07-31",
+      "close": 1607.5,
+      "dividend_type": "final",
+      "dividend_amount": 18.0,
+      "dividend_percent": 1.1198
+    }
+  ]
+}

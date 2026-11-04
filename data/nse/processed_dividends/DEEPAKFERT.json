@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Deepak Fertilizers and Petrochemicals Corporation Limited",
+      "symbol": "DEEPAKFERT",
+      "isin": "INE501A01019",
+      "series": "EQ",
+      "date": "2026-08-25",
+      "close": 1460,
+      "dividend_type": "final",
+      "dividend_amount": 10.0,
+      "dividend_percent": 0.6849
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Larsen & Toubro Limited",
+      "symbol": "LT",
+      "isin": "INE018A01030",
+      "series": "EQ",
+      "date": "2026-05-22",
+      "close": 3926.6,
+      "dividend_type": "final",
+      "dividend_amount": 38.0,
+      "dividend_percent": 0.9678
+    }
+  ]
+}

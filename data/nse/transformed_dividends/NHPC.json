@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "NHPC Limited",
+      "symbol": "NHPC",
+      "isin": "INE848E01016",
+      "series": "EQ",
+      "date": "10-Feb-2026",
+      "close": 76.95,
+      "subject": "Interim Dividend - Rs 1.40 Per Share"
+    },
+    {
+      "company": "NHPC Limited",
+      "symbol": "NHPC",
+      "isin": "INE848E01016",
+      "series": "EQ",
+      "date": "12-Aug-2026",
+      "close": 76.85,
+      "subject": "Dividend - Re 0.21 Per Sh"
+    }
+  ]
+}

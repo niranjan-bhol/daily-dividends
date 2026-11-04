@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Ircon International Limited",
+      "symbol": "IRCON",
+      "isin": "INE962Y01013",
+      "series": "EQ",
+      "date": "2026-02-17",
+      "close": 152.15,
+      "dividend_type": "interim",
+      "dividend_amount": 1.2,
+      "dividend_percent": 0.7887
+    },
+    {
+      "company": "Ircon International Limited",
+      "symbol": "IRCON",
+      "isin": "INE962Y01013",
+      "series": "EQ",
+      "date": "2026-09-17",
+      "close": 107.86,
+      "dividend_type": "final",
+      "dividend_amount": 0.7,
+      "dividend_percent": 0.649
+    }
+  ]
+}

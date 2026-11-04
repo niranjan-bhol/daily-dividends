@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "KEI Industries Limited",
+      "symbol": "KEI",
+      "isin": "INE878B01027",
+      "series": "EQ",
+      "date": "2026-01-28",
+      "close": 3879.1,
+      "dividend_type": "interim",
+      "dividend_amount": 4.5,
+      "dividend_percent": 0.116
+    }
+  ]
+}

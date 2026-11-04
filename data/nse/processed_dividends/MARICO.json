@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Marico Limited",
+      "symbol": "MARICO",
+      "isin": "INE196A01026",
+      "series": "EQ",
+      "date": "2026-07-30",
+      "close": 885.35,
+      "dividend_type": "final",
+      "dividend_amount": 4.0,
+      "dividend_percent": 0.4518
+    }
+  ]
+}

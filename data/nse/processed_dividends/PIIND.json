@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "PI Industries Limited",
+      "symbol": "PIIND",
+      "isin": "INE603J01014",
+      "series": "EQ",
+      "date": "2026-02-23",
+      "close": 3119.5,
+      "dividend_type": "interim",
+      "dividend_amount": 5.0,
+      "dividend_percent": 0.1603
+    },
+    {
+      "company": "PI Industries Limited",
+      "symbol": "PIIND",
+      "isin": "INE603J01014",
+      "series": "EQ",
+      "date": "2026-08-07",
+      "close": 2774.6,
+      "dividend_type": "final",
+      "dividend_amount": 10.0,
+      "dividend_percent": 0.3604
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "company": "Nestle India Limited",
+      "symbol": "NESTLEIND",
+      "isin": "INE239A01016",
+      "series": "EQ",
+      "date": "2026-02-06",
+      "close": 1303.3,
+      "dividend_type": "interim",
+      "dividend_amount": 7.0,
+      "dividend_percent": 0.5371
+    },
+    {
+      "company": "Nestle India Limited",
+      "symbol": "NESTLEIND",
+      "isin": "INE239A01016",
+      "series": "EQ",
+      "date": "2026-07-10",
+      "close": 1455.2,
+      "dividend_type": "special",
+      "dividend_amount": 2.0,
+      "dividend_percent": 0.1374
+    },
+    {
+      "company": "Nestle India Limited",
+      "symbol": "NESTLEIND",
+      "isin": "INE239A01016",
+      "series": "EQ",
+      "date": "2026-07-10",
+      "close": 1455.2,
+      "dividend_type": "final",
+      "dividend_amount": 5.0,
+      "dividend_percent": 0.3436
+    }
+  ]
+}

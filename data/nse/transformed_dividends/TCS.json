@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "company": "Tata Consultancy Services Limited",
+      "symbol": "TCS",
+      "isin": "INE467B01029",
+      "series": "EQ",
+      "date": "16-Jan-2026",
+      "close": 3206.7,
+      "subject": "Interim Dividend Rs 11 Per Share/ Special Dividend Rs 46 Per Share"
+    },
+    {
+      "company": "Tata Consultancy Services Limited",
+      "symbol": "TCS",
+      "isin": "INE467B01029",
+      "series": "EQ",
+      "date": "25-May-2026",
+      "close": 2308.2,
+      "subject": "Dividend - Rs 31 Per Share"
+    },
+    {
+      "company": "Tata Consultancy Services Limited",
+      "symbol": "TCS",
+      "isin": "INE467B01029",
+      "series": "EQ",
+      "date": "15-Jul-2026",
+      "close": 2189.2,
+      "subject": "Interim Dividend - Rs 12 Per Share"
+    },
+    {
+      "company": "Tata Consultancy Services Limited",
+      "symbol": "TCS",
+      "isin": "INE467B01029",
+      "series": "EQ",
+      "date": "14-Oct-2026",
+      "close": 2304.9,
+      "subject": "Interim Dividend - Rs 12 Per Share"
+    }
+  ]
+}

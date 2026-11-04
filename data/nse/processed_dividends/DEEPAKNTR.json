@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Deepak Nitrite Limited",
+      "symbol": "DEEPAKNTR",
+      "isin": "INE288B01011",
+      "series": "EQ",
+      "date": "2026-07-27",
+      "close": 1678.9,
+      "dividend_type": "final",
+      "dividend_amount": 7.5,
+      "dividend_percent": 0.4467
+    }
+  ]
+}

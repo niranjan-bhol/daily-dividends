@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Tata Technologies Limited",
+      "symbol": "TATATECH",
+      "isin": "INE142M01025",
+      "series": "EQ",
+      "date": "2026-06-18",
+      "close": 753.7,
+      "dividend_type": "special",
+      "dividend_amount": 8.35,
+      "dividend_percent": 1.1079
+    }
+  ]
+}

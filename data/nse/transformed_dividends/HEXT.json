@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Hexaware Technologies Limited",
+      "symbol": "HEXT",
+      "isin": "INE093A01041",
+      "series": "EQ",
+      "date": "05-May-2026",
+      "close": 452.2,
+      "subject": "Interim Dividend - Rs 8.50 Per Share"
+    },
+    {
+      "company": "Hexaware Technologies Limited",
+      "symbol": "HEXT",
+      "isin": "INE093A01041",
+      "series": "EQ",
+      "date": "26-Oct-2026",
+      "close": 592.65,
+      "subject": "Interim Dividend - Rs 9.50 Per Share"
+    }
+  ]
+}

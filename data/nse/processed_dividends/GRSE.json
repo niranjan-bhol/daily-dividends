@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "company": "Garden Reach Shipbuilders & Engineers Limited",
+      "symbol": "GRSE",
+      "isin": "INE382Z01011",
+      "series": "EQ",
+      "date": "2025-11-11",
+      "close": 2785.9,
+      "dividend_type": "interim",
+      "dividend_amount": 5.75,
+      "dividend_percent": 0.2064
+    },
+    {
+      "company": "Garden Reach Shipbuilders & Engineers Limited",
+      "symbol": "GRSE",
+      "isin": "INE382Z01011",
+      "series": "EQ",
+      "date": "2026-02-03",
+      "close": 2546.1,
+      "dividend_type": "interim",
+      "dividend_amount": 7.15,
+      "dividend_percent": 0.2808
+    },
+    {
+      "company": "Garden Reach Shipbuilders & Engineers Limited",
+      "symbol": "GRSE",
+      "isin": "INE382Z01011",
+      "series": "EQ",
+      "date": "2026-09-18",
+      "close": 2411.8,
+      "dividend_type": "final",
+      "dividend_amount": 6.7,
+      "dividend_percent": 0.2778
+    }
+  ]
+}

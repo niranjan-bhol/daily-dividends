@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Mahanagar Gas Limited",
+      "symbol": "MGL",
+      "isin": "INE002S01010",
+      "series": "EQ",
+      "date": "13-Feb-2026",
+      "close": 1107.1,
+      "subject": "Interim Dividend - Rs 12 Per Share"
+    },
+    {
+      "company": "Mahanagar Gas Limited",
+      "symbol": "MGL",
+      "isin": "INE002S01010",
+      "series": "EQ",
+      "date": "18-Aug-2026",
+      "close": 1111.4,
+      "subject": "Dividend - Rs 18 Per Share"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Ramkrishna Forgings Limited",
+      "symbol": "RKFORGE",
+      "isin": "INE399G01015",
+      "series": "EQ",
+      "date": "2026-05-08",
+      "close": 610.25,
+      "dividend_type": "interim",
+      "dividend_amount": 1.0,
+      "dividend_percent": 0.1639
+    }
+  ]
+}

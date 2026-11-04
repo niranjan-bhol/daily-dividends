@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "company": "Brookfield India Real Estate Trust",
+      "symbol": "BIRET",
+      "isin": "INE0FDU25010",
+      "series": "RR",
+      "date": "07-Nov-2025",
+      "close": 338.72,
+      "subject": "Distribution - Rs 5.25 Per Unit Consisting Of Interest - Rs 1.85 Per Unit/ Repayment Of Shareholder Loan - Rs 2.53 Per Unit/ Dividend - Re 0.83 Per Unit/ Interest On Fixed Deposit - Re 0.04 Per Unit"
+    },
+    {
+      "company": "Brookfield India Real Estate Trust",
+      "symbol": "BIRET",
+      "isin": "INE0FDU25010",
+      "series": "RR",
+      "date": "03-Feb-2026",
+      "close": 349.43,
+      "subject": "Distribution - Rs 5.40 Per Unit Consisting Of Interest - Rs 1.59 Per Unit/ Repayment Of Spv Debt - Rs 2.60 Per Unit/ Dividend - Re 0.94 Per Unit/ Interest On Fixed Deposit - Re 0.27 Per Unit"
+    },
+    {
+      "company": "Brookfield India Real Estate Trust",
+      "symbol": "BIRET",
+      "isin": "INE0FDU25010",
+      "series": "RR",
+      "date": "14-May-2026",
+      "close": 321.98,
+      "subject": "Distribution - Rs 5.50 Per Unit Consisting Of Interest - Rs 1.60 Per Unit/ Repayment Of Spv Debt - Rs 2.96 Per Unit/ Dividend - Re 0.88 Per Unit/ Interest On Fixed Deposit - Re 0.06 Per Unit"
+    },
+    {
+      "company": "Brookfield India Real Estate Trust",
+      "symbol": "BIRET",
+      "isin": "INE0FDU25010",
+      "series": "RR",
+      "date": "13-Aug-2026",
+      "close": 346.23,
+      "subject": "Distribution - Rs 5.60 Per Unit Consisting Of Interest - Rs 1.65 Per Unit/ Repayment Of Spv Debt - Rs 2.67 Per Unit/ Dividend - Re 0.93 Per Unit/ Interest On Fixed Deposit - Re 0.35 Per Unit"
+    }
+  ]
+}

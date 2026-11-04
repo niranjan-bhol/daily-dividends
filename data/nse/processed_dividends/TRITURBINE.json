@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Triveni Turbine Limited",
+      "symbol": "TRITURBINE",
+      "isin": "INE152M01016",
+      "series": "EQ",
+      "date": "2026-02-09",
+      "close": 502.55,
+      "dividend_type": "interim",
+      "dividend_amount": 2.25,
+      "dividend_percent": 0.4477
+    },
+    {
+      "company": "Triveni Turbine Limited",
+      "symbol": "TRITURBINE",
+      "isin": "INE152M01016",
+      "series": "EQ",
+      "date": "2026-09-02",
+      "close": 565.2,
+      "dividend_type": "final",
+      "dividend_amount": 2.0,
+      "dividend_percent": 0.3539
+    }
+  ]
+}

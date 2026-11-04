@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "company": "National Aluminium Company Limited",
+      "symbol": "NATIONALUM",
+      "isin": "INE139A01026",
+      "series": "EQ",
+      "date": "2025-11-14",
+      "close": 262.57,
+      "dividend_type": "interim",
+      "dividend_amount": 4.0,
+      "dividend_percent": 1.5234
+    },
+    {
+      "company": "National Aluminium Company Limited",
+      "symbol": "NATIONALUM",
+      "isin": "INE139A01026",
+      "series": "EQ",
+      "date": "2026-02-06",
+      "close": 354.65,
+      "dividend_type": "interim",
+      "dividend_amount": 4.5,
+      "dividend_percent": 1.2689
+    },
+    {
+      "company": "National Aluminium Company Limited",
+      "symbol": "NATIONALUM",
+      "isin": "INE139A01026",
+      "series": "EQ",
+      "date": "2026-05-08",
+      "close": 401.95,
+      "dividend_type": "interim",
+      "dividend_amount": 2.0,
+      "dividend_percent": 0.4976
+    },
+    {
+      "company": "National Aluminium Company Limited",
+      "symbol": "NATIONALUM",
+      "isin": "INE139A01026",
+      "series": "EQ",
+      "date": "2026-08-24",
+      "close": 403.3,
+      "dividend_type": "final",
+      "dividend_amount": 1.0,
+      "dividend_percent": 0.248
+    }
+  ]
+}

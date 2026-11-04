@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Chambal Fertilizers & Chemicals Limited",
+      "symbol": "CHAMBLFERT",
+      "isin": "INE085A01013",
+      "series": "EQ",
+      "date": "11-Nov-2025",
+      "close": 464,
+      "subject": "Interim Dividend - Rs 5 Per Share"
+    },
+    {
+      "company": "Chambal Fertilizers & Chemicals Limited",
+      "symbol": "CHAMBLFERT",
+      "isin": "INE085A01013",
+      "series": "EQ",
+      "date": "11-Aug-2026",
+      "close": 444.35,
+      "subject": "Dividend - Rs 6 Per Share"
+    }
+  ]
+}

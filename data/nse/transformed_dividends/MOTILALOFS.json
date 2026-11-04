@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "company": "Motilal Oswal Financial Services Limited",
+      "symbol": "MOTILALOFS",
+      "isin": "INE338I01027",
+      "series": "EQ",
+      "date": "30-Jan-2026",
+      "close": 753.55,
+      "subject": "Interim Dividend - Rs 6 Per Share"
+    }
+  ]
+}

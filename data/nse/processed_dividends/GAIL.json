@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "GAIL (India) Limited",
+      "symbol": "GAIL",
+      "isin": "INE129A01019",
+      "series": "EQ",
+      "date": "2026-02-05",
+      "close": 160.18,
+      "dividend_type": "interim",
+      "dividend_amount": 5.0,
+      "dividend_percent": 3.1215
+    },
+    {
+      "company": "GAIL (India) Limited",
+      "symbol": "GAIL",
+      "isin": "INE129A01019",
+      "series": "EQ",
+      "date": "2026-09-02",
+      "close": 173,
+      "dividend_type": "final",
+      "dividend_amount": 0.5,
+      "dividend_percent": 0.289
+    }
+  ]
+}

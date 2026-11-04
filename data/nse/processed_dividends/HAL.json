@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Hindustan Aeronautics Limited",
+      "symbol": "HAL",
+      "isin": "INE066F01012",
+      "series": "EQ",
+      "date": "2026-02-18",
+      "close": 4251.1,
+      "dividend_type": "interim",
+      "dividend_amount": 35.0,
+      "dividend_percent": 0.8233
+    },
+    {
+      "company": "Hindustan Aeronautics Limited",
+      "symbol": "HAL",
+      "isin": "INE066F01012",
+      "series": "EQ",
+      "date": "2026-08-14",
+      "close": 5029.9,
+      "dividend_type": "final",
+      "dividend_amount": 10.0,
+      "dividend_percent": 0.1988
+    }
+  ]
+}

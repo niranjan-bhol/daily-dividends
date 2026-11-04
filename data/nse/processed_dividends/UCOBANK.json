@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "UCO Bank",
+      "symbol": "UCOBANK",
+      "isin": "INE691A01018",
+      "series": "EQ",
+      "date": "2026-05-04",
+      "close": 26.63,
+      "dividend_type": "final",
+      "dividend_amount": 0.44,
+      "dividend_percent": 1.6523
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Premier Energies Limited",
+      "symbol": "PREMIERENE",
+      "isin": "INE0BS701011",
+      "series": "EQ",
+      "date": "2026-05-08",
+      "close": 1011.6,
+      "dividend_type": "interim",
+      "dividend_amount": 0.75,
+      "dividend_percent": 0.0741
+    }
+  ]
+}

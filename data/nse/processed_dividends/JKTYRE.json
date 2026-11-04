@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "JK Tyre & Industries Limited",
+      "symbol": "JKTYRE",
+      "isin": "INE573A01034",
+      "series": "EQ",
+      "date": "2026-07-30",
+      "close": 397.25,
+      "dividend_type": "final",
+      "dividend_amount": 4.0,
+      "dividend_percent": 1.0069
+    }
+  ]
+}

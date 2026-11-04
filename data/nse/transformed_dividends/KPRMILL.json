@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "K.P.R. Mill Limited",
+      "symbol": "KPRMILL",
+      "isin": "INE930H01015",
+      "series": "EQ",
+      "date": "13-Feb-2026",
+      "close": 930.5,
+      "subject": "Interim Dividend - Rs 2.50 Per Share"
+    },
+    {
+      "company": "K.P.R. Mill Limited",
+      "symbol": "KPRMILL",
+      "isin": "INE930H01015",
+      "series": "EQ",
+      "date": "20-Jul-2026",
+      "close": 1113.3,
+      "subject": "Dividend - Rs 2.50 Per Share"
+    }
+  ]
+}

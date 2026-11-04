@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "company": "Central Mine Planning & Design Institute Limited",
+      "symbol": "CMPDI",
+      "isin": "INE05HV01027",
+      "series": "EQ",
+      "date": "24-Jul-2026",
+      "close": 248.43,
+      "subject": "Interim Dividend - Rs 1.05 Per Share"
+    },
+    {
+      "company": "Central Mine Planning & Design Institute Limited",
+      "symbol": "CMPDI",
+      "isin": "INE05HV01027",
+      "series": "EQ",
+      "date": "10-Aug-2026",
+      "close": 246.83,
+      "subject": "Dividend - Rs 1.06 Per Share"
+    },
+    {
+      "company": "Central Mine Planning & Design Institute Limited",
+      "symbol": "CMPDI",
+      "isin": "INE05HV01027",
+      "series": "EQ",
+      "date": "29-Oct-2026",
+      "close": 189.53,
+      "subject": "Interim Dividend - Rs  1.05 Per Share"
+    }
+  ]
+}

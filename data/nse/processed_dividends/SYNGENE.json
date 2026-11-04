@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Syngene International Limited",
+      "symbol": "SYNGENE",
+      "isin": "INE398R01022",
+      "series": "EQ",
+      "date": "2026-06-25",
+      "close": 436.5,
+      "dividend_type": "final",
+      "dividend_amount": 1.25,
+      "dividend_percent": 0.2864
+    }
+  ]
+}

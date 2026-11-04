@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "company": "Tata Capital Limited",
+      "symbol": "TATACAP",
+      "isin": "INE976I07138",
+      "series": "EQ",
+      "date": "27-Jul-2026",
+      "close": 350.55,
+      "subject": "Dividend - Re 0.57 Per Share"
+    }
+  ]
+}

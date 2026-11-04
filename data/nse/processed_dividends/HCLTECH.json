@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "company": "HCL Technologies Limited",
+      "symbol": "HCLTECH",
+      "isin": "INE860A01027",
+      "series": "EQ",
+      "date": "2026-01-16",
+      "close": 1698,
+      "dividend_type": "interim",
+      "dividend_amount": 12.0,
+      "dividend_percent": 0.7067
+    },
+    {
+      "company": "HCL Technologies Limited",
+      "symbol": "HCLTECH",
+      "isin": "INE860A01027",
+      "series": "EQ",
+      "date": "2026-04-24",
+      "close": 1203.2,
+      "dividend_type": "interim",
+      "dividend_amount": 24.0,
+      "dividend_percent": 1.9947
+    },
+    {
+      "company": "HCL Technologies Limited",
+      "symbol": "HCLTECH",
+      "isin": "INE860A01027",
+      "series": "EQ",
+      "date": "2026-07-17",
+      "close": 1203.9,
+      "dividend_type": "interim",
+      "dividend_amount": 12.0,
+      "dividend_percent": 0.9968
+    },
+    {
+      "company": "HCL Technologies Limited",
+      "symbol": "HCLTECH",
+      "isin": "INE860A01027",
+      "series": "EQ",
+      "date": "2026-10-16",
+      "close": 1380,
+      "dividend_type": "interim",
+      "dividend_amount": 12.0,
+      "dividend_percent": 0.8696
+    }
+  ]
+}

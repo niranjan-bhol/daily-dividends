@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "LT Foods Limited",
+      "symbol": "LTFOODS",
+      "isin": "INE818H01020",
+      "series": "EQ",
+      "date": "2026-02-02",
+      "close": 360.4,
+      "dividend_type": "interim",
+      "dividend_amount": 1.0,
+      "dividend_percent": 0.2775
+    },
+    {
+      "company": "LT Foods Limited",
+      "symbol": "LTFOODS",
+      "isin": "INE818H01020",
+      "series": "EQ",
+      "date": "2026-09-18",
+      "close": 423.2,
+      "dividend_type": "final",
+      "dividend_amount": 1.0,
+      "dividend_percent": 0.2363
+    }
+  ]
+}

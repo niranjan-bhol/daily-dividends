@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Thermax Limited",
+      "symbol": "THERMAX",
+      "isin": "INE152A01029",
+      "series": "EQ",
+      "date": "2026-07-03",
+      "close": 4607.5,
+      "dividend_type": "special",
+      "dividend_amount": 14.0,
+      "dividend_percent": 0.3039
+    }
+  ]
+}

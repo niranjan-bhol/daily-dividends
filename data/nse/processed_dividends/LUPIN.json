@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Lupin Limited",
+      "symbol": "LUPIN",
+      "isin": "INE326A01029",
+      "series": "EQ",
+      "date": "2026-07-17",
+      "close": 2443.2,
+      "dividend_type": "final",
+      "dividend_amount": 18.0,
+      "dividend_percent": 0.7367
+    }
+  ]
+}

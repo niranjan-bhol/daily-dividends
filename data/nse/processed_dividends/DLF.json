@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "DLF Limited",
+      "symbol": "DLF",
+      "isin": "INE271C01023",
+      "series": "EQ",
+      "date": "2026-07-27",
+      "close": 650.9,
+      "dividend_type": "final",
+      "dividend_amount": 8.0,
+      "dividend_percent": 1.2291
+    }
+  ]
+}

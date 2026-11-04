@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "company": "Supreme Industries Limited",
+      "symbol": "SUPREMEIND",
+      "isin": "INE195A01010",
+      "series": "EQ",
+      "date": "03-Nov-2025",
+      "close": 3929.5,
+      "subject": "Interim Dividend - Rs 11 Per Share"
+    },
+    {
+      "company": "Supreme Industries Limited",
+      "symbol": "SUPREMEIND",
+      "isin": "INE195A01010",
+      "series": "EQ",
+      "date": "25-Jun-2026",
+      "close": 3421.9,
+      "subject": "Dividend - Rs 25 Per Share"
+    },
+    {
+      "company": "Supreme Industries Limited",
+      "symbol": "SUPREMEIND",
+      "isin": "INE195A01010",
+      "series": "EQ",
+      "date": "30-Oct-2026",
+      "close": 3150,
+      "subject": "Interim Dividend - Rs 12 Per Share"
+    }
+  ]
+}

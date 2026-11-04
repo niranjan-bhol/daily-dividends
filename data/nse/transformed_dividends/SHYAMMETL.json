@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Shyam Metalics and Energy Limited",
+      "symbol": "SHYAMMETL",
+      "isin": "INE810G01011",
+      "series": "EQ",
+      "date": "24-Jul-2026",
+      "close": 1027.45,
+      "subject": "Interim Dividend - Rs 1.80 Per Share"
+    },
+    {
+      "company": "Shyam Metalics and Energy Limited",
+      "symbol": "SHYAMMETL",
+      "isin": "INE810G01011",
+      "series": "EQ",
+      "date": "07-Aug-2026",
+      "close": 1006.9,
+      "subject": "Dividend - Rs 2.70 Per Share"
+    }
+  ]
+}

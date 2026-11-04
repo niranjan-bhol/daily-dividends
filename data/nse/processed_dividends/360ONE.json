@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "360 ONE WAM LIMITED",
+      "symbol": "360ONE",
+      "isin": "INE466L01020",
+      "series": "EQ",
+      "date": "2026-04-27",
+      "close": 1042.05,
+      "dividend_type": "interim",
+      "dividend_amount": 6.0,
+      "dividend_percent": 0.5758
+    },
+    {
+      "company": "360 ONE WAM LIMITED",
+      "symbol": "360ONE",
+      "isin": "INE466L01020",
+      "series": "EQ",
+      "date": "2026-10-23",
+      "close": 997.1,
+      "dividend_type": "interim",
+      "dividend_amount": 7.5,
+      "dividend_percent": 0.7522
+    }
+  ]
+}

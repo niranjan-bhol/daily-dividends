@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "UNO Minda Limited",
+      "symbol": "UNOMINDA",
+      "isin": "INE405E01023",
+      "series": "EQ",
+      "date": "2026-02-11",
+      "close": 1245.8,
+      "dividend_type": "interim",
+      "dividend_amount": 0.9,
+      "dividend_percent": 0.0722
+    },
+    {
+      "company": "UNO Minda Limited",
+      "symbol": "UNOMINDA",
+      "isin": "INE405E01023",
+      "series": "EQ",
+      "date": "2026-05-29",
+      "close": 1101.7,
+      "dividend_type": "final",
+      "dividend_amount": 1.75,
+      "dividend_percent": 0.1588
+    }
+  ]
+}

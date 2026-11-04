@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "company": "Cipla Limited",
+      "symbol": "CIPLA",
+      "isin": "INE059A01026",
+      "series": "EQ",
+      "date": "05-Jun-2026",
+      "close": 1401.3,
+      "subject": "Dividend - Rs 13 Per Share"
+    }
+  ]
+}

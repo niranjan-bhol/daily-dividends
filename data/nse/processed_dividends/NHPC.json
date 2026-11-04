@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "NHPC Limited",
+      "symbol": "NHPC",
+      "isin": "INE848E01016",
+      "series": "EQ",
+      "date": "2026-02-10",
+      "close": 76.95,
+      "dividend_type": "interim",
+      "dividend_amount": 1.4,
+      "dividend_percent": 1.8194
+    },
+    {
+      "company": "NHPC Limited",
+      "symbol": "NHPC",
+      "isin": "INE848E01016",
+      "series": "EQ",
+      "date": "2026-08-12",
+      "close": 76.85,
+      "dividend_type": "final",
+      "dividend_amount": 0.21,
+      "dividend_percent": 0.2733
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "company": "Balkrishna Industries Limited",
+      "symbol": "BALKRISIND",
+      "isin": "INE787D01018",
+      "series": "EQ",
+      "date": "2025-11-07",
+      "close": 2321.6,
+      "dividend_type": "interim",
+      "dividend_amount": 4.0,
+      "dividend_percent": 0.1723
+    },
+    {
+      "company": "Balkrishna Industries Limited",
+      "symbol": "BALKRISIND",
+      "isin": "INE787D01018",
+      "series": "EQ",
+      "date": "2026-02-02",
+      "close": 2293.8,
+      "dividend_type": "interim",
+      "dividend_amount": 4.0,
+      "dividend_percent": 0.1744
+    },
+    {
+      "company": "Balkrishna Industries Limited",
+      "symbol": "BALKRISIND",
+      "isin": "INE787D01018",
+      "series": "EQ",
+      "date": "2026-07-17",
+      "close": 2065.3,
+      "dividend_type": "final",
+      "dividend_amount": 4.0,
+      "dividend_percent": 0.1937
+    },
+    {
+      "company": "Balkrishna Industries Limited",
+      "symbol": "BALKRISIND",
+      "isin": "INE787D01018",
+      "series": "EQ",
+      "date": "2026-08-04",
+      "close": 2491.9,
+      "dividend_type": "interim",
+      "dividend_amount": 4.0,
+      "dividend_percent": 0.1605
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "company": "Dr. Lal Path Labs Ltd.",
+      "symbol": "LALPATHLAB",
+      "isin": "INE600L01024",
+      "series": "EQ",
+      "date": "2025-11-07",
+      "close": 3096.7,
+      "dividend_type": "interim",
+      "dividend_amount": 7.0,
+      "dividend_percent": 0.226
+    },
+    {
+      "company": "Dr. Lal Path Labs Ltd.",
+      "symbol": "LALPATHLAB",
+      "isin": "INE600L01024",
+      "series": "EQ",
+      "date": "2026-02-05",
+      "close": 1411,
+      "dividend_type": "interim",
+      "dividend_amount": 3.5,
+      "dividend_percent": 0.2481
+    },
+    {
+      "company": "Dr. Lal Path Labs Ltd.",
+      "symbol": "LALPATHLAB",
+      "isin": "INE600L01024",
+      "series": "EQ",
+      "date": "2026-06-25",
+      "close": 1689.2,
+      "dividend_type": "final",
+      "dividend_amount": 4.0,
+      "dividend_percent": 0.2368
+    },
+    {
+      "company": "Dr. Lal Path Labs Ltd.",
+      "symbol": "LALPATHLAB",
+      "isin": "INE600L01024",
+      "series": "EQ",
+      "date": "2026-07-30",
+      "close": 1878.8,
+      "dividend_type": "interim",
+      "dividend_amount": 5.0,
+      "dividend_percent": 0.2661
+    }
+  ]
+}

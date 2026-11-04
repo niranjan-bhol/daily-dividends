@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "HBL Engineering Limited",
+      "symbol": "HBLENGINE",
+      "isin": "INE292B01021",
+      "series": "EQ",
+      "date": "2026-02-13",
+      "close": 762.6,
+      "dividend_type": "interim",
+      "dividend_amount": 2.0,
+      "dividend_percent": 0.2623
+    },
+    {
+      "company": "HBL Engineering Limited",
+      "symbol": "HBLENGINE",
+      "isin": "INE292B01021",
+      "series": "EQ",
+      "date": "2026-09-11",
+      "close": 722.2,
+      "dividend_type": "final",
+      "dividend_amount": 1.0,
+      "dividend_percent": 0.1385
+    }
+  ]
+}

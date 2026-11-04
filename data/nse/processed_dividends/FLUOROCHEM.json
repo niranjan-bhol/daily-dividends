@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Gujarat Fluorochemicals Limited",
+      "symbol": "FLUOROCHEM",
+      "isin": "INE09N301011",
+      "series": "EQ",
+      "date": "2026-09-17",
+      "close": 4471.8,
+      "dividend_type": "final",
+      "dividend_amount": 3.0,
+      "dividend_percent": 0.0671
+    }
+  ]
+}

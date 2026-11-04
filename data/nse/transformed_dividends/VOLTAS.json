@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "company": "Voltas Limited",
+      "symbol": "VOLTAS",
+      "isin": "INE226A01021",
+      "series": "EQ",
+      "date": "12-Jun-2026",
+      "close": 1285.4,
+      "subject": "Dividend - Rs 4 Per Share"
+    }
+  ]
+}

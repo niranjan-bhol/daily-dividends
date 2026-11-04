@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "KEC International Limited",
+      "symbol": "KEC",
+      "isin": "INE389H01014",
+      "series": "EQ",
+      "date": "2026-08-07",
+      "close": 478.85,
+      "dividend_type": "final",
+      "dividend_amount": 5.5,
+      "dividend_percent": 1.1486
+    }
+  ]
+}

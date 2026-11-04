@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "company": "L&T Finance Limited",
+      "symbol": "LTF",
+      "isin": "INE498L01015",
+      "series": "EQ",
+      "date": "22-May-2026",
+      "close": 270.15,
+      "subject": "Dividend - Rs 2.75 Per Share"
+    }
+  ]
+}

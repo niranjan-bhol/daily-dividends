@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "SBI Life Insurance Company Limited",
+      "symbol": "SBILIFE",
+      "isin": "INE123W01016",
+      "series": "EQ",
+      "date": "2026-03-06",
+      "close": 1941.6,
+      "dividend_type": "interim",
+      "dividend_amount": 2.7,
+      "dividend_percent": 0.1391
+    }
+  ]
+}

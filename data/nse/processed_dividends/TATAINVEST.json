@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Tata Investment Corporation Limited",
+      "symbol": "TATAINVEST",
+      "isin": "INE672A01018",
+      "series": "EQ",
+      "date": "2026-06-10",
+      "close": 649.7,
+      "dividend_type": "final",
+      "dividend_amount": 3.4,
+      "dividend_percent": 0.5233
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Emcure Pharmaceuticals Limited",
+      "symbol": "EMCURE",
+      "isin": "INE168P01015",
+      "series": "EQ",
+      "date": "2026-09-04",
+      "close": 1927.6,
+      "dividend_type": "final",
+      "dividend_amount": 3.6,
+      "dividend_percent": 0.1868
+    }
+  ]
+}

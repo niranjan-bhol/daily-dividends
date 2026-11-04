@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "company": "Natco Pharma Limited",
+      "symbol": "NATCOPHARM",
+      "isin": "INE987B01018",
+      "series": "EQ",
+      "date": "2025-11-20",
+      "close": 869.3,
+      "dividend_type": "interim",
+      "dividend_amount": 1.5,
+      "dividend_percent": 0.1726
+    },
+    {
+      "company": "Natco Pharma Limited",
+      "symbol": "NATCOPHARM",
+      "isin": "INE987B01018",
+      "series": "EQ",
+      "date": "2026-02-18",
+      "close": 890.5,
+      "dividend_type": "interim",
+      "dividend_amount": 1.5,
+      "dividend_percent": 0.1684
+    },
+    {
+      "company": "Natco Pharma Limited",
+      "symbol": "NATCOPHARM",
+      "isin": "INE987B01018",
+      "series": "EQ",
+      "date": "2026-08-20",
+      "close": 877.5,
+      "dividend_type": "interim",
+      "dividend_amount": 1.5,
+      "dividend_percent": 0.1709
+    }
+  ]
+}

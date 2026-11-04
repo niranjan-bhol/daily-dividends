@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Hindalco Industries Limited",
+      "symbol": "HINDALCO",
+      "isin": "INE038A01020",
+      "series": "EQ",
+      "date": "2026-07-10",
+      "close": 967.45,
+      "dividend_type": "final",
+      "dividend_amount": 5.0,
+      "dividend_percent": 0.5168
+    }
+  ]
+}

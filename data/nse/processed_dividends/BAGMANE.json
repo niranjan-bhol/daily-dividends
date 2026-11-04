@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Bagmane Prime Office REIT",
+      "symbol": "BAGMANE",
+      "isin": "INE2OVN25015",
+      "series": "RR",
+      "date": "2026-08-14",
+      "close": 107.72,
+      "dividend_type": "final",
+      "dividend_amount": 1.5,
+      "dividend_percent": 1.3925
+    }
+  ]
+}

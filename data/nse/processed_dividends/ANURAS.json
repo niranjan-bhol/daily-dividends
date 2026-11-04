@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Anupam Rasayan India Limited",
+      "symbol": "ANURAS",
+      "isin": "INE930P01018",
+      "series": "EQ",
+      "date": "2026-09-18",
+      "close": 1207.7,
+      "dividend_type": "final",
+      "dividend_amount": 1.5,
+      "dividend_percent": 0.1242
+    }
+  ]
+}

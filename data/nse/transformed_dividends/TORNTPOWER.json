@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Torrent Power Limited",
+      "symbol": "TORNTPOWER",
+      "isin": "INE813H01021",
+      "series": "EQ",
+      "date": "16-Feb-2026",
+      "close": 1471.4,
+      "subject": "Interim Dividend - Rs 15 Per Share"
+    },
+    {
+      "company": "Torrent Power Limited",
+      "symbol": "TORNTPOWER",
+      "isin": "INE813H01021",
+      "series": "EQ",
+      "date": "19-Jun-2026",
+      "close": 1438.4,
+      "subject": "Dividend - Rs 5 Per Share"
+    }
+  ]
+}

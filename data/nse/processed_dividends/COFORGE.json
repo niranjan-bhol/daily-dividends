@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Coforge Limited",
+      "symbol": "COFORGE",
+      "isin": "INE591G01017",
+      "series": "EQ",
+      "date": "2026-01-30",
+      "close": 1653.8,
+      "dividend_type": "interim",
+      "dividend_amount": 4.0,
+      "dividend_percent": 0.2419
+    },
+    {
+      "company": "Coforge Limited",
+      "symbol": "COFORGE",
+      "isin": "INE591G01017",
+      "series": "EQ",
+      "date": "2026-08-03",
+      "close": 1768,
+      "dividend_type": "interim",
+      "dividend_amount": 4.0,
+      "dividend_percent": 0.2262
+    }
+  ]
+}

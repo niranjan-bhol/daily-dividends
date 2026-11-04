@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Bharat Petroleum Corporation Limited",
+      "symbol": "BPCL",
+      "isin": "INE029A01011",
+      "series": "EQ",
+      "date": "2025-11-07",
+      "close": 367.15,
+      "dividend_type": "interim",
+      "dividend_amount": 7.5,
+      "dividend_percent": 2.0428
+    },
+    {
+      "company": "Bharat Petroleum Corporation Limited",
+      "symbol": "BPCL",
+      "isin": "INE029A01011",
+      "series": "EQ",
+      "date": "2026-02-02",
+      "close": 366.7,
+      "dividend_type": "interim",
+      "dividend_amount": 10.0,
+      "dividend_percent": 2.727
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "TD Power Systems Limited",
+      "symbol": "TDPOWERSYS",
+      "isin": "INE419M01019",
+      "series": "EQ",
+      "date": "06-Nov-2025",
+      "close": 797.85,
+      "subject": "Interim Dividend - Re 1 Per Share"
+    },
+    {
+      "company": "TD Power Systems Limited",
+      "symbol": "TDPOWERSYS",
+      "isin": "INE419M01019",
+      "series": "EQ",
+      "date": "05-Aug-2026",
+      "close": 1201.9,
+      "subject": "Dividend - Rs 1.10 Per Share"
+    }
+  ]
+}

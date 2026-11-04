@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "company": "Siemens Limited",
+      "symbol": "SIEMENS",
+      "isin": "INE003A01024",
+      "series": "EQ",
+      "date": "29-Jul-2026",
+      "close": 3650.8,
+      "subject": "Dividend - Rs 18 Per Share"
+    }
+  ]
+}

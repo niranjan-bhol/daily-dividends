@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Sundaram Finance Limited",
+      "symbol": "SUNDARMFIN",
+      "isin": "INE660A01013",
+      "series": "EQ",
+      "date": "2026-02-06",
+      "close": 5439,
+      "dividend_type": "interim",
+      "dividend_amount": 16.0,
+      "dividend_percent": 0.2942
+    },
+    {
+      "company": "Sundaram Finance Limited",
+      "symbol": "SUNDARMFIN",
+      "isin": "INE660A01013",
+      "series": "EQ",
+      "date": "2026-07-06",
+      "close": 4601.2,
+      "dividend_type": "final",
+      "dividend_amount": 24.0,
+      "dividend_percent": 0.5216
+    }
+  ]
+}

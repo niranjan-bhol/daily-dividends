@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Cummins India Limited",
+      "symbol": "CUMMINSIND",
+      "isin": "INE298A01020",
+      "series": "EQ",
+      "date": "11-Feb-2026",
+      "close": 4363.2,
+      "subject": "Interim Dividend - Rs 20 Per Share"
+    },
+    {
+      "company": "Cummins India Limited",
+      "symbol": "CUMMINSIND",
+      "isin": "INE298A01020",
+      "series": "EQ",
+      "date": "17-Jul-2026",
+      "close": 5448,
+      "subject": "Dividend - Rs 46 Per Share"
+    }
+  ]
+}

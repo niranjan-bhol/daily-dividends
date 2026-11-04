@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "AU Small Finance Bank Limited",
+      "symbol": "AUBANK",
+      "isin": "INE949L01017",
+      "series": "EQ",
+      "date": "2026-07-31",
+      "close": 1047.3,
+      "dividend_type": "final",
+      "dividend_amount": 1.0,
+      "dividend_percent": 0.0955
+    }
+  ]
+}

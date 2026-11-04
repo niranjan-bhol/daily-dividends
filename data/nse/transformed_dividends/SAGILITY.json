@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "company": "SAGILITY LIMITED",
+      "symbol": "SAGILITY",
+      "isin": "INE0W2G01015",
+      "series": "EQ",
+      "date": "12-Nov-2025",
+      "close": 51.65,
+      "subject": "Interim Dividend - Re 0.05 Per Share"
+    },
+    {
+      "company": "SAGILITY LIMITED",
+      "symbol": "SAGILITY",
+      "isin": "INE0W2G01015",
+      "series": "EQ",
+      "date": "07-Aug-2026",
+      "close": 43.67,
+      "subject": "Dividend - Re 0.10 Per Share"
+    },
+    {
+      "company": "SAGILITY LIMITED",
+      "symbol": "SAGILITY",
+      "isin": "INE0W2G01015",
+      "series": "EQ",
+      "date": "30-Oct-2026",
+      "close": 42.08,
+      "subject": "Interim Dividend - Re 0.15 Per Share"
+    }
+  ]
+}

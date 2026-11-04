@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "company": "HDFC Bank Limited",
+      "symbol": "HDFCBANK",
+      "isin": "INE040A01018",
+      "series": "EQ",
+      "date": "19-Jun-2026",
+      "close": 779.8,
+      "subject": "Dividend - Rs 13 Per Share"
+    }
+  ]
+}

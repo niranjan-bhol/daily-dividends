@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Havells India Limited",
+      "symbol": "HAVELLS",
+      "isin": "INE176B01018",
+      "series": "EQ",
+      "date": "2026-01-23",
+      "close": 1287,
+      "dividend_type": "interim",
+      "dividend_amount": 4.0,
+      "dividend_percent": 0.3108
+    },
+    {
+      "company": "Havells India Limited",
+      "symbol": "HAVELLS",
+      "isin": "INE176B01018",
+      "series": "EQ",
+      "date": "2026-05-22",
+      "close": 1200.9,
+      "dividend_type": "final",
+      "dividend_amount": 6.0,
+      "dividend_percent": 0.4996
+    }
+  ]
+}

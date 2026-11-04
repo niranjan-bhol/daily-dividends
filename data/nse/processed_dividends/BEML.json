@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "company": "BEML Limited",
+      "symbol": "BEML",
+      "isin": "INE258A01016",
+      "series": "EQ",
+      "date": "2026-02-13",
+      "close": 1735.9,
+      "dividend_type": "interim",
+      "dividend_amount": 2.5,
+      "dividend_percent": 0.144
+    },
+    {
+      "company": "BEML Limited",
+      "symbol": "BEML",
+      "isin": "INE258A01016",
+      "series": "EQ",
+      "date": "2026-06-05",
+      "close": 1742.8,
+      "dividend_type": "interim",
+      "dividend_amount": 2.3,
+      "dividend_percent": 0.132
+    },
+    {
+      "company": "BEML Limited",
+      "symbol": "BEML",
+      "isin": "INE258A01016",
+      "series": "EQ",
+      "date": "2026-09-22",
+      "close": 2096.8,
+      "dividend_type": "final",
+      "dividend_amount": 12.28,
+      "dividend_percent": 0.5857
+    }
+  ]
+}

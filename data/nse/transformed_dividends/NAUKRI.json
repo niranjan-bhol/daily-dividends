@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "company": "Info Edge (India) Limited",
+      "symbol": "NAUKRI",
+      "isin": "INE663F01024",
+      "series": "EQ",
+      "date": "21-Nov-2025",
+      "close": 1340.4,
+      "subject": "Interim Dividend - Rs 2.40 Per Share"
+    },
+    {
+      "company": "Info Edge (India) Limited",
+      "symbol": "NAUKRI",
+      "isin": "INE663F01024",
+      "series": "EQ",
+      "date": "20-Feb-2026",
+      "close": 1074.8,
+      "subject": "Interim Dividend - Rs 2.40 Per Share"
+    },
+    {
+      "company": "Info Edge (India) Limited",
+      "symbol": "NAUKRI",
+      "isin": "INE663F01024",
+      "series": "EQ",
+      "date": "24-Jul-2026",
+      "close": 1165.5,
+      "subject": "Dividend - Rs 3.60 Per Share"
+    }
+  ]
+}

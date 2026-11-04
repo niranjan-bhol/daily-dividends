@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Multi Commodity Exchange of India Limited",
+      "symbol": "MCX",
+      "isin": "INE745G01035",
+      "series": "EQ",
+      "date": "2026-08-28",
+      "close": 3332,
+      "dividend_type": "final",
+      "dividend_amount": 8.0,
+      "dividend_percent": 0.2401
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "company": "Tata Steel Limited",
+      "symbol": "TATASTEEL",
+      "isin": "INE081A01012",
+      "series": "EQ",
+      "date": "12-Jun-2026",
+      "close": 197.86,
+      "subject": "Dividend - Rs 4 Per Share"
+    }
+  ]
+}

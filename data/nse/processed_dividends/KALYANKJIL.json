@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Kalyan Jewellers India Limited",
+      "symbol": "KALYANKJIL",
+      "isin": "INE303R01014",
+      "series": "EQ",
+      "date": "2026-09-11",
+      "close": 601.15,
+      "dividend_type": "final",
+      "dividend_amount": 2.5,
+      "dividend_percent": 0.4159
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Rail Vikas Nigam Limited",
+      "symbol": "RVNL",
+      "isin": "INE415G01027",
+      "series": "EQ",
+      "date": "11-Feb-2026",
+      "close": 316.55,
+      "subject": "Interim Dividend - Re 1 Per Share"
+    },
+    {
+      "company": "Rail Vikas Nigam Limited",
+      "symbol": "RVNL",
+      "isin": "INE415G01027",
+      "series": "EQ",
+      "date": "18-Aug-2026",
+      "close": 225,
+      "subject": "Dividend - Re 0.71 Per Share"
+    }
+  ]
+}

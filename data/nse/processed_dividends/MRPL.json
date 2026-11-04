@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Mangalore Refinery and Petrochemicals Limited",
+      "symbol": "MRPL",
+      "isin": "INE103A01014",
+      "series": "EQ",
+      "date": "2026-03-11",
+      "close": 186.92,
+      "dividend_type": "interim",
+      "dividend_amount": 4.0,
+      "dividend_percent": 2.14
+    },
+    {
+      "company": "Mangalore Refinery and Petrochemicals Limited",
+      "symbol": "MRPL",
+      "isin": "INE103A01014",
+      "series": "EQ",
+      "date": "2026-10-21",
+      "close": 167.52,
+      "dividend_type": "interim",
+      "dividend_amount": 3.0,
+      "dividend_percent": 1.7908
+    }
+  ]
+}

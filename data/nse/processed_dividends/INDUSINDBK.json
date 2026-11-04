@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "IndusInd Bank Limited",
+      "symbol": "INDUSINDBK",
+      "isin": "INE095A01012",
+      "series": "EQ",
+      "date": "2026-06-25",
+      "close": 918.95,
+      "dividend_type": "final",
+      "dividend_amount": 1.5,
+      "dividend_percent": 0.1632
+    }
+  ]
+}

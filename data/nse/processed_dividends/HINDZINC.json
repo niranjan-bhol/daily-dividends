@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Hindustan Zinc Limited",
+      "symbol": "HINDZINC",
+      "isin": "INE267A01017",
+      "series": "EQ",
+      "date": "2026-04-30",
+      "close": 595.95,
+      "dividend_type": "interim",
+      "dividend_amount": 11.0,
+      "dividend_percent": 1.8458
+    }
+  ]
+}

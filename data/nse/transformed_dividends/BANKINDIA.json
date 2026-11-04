@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "company": "Bank of India",
+      "symbol": "BANKINDIA",
+      "isin": "INE084A01016",
+      "series": "EQ",
+      "date": "29-May-2026",
+      "close": 139.91,
+      "subject": "Dividend - Rs 4.65 Per Share"
+    }
+  ]
+}

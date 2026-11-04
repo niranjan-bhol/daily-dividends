@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "company": "JBM Auto Limited",
+      "symbol": "JBMA",
+      "isin": "INE927D01010",
+      "series": "EQ",
+      "date": "09-Sep-2026",
+      "close": 614.25,
+      "subject": "Dividend - Re 0.85 Per Share"
+    }
+  ]
+}

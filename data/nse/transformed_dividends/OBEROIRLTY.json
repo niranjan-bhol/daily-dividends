@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "company": "Oberoi Realty Limited",
+      "symbol": "OBEROIRLTY",
+      "isin": "INE093I01010",
+      "series": "EQ",
+      "date": "23-Jan-2026",
+      "close": 1453.9,
+      "subject": "Interim Dividend - Rs 2 Per Share"
+    },
+    {
+      "company": "Oberoi Realty Limited",
+      "symbol": "OBEROIRLTY",
+      "isin": "INE093I01010",
+      "series": "EQ",
+      "date": "14-May-2026",
+      "close": 1637.6,
+      "subject": "Interim Dividend - Rs 2 Per Share"
+    },
+    {
+      "company": "Oberoi Realty Limited",
+      "symbol": "OBEROIRLTY",
+      "isin": "INE093I01010",
+      "series": "EQ",
+      "date": "23-Jul-2026",
+      "close": 1818.1,
+      "subject": "Interim Dividend - Rs 2 Per Share"
+    },
+    {
+      "company": "Oberoi Realty Limited",
+      "symbol": "OBEROIRLTY",
+      "isin": "INE093I01010",
+      "series": "EQ",
+      "date": "23-Oct-2026",
+      "close": 1612.7,
+      "subject": "Interim Dividend - Rs 2 Per Share"
+    }
+  ]
+}

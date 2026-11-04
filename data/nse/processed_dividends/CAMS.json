@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "company": "Computer Age Management Services Limited",
+      "symbol": "CAMS",
+      "isin": "INE596I01012",
+      "series": "EQ",
+      "date": "2025-11-07",
+      "close": 3795.3,
+      "dividend_type": "interim",
+      "dividend_amount": 14.0,
+      "dividend_percent": 0.3689
+    },
+    {
+      "company": "Computer Age Management Services Limited",
+      "symbol": "CAMS",
+      "isin": "INE596I01012",
+      "series": "EQ",
+      "date": "2026-01-30",
+      "close": 695.05,
+      "dividend_type": "interim",
+      "dividend_amount": 3.5,
+      "dividend_percent": 0.5036
+    },
+    {
+      "company": "Computer Age Management Services Limited",
+      "symbol": "CAMS",
+      "isin": "INE596I01012",
+      "series": "EQ",
+      "date": "2026-07-10",
+      "close": 790.5,
+      "dividend_type": "final",
+      "dividend_amount": 4.0,
+      "dividend_percent": 0.506
+    },
+    {
+      "company": "Computer Age Management Services Limited",
+      "symbol": "CAMS",
+      "isin": "INE596I01012",
+      "series": "EQ",
+      "date": "2026-08-12",
+      "close": 777.4,
+      "dividend_type": "interim",
+      "dividend_amount": 2.5,
+      "dividend_percent": 0.3216
+    }
+  ]
+}

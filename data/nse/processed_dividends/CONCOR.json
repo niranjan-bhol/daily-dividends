@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "company": "Container Corporation of India Limited",
+      "symbol": "CONCOR",
+      "isin": "INE111A01017",
+      "series": "EQ",
+      "date": "2025-11-20",
+      "close": 515.4,
+      "dividend_type": "interim",
+      "dividend_amount": 2.6,
+      "dividend_percent": 0.5045
+    },
+    {
+      "company": "Container Corporation of India Limited",
+      "symbol": "CONCOR",
+      "isin": "INE111A01017",
+      "series": "EQ",
+      "date": "2026-02-09",
+      "close": 513.6,
+      "dividend_type": "interim",
+      "dividend_amount": 3.4,
+      "dividend_percent": 0.662
+    },
+    {
+      "company": "Container Corporation of India Limited",
+      "symbol": "CONCOR",
+      "isin": "INE111A01017",
+      "series": "EQ",
+      "date": "2026-08-04",
+      "close": 515,
+      "dividend_type": "interim",
+      "dividend_amount": 1.6,
+      "dividend_percent": 0.3107
+    },
+    {
+      "company": "Container Corporation of India Limited",
+      "symbol": "CONCOR",
+      "isin": "INE111A01017",
+      "series": "EQ",
+      "date": "2026-09-21",
+      "close": 487.05,
+      "dividend_type": "final",
+      "dividend_amount": 1.0,
+      "dividend_percent": 0.2053
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Aster DM Quality Care Limited",
+      "symbol": "ASTERDM",
+      "isin": "INE914M01019",
+      "series": "EQ",
+      "date": "2026-04-02",
+      "close": 658.1,
+      "dividend_type": "interim",
+      "dividend_amount": 3.0,
+      "dividend_percent": 0.4559
+    }
+  ]
+}

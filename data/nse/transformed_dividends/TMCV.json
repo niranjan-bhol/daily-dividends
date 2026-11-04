@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "company": "Tata Motors Limited",
+      "symbol": "TMCV",
+      "isin": "INE1TAE01010",
+      "series": "EQ",
+      "date": "12-Jun-2026",
+      "close": 390.3,
+      "subject": "Dividend - Rs 4 Per Share"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "United Spirits Limited",
+      "symbol": "UNITDSPR",
+      "isin": "INE854D01024",
+      "series": "EQ",
+      "date": "27-Jan-2026",
+      "close": 1311.5,
+      "subject": "Interim Dividend - Rs 6 Per Share"
+    },
+    {
+      "company": "United Spirits Limited",
+      "symbol": "UNITDSPR",
+      "isin": "INE854D01024",
+      "series": "EQ",
+      "date": "08-Jul-2026",
+      "close": 1408.8,
+      "subject": "Dividend - Rs 11 Per Share"
+    }
+  ]
+}

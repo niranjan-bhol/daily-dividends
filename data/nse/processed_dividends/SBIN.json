@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "State Bank of India",
+      "symbol": "SBIN",
+      "isin": "INE062A01012",
+      "series": "EQ",
+      "date": "2026-05-15",
+      "close": 963.2,
+      "dividend_type": "final",
+      "dividend_amount": 17.35,
+      "dividend_percent": 1.8013
+    }
+  ]
+}

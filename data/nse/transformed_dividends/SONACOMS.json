@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Sona BLW Precision Forgings Limited",
+      "symbol": "SONACOMS",
+      "isin": "INE073K01018",
+      "series": "EQ",
+      "date": "30-Jan-2026",
+      "close": 495.75,
+      "subject": "Interim Dividend - Rs 1.60 Per Share"
+    },
+    {
+      "company": "Sona BLW Precision Forgings Limited",
+      "symbol": "SONACOMS",
+      "isin": "INE073K01018",
+      "series": "EQ",
+      "date": "25-Jun-2026",
+      "close": 619.25,
+      "subject": "Dividend - Rs 1.80 Per Share"
+    }
+  ]
+}

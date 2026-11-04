@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "company": "HDFC Asset Management Company Limited",
+      "symbol": "HDFCAMC",
+      "isin": "INE127D01025",
+      "series": "EQ",
+      "date": "05-Jun-2026",
+      "close": 2495.9,
+      "subject": "Dividend - Rs 54 Per Share"
+    }
+  ]
+}

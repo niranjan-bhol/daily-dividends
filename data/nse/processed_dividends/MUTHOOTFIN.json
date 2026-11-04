@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Muthoot Finance Limited",
+      "symbol": "MUTHOOTFIN",
+      "isin": "INE414G01012",
+      "series": "EQ",
+      "date": "2026-04-17",
+      "close": 3571.3,
+      "dividend_type": "interim",
+      "dividend_amount": 30.0,
+      "dividend_percent": 0.84
+    }
+  ]
+}

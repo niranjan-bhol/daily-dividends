@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Ajanta Pharma Limited",
+      "symbol": "AJANTPHARM",
+      "isin": "INE031B01015",
+      "series": "EQ",
+      "date": "2025-11-10",
+      "close": 2528.8,
+      "dividend_type": "interim",
+      "dividend_amount": 28.0,
+      "dividend_percent": 1.1072
+    },
+    {
+      "company": "Ajanta Pharma Limited",
+      "symbol": "AJANTPHARM",
+      "isin": "INE031B01015",
+      "series": "EQ",
+      "date": "2026-08-05",
+      "close": 3437.5,
+      "dividend_type": "interim",
+      "dividend_amount": 32.0,
+      "dividend_percent": 0.9309
+    }
+  ]
+}

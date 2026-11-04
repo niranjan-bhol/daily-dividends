@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "SRF Limited",
+      "symbol": "SRF",
+      "isin": "INE647A01010",
+      "series": "EQ",
+      "date": "27-Jan-2026",
+      "close": 2682.2,
+      "subject": "Interim Dividend - Rs 5 Per Share"
+    },
+    {
+      "company": "SRF Limited",
+      "symbol": "SRF",
+      "isin": "INE647A01010",
+      "series": "EQ",
+      "date": "28-Jul-2026",
+      "close": 2633.4,
+      "subject": "Interim Dividend - Rs 5 Per Share"
+    }
+  ]
+}

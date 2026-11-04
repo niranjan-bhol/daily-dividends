@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "company": "Indian Bank",
+      "symbol": "INDIANB",
+      "isin": "INE562A01011",
+      "series": "EQ",
+      "date": "10-Jun-2026",
+      "close": 833.45,
+      "subject": "Dividend - Rs 18.25 Per Share"
+    }
+  ]
+}

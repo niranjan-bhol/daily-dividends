@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "BIRLASOFT LIMITED",
+      "symbol": "BSOFT",
+      "isin": "INE836A01035",
+      "series": "EQ",
+      "date": "2025-11-14",
+      "close": 388.7,
+      "dividend_type": "interim",
+      "dividend_amount": 2.5,
+      "dividend_percent": 0.6432
+    },
+    {
+      "company": "BIRLASOFT LIMITED",
+      "symbol": "BSOFT",
+      "isin": "INE836A01035",
+      "series": "EQ",
+      "date": "2026-07-10",
+      "close": 290.15,
+      "dividend_type": "final",
+      "dividend_amount": 4.0,
+      "dividend_percent": 1.3786
+    }
+  ]
+}

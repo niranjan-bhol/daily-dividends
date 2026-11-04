@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Indus Towers Limited",
+      "symbol": "INDUSTOWER",
+      "isin": "INE121J01017",
+      "series": "EQ",
+      "date": "2026-08-10",
+      "close": 368,
+      "dividend_type": "final",
+      "dividend_amount": 14.0,
+      "dividend_percent": 3.8043
+    }
+  ]
+}

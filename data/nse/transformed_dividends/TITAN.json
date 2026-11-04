@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "company": "Titan Company Limited",
+      "symbol": "TITAN",
+      "isin": "INE280A01010",
+      "series": "EQ",
+      "date": "09-Jul-2026",
+      "close": 4555.8,
+      "subject": "Dividend - Rs 15 Per Share"
+    }
+  ]
+}

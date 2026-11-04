@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "company": "Indian Railway Catering And Tourism Corporation Limited",
+      "symbol": "IRCTC",
+      "isin": "INE335Y01012",
+      "series": "EQ",
+      "date": "2025-11-21",
+      "close": 690.4,
+      "dividend_type": "interim",
+      "dividend_amount": 5.0,
+      "dividend_percent": 0.7242
+    },
+    {
+      "company": "Indian Railway Catering And Tourism Corporation Limited",
+      "symbol": "IRCTC",
+      "isin": "INE335Y01012",
+      "series": "EQ",
+      "date": "2026-02-20",
+      "close": 645.3,
+      "dividend_type": "interim",
+      "dividend_amount": 3.5,
+      "dividend_percent": 0.5424
+    },
+    {
+      "company": "Indian Railway Catering And Tourism Corporation Limited",
+      "symbol": "IRCTC",
+      "isin": "INE335Y01012",
+      "series": "EQ",
+      "date": "2026-09-22",
+      "close": 469.65,
+      "dividend_type": "final",
+      "dividend_amount": 0.5,
+      "dividend_percent": 0.1065
+    }
+  ]
+}

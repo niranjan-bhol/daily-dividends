@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Glenmark Pharmaceuticals Limited",
+      "symbol": "GLENMARK",
+      "isin": "INE935A01035",
+      "series": "EQ",
+      "date": "2026-08-31",
+      "close": 2480,
+      "dividend_type": "final",
+      "dividend_amount": 2.5,
+      "dividend_percent": 0.1008
+    }
+  ]
+}

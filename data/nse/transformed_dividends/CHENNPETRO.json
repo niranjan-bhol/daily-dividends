@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "company": "Chennai Petroleum Corporation Limited",
+      "symbol": "CHENNPETRO",
+      "isin": "INE178A01016",
+      "series": "EQ",
+      "date": "02-Apr-2026",
+      "close": 1032.25,
+      "subject": "Interim Dividend - Rs 8 Per Share"
+    },
+    {
+      "company": "Chennai Petroleum Corporation Limited",
+      "symbol": "CHENNPETRO",
+      "isin": "INE178A01016",
+      "series": "EQ",
+      "date": "07-Aug-2026",
+      "close": 1275.4,
+      "subject": "Dividend - Rs 54 Per Share"
+    },
+    {
+      "company": "Chennai Petroleum Corporation Limited",
+      "symbol": "CHENNPETRO",
+      "isin": "INE178A01016",
+      "series": "EQ",
+      "date": "30-Oct-2026",
+      "close": 1511.5,
+      "subject": "Interim Dividend - Rs 25 Per Share"
+    }
+  ]
+}

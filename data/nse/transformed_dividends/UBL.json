@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "company": "United Breweries Limited",
+      "symbol": "UBL",
+      "isin": "INE686F01025",
+      "series": "EQ",
+      "date": "07-Aug-2026",
+      "close": 1400.3,
+      "subject": "Dividend - Rs 10 Per Share"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Hindustan Copper Limited",
+      "symbol": "HINDCOPPER",
+      "isin": "INE531E01026",
+      "series": "EQ",
+      "date": "2026-02-13",
+      "close": 591.65,
+      "dividend_type": "interim",
+      "dividend_amount": 1.0,
+      "dividend_percent": 0.169
+    },
+    {
+      "company": "Hindustan Copper Limited",
+      "symbol": "HINDCOPPER",
+      "isin": "INE531E01026",
+      "series": "EQ",
+      "date": "2026-09-16",
+      "close": 481.6,
+      "dividend_type": "final",
+      "dividend_amount": 1.86,
+      "dividend_percent": 0.3862
+    }
+  ]
+}

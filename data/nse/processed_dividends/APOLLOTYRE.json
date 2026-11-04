@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Apollo Tyres Limited",
+      "symbol": "APOLLOTYRE",
+      "isin": "INE438A01022",
+      "series": "EQ",
+      "date": "2026-02-10",
+      "close": 507.2,
+      "dividend_type": "interim",
+      "dividend_amount": 3.5,
+      "dividend_percent": 0.6901
+    },
+    {
+      "company": "Apollo Tyres Limited",
+      "symbol": "APOLLOTYRE",
+      "isin": "INE438A01022",
+      "series": "EQ",
+      "date": "2026-07-10",
+      "close": 440.1,
+      "dividend_type": "final",
+      "dividend_amount": 2.5,
+      "dividend_percent": 0.5681
+    }
+  ]
+}

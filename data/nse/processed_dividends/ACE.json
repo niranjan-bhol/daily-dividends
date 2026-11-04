@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Action Construction Equipment Limited",
+      "symbol": "ACE",
+      "isin": "INE731H01025",
+      "series": "EQ",
+      "date": "2026-09-03",
+      "close": 1145.5,
+      "dividend_type": "final",
+      "dividend_amount": 2.0,
+      "dividend_percent": 0.1746
+    }
+  ]
+}

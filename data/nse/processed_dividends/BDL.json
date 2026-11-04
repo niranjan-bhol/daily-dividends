@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Bharat Dynamics Limited",
+      "symbol": "BDL",
+      "isin": "INE171Z01018",
+      "series": "EQ",
+      "date": "2026-02-09",
+      "close": 1303.2,
+      "dividend_type": "interim",
+      "dividend_amount": 4.5,
+      "dividend_percent": 0.3453
+    },
+    {
+      "company": "Bharat Dynamics Limited",
+      "symbol": "BDL",
+      "isin": "INE171Z01018",
+      "series": "EQ",
+      "date": "2026-09-21",
+      "close": 1175,
+      "dividend_type": "final",
+      "dividend_amount": 0.4,
+      "dividend_percent": 0.034
+    }
+  ]
+}

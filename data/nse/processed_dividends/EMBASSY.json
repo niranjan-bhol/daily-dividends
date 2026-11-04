@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "company": "Embassy Office Parks REIT",
+      "symbol": "EMBASSY",
+      "isin": "INE041025011",
+      "series": "RR",
+      "date": "2025-11-07",
+      "close": 426.13,
+      "dividend_type": "final",
+      "dividend_amount": 6.51,
+      "dividend_percent": 1.5277
+    },
+    {
+      "company": "Embassy Office Parks REIT",
+      "symbol": "EMBASSY",
+      "isin": "INE041025011",
+      "series": "RR",
+      "date": "2026-02-11",
+      "close": 460.99,
+      "dividend_type": "final",
+      "dividend_amount": 6.47,
+      "dividend_percent": 1.4035
+    },
+    {
+      "company": "Embassy Office Parks REIT",
+      "symbol": "EMBASSY",
+      "isin": "INE041025011",
+      "series": "RR",
+      "date": "2026-04-30",
+      "close": 424.76,
+      "dividend_type": "final",
+      "dividend_amount": 6.5,
+      "dividend_percent": 1.5303
+    },
+    {
+      "company": "Embassy Office Parks REIT",
+      "symbol": "EMBASSY",
+      "isin": "INE041025011",
+      "series": "RR",
+      "date": "2026-08-04",
+      "close": 440.35,
+      "dividend_type": "final",
+      "dividend_amount": 6.31,
+      "dividend_percent": 1.433
+    },
+    {
+      "company": "Embassy Office Parks REIT",
+      "symbol": "EMBASSY",
+      "isin": "INE041025011",
+      "series": "RR",
+      "date": "2026-10-30",
+      "close": 414.24,
+      "dividend_type": "final",
+      "dividend_amount": 7.07,
+      "dividend_percent": 1.7067
+    }
+  ]
+}

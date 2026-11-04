@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "HDB Financial Services Limited",
+      "symbol": "HDBFS",
+      "isin": "INE756I01012",
+      "series": "EQ",
+      "date": "2026-06-18",
+      "close": 695.45,
+      "dividend_type": "final",
+      "dividend_amount": 2.0,
+      "dividend_percent": 0.2876
+    },
+    {
+      "company": "HDB Financial Services Limited",
+      "symbol": "HDBFS",
+      "isin": "INE756I01012",
+      "series": "EQ",
+      "date": "2026-10-23",
+      "close": 504.85,
+      "dividend_type": "interim",
+      "dividend_amount": 2.0,
+      "dividend_percent": 0.3962
+    }
+  ]
+}

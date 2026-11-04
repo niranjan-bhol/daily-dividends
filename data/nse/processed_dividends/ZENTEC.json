@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Zen Technologies Limited",
+      "symbol": "ZENTEC",
+      "isin": "INE251B01027",
+      "series": "EQ",
+      "date": "2026-08-21",
+      "close": 1926.3,
+      "dividend_type": "final",
+      "dividend_amount": 1.0,
+      "dividend_percent": 0.0519
+    }
+  ]
+}

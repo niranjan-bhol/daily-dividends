@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "ICICI Bank Limited",
+      "symbol": "ICICIBANK",
+      "isin": "INE090A01013",
+      "series": "EQ",
+      "date": "2026-08-03",
+      "close": 1460,
+      "dividend_type": "final",
+      "dividend_amount": 12.0,
+      "dividend_percent": 0.8219
+    }
+  ]
+}

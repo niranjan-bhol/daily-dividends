@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "company": "Piramal Finance Limited",
+      "symbol": "PIRAMALFIN",
+      "isin": "INE202B01038",
+      "series": "EQ",
+      "date": "12-Jun-2026",
+      "close": 2017.2,
+      "subject": "Dividend - Rs 11 Per Share"
+    }
+  ]
+}

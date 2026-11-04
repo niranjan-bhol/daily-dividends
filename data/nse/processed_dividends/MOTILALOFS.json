@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Motilal Oswal Financial Services Limited",
+      "symbol": "MOTILALOFS",
+      "isin": "INE338I01027",
+      "series": "EQ",
+      "date": "2026-01-30",
+      "close": 753.55,
+      "dividend_type": "interim",
+      "dividend_amount": 6.0,
+      "dividend_percent": 0.7962
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "company": "Railtel Corporation Of India Limited",
+      "symbol": "RAILTEL",
+      "isin": "INE0DD101019",
+      "series": "EQ",
+      "date": "04-Nov-2025",
+      "close": 364.2,
+      "subject": "Interim Dividend - Re 1 Per Share"
+    },
+    {
+      "company": "Railtel Corporation Of India Limited",
+      "symbol": "RAILTEL",
+      "isin": "INE0DD101019",
+      "series": "EQ",
+      "date": "13-Mar-2026",
+      "close": 278,
+      "subject": "Interim Dividend - Re 1 Per Share"
+    },
+    {
+      "company": "Railtel Corporation Of India Limited",
+      "symbol": "RAILTEL",
+      "isin": "INE0DD101019",
+      "series": "EQ",
+      "date": "13-Aug-2026",
+      "close": 285.2,
+      "subject": "Dividend - Rs 1.25 Per Share"
+    },
+    {
+      "company": "Railtel Corporation Of India Limited",
+      "symbol": "RAILTEL",
+      "isin": "INE0DD101019",
+      "series": "EQ",
+      "date": "30-Oct-2026",
+      "close": 222.4,
+      "subject": "Interim Dividend - Re 1 Per Share"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Vedanta Limited",
+      "symbol": "VEDL",
+      "isin": "INE205A01025",
+      "series": "EQ",
+      "date": "27-Mar-2026",
+      "close": 649.4,
+      "subject": "Interim Dividend - Rs 11 Per Share"
+    },
+    {
+      "company": "Vedanta Limited",
+      "symbol": "VEDL",
+      "isin": "INE205A01025",
+      "series": "EQ",
+      "date": "14-Oct-2026",
+      "close": 250,
+      "subject": "Interim Dividend - Rs 5 Per Share"
+    }
+  ]
+}

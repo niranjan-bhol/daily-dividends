@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Finolex Cables Limited",
+      "symbol": "FINCABLES",
+      "isin": "INE235A01022",
+      "series": "EQ",
+      "date": "2026-09-04",
+      "close": 1220.2,
+      "dividend_type": "final",
+      "dividend_amount": 9.0,
+      "dividend_percent": 0.7376
+    }
+  ]
+}

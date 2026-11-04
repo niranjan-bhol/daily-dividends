@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Brigade Enterprises Limited",
+      "symbol": "BRIGADE",
+      "isin": "INE791I01019",
+      "series": "EQ",
+      "date": "2026-08-05",
+      "close": 570.3,
+      "dividend_type": "final",
+      "dividend_amount": 2.0,
+      "dividend_percent": 0.3507
+    }
+  ]
+}

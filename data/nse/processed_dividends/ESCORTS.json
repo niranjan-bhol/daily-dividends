@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Escorts Kubota Limited",
+      "symbol": "ESCORTS",
+      "isin": "INE042A01014",
+      "series": "EQ",
+      "date": "2026-02-16",
+      "close": 3521,
+      "dividend_type": "special",
+      "dividend_amount": 18.0,
+      "dividend_percent": 0.5112
+    },
+    {
+      "company": "Escorts Kubota Limited",
+      "symbol": "ESCORTS",
+      "isin": "INE042A01014",
+      "series": "EQ",
+      "date": "2026-07-03",
+      "close": 2964.9,
+      "dividend_type": "final",
+      "dividend_amount": 33.0,
+      "dividend_percent": 1.113
+    }
+  ]
+}

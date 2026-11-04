@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Graphite India Limited",
+      "symbol": "GRAPHITE",
+      "isin": "INE371A01025",
+      "series": "EQ",
+      "date": "2026-07-20",
+      "close": 637,
+      "dividend_type": "final",
+      "dividend_amount": 7.0,
+      "dividend_percent": 1.0989
+    }
+  ]
+}

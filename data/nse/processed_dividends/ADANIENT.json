@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Adani Enterprises Limited",
+      "symbol": "ADANIENT",
+      "isin": "INE423A01024",
+      "series": "EQ",
+      "date": "2026-06-12",
+      "close": 2921.6,
+      "dividend_type": "final",
+      "dividend_amount": 1.3,
+      "dividend_percent": 0.0445
+    }
+  ]
+}

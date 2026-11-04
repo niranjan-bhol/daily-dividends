@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Allied Blenders and Distillers Limited",
+      "symbol": "ABDL",
+      "isin": "INE552Z01027",
+      "series": "EQ",
+      "date": "2026-06-25",
+      "close": 622.3,
+      "dividend_type": "final",
+      "dividend_amount": 5.4,
+      "dividend_percent": 0.8677
+    }
+  ]
+}

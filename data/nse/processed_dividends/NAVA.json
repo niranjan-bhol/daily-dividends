@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "NAVA LIMITED",
+      "symbol": "NAVA",
+      "isin": "INE725A01022",
+      "series": "EQ",
+      "date": "2025-11-14",
+      "close": 549.25,
+      "dividend_type": "interim",
+      "dividend_amount": 3.0,
+      "dividend_percent": 0.5462
+    },
+    {
+      "company": "NAVA LIMITED",
+      "symbol": "NAVA",
+      "isin": "INE725A01022",
+      "series": "EQ",
+      "date": "2026-08-07",
+      "close": 581.85,
+      "dividend_type": "final",
+      "dividend_amount": 5.5,
+      "dividend_percent": 0.9453
+    }
+  ]
+}

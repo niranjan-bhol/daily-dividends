@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "company": "Bajaj Finserv Limited",
+      "symbol": "BAJAJFINSV",
+      "isin": "INE918I01018",
+      "series": "EQ",
+      "date": "30-Jun-2026",
+      "close": 1780.2,
+      "subject": "Dividend - Rs 1.50 Per Share"
+    }
+  ]
+}

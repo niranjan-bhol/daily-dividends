@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "company": "Anant Raj Limited",
+      "symbol": "ANANTRAJ",
+      "isin": "INE242C01024",
+      "series": "EQ",
+      "date": "31-Jul-2026",
+      "close": 624.5,
+      "subject": "Dividend - Re 1 Per Share"
+    }
+  ]
+}

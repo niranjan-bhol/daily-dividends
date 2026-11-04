@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Adani Total Gas Limited",
+      "symbol": "ATGL",
+      "isin": "INE399L01023",
+      "series": "EQ",
+      "date": "2026-06-12",
+      "close": 728.5,
+      "dividend_type": "final",
+      "dividend_amount": 0.25,
+      "dividend_percent": 0.0343
+    }
+  ]
+}

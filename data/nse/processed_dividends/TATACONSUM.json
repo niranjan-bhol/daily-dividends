@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "TATA CONSUMER PRODUCTS LIMITED",
+      "symbol": "TATACONSUM",
+      "isin": "INE192A01025",
+      "series": "EQ",
+      "date": "2026-05-25",
+      "close": 1187.2,
+      "dividend_type": "final",
+      "dividend_amount": 10.0,
+      "dividend_percent": 0.8423
+    }
+  ]
+}

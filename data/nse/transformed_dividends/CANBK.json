@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "company": "Canara Bank",
+      "symbol": "CANBK",
+      "isin": "INE476A01014",
+      "series": "EQ",
+      "date": "12-Jun-2026",
+      "close": 131.67,
+      "subject": "Dividend - Rs 4.20 Per Share"
+    }
+  ]
+}

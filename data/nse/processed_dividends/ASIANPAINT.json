@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Asian Paints Limited",
+      "symbol": "ASIANPAINT",
+      "isin": "INE021A01018",
+      "series": "EQ",
+      "date": "2025-11-18",
+      "close": 2906,
+      "dividend_type": "interim",
+      "dividend_amount": 4.5,
+      "dividend_percent": 0.1549
+    },
+    {
+      "company": "Asian Paints Limited",
+      "symbol": "ASIANPAINT",
+      "isin": "INE021A01018",
+      "series": "EQ",
+      "date": "2026-06-23",
+      "close": 2661.2,
+      "dividend_type": "final",
+      "dividend_amount": 23.0,
+      "dividend_percent": 0.8643
+    }
+  ]
+}

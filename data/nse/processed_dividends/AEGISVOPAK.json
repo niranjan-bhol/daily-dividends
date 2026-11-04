@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Aegis Vopak Terminals Limited",
+      "symbol": "AEGISVOPAK",
+      "isin": "INE0INX01018",
+      "series": "EQ",
+      "date": "2026-07-10",
+      "close": 283.18,
+      "dividend_type": "final",
+      "dividend_amount": 0.2,
+      "dividend_percent": 0.0706
+    }
+  ]
+}

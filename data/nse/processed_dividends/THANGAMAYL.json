@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Thangamayil Jewellery Limited",
+      "symbol": "THANGAMAYL",
+      "isin": "INE085J01014",
+      "series": "EQ",
+      "date": "2026-07-22",
+      "close": 6476,
+      "dividend_type": "final",
+      "dividend_amount": 18.0,
+      "dividend_percent": 0.2779
+    }
+  ]
+}

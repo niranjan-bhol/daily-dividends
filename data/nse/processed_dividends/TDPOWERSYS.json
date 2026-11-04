@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "TD Power Systems Limited",
+      "symbol": "TDPOWERSYS",
+      "isin": "INE419M01019",
+      "series": "EQ",
+      "date": "2025-11-06",
+      "close": 797.85,
+      "dividend_type": "interim",
+      "dividend_amount": 1.0,
+      "dividend_percent": 0.1253
+    },
+    {
+      "company": "TD Power Systems Limited",
+      "symbol": "TDPOWERSYS",
+      "isin": "INE419M01019",
+      "series": "EQ",
+      "date": "2026-08-05",
+      "close": 1201.9,
+      "dividend_type": "final",
+      "dividend_amount": 1.1,
+      "dividend_percent": 0.0915
+    }
+  ]
+}

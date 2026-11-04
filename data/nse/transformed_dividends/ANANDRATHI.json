@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Anand Rathi Wealth Limited",
+      "symbol": "ANANDRATHI",
+      "isin": "INE463V01026",
+      "series": "EQ",
+      "date": "15-May-2026",
+      "close": 3583.1,
+      "subject": "Dividend - Rs 7 Per Share"
+    },
+    {
+      "company": "Anand Rathi Wealth Limited",
+      "symbol": "ANANDRATHI",
+      "isin": "INE463V01026",
+      "series": "EQ",
+      "date": "15-Oct-2026",
+      "close": 2142.6,
+      "subject": "Interim Dividend - Rs 4 Per Share"
+    }
+  ]
+}

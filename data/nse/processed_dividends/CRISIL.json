@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "company": "Crisil Limited",
+      "symbol": "CRISIL",
+      "isin": "INE007A01017",
+      "series": "EQ",
+      "date": "2026-04-02",
+      "close": 3705.9,
+      "dividend_type": "final",
+      "dividend_amount": 28.0,
+      "dividend_percent": 0.7556
+    },
+    {
+      "company": "Crisil Limited",
+      "symbol": "CRISIL",
+      "isin": "INE007A01017",
+      "series": "EQ",
+      "date": "2026-04-23",
+      "close": 4353.9,
+      "dividend_type": "interim",
+      "dividend_amount": 9.0,
+      "dividend_percent": 0.2067
+    },
+    {
+      "company": "Crisil Limited",
+      "symbol": "CRISIL",
+      "isin": "INE007A01017",
+      "series": "EQ",
+      "date": "2026-07-27",
+      "close": 4486.3,
+      "dividend_type": "interim",
+      "dividend_amount": 10.0,
+      "dividend_percent": 0.2229
+    },
+    {
+      "company": "Crisil Limited",
+      "symbol": "CRISIL",
+      "isin": "INE007A01017",
+      "series": "EQ",
+      "date": "2026-10-29",
+      "close": 4598.4,
+      "dividend_type": "interim",
+      "dividend_amount": 17.0,
+      "dividend_percent": 0.3697
+    }
+  ]
+}

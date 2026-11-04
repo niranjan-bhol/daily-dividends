@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Sun Pharmaceutical Industries Limited",
+      "symbol": "SUNPHARMA",
+      "isin": "INE044A01028",
+      "series": "EQ",
+      "date": "05-Feb-2026",
+      "close": 1702.6,
+      "subject": "Interim Dividend - Rs 11 Per Share"
+    },
+    {
+      "company": "Sun Pharmaceutical Industries Limited",
+      "symbol": "SUNPHARMA",
+      "isin": "INE044A01028",
+      "series": "EQ",
+      "date": "07-Jul-2026",
+      "close": 1903.4,
+      "subject": "Dividend - Rs 5 Per Share"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Syrma SGS Technology Limited",
+      "symbol": "SYRMA",
+      "isin": "INE0DYJ01015",
+      "series": "EQ",
+      "date": "2026-08-18",
+      "close": 1500.1,
+      "dividend_type": "final",
+      "dividend_amount": 1.5,
+      "dividend_percent": 0.1
+    }
+  ]
+}

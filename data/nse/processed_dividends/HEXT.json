@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Hexaware Technologies Limited",
+      "symbol": "HEXT",
+      "isin": "INE093A01041",
+      "series": "EQ",
+      "date": "2026-05-05",
+      "close": 452.2,
+      "dividend_type": "interim",
+      "dividend_amount": 8.5,
+      "dividend_percent": 1.8797
+    },
+    {
+      "company": "Hexaware Technologies Limited",
+      "symbol": "HEXT",
+      "isin": "INE093A01041",
+      "series": "EQ",
+      "date": "2026-10-26",
+      "close": 592.65,
+      "dividend_type": "interim",
+      "dividend_amount": 9.5,
+      "dividend_percent": 1.603
+    }
+  ]
+}

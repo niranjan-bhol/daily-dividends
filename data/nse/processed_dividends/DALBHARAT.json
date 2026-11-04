@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Dalmia Bharat Limited",
+      "symbol": "DALBHARAT",
+      "isin": "INE00R701025",
+      "series": "EQ",
+      "date": "2026-06-23",
+      "close": 1680.6,
+      "dividend_type": "final",
+      "dividend_amount": 5.0,
+      "dividend_percent": 0.2975
+    },
+    {
+      "company": "Dalmia Bharat Limited",
+      "symbol": "DALBHARAT",
+      "isin": "INE00R701025",
+      "series": "EQ",
+      "date": "2026-10-30",
+      "close": 1326.2,
+      "dividend_type": "interim",
+      "dividend_amount": 4.0,
+      "dividend_percent": 0.3016
+    }
+  ]
+}

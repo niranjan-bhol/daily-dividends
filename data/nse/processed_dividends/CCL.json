@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "CCL Products (India) Limited",
+      "symbol": "CCL",
+      "isin": "INE421D01014",
+      "series": "EQ",
+      "date": "2026-02-10",
+      "close": 1031.05,
+      "dividend_type": "interim",
+      "dividend_amount": 2.75,
+      "dividend_percent": 0.2667
+    },
+    {
+      "company": "CCL Products (India) Limited",
+      "symbol": "CCL",
+      "isin": "INE421D01014",
+      "series": "EQ",
+      "date": "2026-09-01",
+      "close": 1100.1,
+      "dividend_type": "final",
+      "dividend_amount": 3.0,
+      "dividend_percent": 0.2727
+    }
+  ]
+}

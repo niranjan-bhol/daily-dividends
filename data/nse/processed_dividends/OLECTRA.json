@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Olectra Greentech Limited",
+      "symbol": "OLECTRA",
+      "isin": "INE260D01016",
+      "series": "EQ",
+      "date": "2026-09-18",
+      "close": 1198.8,
+      "dividend_type": "final",
+      "dividend_amount": 0.6,
+      "dividend_percent": 0.0501
+    }
+  ]
+}

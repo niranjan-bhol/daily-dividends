@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Hindustan Unilever Limited",
+      "symbol": "HINDUNILVR",
+      "isin": "INE030A01027",
+      "series": "EQ",
+      "date": "2025-11-07",
+      "close": 2414,
+      "dividend_type": "interim",
+      "dividend_amount": 19.0,
+      "dividend_percent": 0.7871
+    },
+    {
+      "company": "Hindustan Unilever Limited",
+      "symbol": "HINDUNILVR",
+      "isin": "INE030A01027",
+      "series": "EQ",
+      "date": "2026-06-23",
+      "close": 2160.1,
+      "dividend_type": "final",
+      "dividend_amount": 22.0,
+      "dividend_percent": 1.0185
+    }
+  ]
+}

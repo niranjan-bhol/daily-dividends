@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Cyient Limited",
+      "symbol": "CYIENT",
+      "isin": "INE136B01020",
+      "series": "EQ",
+      "date": "2026-10-28",
+      "close": 1156.7,
+      "dividend_type": "interim",
+      "dividend_amount": 12.0,
+      "dividend_percent": 1.0374
+    }
+  ]
+}

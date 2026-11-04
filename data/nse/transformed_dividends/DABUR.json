@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Dabur India Limited",
+      "symbol": "DABUR",
+      "isin": "INE016A01026",
+      "series": "EQ",
+      "date": "07-Nov-2025",
+      "close": 518.65,
+      "subject": "Interim Dividend - Rs 2.75 Per Share"
+    },
+    {
+      "company": "Dabur India Limited",
+      "symbol": "DABUR",
+      "isin": "INE016A01026",
+      "series": "EQ",
+      "date": "17-Jul-2026",
+      "close": 427.2,
+      "subject": "Dividend - Rs 5.50 Per Share"
+    }
+  ]
+}

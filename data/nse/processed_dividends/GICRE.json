@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "General Insurance Corporation of India",
+      "symbol": "GICRE",
+      "isin": "INE481Y01014",
+      "series": "EQ",
+      "date": "2026-09-04",
+      "close": 358.45,
+      "dividend_type": "final",
+      "dividend_amount": 13.25,
+      "dividend_percent": 3.6965
+    }
+  ]
+}

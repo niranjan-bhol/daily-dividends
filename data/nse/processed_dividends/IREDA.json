@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Indian Renewable Energy Development Agency Limited",
+      "symbol": "IREDA",
+      "isin": "INE202E07104",
+      "series": "EQ",
+      "date": "2026-04-02",
+      "close": 114.94,
+      "dividend_type": "interim",
+      "dividend_amount": 0.6,
+      "dividend_percent": 0.522
+    },
+    {
+      "company": "Indian Renewable Energy Development Agency Limited",
+      "symbol": "IREDA",
+      "isin": "INE202E07104",
+      "series": "EQ",
+      "date": "2026-09-11",
+      "close": 111.71,
+      "dividend_type": "final",
+      "dividend_amount": 0.75,
+      "dividend_percent": 0.6714
+    }
+  ]
+}

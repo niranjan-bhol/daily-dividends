@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Radico Khaitan Limited",
+      "symbol": "RADICO",
+      "isin": "INE944F01028",
+      "series": "EQ",
+      "date": "2026-07-24",
+      "close": 4091.3,
+      "dividend_type": "final",
+      "dividend_amount": 9.0,
+      "dividend_percent": 0.22
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Elgi Equipments Limited",
+      "symbol": "ELGIEQUIP",
+      "isin": "INE285A01027",
+      "series": "EQ",
+      "date": "2026-07-17",
+      "close": 581.7,
+      "dividend_type": "final",
+      "dividend_amount": 2.7,
+      "dividend_percent": 0.4642
+    }
+  ]
+}

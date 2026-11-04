@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "company": "SAGILITY LIMITED",
+      "symbol": "SAGILITY",
+      "isin": "INE0W2G01015",
+      "series": "EQ",
+      "date": "2025-11-12",
+      "close": 51.65,
+      "dividend_type": "interim",
+      "dividend_amount": 0.05,
+      "dividend_percent": 0.0968
+    },
+    {
+      "company": "SAGILITY LIMITED",
+      "symbol": "SAGILITY",
+      "isin": "INE0W2G01015",
+      "series": "EQ",
+      "date": "2026-08-07",
+      "close": 43.67,
+      "dividend_type": "final",
+      "dividend_amount": 0.1,
+      "dividend_percent": 0.229
+    },
+    {
+      "company": "SAGILITY LIMITED",
+      "symbol": "SAGILITY",
+      "isin": "INE0W2G01015",
+      "series": "EQ",
+      "date": "2026-10-30",
+      "close": 42.08,
+      "dividend_type": "interim",
+      "dividend_amount": 0.15,
+      "dividend_percent": 0.3565
+    }
+  ]
+}

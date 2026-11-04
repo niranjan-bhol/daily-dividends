@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Acutaas Chemicals Limited",
+      "symbol": "ACUTAAS",
+      "isin": "INE00FF01025",
+      "series": "EQ",
+      "date": "2026-09-17",
+      "close": 3315.1,
+      "dividend_type": "final",
+      "dividend_amount": 2.5,
+      "dividend_percent": 0.0754
+    }
+  ]
+}

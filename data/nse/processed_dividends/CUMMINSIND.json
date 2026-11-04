@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Cummins India Limited",
+      "symbol": "CUMMINSIND",
+      "isin": "INE298A01020",
+      "series": "EQ",
+      "date": "2026-02-11",
+      "close": 4363.2,
+      "dividend_type": "interim",
+      "dividend_amount": 20.0,
+      "dividend_percent": 0.4584
+    },
+    {
+      "company": "Cummins India Limited",
+      "symbol": "CUMMINSIND",
+      "isin": "INE298A01020",
+      "series": "EQ",
+      "date": "2026-07-17",
+      "close": 5448,
+      "dividend_type": "final",
+      "dividend_amount": 46.0,
+      "dividend_percent": 0.8443
+    }
+  ]
+}

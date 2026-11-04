@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Hyundai Motor India Limited",
+      "symbol": "HYUNDAI",
+      "isin": "INE0V6F01027",
+      "series": "EQ",
+      "date": "2026-08-05",
+      "close": 2218.5,
+      "dividend_type": "final",
+      "dividend_amount": 21.0,
+      "dividend_percent": 0.9466
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Escorts Kubota Limited",
+      "symbol": "ESCORTS",
+      "isin": "INE042A01014",
+      "series": "EQ",
+      "date": "16-Feb-2026",
+      "close": 3521,
+      "subject": "Special Dividend - Rs 18 Per Share"
+    },
+    {
+      "company": "Escorts Kubota Limited",
+      "symbol": "ESCORTS",
+      "isin": "INE042A01014",
+      "series": "EQ",
+      "date": "03-Jul-2026",
+      "close": 2964.9,
+      "subject": "Dividend - Rs 33 Per Share"
+    }
+  ]
+}

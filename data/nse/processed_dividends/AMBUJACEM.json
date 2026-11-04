@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Ambuja Cements Limited",
+      "symbol": "AMBUJACEM",
+      "isin": "INE079A01024",
+      "series": "EQ",
+      "date": "2026-06-12",
+      "close": 423.1,
+      "dividend_type": "final",
+      "dividend_amount": 2.0,
+      "dividend_percent": 0.4727
+    }
+  ]
+}

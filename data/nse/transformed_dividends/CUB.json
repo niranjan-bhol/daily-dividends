@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "company": "City Union Bank Limited",
+      "symbol": "CUB",
+      "isin": "INE491A01021",
+      "series": "EQ",
+      "date": "31-Jul-2026",
+      "close": 206.5,
+      "subject": "Dividend - Rs 2 Per Share"
+    }
+  ]
+}

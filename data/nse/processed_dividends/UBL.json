@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "United Breweries Limited",
+      "symbol": "UBL",
+      "isin": "INE686F01025",
+      "series": "EQ",
+      "date": "2026-08-07",
+      "close": 1400.3,
+      "dividend_type": "final",
+      "dividend_amount": 10.0,
+      "dividend_percent": 0.7141
+    }
+  ]
+}

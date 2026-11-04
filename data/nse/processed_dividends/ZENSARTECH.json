@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Zensar Technologies Limited",
+      "symbol": "ZENSARTECH",
+      "isin": "INE520A01019",
+      "series": "EQ",
+      "date": "2026-01-29",
+      "close": 668.55,
+      "dividend_type": "interim",
+      "dividend_amount": 2.4,
+      "dividend_percent": 0.359
+    },
+    {
+      "company": "Zensar Technologies Limited",
+      "symbol": "ZENSARTECH",
+      "isin": "INE520A01019",
+      "series": "EQ",
+      "date": "2026-07-17",
+      "close": 518.15,
+      "dividend_type": "final",
+      "dividend_amount": 12.6,
+      "dividend_percent": 2.4317
+    }
+  ]
+}

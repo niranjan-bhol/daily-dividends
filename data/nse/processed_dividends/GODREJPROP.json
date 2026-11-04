@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Godrej Properties Limited",
+      "symbol": "GODREJPROP",
+      "isin": "INE484J01019",
+      "series": "EQ",
+      "date": "2026-07-28",
+      "close": 2136.6,
+      "dividend_type": "final",
+      "dividend_amount": 10.0,
+      "dividend_percent": 0.468
+    }
+  ]
+}

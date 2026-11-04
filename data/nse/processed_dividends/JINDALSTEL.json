@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "JINDAL STEEL LIMITED",
+      "symbol": "JINDALSTEL",
+      "isin": "INE749A01030",
+      "series": "EQ",
+      "date": "2026-08-21",
+      "close": 1127.8,
+      "dividend_type": "final",
+      "dividend_amount": 2.0,
+      "dividend_percent": 0.1773
+    }
+  ]
+}

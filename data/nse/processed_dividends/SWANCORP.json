@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "SWAN CORP LIMITED",
+      "symbol": "SWANCORP",
+      "isin": "INE665A01038",
+      "series": "EQ",
+      "date": "2026-08-28",
+      "close": 298.15,
+      "dividend_type": "final",
+      "dividend_amount": 0.15,
+      "dividend_percent": 0.0503
+    }
+  ]
+}

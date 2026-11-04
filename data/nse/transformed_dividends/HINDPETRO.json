@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Hindustan Petroleum Corporation Limited",
+      "symbol": "HINDPETRO",
+      "isin": "INE094A01015",
+      "series": "EQ",
+      "date": "06-Nov-2025",
+      "close": 473.15,
+      "subject": "Interim Dividend - Rs 5 Per Share"
+    },
+    {
+      "company": "Hindustan Petroleum Corporation Limited",
+      "symbol": "HINDPETRO",
+      "isin": "INE094A01015",
+      "series": "EQ",
+      "date": "14-Aug-2026",
+      "close": 373.5,
+      "subject": "Dividend - Rs 19.25 Per Share"
+    }
+  ]
+}

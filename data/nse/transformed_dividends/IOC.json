@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "company": "Indian Oil Corporation Limited",
+      "symbol": "IOC",
+      "isin": "INE242A01010",
+      "series": "EQ",
+      "date": "18-Dec-2025",
+      "close": 161.75,
+      "subject": "Interim Dividend - Rs 5 Per Share"
+    },
+    {
+      "company": "Indian Oil Corporation Limited",
+      "symbol": "IOC",
+      "isin": "INE242A01010",
+      "series": "EQ",
+      "date": "12-Mar-2026",
+      "close": 160.16,
+      "subject": "Interim Dividend - Rs 2 Per Share"
+    },
+    {
+      "company": "Indian Oil Corporation Limited",
+      "symbol": "IOC",
+      "isin": "INE242A01010",
+      "series": "EQ",
+      "date": "14-Aug-2026",
+      "close": 139.4,
+      "subject": "Dividend - Rs 1.25 Per Share"
+    }
+  ]
+}

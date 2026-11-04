@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Zensar Technologies Limited",
+      "symbol": "ZENSARTECH",
+      "isin": "INE520A01019",
+      "series": "EQ",
+      "date": "29-Jan-2026",
+      "close": 668.55,
+      "subject": "Interim Dividend - Rs 2.40 Per Share"
+    },
+    {
+      "company": "Zensar Technologies Limited",
+      "symbol": "ZENSARTECH",
+      "isin": "INE520A01019",
+      "series": "EQ",
+      "date": "17-Jul-2026",
+      "close": 518.15,
+      "subject": "Dividend - Rs 12.60 Per Share"
+    }
+  ]
+}

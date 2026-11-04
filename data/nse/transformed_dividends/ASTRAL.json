@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Astral Limited",
+      "symbol": "ASTRAL",
+      "isin": "INE006I01012",
+      "series": "EQ",
+      "date": "11-Nov-2025",
+      "close": 1555.8,
+      "subject": "Interim Dividend - Rs 1.50 Per Share"
+    },
+    {
+      "company": "Astral Limited",
+      "symbol": "ASTRAL",
+      "isin": "INE006I01012",
+      "series": "EQ",
+      "date": "14-Aug-2026",
+      "close": 1556.3,
+      "subject": "Dividend - Rs 2.50 Per Share"
+    }
+  ]
+}

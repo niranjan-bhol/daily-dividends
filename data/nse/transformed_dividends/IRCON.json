@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Ircon International Limited",
+      "symbol": "IRCON",
+      "isin": "INE962Y01013",
+      "series": "EQ",
+      "date": "17-Feb-2026",
+      "close": 152.15,
+      "subject": "Interim Dividend - Rs 1.20 Per Share"
+    },
+    {
+      "company": "Ircon International Limited",
+      "symbol": "IRCON",
+      "isin": "INE962Y01013",
+      "series": "EQ",
+      "date": "17-Sep-2026",
+      "close": 107.86,
+      "subject": "Dividend - Re 0.70 Per Share"
+    }
+  ]
+}

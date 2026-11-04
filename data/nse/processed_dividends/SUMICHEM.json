@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Sumitomo Chemical India Limited",
+      "symbol": "SUMICHEM",
+      "isin": "INE258G01013",
+      "series": "EQ",
+      "date": "2026-07-17",
+      "close": 538.55,
+      "dividend_type": "final",
+      "dividend_amount": 1.3,
+      "dividend_percent": 0.2414
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Himadri Speciality Chemical Limited",
+      "symbol": "HSCL",
+      "isin": "INE019C01026",
+      "series": "EQ",
+      "date": "2026-05-22",
+      "close": 587.15,
+      "dividend_type": "final",
+      "dividend_amount": 0.8,
+      "dividend_percent": 0.1363
+    }
+  ]
+}

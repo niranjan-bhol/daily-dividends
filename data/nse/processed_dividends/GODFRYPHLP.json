@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Godfrey Phillips India Limited",
+      "symbol": "GODFRYPHLP",
+      "isin": "INE260B01010",
+      "series": "EQ",
+      "date": "2025-11-10",
+      "close": 2998.7,
+      "dividend_type": "interim",
+      "dividend_amount": 17.0,
+      "dividend_percent": 0.5669
+    },
+    {
+      "company": "Godfrey Phillips India Limited",
+      "symbol": "GODFRYPHLP",
+      "isin": "INE260B01010",
+      "series": "EQ",
+      "date": "2026-08-11",
+      "close": 2224.9,
+      "dividend_type": "final",
+      "dividend_amount": 33.0,
+      "dividend_percent": 1.4832
+    }
+  ]
+}

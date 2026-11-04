@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Tata Elxsi Limited",
+      "symbol": "TATAELXSI",
+      "isin": "INE670A01012",
+      "series": "EQ",
+      "date": "2026-06-10",
+      "close": 4092.2,
+      "dividend_type": "final",
+      "dividend_amount": 75.0,
+      "dividend_percent": 1.8328
+    }
+  ]
+}

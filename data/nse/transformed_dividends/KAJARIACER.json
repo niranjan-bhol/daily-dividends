@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Kajaria Ceramics Limited",
+      "symbol": "KAJARIACER",
+      "isin": "INE217B01028",
+      "series": "EQ",
+      "date": "21-Sep-2026",
+      "close": 1200.5,
+      "subject": "Dividend - Rs 6 Per Share"
+    },
+    {
+      "company": "Kajaria Ceramics Limited",
+      "symbol": "KAJARIACER",
+      "isin": "INE217B01028",
+      "series": "EQ",
+      "date": "29-Oct-2026",
+      "close": 1102.1,
+      "subject": "Interim Dividend - Rs 12 Per Share"
+    }
+  ]
+}

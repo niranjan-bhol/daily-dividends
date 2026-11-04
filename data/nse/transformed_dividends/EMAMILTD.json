@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Emami Limited",
+      "symbol": "EMAMILTD",
+      "isin": "INE548C01024",
+      "series": "EQ",
+      "date": "14-Nov-2025",
+      "close": 520.35,
+      "subject": "Interim Dividend - Rs 4 Per Share"
+    },
+    {
+      "company": "Emami Limited",
+      "symbol": "EMAMILTD",
+      "isin": "INE548C01024",
+      "series": "EQ",
+      "date": "10-Feb-2026",
+      "close": 499.1,
+      "subject": "Interim Dividend - Rs 6 Per Share"
+    }
+  ]
+}

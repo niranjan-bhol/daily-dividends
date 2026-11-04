@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "PG Electroplast Limited",
+      "symbol": "PGEL",
+      "isin": "INE457L01011",
+      "series": "EQ",
+      "date": "2026-09-18",
+      "close": 529.15,
+      "dividend_type": "final",
+      "dividend_amount": 0.25,
+      "dividend_percent": 0.0472
+    }
+  ]
+}

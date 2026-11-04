@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Shyam Metalics and Energy Limited",
+      "symbol": "SHYAMMETL",
+      "isin": "INE810G01011",
+      "series": "EQ",
+      "date": "2026-07-24",
+      "close": 1027.45,
+      "dividend_type": "interim",
+      "dividend_amount": 1.8,
+      "dividend_percent": 0.1752
+    },
+    {
+      "company": "Shyam Metalics and Energy Limited",
+      "symbol": "SHYAMMETL",
+      "isin": "INE810G01011",
+      "series": "EQ",
+      "date": "2026-08-07",
+      "close": 1006.9,
+      "dividend_type": "final",
+      "dividend_amount": 2.7,
+      "dividend_percent": 0.2681
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "RBL Bank Limited",
+      "symbol": "RBLBANK",
+      "isin": "INE976G01028",
+      "series": "EQ",
+      "date": "2026-08-14",
+      "close": 385,
+      "dividend_type": "final",
+      "dividend_amount": 1.0,
+      "dividend_percent": 0.2597
+    }
+  ]
+}

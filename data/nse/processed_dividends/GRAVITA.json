@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Gravita India Limited",
+      "symbol": "GRAVITA",
+      "isin": "INE024L01019",
+      "series": "EQ",
+      "date": "2026-11-03",
+      "close": 1400.3,
+      "dividend_type": "interim",
+      "dividend_amount": 7.7,
+      "dividend_percent": 0.5499
+    }
+  ]
+}

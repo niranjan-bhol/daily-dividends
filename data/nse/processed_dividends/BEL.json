@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Bharat Electronics Limited",
+      "symbol": "BEL",
+      "isin": "INE263A01016",
+      "series": "EQ",
+      "date": "2026-03-06",
+      "close": 468.45,
+      "dividend_type": "interim",
+      "dividend_amount": 1.95,
+      "dividend_percent": 0.4163
+    },
+    {
+      "company": "Bharat Electronics Limited",
+      "symbol": "BEL",
+      "isin": "INE263A01016",
+      "series": "EQ",
+      "date": "2026-08-13",
+      "close": 410.5,
+      "dividend_type": "final",
+      "dividend_amount": 0.55,
+      "dividend_percent": 0.134
+    }
+  ]
+}

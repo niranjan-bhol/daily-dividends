@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "EIH Limited",
+      "symbol": "EIHOTEL",
+      "isin": "INE230A01023",
+      "series": "EQ",
+      "date": "2026-07-31",
+      "close": 327,
+      "dividend_type": "final",
+      "dividend_amount": 1.5,
+      "dividend_percent": 0.4587
+    }
+  ]
+}

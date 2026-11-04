@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Usha Martin Limited",
+      "symbol": "USHAMART",
+      "isin": "INE228A01035",
+      "series": "EQ",
+      "date": "2026-08-13",
+      "close": 497.35,
+      "dividend_type": "final",
+      "dividend_amount": 3.75,
+      "dividend_percent": 0.754
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "NMDC Limited",
+      "symbol": "NMDC",
+      "isin": "INE584A01023",
+      "series": "EQ",
+      "date": "2026-02-13",
+      "close": 79.43,
+      "dividend_type": "interim",
+      "dividend_amount": 2.5,
+      "dividend_percent": 3.1474
+    },
+    {
+      "company": "NMDC Limited",
+      "symbol": "NMDC",
+      "isin": "INE584A01023",
+      "series": "EQ",
+      "date": "2026-10-05",
+      "close": 73.74,
+      "dividend_type": "final",
+      "dividend_amount": 1.0,
+      "dividend_percent": 1.3561
+    }
+  ]
+}

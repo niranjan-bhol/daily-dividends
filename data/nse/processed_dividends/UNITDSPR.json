@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "United Spirits Limited",
+      "symbol": "UNITDSPR",
+      "isin": "INE854D01024",
+      "series": "EQ",
+      "date": "2026-01-27",
+      "close": 1311.5,
+      "dividend_type": "interim",
+      "dividend_amount": 6.0,
+      "dividend_percent": 0.4575
+    },
+    {
+      "company": "United Spirits Limited",
+      "symbol": "UNITDSPR",
+      "isin": "INE854D01024",
+      "series": "EQ",
+      "date": "2026-07-08",
+      "close": 1408.8,
+      "dividend_type": "final",
+      "dividend_amount": 11.0,
+      "dividend_percent": 0.7808
+    }
+  ]
+}

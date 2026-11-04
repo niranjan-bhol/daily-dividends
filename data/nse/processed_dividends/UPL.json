@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "UPL Limited",
+      "symbol": "UPL",
+      "isin": "INE628A01036",
+      "series": "EQ",
+      "date": "2026-07-17",
+      "close": 616.6,
+      "dividend_type": "final",
+      "dividend_amount": 6.0,
+      "dividend_percent": 0.9731
+    }
+  ]
+}

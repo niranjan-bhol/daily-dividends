@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "company": "Varun Beverages Limited",
+      "symbol": "VBL",
+      "isin": "INE200M01013",
+      "series": "EQ",
+      "date": "08-Apr-2026",
+      "close": 421.9,
+      "subject": "Dividend - Re 0.50 Per Share"
+    },
+    {
+      "company": "Varun Beverages Limited",
+      "symbol": "VBL",
+      "isin": "INE200M01013",
+      "series": "EQ",
+      "date": "30-Apr-2026",
+      "close": 513.7,
+      "subject": "Interim Dividend - Re 0.50 Per Share"
+    },
+    {
+      "company": "Varun Beverages Limited",
+      "symbol": "VBL",
+      "isin": "INE200M01013",
+      "series": "EQ",
+      "date": "31-Jul-2026",
+      "close": 442.3,
+      "subject": "Interim Dividend - Re 0.50 Per Share"
+    }
+  ]
+}

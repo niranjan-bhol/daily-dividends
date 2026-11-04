@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Asian Paints Limited",
+      "symbol": "ASIANPAINT",
+      "isin": "INE021A01018",
+      "series": "EQ",
+      "date": "18-Nov-2025",
+      "close": 2906,
+      "subject": "Interim Dividend - Rs 4.50 Per Share"
+    },
+    {
+      "company": "Asian Paints Limited",
+      "symbol": "ASIANPAINT",
+      "isin": "INE021A01018",
+      "series": "EQ",
+      "date": "23-Jun-2026",
+      "close": 2661.2,
+      "subject": "Dividend - Rs 23 Per Share"
+    }
+  ]
+}

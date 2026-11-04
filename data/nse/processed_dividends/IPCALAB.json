@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "IPCA Laboratories Limited",
+      "symbol": "IPCALAB",
+      "isin": "INE571A01020",
+      "series": "EQ",
+      "date": "2026-08-07",
+      "close": 1735.8,
+      "dividend_type": "final",
+      "dividend_amount": 6.0,
+      "dividend_percent": 0.3457
+    }
+  ]
+}

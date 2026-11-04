@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Ajanta Pharma Limited",
+      "symbol": "AJANTPHARM",
+      "isin": "INE031B01015",
+      "series": "EQ",
+      "date": "10-Nov-2025",
+      "close": 2528.8,
+      "subject": "Interim Dividend - Rs 28 Per Share"
+    },
+    {
+      "company": "Ajanta Pharma Limited",
+      "symbol": "AJANTPHARM",
+      "isin": "INE031B01015",
+      "series": "EQ",
+      "date": "05-Aug-2026",
+      "close": 3437.5,
+      "subject": "Interim Dividend - Rs 32 Per Share"
+    }
+  ]
+}

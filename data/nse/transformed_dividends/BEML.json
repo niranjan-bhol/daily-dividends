@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "company": "BEML Limited",
+      "symbol": "BEML",
+      "isin": "INE258A01016",
+      "series": "EQ",
+      "date": "13-Feb-2026",
+      "close": 1735.9,
+      "subject": "Interim Dividend - Rs 2.50 Per Share"
+    },
+    {
+      "company": "BEML Limited",
+      "symbol": "BEML",
+      "isin": "INE258A01016",
+      "series": "EQ",
+      "date": "05-Jun-2026",
+      "close": 1742.8,
+      "subject": "Interim Dividend - Rs 2.30 Per Share"
+    },
+    {
+      "company": "BEML Limited",
+      "symbol": "BEML",
+      "isin": "INE258A01016",
+      "series": "EQ",
+      "date": "22-Sep-2026",
+      "close": 2096.8,
+      "subject": "Dividend - Rs 12.28 Per Share"
+    }
+  ]
+}

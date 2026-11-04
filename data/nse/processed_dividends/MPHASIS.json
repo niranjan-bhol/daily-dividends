@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "MphasiS Limited",
+      "symbol": "MPHASIS",
+      "isin": "INE356A01018",
+      "series": "EQ",
+      "date": "2026-07-08",
+      "close": 2241.9,
+      "dividend_type": "final",
+      "dividend_amount": 62.0,
+      "dividend_percent": 2.7655
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "International Gemological Institute Limited",
+      "symbol": "IGIL",
+      "isin": "INE0Q9301021",
+      "series": "EQ",
+      "date": "17-Feb-2026",
+      "close": 330.25,
+      "subject": "Interim Dividend - Rs 2.50 Per Share"
+    },
+    {
+      "company": "International Gemological Institute Limited",
+      "symbol": "IGIL",
+      "isin": "INE0Q9301021",
+      "series": "EQ",
+      "date": "24-Aug-2026",
+      "close": 340.65,
+      "subject": "Interim Dividend - Rs 2.55 Per Share"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Hindustan Unilever Limited",
+      "symbol": "HINDUNILVR",
+      "isin": "INE030A01027",
+      "series": "EQ",
+      "date": "07-Nov-2025",
+      "close": 2414,
+      "subject": "Interim Dividend - Rs 19 Per Share"
+    },
+    {
+      "company": "Hindustan Unilever Limited",
+      "symbol": "HINDUNILVR",
+      "isin": "INE030A01027",
+      "series": "EQ",
+      "date": "23-Jun-2026",
+      "close": 2160.1,
+      "subject": "Dividend - Rs 22 Per Share"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "company": "Bank of Baroda",
+      "symbol": "BANKBARODA",
+      "isin": "INE028A01013",
+      "series": "EQ",
+      "date": "05-Jun-2026",
+      "close": 263.7,
+      "subject": "Dividend - Rs 8.50 Per Share"
+    }
+  ]
+}

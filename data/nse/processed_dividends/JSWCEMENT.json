@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "JSW Cement Limited",
+      "symbol": "JSWCEMENT",
+      "isin": "INE718I01012",
+      "series": "EQ",
+      "date": "2026-07-10",
+      "close": 138.22,
+      "dividend_type": "final",
+      "dividend_amount": 0.5,
+      "dividend_percent": 0.3617
+    }
+  ]
+}

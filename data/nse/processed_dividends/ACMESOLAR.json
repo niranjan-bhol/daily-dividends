@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Acme Solar Holdings Limited",
+      "symbol": "ACMESOLAR",
+      "isin": "INE622W01025",
+      "series": "EQ",
+      "date": "2026-02-06",
+      "close": 221.59,
+      "dividend_type": "interim",
+      "dividend_amount": 0.2,
+      "dividend_percent": 0.0903
+    }
+  ]
+}

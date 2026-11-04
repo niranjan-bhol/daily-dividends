@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Sansera Engineering Limited",
+      "symbol": "SANSERA",
+      "isin": "INE953O01021",
+      "series": "EQ",
+      "date": "2026-09-17",
+      "close": 4017.5,
+      "dividend_type": "final",
+      "dividend_amount": 4.0,
+      "dividend_percent": 0.0996
+    }
+  ]
+}

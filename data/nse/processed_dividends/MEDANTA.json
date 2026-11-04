@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Global Health Limited",
+      "symbol": "MEDANTA",
+      "isin": "INE474Q01031",
+      "series": "EQ",
+      "date": "2026-08-14",
+      "close": 1422.6,
+      "dividend_type": "final",
+      "dividend_amount": 0.5,
+      "dividend_percent": 0.0351
+    }
+  ]
+}

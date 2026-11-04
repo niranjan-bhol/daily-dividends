@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Cholamandalam Financial Holdings Limited",
+      "symbol": "CHOLAHLDNG",
+      "isin": "INE149A01033",
+      "series": "EQ",
+      "date": "2026-08-07",
+      "close": 1628,
+      "dividend_type": "final",
+      "dividend_amount": 1.3,
+      "dividend_percent": 0.0799
+    }
+  ]
+}

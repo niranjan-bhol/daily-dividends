@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Kotak Mahindra Bank Limited",
+      "symbol": "KOTAKBANK",
+      "isin": "INE237A01010",
+      "series": "EQ",
+      "date": "2026-07-17",
+      "close": 389.95,
+      "dividend_type": "final",
+      "dividend_amount": 0.65,
+      "dividend_percent": 0.1667
+    }
+  ]
+}

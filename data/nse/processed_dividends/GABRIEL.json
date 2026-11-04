@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Gabriel India Limited",
+      "symbol": "GABRIEL",
+      "isin": "INE524A01029",
+      "series": "EQ",
+      "date": "2025-11-21",
+      "close": 1019.8,
+      "dividend_type": "interim",
+      "dividend_amount": 1.9,
+      "dividend_percent": 0.1863
+    },
+    {
+      "company": "Gabriel India Limited",
+      "symbol": "GABRIEL",
+      "isin": "INE524A01029",
+      "series": "EQ",
+      "date": "2026-08-12",
+      "close": 1476.8,
+      "dividend_type": "final",
+      "dividend_amount": 3.1,
+      "dividend_percent": 0.2099
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Torrent Power Limited",
+      "symbol": "TORNTPOWER",
+      "isin": "INE813H01021",
+      "series": "EQ",
+      "date": "2026-02-16",
+      "close": 1471.4,
+      "dividend_type": "interim",
+      "dividend_amount": 15.0,
+      "dividend_percent": 1.0194
+    },
+    {
+      "company": "Torrent Power Limited",
+      "symbol": "TORNTPOWER",
+      "isin": "INE813H01021",
+      "series": "EQ",
+      "date": "2026-06-19",
+      "close": 1438.4,
+      "dividend_type": "final",
+      "dividend_amount": 5.0,
+      "dividend_percent": 0.3476
+    }
+  ]
+}

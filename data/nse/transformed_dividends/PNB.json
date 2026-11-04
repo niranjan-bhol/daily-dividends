@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "company": "Punjab National Bank",
+      "symbol": "PNB",
+      "isin": "INE160A01014",
+      "series": "EQ",
+      "date": "12-Jun-2026",
+      "close": 106.88,
+      "subject": "Dividend - Rs 3 Per Share"
+    }
+  ]
+}

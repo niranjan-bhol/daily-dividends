@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "LTM Limited",
+      "symbol": "LTM",
+      "isin": "INE214T01019",
+      "series": "EQ",
+      "date": "25-May-2026",
+      "close": 3991.6,
+      "subject": "Dividend - Rs 53 Per Share"
+    },
+    {
+      "company": "LTM Limited",
+      "symbol": "LTM",
+      "isin": "INE214T01019",
+      "series": "EQ",
+      "date": "23-Oct-2026",
+      "close": 4134,
+      "subject": "Interim Dividend - Rs 25 Per Share"
+    }
+  ]
+}

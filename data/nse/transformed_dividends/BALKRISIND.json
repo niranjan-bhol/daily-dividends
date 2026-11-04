@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "company": "Balkrishna Industries Limited",
+      "symbol": "BALKRISIND",
+      "isin": "INE787D01018",
+      "series": "EQ",
+      "date": "07-Nov-2025",
+      "close": 2321.6,
+      "subject": "Interim Dividend - Rs 4 Per Share"
+    },
+    {
+      "company": "Balkrishna Industries Limited",
+      "symbol": "BALKRISIND",
+      "isin": "INE787D01018",
+      "series": "EQ",
+      "date": "02-Feb-2026",
+      "close": 2293.8,
+      "subject": "Interim Dividend - Rs 4 Per Share"
+    },
+    {
+      "company": "Balkrishna Industries Limited",
+      "symbol": "BALKRISIND",
+      "isin": "INE787D01018",
+      "series": "EQ",
+      "date": "17-Jul-2026",
+      "close": 2065.3,
+      "subject": "Dividend - Rs 4 Per Share"
+    },
+    {
+      "company": "Balkrishna Industries Limited",
+      "symbol": "BALKRISIND",
+      "isin": "INE787D01018",
+      "series": "EQ",
+      "date": "04-Aug-2026",
+      "close": 2491.9,
+      "subject": "Interim Dividend - Rs 4 Per Share"
+    }
+  ]
+}

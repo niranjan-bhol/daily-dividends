@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "company": "Union Bank of India",
+      "symbol": "UNIONBANK",
+      "isin": "INE692A01016",
+      "series": "EQ",
+      "date": "03-Jul-2026",
+      "close": 163.09,
+      "subject": "Dividend - Rs 5 Per Share"
+    }
+  ]
+}

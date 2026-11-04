@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "DOMS Industries Limited",
+      "symbol": "DOMS",
+      "isin": "INE321T01012",
+      "series": "EQ",
+      "date": "2026-08-27",
+      "close": 2214.9,
+      "dividend_type": "final",
+      "dividend_amount": 3.65,
+      "dividend_percent": 0.1648
+    }
+  ]
+}

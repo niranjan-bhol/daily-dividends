@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "company": "ACC Limited",
+      "symbol": "ACC",
+      "isin": "INE012A01025",
+      "series": "EQ",
+      "date": "12-Jun-2026",
+      "close": 1336.6,
+      "subject": "Dividend - Rs 7.50 Per Share"
+    }
+  ]
+}

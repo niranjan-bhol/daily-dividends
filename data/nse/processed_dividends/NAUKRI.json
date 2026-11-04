@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "company": "Info Edge (India) Limited",
+      "symbol": "NAUKRI",
+      "isin": "INE663F01024",
+      "series": "EQ",
+      "date": "2025-11-21",
+      "close": 1340.4,
+      "dividend_type": "interim",
+      "dividend_amount": 2.4,
+      "dividend_percent": 0.1791
+    },
+    {
+      "company": "Info Edge (India) Limited",
+      "symbol": "NAUKRI",
+      "isin": "INE663F01024",
+      "series": "EQ",
+      "date": "2026-02-20",
+      "close": 1074.8,
+      "dividend_type": "interim",
+      "dividend_amount": 2.4,
+      "dividend_percent": 0.2233
+    },
+    {
+      "company": "Info Edge (India) Limited",
+      "symbol": "NAUKRI",
+      "isin": "INE663F01024",
+      "series": "EQ",
+      "date": "2026-07-24",
+      "close": 1165.5,
+      "dividend_type": "final",
+      "dividend_amount": 3.6,
+      "dividend_percent": 0.3089
+    }
+  ]
+}

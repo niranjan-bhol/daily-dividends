@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Mahindra & Mahindra Limited",
+      "symbol": "M&M",
+      "isin": "INE101A01026",
+      "series": "EQ",
+      "date": "2026-07-03",
+      "close": 3136.9,
+      "dividend_type": "final",
+      "dividend_amount": 33.0,
+      "dividend_percent": 1.052
+    }
+  ]
+}

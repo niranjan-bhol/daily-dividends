@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "company": "DLF Limited",
+      "symbol": "DLF",
+      "isin": "INE271C01023",
+      "series": "EQ",
+      "date": "27-Jul-2026",
+      "close": 650.9,
+      "subject": "Dividend - Rs 8 Per Share"
+    }
+  ]
+}

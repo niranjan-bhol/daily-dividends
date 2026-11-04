@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "CESC Limited",
+      "symbol": "CESC",
+      "isin": "INE486A01013",
+      "series": "EQ",
+      "date": "2026-08-19",
+      "close": 159.66,
+      "dividend_type": "interim",
+      "dividend_amount": 6.0,
+      "dividend_percent": 3.758
+    }
+  ]
+}

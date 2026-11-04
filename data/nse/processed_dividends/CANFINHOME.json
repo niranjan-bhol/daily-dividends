@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Can Fin Homes Limited",
+      "symbol": "CANFINHOME",
+      "isin": "INE477A01012",
+      "series": "EQ",
+      "date": "2025-12-19",
+      "close": 936.6,
+      "dividend_type": "interim",
+      "dividend_amount": 7.0,
+      "dividend_percent": 0.7474
+    },
+    {
+      "company": "Can Fin Homes Limited",
+      "symbol": "CANFINHOME",
+      "isin": "INE477A01012",
+      "series": "EQ",
+      "date": "2026-07-03",
+      "close": 900.1,
+      "dividend_type": "final",
+      "dividend_amount": 8.0,
+      "dividend_percent": 0.8888
+    }
+  ]
+}

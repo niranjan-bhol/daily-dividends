@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Laurus Labs Limited",
+      "symbol": "LAURUSLABS",
+      "isin": "INE947Q01010",
+      "series": "EQ",
+      "date": "2026-05-08",
+      "close": 1228.3,
+      "dividend_type": "interim",
+      "dividend_amount": 1.2,
+      "dividend_percent": 0.0977
+    }
+  ]
+}

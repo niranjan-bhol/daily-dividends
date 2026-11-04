@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Vedanta Aluminium Metal Limited",
+      "symbol": "VAML",
+      "isin": "INE1CDF01017",
+      "series": "EQ",
+      "date": "2026-08-05",
+      "close": 467.95,
+      "dividend_type": "interim",
+      "dividend_amount": 8.0,
+      "dividend_percent": 1.7096
+    }
+  ]
+}

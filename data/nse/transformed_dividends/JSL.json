@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Jindal Stainless Limited",
+      "symbol": "JSL",
+      "isin": "INE220G01021",
+      "series": "EQ",
+      "date": "29-Jan-2026",
+      "close": 810.1,
+      "subject": "Interim Dividend - Re 1 Per Share"
+    },
+    {
+      "company": "Jindal Stainless Limited",
+      "symbol": "JSL",
+      "isin": "INE220G01021",
+      "series": "EQ",
+      "date": "21-Aug-2026",
+      "close": 701.35,
+      "subject": "Dividend - Rs 3 Per Share"
+    }
+  ]
+}

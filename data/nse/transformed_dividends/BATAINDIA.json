@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Bata India Limited",
+      "symbol": "BATAINDIA",
+      "isin": "INE176A01010",
+      "series": "EQ",
+      "date": "31-Jul-2026",
+      "close": 696.15,
+      "subject": "Dividend - Rs 9 Per Share"
+    },
+    {
+      "company": "Bata India Limited",
+      "symbol": "BATAINDIA",
+      "isin": "INE176A01010",
+      "series": "EQ",
+      "date": "19-Aug-2026",
+      "close": 721.3,
+      "subject": "Interim Dividend - Rs 25 Per Share"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Axis Bank Limited",
+      "symbol": "AXISBANK",
+      "isin": "INE238A01026",
+      "series": "EQ",
+      "date": "2026-07-10",
+      "close": 1323.7,
+      "dividend_type": "final",
+      "dividend_amount": 1.0,
+      "dividend_percent": 0.0755
+    }
+  ]
+}

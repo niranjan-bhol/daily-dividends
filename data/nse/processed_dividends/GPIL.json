@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Godawari Power And Ispat limited",
+      "symbol": "GPIL",
+      "isin": "INE177H01013",
+      "series": "EQ",
+      "date": "2026-08-14",
+      "close": 235.43,
+      "dividend_type": "final",
+      "dividend_amount": 1.0,
+      "dividend_percent": 0.4248
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Crompton Greaves Consumer Electricals Limited",
+      "symbol": "CROMPTON",
+      "isin": "INE299U01018",
+      "series": "EQ",
+      "date": "2026-07-24",
+      "close": 250.15,
+      "dividend_type": "final",
+      "dividend_amount": 3.0,
+      "dividend_percent": 1.1993
+    }
+  ]
+}

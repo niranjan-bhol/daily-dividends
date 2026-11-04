@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "company": "Cochin Shipyard Limited",
+      "symbol": "COCHINSHIP",
+      "isin": "INE704P01017",
+      "series": "EQ",
+      "date": "2025-11-18",
+      "close": 1710,
+      "dividend_type": "interim",
+      "dividend_amount": 4.0,
+      "dividend_percent": 0.2339
+    },
+    {
+      "company": "Cochin Shipyard Limited",
+      "symbol": "COCHINSHIP",
+      "isin": "INE704P01017",
+      "series": "EQ",
+      "date": "2026-02-03",
+      "close": 1508.5,
+      "dividend_type": "interim",
+      "dividend_amount": 3.5,
+      "dividend_percent": 0.232
+    },
+    {
+      "company": "Cochin Shipyard Limited",
+      "symbol": "COCHINSHIP",
+      "isin": "INE704P01017",
+      "series": "EQ",
+      "date": "2026-09-18",
+      "close": 1398,
+      "dividend_type": "final",
+      "dividend_amount": 1.5,
+      "dividend_percent": 0.1073
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "company": "RITES Limited",
+      "symbol": "RITES",
+      "isin": "INE320J01015",
+      "series": "EQ",
+      "date": "2025-11-14",
+      "close": 246.32,
+      "dividend_type": "interim",
+      "dividend_amount": 2.0,
+      "dividend_percent": 0.812
+    },
+    {
+      "company": "RITES Limited",
+      "symbol": "RITES",
+      "isin": "INE320J01015",
+      "series": "EQ",
+      "date": "2026-02-10",
+      "close": 228.34,
+      "dividend_type": "interim",
+      "dividend_amount": 1.9,
+      "dividend_percent": 0.8321
+    },
+    {
+      "company": "RITES Limited",
+      "symbol": "RITES",
+      "isin": "INE320J01015",
+      "series": "EQ",
+      "date": "2026-08-10",
+      "close": 232.84,
+      "dividend_type": "interim",
+      "dividend_amount": 1.4,
+      "dividend_percent": 0.6013
+    },
+    {
+      "company": "RITES Limited",
+      "symbol": "RITES",
+      "isin": "INE320J01015",
+      "series": "EQ",
+      "date": "2026-09-18",
+      "close": 207.23,
+      "dividend_type": "final",
+      "dividend_amount": 2.75,
+      "dividend_percent": 1.327
+    }
+  ]
+}

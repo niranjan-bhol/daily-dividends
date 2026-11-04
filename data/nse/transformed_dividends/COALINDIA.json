@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "company": "Coal India Limited",
+      "symbol": "COALINDIA",
+      "isin": "INE522F01014",
+      "series": "EQ",
+      "date": "04-Nov-2025",
+      "close": 377.55,
+      "subject": "Interim Dividend - Rs 10.25 Per Share"
+    },
+    {
+      "company": "Coal India Limited",
+      "symbol": "COALINDIA",
+      "isin": "INE522F01014",
+      "series": "EQ",
+      "date": "18-Feb-2026",
+      "close": 418,
+      "subject": "Interim Dividend - Rs 5.50 Per Share"
+    },
+    {
+      "company": "Coal India Limited",
+      "symbol": "COALINDIA",
+      "isin": "INE522F01014",
+      "series": "EQ",
+      "date": "31-Jul-2026",
+      "close": 414.15,
+      "subject": "Interim Dividend - Rs 5.50 Per Share"
+    },
+    {
+      "company": "Coal India Limited",
+      "symbol": "COALINDIA",
+      "isin": "INE522F01014",
+      "series": "EQ",
+      "date": "04-Sep-2026",
+      "close": 415.35,
+      "subject": "Dividend - Rs 5.25 Per Share"
+    }
+  ]
+}

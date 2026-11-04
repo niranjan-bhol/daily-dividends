@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "company": "Dr. Lal Path Labs Ltd.",
+      "symbol": "LALPATHLAB",
+      "isin": "INE600L01024",
+      "series": "EQ",
+      "date": "07-Nov-2025",
+      "close": 3096.7,
+      "subject": "Interim Dividend - Rs 7 Per Share"
+    },
+    {
+      "company": "Dr. Lal Path Labs Ltd.",
+      "symbol": "LALPATHLAB",
+      "isin": "INE600L01024",
+      "series": "EQ",
+      "date": "05-Feb-2026",
+      "close": 1411,
+      "subject": "Interim Dividend - Rs 3.50 Per Share"
+    },
+    {
+      "company": "Dr. Lal Path Labs Ltd.",
+      "symbol": "LALPATHLAB",
+      "isin": "INE600L01024",
+      "series": "EQ",
+      "date": "25-Jun-2026",
+      "close": 1689.2,
+      "subject": "Dividend - Rs 4 Per Share"
+    },
+    {
+      "company": "Dr. Lal Path Labs Ltd.",
+      "symbol": "LALPATHLAB",
+      "isin": "INE600L01024",
+      "series": "EQ",
+      "date": "30-Jul-2026",
+      "close": 1878.8,
+      "subject": "Interim Dividend - Rs 5 Per Share"
+    }
+  ]
+}

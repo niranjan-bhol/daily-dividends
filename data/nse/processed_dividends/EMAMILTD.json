@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Emami Limited",
+      "symbol": "EMAMILTD",
+      "isin": "INE548C01024",
+      "series": "EQ",
+      "date": "2025-11-14",
+      "close": 520.35,
+      "dividend_type": "interim",
+      "dividend_amount": 4.0,
+      "dividend_percent": 0.7687
+    },
+    {
+      "company": "Emami Limited",
+      "symbol": "EMAMILTD",
+      "isin": "INE548C01024",
+      "series": "EQ",
+      "date": "2026-02-10",
+      "close": 499.1,
+      "dividend_type": "interim",
+      "dividend_amount": 6.0,
+      "dividend_percent": 1.2022
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "GlaxoSmithKline Pharmaceuticals Limited",
+      "symbol": "GLAXO",
+      "isin": "INE159A01016",
+      "series": "EQ",
+      "date": "2026-05-29",
+      "close": 2210.2,
+      "dividend_type": "final",
+      "dividend_amount": 57.0,
+      "dividend_percent": 2.579
+    }
+  ]
+}

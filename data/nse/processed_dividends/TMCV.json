@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Tata Motors Limited",
+      "symbol": "TMCV",
+      "isin": "INE1TAE01010",
+      "series": "EQ",
+      "date": "2026-06-12",
+      "close": 390.3,
+      "dividend_type": "final",
+      "dividend_amount": 4.0,
+      "dividend_percent": 1.0249
+    }
+  ]
+}

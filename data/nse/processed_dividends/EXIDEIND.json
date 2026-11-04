@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Exide Industries Limited",
+      "symbol": "EXIDEIND",
+      "isin": "INE302A01020",
+      "series": "EQ",
+      "date": "2026-07-03",
+      "close": 416.6,
+      "dividend_type": "final",
+      "dividend_amount": 2.0,
+      "dividend_percent": 0.4801
+    }
+  ]
+}

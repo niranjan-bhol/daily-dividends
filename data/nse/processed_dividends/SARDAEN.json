@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Sarda Energy & Minerals Limited",
+      "symbol": "SARDAEN",
+      "isin": "INE385C01013",
+      "series": "EQ",
+      "date": "2026-08-14",
+      "close": 531.15,
+      "dividend_type": "final",
+      "dividend_amount": 2.0,
+      "dividend_percent": 0.3765
+    }
+  ]
+}

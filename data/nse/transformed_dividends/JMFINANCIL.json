@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "JM Financial Limited",
+      "symbol": "JMFINANCIL",
+      "isin": "INE780C01023",
+      "series": "EQ",
+      "date": "14-Nov-2025",
+      "close": 150.67,
+      "subject": "Interim Dividend - Rs 1.50 Per Share"
+    },
+    {
+      "company": "JM Financial Limited",
+      "symbol": "JMFINANCIL",
+      "isin": "INE780C01023",
+      "series": "EQ",
+      "date": "12-Jun-2026",
+      "close": 120.63,
+      "subject": "Dividend - Rs 1.75 Per Share"
+    }
+  ]
+}

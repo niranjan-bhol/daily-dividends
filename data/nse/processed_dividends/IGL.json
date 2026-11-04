@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Indraprastha Gas Limited",
+      "symbol": "IGL",
+      "isin": "INE203G01019",
+      "series": "EQ",
+      "date": "2026-02-18",
+      "close": 168.76,
+      "dividend_type": "interim",
+      "dividend_amount": 3.25,
+      "dividend_percent": 1.9258
+    },
+    {
+      "company": "Indraprastha Gas Limited",
+      "symbol": "IGL",
+      "isin": "INE203G01019",
+      "series": "EQ",
+      "date": "2026-10-01",
+      "close": 142.79,
+      "dividend_type": "final",
+      "dividend_amount": 1.5,
+      "dividend_percent": 1.0505
+    }
+  ]
+}

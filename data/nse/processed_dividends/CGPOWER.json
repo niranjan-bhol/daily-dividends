@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "CG Power and Industrial Solutions Limited",
+      "symbol": "CGPOWER",
+      "isin": "INE067A01029",
+      "series": "EQ",
+      "date": "2026-01-30",
+      "close": 584.05,
+      "dividend_type": "interim",
+      "dividend_amount": 1.3,
+      "dividend_percent": 0.2226
+    }
+  ]
+}

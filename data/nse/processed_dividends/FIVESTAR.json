@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Five-Star Business Finance Limited",
+      "symbol": "FIVESTAR",
+      "isin": "INE128S01021",
+      "series": "EQ",
+      "date": "2026-07-31",
+      "close": 547.95,
+      "dividend_type": "final",
+      "dividend_amount": 2.0,
+      "dividend_percent": 0.365
+    }
+  ]
+}

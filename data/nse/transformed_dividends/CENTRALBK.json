@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Central Bank of India",
+      "symbol": "CENTRALBK",
+      "isin": "INE483A01010",
+      "series": "EQ",
+      "date": "23-Jan-2026",
+      "close": 36.31,
+      "subject": "Interim Dividend - Re 0.20 Per Share"
+    },
+    {
+      "company": "Central Bank of India",
+      "symbol": "CENTRALBK",
+      "isin": "INE483A01010",
+      "series": "EQ",
+      "date": "08-May-2026",
+      "close": 36.51,
+      "subject": "Interim Dividend - Rs 0.60 Per Share"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Rubicon Research Limited",
+      "symbol": "RUBICON",
+      "isin": "INE506V01022",
+      "series": "EQ",
+      "date": "2026-08-07",
+      "close": 1553.2,
+      "dividend_type": "final",
+      "dividend_amount": 1.5,
+      "dividend_percent": 0.0966
+    }
+  ]
+}

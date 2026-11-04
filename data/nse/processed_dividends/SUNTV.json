@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "company": "Sun TV Network Limited",
+      "symbol": "SUNTV",
+      "isin": "INE424H01027",
+      "series": "EQ",
+      "date": "2025-11-20",
+      "close": 537.1,
+      "dividend_type": "interim",
+      "dividend_amount": 3.75,
+      "dividend_percent": 0.6982
+    },
+    {
+      "company": "Sun TV Network Limited",
+      "symbol": "SUNTV",
+      "isin": "INE424H01027",
+      "series": "EQ",
+      "date": "2026-02-12",
+      "close": 601.9,
+      "dividend_type": "interim",
+      "dividend_amount": 2.5,
+      "dividend_percent": 0.4154
+    },
+    {
+      "company": "Sun TV Network Limited",
+      "symbol": "SUNTV",
+      "isin": "INE424H01027",
+      "series": "EQ",
+      "date": "2026-03-12",
+      "close": 593.3,
+      "dividend_type": "interim",
+      "dividend_amount": 1.25,
+      "dividend_percent": 0.2107
+    },
+    {
+      "company": "Sun TV Network Limited",
+      "symbol": "SUNTV",
+      "isin": "INE424H01027",
+      "series": "EQ",
+      "date": "2026-08-18",
+      "close": 482.8,
+      "dividend_type": "interim",
+      "dividend_amount": 5.0,
+      "dividend_percent": 1.0356
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Havells India Limited",
+      "symbol": "HAVELLS",
+      "isin": "INE176B01018",
+      "series": "EQ",
+      "date": "23-Jan-2026",
+      "close": 1287,
+      "subject": "Interim Dividend - Rs 4 Per Share"
+    },
+    {
+      "company": "Havells India Limited",
+      "symbol": "HAVELLS",
+      "isin": "INE176B01018",
+      "series": "EQ",
+      "date": "22-May-2026",
+      "close": 1200.9,
+      "subject": "Dividend - Rs 6 Per Share"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Indian Energy Exchange Limited",
+      "symbol": "IEX",
+      "isin": "INE022Q01012",
+      "series": "EQ",
+      "date": "2026-02-04",
+      "close": 127.69,
+      "dividend_type": "interim",
+      "dividend_amount": 1.5,
+      "dividend_percent": 1.1747
+    },
+    {
+      "company": "Indian Energy Exchange Limited",
+      "symbol": "IEX",
+      "isin": "INE022Q01012",
+      "series": "EQ",
+      "date": "2026-05-15",
+      "close": 125.27,
+      "dividend_type": "final",
+      "dividend_amount": 2.0,
+      "dividend_percent": 1.5966
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Bank of Maharashtra",
+      "symbol": "MAHABANK",
+      "isin": "INE457A01014",
+      "series": "EQ",
+      "date": "2026-01-20",
+      "close": 63.92,
+      "dividend_type": "interim",
+      "dividend_amount": 1.0,
+      "dividend_percent": 1.5645
+    },
+    {
+      "company": "Bank of Maharashtra",
+      "symbol": "MAHABANK",
+      "isin": "INE457A01014",
+      "series": "EQ",
+      "date": "2026-06-05",
+      "close": 79.19,
+      "dividend_type": "final",
+      "dividend_amount": 1.2,
+      "dividend_percent": 1.5153
+    }
+  ]
+}

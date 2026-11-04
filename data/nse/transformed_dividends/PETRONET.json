@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Petronet LNG Limited",
+      "symbol": "PETRONET",
+      "isin": "INE347G01014",
+      "series": "EQ",
+      "date": "14-Nov-2025",
+      "close": 273.6,
+      "subject": "Interim Dividend - Rs 7 Per Share"
+    },
+    {
+      "company": "Petronet LNG Limited",
+      "symbol": "PETRONET",
+      "isin": "INE347G01014",
+      "series": "EQ",
+      "date": "12-Jun-2026",
+      "close": 274.75,
+      "subject": "Dividend - Rs 3 Per Share"
+    }
+  ]
+}

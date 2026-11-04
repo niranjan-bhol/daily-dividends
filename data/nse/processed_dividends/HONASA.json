@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Honasa Consumer Limited",
+      "symbol": "HONASA",
+      "isin": "INE0J5401028",
+      "series": "EQ",
+      "date": "2026-08-28",
+      "close": 470.65,
+      "dividend_type": "final",
+      "dividend_amount": 3.0,
+      "dividend_percent": 0.6374
+    }
+  ]
+}

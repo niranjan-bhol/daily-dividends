@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Wipro Limited",
+      "symbol": "WIPRO",
+      "isin": "INE075A01022",
+      "series": "EQ",
+      "date": "27-Jan-2026",
+      "close": 234.8,
+      "subject": "Interim Dividend - Rs 6 Per Share"
+    },
+    {
+      "company": "Wipro Limited",
+      "symbol": "WIPRO",
+      "isin": "INE075A01022",
+      "series": "EQ",
+      "date": "27-Jul-2026",
+      "close": 178.53,
+      "subject": "Interim Dividend - Rs 2 Per Share"
+    }
+  ]
+}

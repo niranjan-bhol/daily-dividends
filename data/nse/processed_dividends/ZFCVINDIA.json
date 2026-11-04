@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "ZF Commercial Vehicle Control Systems India Limited",
+      "symbol": "ZFCVINDIA",
+      "isin": "INE342J01019",
+      "series": "EQ",
+      "date": "2026-07-10",
+      "close": 2333.8,
+      "dividend_type": "final",
+      "dividend_amount": 4.0,
+      "dividend_percent": 0.1714
+    }
+  ]
+}

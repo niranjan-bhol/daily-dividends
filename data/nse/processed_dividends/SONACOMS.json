@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Sona BLW Precision Forgings Limited",
+      "symbol": "SONACOMS",
+      "isin": "INE073K01018",
+      "series": "EQ",
+      "date": "2026-01-30",
+      "close": 495.75,
+      "dividend_type": "interim",
+      "dividend_amount": 1.6,
+      "dividend_percent": 0.3227
+    },
+    {
+      "company": "Sona BLW Precision Forgings Limited",
+      "symbol": "SONACOMS",
+      "isin": "INE073K01018",
+      "series": "EQ",
+      "date": "2026-06-25",
+      "close": 619.25,
+      "dividend_type": "final",
+      "dividend_amount": 1.8,
+      "dividend_percent": 0.2907
+    }
+  ]
+}

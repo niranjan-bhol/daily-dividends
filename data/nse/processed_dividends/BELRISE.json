@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Belrise Industries Limited",
+      "symbol": "BELRISE",
+      "isin": "INE894V01022",
+      "series": "EQ",
+      "date": "2026-09-15",
+      "close": 226.66,
+      "dividend_type": "final",
+      "dividend_amount": 0.55,
+      "dividend_percent": 0.2427
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "company": "Engineers India Limited",
+      "symbol": "ENGINERSIN",
+      "isin": "INE510A01010",
+      "series": "EQ",
+      "date": "04-Dec-2025",
+      "close": 201.62,
+      "subject": "Interim Dividend - Re 1 Per Share"
+    },
+    {
+      "company": "Engineers India Limited",
+      "symbol": "ENGINERSIN",
+      "isin": "INE510A01010",
+      "series": "EQ",
+      "date": "06-Mar-2026",
+      "close": 204.87,
+      "subject": "Interim Dividend - Rs 1.50 Per Share"
+    },
+    {
+      "company": "Engineers India Limited",
+      "symbol": "ENGINERSIN",
+      "isin": "INE510A01010",
+      "series": "EQ",
+      "date": "24-Sep-2026",
+      "close": 296.65,
+      "subject": "Dividend - Rs 2.50 Per Share"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "BSE Limited",
+      "symbol": "BSE",
+      "isin": "INE118H01025",
+      "series": "EQ",
+      "date": "2026-07-10",
+      "close": 3811.6,
+      "dividend_type": "final",
+      "dividend_amount": 10.0,
+      "dividend_percent": 0.2624
+    }
+  ]
+}

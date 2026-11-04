@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Asahi India Glass Limited",
+      "symbol": "ASAHIINDIA",
+      "isin": "INE439A01020",
+      "series": "EQ",
+      "date": "2026-09-11",
+      "close": 985.8,
+      "dividend_type": "final",
+      "dividend_amount": 2.0,
+      "dividend_percent": 0.2029
+    }
+  ]
+}

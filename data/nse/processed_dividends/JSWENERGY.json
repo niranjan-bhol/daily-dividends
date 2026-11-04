@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "JSW Energy Limited",
+      "symbol": "JSWENERGY",
+      "isin": "INE121E01018",
+      "series": "EQ",
+      "date": "2026-06-05",
+      "close": 584.2,
+      "dividend_type": "final",
+      "dividend_amount": 2.0,
+      "dividend_percent": 0.3423
+    }
+  ]
+}

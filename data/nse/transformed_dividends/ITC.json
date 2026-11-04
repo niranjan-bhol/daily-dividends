@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "ITC Limited",
+      "symbol": "ITC",
+      "isin": "INE154A01025",
+      "series": "EQ",
+      "date": "04-Feb-2026",
+      "close": 313.85,
+      "subject": "Interim Dividend - Rs 6.50 Per Share"
+    },
+    {
+      "company": "ITC Limited",
+      "symbol": "ITC",
+      "isin": "INE154A01025",
+      "series": "EQ",
+      "date": "27-May-2026",
+      "close": 291.95,
+      "subject": "Dividend - Rs 8 Per Share"
+    }
+  ]
+}

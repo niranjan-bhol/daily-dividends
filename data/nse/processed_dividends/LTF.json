@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "L&T Finance Limited",
+      "symbol": "LTF",
+      "isin": "INE498L01015",
+      "series": "EQ",
+      "date": "2026-05-22",
+      "close": 270.15,
+      "dividend_type": "final",
+      "dividend_amount": 2.75,
+      "dividend_percent": 1.018
+    }
+  ]
+}

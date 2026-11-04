@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "CIE Automotive India Limited",
+      "symbol": "CIEINDIA",
+      "isin": "INE536H01010",
+      "series": "EQ",
+      "date": "2026-04-22",
+      "close": 471.7,
+      "dividend_type": "final",
+      "dividend_amount": 7.0,
+      "dividend_percent": 1.484
+    }
+  ]
+}

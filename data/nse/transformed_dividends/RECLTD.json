@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "company": "REC Limited",
+      "symbol": "RECLTD",
+      "isin": "INE020B01018",
+      "series": "EQ",
+      "date": "06-Feb-2026",
+      "close": 372.5,
+      "subject": "Interim Dividend - Rs 4.60 Per Share"
+    },
+    {
+      "company": "REC Limited",
+      "symbol": "RECLTD",
+      "isin": "INE020B01018",
+      "series": "EQ",
+      "date": "20-Mar-2026",
+      "close": 330.5,
+      "subject": "Interim Dividend - Rs 3.20 Per Share"
+    },
+    {
+      "company": "REC Limited",
+      "symbol": "RECLTD",
+      "isin": "INE020B01018",
+      "series": "EQ",
+      "date": "31-Jul-2026",
+      "close": 372.95,
+      "subject": "Interim Dividend - Rs 4.25 Per Share"
+    },
+    {
+      "company": "REC Limited",
+      "symbol": "RECLTD",
+      "isin": "INE020B01018",
+      "series": "EQ",
+      "date": "14-Aug-2026",
+      "close": 335,
+      "subject": "Dividend - Rs 1.55 Per Share"
+    },
+    {
+      "company": "REC Limited",
+      "symbol": "RECLTD",
+      "isin": "INE020B01018",
+      "series": "EQ",
+      "date": "30-Oct-2026",
+      "close": 285.6,
+      "subject": "Interim Dividend - Rs 3.50 Per Share"
+    }
+  ]
+}

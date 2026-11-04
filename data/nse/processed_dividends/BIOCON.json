@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Biocon Limited",
+      "symbol": "BIOCON",
+      "isin": "INE376G01013",
+      "series": "EQ",
+      "date": "2026-07-03",
+      "close": 426.8,
+      "dividend_type": "final",
+      "dividend_amount": 0.5,
+      "dividend_percent": 0.1172
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "SPR Auto Technologies Limited",
+      "symbol": "SHRIPISTON",
+      "isin": "INE526E01018",
+      "series": "EQ",
+      "date": "06-Feb-2026",
+      "close": 2967.2,
+      "subject": "Interim Dividend - Rs 5 Per Share"
+    },
+    {
+      "company": "SPR Auto Technologies Limited",
+      "symbol": "SHRIPISTON",
+      "isin": "INE526E01018",
+      "series": "EQ",
+      "date": "20-Jul-2026",
+      "close": 4233.8,
+      "subject": "Dividend - Rs 5 Per Share"
+    }
+  ]
+}

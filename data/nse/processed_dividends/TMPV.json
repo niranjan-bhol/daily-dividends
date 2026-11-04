@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Tata Motors Passenger Vehicles Limited",
+      "symbol": "TMPV",
+      "isin": "INE155A01022",
+      "series": "EQ",
+      "date": "2026-06-19",
+      "close": 359.5,
+      "dividend_type": "final",
+      "dividend_amount": 3.0,
+      "dividend_percent": 0.8345
+    }
+  ]
+}

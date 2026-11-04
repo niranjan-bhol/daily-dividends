@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Bata India Limited",
+      "symbol": "BATAINDIA",
+      "isin": "INE176A01010",
+      "series": "EQ",
+      "date": "2026-07-31",
+      "close": 696.15,
+      "dividend_type": "final",
+      "dividend_amount": 9.0,
+      "dividend_percent": 1.2928
+    },
+    {
+      "company": "Bata India Limited",
+      "symbol": "BATAINDIA",
+      "isin": "INE176A01010",
+      "series": "EQ",
+      "date": "2026-08-19",
+      "close": 721.3,
+      "dividend_type": "interim",
+      "dividend_amount": 25.0,
+      "dividend_percent": 3.466
+    }
+  ]
+}

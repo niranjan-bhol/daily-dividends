@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Aditya Birla Sun Life AMC Limited",
+      "symbol": "ABSLAMC",
+      "isin": "INE404A01024",
+      "series": "EQ",
+      "date": "2026-07-22",
+      "close": 1002.9,
+      "dividend_type": "final",
+      "dividend_amount": 25.5,
+      "dividend_percent": 2.5426
+    }
+  ]
+}

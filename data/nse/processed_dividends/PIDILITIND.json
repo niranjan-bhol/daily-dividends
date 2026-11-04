@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Pidilite Industries Limited",
+      "symbol": "PIDILITIND",
+      "isin": "INE318A01026",
+      "series": "EQ",
+      "date": "2026-07-23",
+      "close": 1564.2,
+      "dividend_type": "final",
+      "dividend_amount": 11.5,
+      "dividend_percent": 0.7352
+    }
+  ]
+}

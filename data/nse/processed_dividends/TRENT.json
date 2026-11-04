@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Trent Limited",
+      "symbol": "TRENT",
+      "isin": "INE849A01012",
+      "series": "EQ",
+      "date": "2026-06-12",
+      "close": 2755.3,
+      "dividend_type": "final",
+      "dividend_amount": 4.0,
+      "dividend_percent": 0.1452
+    }
+  ]
+}

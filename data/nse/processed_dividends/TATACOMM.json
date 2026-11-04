@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Tata Communications Limited",
+      "symbol": "TATACOMM",
+      "isin": "INE151A01013",
+      "series": "EQ",
+      "date": "2026-06-19",
+      "close": 1988.8,
+      "dividend_type": "final",
+      "dividend_amount": 17.5,
+      "dividend_percent": 0.8799
+    }
+  ]
+}

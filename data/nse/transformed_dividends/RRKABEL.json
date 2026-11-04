@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "company": "R R Kabel Limited",
+      "symbol": "RRKABEL",
+      "isin": "INE777K01022",
+      "series": "EQ",
+      "date": "07-Nov-2025",
+      "close": 1376.9,
+      "subject": "Interim Dividend - Rs 4 Per Share"
+    },
+    {
+      "company": "R R Kabel Limited",
+      "symbol": "RRKABEL",
+      "isin": "INE777K01022",
+      "series": "EQ",
+      "date": "16-Jun-2026",
+      "close": 2201.1,
+      "subject": "Dividend - Rs 5.50 Per Share"
+    },
+    {
+      "company": "R R Kabel Limited",
+      "symbol": "RRKABEL",
+      "isin": "INE777K01022",
+      "series": "EQ",
+      "date": "03-Nov-2026",
+      "close": 2000.5,
+      "subject": "Interim Dividend - Rs 6.50 Per Share"
+    }
+  ]
+}

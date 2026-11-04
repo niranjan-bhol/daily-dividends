@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Vedanta Limited",
+      "symbol": "VEDL",
+      "isin": "INE205A01025",
+      "series": "EQ",
+      "date": "2026-03-27",
+      "close": 649.4,
+      "dividend_type": "interim",
+      "dividend_amount": 11.0,
+      "dividend_percent": 1.6939
+    },
+    {
+      "company": "Vedanta Limited",
+      "symbol": "VEDL",
+      "isin": "INE205A01025",
+      "series": "EQ",
+      "date": "2026-10-14",
+      "close": 250,
+      "dividend_type": "interim",
+      "dividend_amount": 5.0,
+      "dividend_percent": 2.0
+    }
+  ]
+}

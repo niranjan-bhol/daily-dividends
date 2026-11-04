@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Vardhman Textiles Limited",
+      "symbol": "VTL",
+      "isin": "INE825A01012",
+      "series": "EQ",
+      "date": "2026-08-28",
+      "close": 592.75,
+      "dividend_type": "final",
+      "dividend_amount": 5.0,
+      "dividend_percent": 0.8435
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "PCBL Chemical Limited",
+      "symbol": "PCBL",
+      "isin": "INE602A01023",
+      "series": "EQ",
+      "date": "2026-08-04",
+      "close": 322.55,
+      "dividend_type": "interim",
+      "dividend_amount": 4.5,
+      "dividend_percent": 1.3951
+    }
+  ]
+}

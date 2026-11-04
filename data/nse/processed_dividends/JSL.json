@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Jindal Stainless Limited",
+      "symbol": "JSL",
+      "isin": "INE220G01021",
+      "series": "EQ",
+      "date": "2026-01-29",
+      "close": 810.1,
+      "dividend_type": "interim",
+      "dividend_amount": 1.0,
+      "dividend_percent": 0.1234
+    },
+    {
+      "company": "Jindal Stainless Limited",
+      "symbol": "JSL",
+      "isin": "INE220G01021",
+      "series": "EQ",
+      "date": "2026-08-21",
+      "close": 701.35,
+      "dividend_type": "final",
+      "dividend_amount": 3.0,
+      "dividend_percent": 0.4277
+    }
+  ]
+}

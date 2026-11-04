@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Grasim Industries Limited",
+      "symbol": "GRASIM",
+      "isin": "INE047A01013",
+      "series": "EQ",
+      "date": "2026-08-07",
+      "close": 3323,
+      "dividend_type": "final",
+      "dividend_amount": 10.0,
+      "dividend_percent": 0.3009
+    }
+  ]
+}

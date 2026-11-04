@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Castrol India Limited",
+      "symbol": "CASTROLIND",
+      "isin": "INE172A01027",
+      "series": "EQ",
+      "date": "23-Mar-2026",
+      "close": 177.29,
+      "subject": "Dividend - Rs 5.25 Per Share"
+    },
+    {
+      "company": "Castrol India Limited",
+      "symbol": "CASTROLIND",
+      "isin": "INE172A01027",
+      "series": "EQ",
+      "date": "11-Aug-2026",
+      "close": 186.82,
+      "subject": "Interim Dividend - Rs 6.25 Per Share"
+    }
+  ]
+}

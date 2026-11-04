@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "company": "The Great Eastern Shipping Company Limited",
+      "symbol": "GESHIP",
+      "isin": "INE017A01032",
+      "series": "EQ",
+      "date": "13-Nov-2025",
+      "close": 1136,
+      "subject": "Interim Dividend - Rs 7.20 Per Share"
+    },
+    {
+      "company": "The Great Eastern Shipping Company Limited",
+      "symbol": "GESHIP",
+      "isin": "INE017A01032",
+      "series": "EQ",
+      "date": "04-Feb-2026",
+      "close": 1238.8,
+      "subject": "Interim Dividend - Rs 9 Per Share"
+    },
+    {
+      "company": "The Great Eastern Shipping Company Limited",
+      "symbol": "GESHIP",
+      "isin": "INE017A01032",
+      "series": "EQ",
+      "date": "20-May-2026",
+      "close": 1665.4,
+      "subject": "Interim Dividend - Rs 11.70 Per Share"
+    },
+    {
+      "company": "The Great Eastern Shipping Company Limited",
+      "symbol": "GESHIP",
+      "isin": "INE017A01032",
+      "series": "EQ",
+      "date": "07-Aug-2026",
+      "close": 1341.8,
+      "subject": "Interim Dividend - Rs 14.40 Per Share"
+    }
+  ]
+}

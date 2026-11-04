@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "UNO Minda Limited",
+      "symbol": "UNOMINDA",
+      "isin": "INE405E01023",
+      "series": "EQ",
+      "date": "11-Feb-2026",
+      "close": 1245.8,
+      "subject": "Interim Dividend - Re 0.90 Per Share"
+    },
+    {
+      "company": "UNO Minda Limited",
+      "symbol": "UNOMINDA",
+      "isin": "INE405E01023",
+      "series": "EQ",
+      "date": "29-May-2026",
+      "close": 1101.7,
+      "subject": "Dividend - Rs 1.75 Per Share"
+    }
+  ]
+}

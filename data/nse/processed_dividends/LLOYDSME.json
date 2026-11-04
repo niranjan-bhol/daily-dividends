@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Lloyds Metals And Energy Limited",
+      "symbol": "LLOYDSME",
+      "isin": "INE281B01032",
+      "series": "EQ",
+      "date": "2026-06-12",
+      "close": 1761.9,
+      "dividend_type": "final",
+      "dividend_amount": 1.0,
+      "dividend_percent": 0.0568
+    }
+  ]
+}

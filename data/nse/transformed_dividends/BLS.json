@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "BLS International Services Limited",
+      "symbol": "BLS",
+      "isin": "INE153T01019",
+      "series": "EQ",
+      "date": "13-Feb-2026",
+      "close": 269.3,
+      "subject": "Interim Dividend - Rs 2 Per Share"
+    },
+    {
+      "company": "BLS International Services Limited",
+      "symbol": "BLS",
+      "isin": "INE153T01019",
+      "series": "EQ",
+      "date": "16-Sep-2026",
+      "close": 226.74,
+      "subject": "Dividend - Re 0.50 Per Share"
+    }
+  ]
+}

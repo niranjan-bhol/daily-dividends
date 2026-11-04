@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Karur Vysya Bank Limited",
+      "symbol": "KARURVYSYA",
+      "isin": "INE036D01010",
+      "series": "EQ",
+      "date": "2026-07-24",
+      "close": 338.9,
+      "dividend_type": "final",
+      "dividend_amount": 2.6,
+      "dividend_percent": 0.7672
+    }
+  ]
+}

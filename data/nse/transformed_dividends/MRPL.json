@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Mangalore Refinery and Petrochemicals Limited",
+      "symbol": "MRPL",
+      "isin": "INE103A01014",
+      "series": "EQ",
+      "date": "11-Mar-2026",
+      "close": 186.92,
+      "subject": "Interim Dividend - Rs 4 Per Share"
+    },
+    {
+      "company": "Mangalore Refinery and Petrochemicals Limited",
+      "symbol": "MRPL",
+      "isin": "INE103A01014",
+      "series": "EQ",
+      "date": "21-Oct-2026",
+      "close": 167.52,
+      "subject": "Interim Dividend - Rs 3 Per Share"
+    }
+  ]
+}

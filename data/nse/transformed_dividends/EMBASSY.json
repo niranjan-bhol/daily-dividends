@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "company": "Embassy Office Parks REIT",
+      "symbol": "EMBASSY",
+      "isin": "INE041025011",
+      "series": "RR",
+      "date": "07-Nov-2025",
+      "close": 426.13,
+      "subject": "Distribution - Rs 6.51 Per Unit Comprises Of Re 0.66 Per Unit As Interest/ Rs 1.97 Per Unit As Dividend & Rs 3.88 Per Unit As Repayment Of Spv Level Debt"
+    },
+    {
+      "company": "Embassy Office Parks REIT",
+      "symbol": "EMBASSY",
+      "isin": "INE041025011",
+      "series": "RR",
+      "date": "11-Feb-2026",
+      "close": 460.99,
+      "subject": "Distribution - Rs 6.47 Per Unit Consisting Of Re 0.66 Per Unit As Interest/ Re 0.71 Per Unit As Dividend/ Rs 5.10 Per Unit As Repayment Of Spv Level Debt"
+    },
+    {
+      "company": "Embassy Office Parks REIT",
+      "symbol": "EMBASSY",
+      "isin": "INE041025011",
+      "series": "RR",
+      "date": "30-Apr-2026",
+      "close": 424.76,
+      "subject": "Distribution - Rs 6.50 Per Unit Consisting Of Re 0.14 Per Unit As Interest/ Rs 1.39 Per Unit As Dividend/ Rs 4.97 Per Unit As Repayment Of Spv Level Debt"
+    },
+    {
+      "company": "Embassy Office Parks REIT",
+      "symbol": "EMBASSY",
+      "isin": "INE041025011",
+      "series": "RR",
+      "date": "04-Aug-2026",
+      "close": 440.35,
+      "subject": "Distribution - Rs 6.31 Per Unit Consisting Of Re 0.37 Per Unit As Interest/ Re 0.80 Per Unit As Dividend/ Rs 5.14 Per Unit As Repayment Of Spv Level Debt"
+    },
+    {
+      "company": "Embassy Office Parks REIT",
+      "symbol": "EMBASSY",
+      "isin": "INE041025011",
+      "series": "RR",
+      "date": "30-Oct-2026",
+      "close": 414.24,
+      "subject": "Distribution - Rs 7.07 Per Unit Consisting Of Re 0.14 Per Unit As Interest/ Re 0.86 Per Unit As Dividend/ Rs 6.07 Per Unit As Repayment Of Spv Level Debt"
+    }
+  ]
+}

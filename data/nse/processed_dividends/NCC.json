@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "NCC Limited",
+      "symbol": "NCC",
+      "isin": "INE868B01028",
+      "series": "EQ",
+      "date": "2026-08-14",
+      "close": 140.65,
+      "dividend_type": "final",
+      "dividend_amount": 2.2,
+      "dividend_percent": 1.5642
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Minda Corporation Limited",
+      "symbol": "MINDACORP",
+      "isin": "INE842C01013",
+      "series": "EQ",
+      "date": "2026-02-13",
+      "close": 598,
+      "dividend_type": "interim",
+      "dividend_amount": 0.6,
+      "dividend_percent": 0.1003
+    },
+    {
+      "company": "Minda Corporation Limited",
+      "symbol": "MINDACORP",
+      "isin": "INE842C01013",
+      "series": "EQ",
+      "date": "2026-08-14",
+      "close": 720.05,
+      "dividend_type": "final",
+      "dividend_amount": 0.8,
+      "dividend_percent": 0.1111
+    }
+  ]
+}

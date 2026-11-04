@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Kirloskar Oil Engines Limited",
+      "symbol": "KIRLOSENG",
+      "isin": "INE146L01010",
+      "series": "EQ",
+      "date": "2026-02-20",
+      "close": 1418.5,
+      "dividend_type": "interim",
+      "dividend_amount": 2.5,
+      "dividend_percent": 0.1762
+    },
+    {
+      "company": "Kirloskar Oil Engines Limited",
+      "symbol": "KIRLOSENG",
+      "isin": "INE146L01010",
+      "series": "EQ",
+      "date": "2026-07-31",
+      "close": 2189.8,
+      "dividend_type": "final",
+      "dividend_amount": 4.5,
+      "dividend_percent": 0.2055
+    }
+  ]
+}

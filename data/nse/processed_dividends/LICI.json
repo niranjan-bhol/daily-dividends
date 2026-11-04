@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Life Insurance Corporation Of India",
+      "symbol": "LICI",
+      "isin": "INE0J1Y01017",
+      "series": "EQ",
+      "date": "2026-06-25",
+      "close": 423.35,
+      "dividend_type": "final",
+      "dividend_amount": 10.0,
+      "dividend_percent": 2.3621
+    }
+  ]
+}

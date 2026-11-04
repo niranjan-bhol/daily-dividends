@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "KPIT Technologies Limited",
+      "symbol": "KPITTECH",
+      "isin": "INE04I401011",
+      "series": "EQ",
+      "date": "2026-02-04",
+      "close": 981.4,
+      "dividend_type": "interim",
+      "dividend_amount": 2.25,
+      "dividend_percent": 0.2293
+    },
+    {
+      "company": "KPIT Technologies Limited",
+      "symbol": "KPITTECH",
+      "isin": "INE04I401011",
+      "series": "EQ",
+      "date": "2026-08-12",
+      "close": 609.2,
+      "dividend_type": "final",
+      "dividend_amount": 5.25,
+      "dividend_percent": 0.8618
+    }
+  ]
+}

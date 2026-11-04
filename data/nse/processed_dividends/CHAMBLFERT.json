@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Chambal Fertilizers & Chemicals Limited",
+      "symbol": "CHAMBLFERT",
+      "isin": "INE085A01013",
+      "series": "EQ",
+      "date": "2025-11-11",
+      "close": 464,
+      "dividend_type": "interim",
+      "dividend_amount": 5.0,
+      "dividend_percent": 1.0776
+    },
+    {
+      "company": "Chambal Fertilizers & Chemicals Limited",
+      "symbol": "CHAMBLFERT",
+      "isin": "INE085A01013",
+      "series": "EQ",
+      "date": "2026-08-11",
+      "close": 444.35,
+      "dividend_type": "final",
+      "dividend_amount": 6.0,
+      "dividend_percent": 1.3503
+    }
+  ]
+}

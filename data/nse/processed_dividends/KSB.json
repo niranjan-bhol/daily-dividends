@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Ksb Limited",
+      "symbol": "KSB",
+      "isin": "INE999A01015",
+      "series": "EQ",
+      "date": "2026-05-08",
+      "close": 877.35,
+      "dividend_type": "final",
+      "dividend_amount": 4.4,
+      "dividend_percent": 0.5015
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "company": "Axis Bank Limited",
+      "symbol": "AXISBANK",
+      "isin": "INE238A01026",
+      "series": "EQ",
+      "date": "10-Jul-2026",
+      "close": 1323.7,
+      "subject": "Dividend - Re 1 Per Share"
+    }
+  ]
+}

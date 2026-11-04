@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "company": "Shriram Finance Limited",
+      "symbol": "SHRIRAMFIN",
+      "isin": "INE721A01013",
+      "series": "EQ",
+      "date": "07-Nov-2025",
+      "close": 816.35,
+      "subject": "Interim Dividend - Rs 4.80 Per Share"
+    },
+    {
+      "company": "Shriram Finance Limited",
+      "symbol": "SHRIRAMFIN",
+      "isin": "INE721A01013",
+      "series": "EQ",
+      "date": "03-Jul-2026",
+      "close": 1063.6,
+      "subject": "Dividend - Rs 6 Per Share"
+    },
+    {
+      "company": "Shriram Finance Limited",
+      "symbol": "SHRIRAMFIN",
+      "isin": "INE721A01013",
+      "series": "EQ",
+      "date": "29-Oct-2026",
+      "close": 841.1,
+      "subject": "Interim Dividend - Rs 6.50 Per Share"
+    }
+  ]
+}

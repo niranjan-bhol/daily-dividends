@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Gabriel India Limited",
+      "symbol": "GABRIEL",
+      "isin": "INE524A01029",
+      "series": "EQ",
+      "date": "21-Nov-2025",
+      "close": 1019.8,
+      "subject": "Interim Dividend - Rs 1.90 Per Share"
+    },
+    {
+      "company": "Gabriel India Limited",
+      "symbol": "GABRIEL",
+      "isin": "INE524A01029",
+      "series": "EQ",
+      "date": "12-Aug-2026",
+      "close": 1476.8,
+      "subject": "Dividend - Rs 3.10 Per Share"
+    }
+  ]
+}

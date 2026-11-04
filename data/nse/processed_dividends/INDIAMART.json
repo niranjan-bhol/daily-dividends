@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Indiamart Intermesh Limited",
+      "symbol": "INDIAMART",
+      "isin": "INE933S01016",
+      "series": "EQ",
+      "date": "2026-06-19",
+      "close": 2089.4,
+      "dividend_type": "special",
+      "dividend_amount": 30.0,
+      "dividend_percent": 1.4358
+    }
+  ]
+}

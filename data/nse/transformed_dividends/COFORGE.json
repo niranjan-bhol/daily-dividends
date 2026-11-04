@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Coforge Limited",
+      "symbol": "COFORGE",
+      "isin": "INE591G01017",
+      "series": "EQ",
+      "date": "30-Jan-2026",
+      "close": 1653.8,
+      "subject": "Interim Dividend - Rs 4 Per Share"
+    },
+    {
+      "company": "Coforge Limited",
+      "symbol": "COFORGE",
+      "isin": "INE591G01017",
+      "series": "EQ",
+      "date": "03-Aug-2026",
+      "close": 1768,
+      "subject": "Interim Dividend - Rs 4 Per Share"
+    }
+  ]
+}

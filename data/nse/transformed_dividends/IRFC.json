@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Indian Railway Finance Corporation Limited",
+      "symbol": "IRFC",
+      "isin": "INE053F07520",
+      "series": "EQ",
+      "date": "13-Mar-2026",
+      "close": 97.2,
+      "subject": "Interim Dividend - Rs 1.05 Per Share"
+    },
+    {
+      "company": "Indian Railway Finance Corporation Limited",
+      "symbol": "IRFC",
+      "isin": "INE053F07520",
+      "series": "EQ",
+      "date": "23-Oct-2026",
+      "close": 74.45,
+      "subject": "Interim Dividend - Rs 1.15 Per Share"
+    }
+  ]
+}

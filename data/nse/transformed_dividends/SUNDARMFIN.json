@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Sundaram Finance Limited",
+      "symbol": "SUNDARMFIN",
+      "isin": "INE660A01013",
+      "series": "EQ",
+      "date": "06-Feb-2026",
+      "close": 5439,
+      "subject": "Interim Dividend - Rs 16 Per Share"
+    },
+    {
+      "company": "Sundaram Finance Limited",
+      "symbol": "SUNDARMFIN",
+      "isin": "INE660A01013",
+      "series": "EQ",
+      "date": "06-Jul-2026",
+      "close": 4601.2,
+      "subject": "Dividend - Rs 24 Per Share"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Zydus Lifesciences Limited",
+      "symbol": "ZYDUSLIFE",
+      "isin": "INE010B01027",
+      "series": "EQ",
+      "date": "2026-07-24",
+      "close": 1108.7,
+      "dividend_type": "final",
+      "dividend_amount": 1.0,
+      "dividend_percent": 0.0902
+    }
+  ]
+}

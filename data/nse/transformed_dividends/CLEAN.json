@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Clean Science and Technology Limited",
+      "symbol": "CLEAN",
+      "isin": "INE227W01023",
+      "series": "EQ",
+      "date": "06-Feb-2026",
+      "close": 797.25,
+      "subject": "Interim Dividend - Rs 2 Per Share"
+    },
+    {
+      "company": "Clean Science and Technology Limited",
+      "symbol": "CLEAN",
+      "isin": "INE227W01023",
+      "series": "EQ",
+      "date": "04-Sep-2026",
+      "close": 836.15,
+      "subject": "Dividend - Rs 4 Per Share"
+    }
+  ]
+}

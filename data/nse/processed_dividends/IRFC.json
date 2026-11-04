@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Indian Railway Finance Corporation Limited",
+      "symbol": "IRFC",
+      "isin": "INE053F07520",
+      "series": "EQ",
+      "date": "2026-03-13",
+      "close": 97.2,
+      "dividend_type": "interim",
+      "dividend_amount": 1.05,
+      "dividend_percent": 1.0802
+    },
+    {
+      "company": "Indian Railway Finance Corporation Limited",
+      "symbol": "IRFC",
+      "isin": "INE053F07520",
+      "series": "EQ",
+      "date": "2026-10-23",
+      "close": 74.45,
+      "dividend_type": "interim",
+      "dividend_amount": 1.15,
+      "dividend_percent": 1.5447
+    }
+  ]
+}

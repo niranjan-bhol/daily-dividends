@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Hindustan Copper Limited",
+      "symbol": "HINDCOPPER",
+      "isin": "INE531E01026",
+      "series": "EQ",
+      "date": "13-Feb-2026",
+      "close": 591.65,
+      "subject": "Interim Dividend - Re 1 Per Share"
+    },
+    {
+      "company": "Hindustan Copper Limited",
+      "symbol": "HINDCOPPER",
+      "isin": "INE531E01026",
+      "series": "EQ",
+      "date": "16-Sep-2026",
+      "close": 481.6,
+      "subject": "Dividend - Rs 1.86 Per Share"
+    }
+  ]
+}

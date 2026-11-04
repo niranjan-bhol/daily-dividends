@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Cholamandalam Investment and Finance Company Limited",
+      "symbol": "CHOLAFIN",
+      "isin": "INE121A01016",
+      "series": "EQ",
+      "date": "05-Feb-2026",
+      "close": 1722.3,
+      "subject": "Interim Dividend - Rs 1.30 Per Share"
+    },
+    {
+      "company": "Cholamandalam Investment and Finance Company Limited",
+      "symbol": "CHOLAFIN",
+      "isin": "INE121A01016",
+      "series": "EQ",
+      "date": "21-Jul-2026",
+      "close": 1758.8,
+      "subject": "Dividend - Re 0.70 Per Share"
+    }
+  ]
+}

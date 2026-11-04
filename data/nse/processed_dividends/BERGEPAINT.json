@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Berger Paints (I) Limited",
+      "symbol": "BERGEPAINT",
+      "isin": "INE463A01020",
+      "series": "EQ",
+      "date": "2026-08-05",
+      "close": 545.2,
+      "dividend_type": "final",
+      "dividend_amount": 4.0,
+      "dividend_percent": 0.7337
+    }
+  ]
+}

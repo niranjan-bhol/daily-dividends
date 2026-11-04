@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "company": "R R Kabel Limited",
+      "symbol": "RRKABEL",
+      "isin": "INE777K01022",
+      "series": "EQ",
+      "date": "2025-11-07",
+      "close": 1376.9,
+      "dividend_type": "interim",
+      "dividend_amount": 4.0,
+      "dividend_percent": 0.2905
+    },
+    {
+      "company": "R R Kabel Limited",
+      "symbol": "RRKABEL",
+      "isin": "INE777K01022",
+      "series": "EQ",
+      "date": "2026-06-16",
+      "close": 2201.1,
+      "dividend_type": "final",
+      "dividend_amount": 5.5,
+      "dividend_percent": 0.2499
+    },
+    {
+      "company": "R R Kabel Limited",
+      "symbol": "RRKABEL",
+      "isin": "INE777K01022",
+      "series": "EQ",
+      "date": "2026-11-03",
+      "close": 2000.5,
+      "dividend_type": "interim",
+      "dividend_amount": 6.5,
+      "dividend_percent": 0.3249
+    }
+  ]
+}

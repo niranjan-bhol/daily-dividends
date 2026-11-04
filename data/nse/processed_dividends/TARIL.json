@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Transformers And Rectifiers (India) Limited",
+      "symbol": "TARIL",
+      "isin": "INE763I01026",
+      "series": "EQ",
+      "date": "2026-09-18",
+      "close": 279.85,
+      "dividend_type": "final",
+      "dividend_amount": 0.25,
+      "dividend_percent": 0.0893
+    }
+  ]
+}

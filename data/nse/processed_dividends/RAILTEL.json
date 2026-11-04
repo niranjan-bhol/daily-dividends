@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "company": "Railtel Corporation Of India Limited",
+      "symbol": "RAILTEL",
+      "isin": "INE0DD101019",
+      "series": "EQ",
+      "date": "2025-11-04",
+      "close": 364.2,
+      "dividend_type": "interim",
+      "dividend_amount": 1.0,
+      "dividend_percent": 0.2746
+    },
+    {
+      "company": "Railtel Corporation Of India Limited",
+      "symbol": "RAILTEL",
+      "isin": "INE0DD101019",
+      "series": "EQ",
+      "date": "2026-03-13",
+      "close": 278,
+      "dividend_type": "interim",
+      "dividend_amount": 1.0,
+      "dividend_percent": 0.3597
+    },
+    {
+      "company": "Railtel Corporation Of India Limited",
+      "symbol": "RAILTEL",
+      "isin": "INE0DD101019",
+      "series": "EQ",
+      "date": "2026-08-13",
+      "close": 285.2,
+      "dividend_type": "final",
+      "dividend_amount": 1.25,
+      "dividend_percent": 0.4383
+    },
+    {
+      "company": "Railtel Corporation Of India Limited",
+      "symbol": "RAILTEL",
+      "isin": "INE0DD101019",
+      "series": "EQ",
+      "date": "2026-10-30",
+      "close": 222.4,
+      "dividend_type": "interim",
+      "dividend_amount": 1.0,
+      "dividend_percent": 0.4496
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "company": "Angel One Limited",
+      "symbol": "ANGELONE",
+      "isin": "INE732I01013",
+      "series": "EQ",
+      "date": "21-Jan-2026",
+      "close": 2531.9,
+      "subject": "Interim Dividend - Rs 23 Per Share"
+    },
+    {
+      "company": "Angel One Limited",
+      "symbol": "ANGELONE",
+      "isin": "INE732I01013",
+      "series": "EQ",
+      "date": "27-Mar-2026",
+      "close": 235.27,
+      "subject": "Interim Dividend - Rs  1.75 Per Share"
+    },
+    {
+      "company": "Angel One Limited",
+      "symbol": "ANGELONE",
+      "isin": "INE732I01013",
+      "series": "EQ",
+      "date": "21-Jul-2026",
+      "close": 321.9,
+      "subject": "Interim Dividend - Re 1 Per Share"
+    },
+    {
+      "company": "Angel One Limited",
+      "symbol": "ANGELONE",
+      "isin": "INE732I01013",
+      "series": "EQ",
+      "date": "22-Oct-2026",
+      "close": 291.25,
+      "subject": "Interim Dividend - Rs 1.40 Per Share"
+    }
+  ]
+}

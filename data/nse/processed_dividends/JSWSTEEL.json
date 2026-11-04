@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "JSW Steel Limited",
+      "symbol": "JSWSTEEL",
+      "isin": "INE019A01020",
+      "series": "EQ",
+      "date": "2026-07-07",
+      "close": 1246.4,
+      "dividend_type": "final",
+      "dividend_amount": 7.1,
+      "dividend_percent": 0.5696
+    }
+  ]
+}

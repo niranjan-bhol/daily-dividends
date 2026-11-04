@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Clean Science and Technology Limited",
+      "symbol": "CLEAN",
+      "isin": "INE227W01023",
+      "series": "EQ",
+      "date": "2026-02-06",
+      "close": 797.25,
+      "dividend_type": "interim",
+      "dividend_amount": 2.0,
+      "dividend_percent": 0.2509
+    },
+    {
+      "company": "Clean Science and Technology Limited",
+      "symbol": "CLEAN",
+      "isin": "INE227W01023",
+      "series": "EQ",
+      "date": "2026-09-04",
+      "close": 836.15,
+      "dividend_type": "final",
+      "dividend_amount": 4.0,
+      "dividend_percent": 0.4784
+    }
+  ]
+}

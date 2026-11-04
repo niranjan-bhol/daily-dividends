@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "company": "Mazagon Dock Shipbuilders Limited",
+      "symbol": "MAZDOCK",
+      "isin": "INE249Z01012",
+      "series": "EQ",
+      "date": "2025-11-04",
+      "close": 2683,
+      "dividend_type": "interim",
+      "dividend_amount": 6.0,
+      "dividend_percent": 0.2236
+    },
+    {
+      "company": "Mazagon Dock Shipbuilders Limited",
+      "symbol": "MAZDOCK",
+      "isin": "INE249Z01012",
+      "series": "EQ",
+      "date": "2026-02-13",
+      "close": 2350.2,
+      "dividend_type": "interim",
+      "dividend_amount": 7.5,
+      "dividend_percent": 0.3191
+    },
+    {
+      "company": "Mazagon Dock Shipbuilders Limited",
+      "symbol": "MAZDOCK",
+      "isin": "INE249Z01012",
+      "series": "EQ",
+      "date": "2026-08-20",
+      "close": 2570,
+      "dividend_type": "final",
+      "dividend_amount": 4.62,
+      "dividend_percent": 0.1798
+    },
+    {
+      "company": "Mazagon Dock Shipbuilders Limited",
+      "symbol": "MAZDOCK",
+      "isin": "INE249Z01012",
+      "series": "EQ",
+      "date": "2026-11-03",
+      "close": 1785.1,
+      "dividend_type": "interim",
+      "dividend_amount": 5.0,
+      "dividend_percent": 0.2801
+    }
+  ]
+}

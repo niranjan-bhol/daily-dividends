@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Tech Mahindra Limited",
+      "symbol": "TECHM",
+      "isin": "INE669C01028",
+      "series": "EQ",
+      "date": "2026-07-03",
+      "close": 1410.1,
+      "dividend_type": "final",
+      "dividend_amount": 36.0,
+      "dividend_percent": 2.553
+    },
+    {
+      "company": "Tech Mahindra Limited",
+      "symbol": "TECHM",
+      "isin": "INE669C01028",
+      "series": "EQ",
+      "date": "2026-10-23",
+      "close": 1790,
+      "dividend_type": "interim",
+      "dividend_amount": 15.0,
+      "dividend_percent": 0.838
+    }
+  ]
+}

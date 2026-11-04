@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Aptus Value Housing Finance India Limited",
+      "symbol": "APTUS",
+      "isin": "INE852O01025",
+      "series": "EQ",
+      "date": "07-Nov-2025",
+      "close": 292.4,
+      "subject": "Interim Dividend - Rs 2 Per Share"
+    },
+    {
+      "company": "Aptus Value Housing Finance India Limited",
+      "symbol": "APTUS",
+      "isin": "INE852O01025",
+      "series": "EQ",
+      "date": "15-May-2026",
+      "close": 264.45,
+      "subject": "Interim Dividend - Rs 2.50 Per Share"
+    }
+  ]
+}

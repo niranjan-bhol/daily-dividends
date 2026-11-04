@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Endurance Technologies Limited",
+      "symbol": "ENDURANCE",
+      "isin": "INE913H01037",
+      "series": "EQ",
+      "date": "2026-07-31",
+      "close": 2758.3,
+      "dividend_type": "final",
+      "dividend_amount": 11.5,
+      "dividend_percent": 0.4169
+    }
+  ]
+}

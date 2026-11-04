@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Schaeffler India Limited",
+      "symbol": "SCHAEFFLER",
+      "isin": "INE513A01014",
+      "series": "EQ",
+      "date": "2026-04-23",
+      "close": 4220.1,
+      "dividend_type": "final",
+      "dividend_amount": 35.0,
+      "dividend_percent": 0.8294
+    }
+  ]
+}

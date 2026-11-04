@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "company": "Natco Pharma Limited",
+      "symbol": "NATCOPHARM",
+      "isin": "INE987B01018",
+      "series": "EQ",
+      "date": "20-Nov-2025",
+      "close": 869.3,
+      "subject": "Interim Dividend - Rs 1.50 Per Share"
+    },
+    {
+      "company": "Natco Pharma Limited",
+      "symbol": "NATCOPHARM",
+      "isin": "INE987B01018",
+      "series": "EQ",
+      "date": "18-Feb-2026",
+      "close": 890.5,
+      "subject": "Interim Dividend - Rs 1.50 Per Share"
+    },
+    {
+      "company": "Natco Pharma Limited",
+      "symbol": "NATCOPHARM",
+      "isin": "INE987B01018",
+      "series": "EQ",
+      "date": "20-Aug-2026",
+      "close": 877.5,
+      "subject": "Interim Dividend - Rs 1.50 Per Share"
+    }
+  ]
+}

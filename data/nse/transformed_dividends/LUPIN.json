@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "company": "Lupin Limited",
+      "symbol": "LUPIN",
+      "isin": "INE326A01029",
+      "series": "EQ",
+      "date": "17-Jul-2026",
+      "close": 2443.2,
+      "subject": "Dividend - Rs 18 Per Share"
+    }
+  ]
+}

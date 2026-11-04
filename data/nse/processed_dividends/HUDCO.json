@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "company": "Housing & Urban Development Corporation Limited",
+      "symbol": "HUDCO",
+      "isin": "INE031A07873",
+      "series": "EQ",
+      "date": "2025-11-19",
+      "close": 237.28,
+      "dividend_type": "interim",
+      "dividend_amount": 1.0,
+      "dividend_percent": 0.4214
+    },
+    {
+      "company": "Housing & Urban Development Corporation Limited",
+      "symbol": "HUDCO",
+      "isin": "INE031A07873",
+      "series": "EQ",
+      "date": "2026-02-06",
+      "close": 192.17,
+      "dividend_type": "interim",
+      "dividend_amount": 1.15,
+      "dividend_percent": 0.5984
+    },
+    {
+      "company": "Housing & Urban Development Corporation Limited",
+      "symbol": "HUDCO",
+      "isin": "INE031A07873",
+      "series": "EQ",
+      "date": "2026-03-27",
+      "close": 168.06,
+      "dividend_type": "interim",
+      "dividend_amount": 1.25,
+      "dividend_percent": 0.7438
+    },
+    {
+      "company": "Housing & Urban Development Corporation Limited",
+      "symbol": "HUDCO",
+      "isin": "INE031A07873",
+      "series": "EQ",
+      "date": "2026-07-31",
+      "close": 195.1,
+      "dividend_type": "interim",
+      "dividend_amount": 1.25,
+      "dividend_percent": 0.6407
+    },
+    {
+      "company": "Housing & Urban Development Corporation Limited",
+      "symbol": "HUDCO",
+      "isin": "INE031A07873",
+      "series": "EQ",
+      "date": "2026-08-17",
+      "close": 189.01,
+      "dividend_type": "final",
+      "dividend_amount": 1.5,
+      "dividend_percent": 0.7936
+    }
+  ]
+}

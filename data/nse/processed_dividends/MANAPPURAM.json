@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "company": "Manappuram Finance Limited",
+      "symbol": "MANAPPURAM",
+      "isin": "INE522D01027",
+      "series": "EQ",
+      "date": "2025-11-07",
+      "close": 270.65,
+      "dividend_type": "interim",
+      "dividend_amount": 0.5,
+      "dividend_percent": 0.1847
+    },
+    {
+      "company": "Manappuram Finance Limited",
+      "symbol": "MANAPPURAM",
+      "isin": "INE522D01027",
+      "series": "EQ",
+      "date": "2026-02-06",
+      "close": 300.9,
+      "dividend_type": "interim",
+      "dividend_amount": 0.5,
+      "dividend_percent": 0.1662
+    },
+    {
+      "company": "Manappuram Finance Limited",
+      "symbol": "MANAPPURAM",
+      "isin": "INE522D01027",
+      "series": "EQ",
+      "date": "2026-05-11",
+      "close": 305.45,
+      "dividend_type": "interim",
+      "dividend_amount": 0.5,
+      "dividend_percent": 0.1637
+    },
+    {
+      "company": "Manappuram Finance Limited",
+      "symbol": "MANAPPURAM",
+      "isin": "INE522D01027",
+      "series": "EQ",
+      "date": "2026-08-17",
+      "close": 348.6,
+      "dividend_type": "interim",
+      "dividend_amount": 1.0,
+      "dividend_percent": 0.2869
+    }
+  ]
+}

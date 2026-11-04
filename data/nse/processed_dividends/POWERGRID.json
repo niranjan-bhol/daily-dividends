@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "company": "Power Grid Corporation of India Limited",
+      "symbol": "POWERGRID",
+      "isin": "INE752E01010",
+      "series": "EQ",
+      "date": "2025-11-10",
+      "close": 268.2,
+      "dividend_type": "interim",
+      "dividend_amount": 4.5,
+      "dividend_percent": 1.6779
+    },
+    {
+      "company": "Power Grid Corporation of India Limited",
+      "symbol": "POWERGRID",
+      "isin": "INE752E01010",
+      "series": "EQ",
+      "date": "2026-02-09",
+      "close": 289.75,
+      "dividend_type": "interim",
+      "dividend_amount": 3.25,
+      "dividend_percent": 1.1217
+    },
+    {
+      "company": "Power Grid Corporation of India Limited",
+      "symbol": "POWERGRID",
+      "isin": "INE752E01010",
+      "series": "EQ",
+      "date": "2026-08-13",
+      "close": 266.6,
+      "dividend_type": "final",
+      "dividend_amount": 1.25,
+      "dividend_percent": 0.4689
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "company": "Cochin Shipyard Limited",
+      "symbol": "COCHINSHIP",
+      "isin": "INE704P01017",
+      "series": "EQ",
+      "date": "18-Nov-2025",
+      "close": 1710,
+      "subject": "Interim Dividend - Rs 4 Per Share"
+    },
+    {
+      "company": "Cochin Shipyard Limited",
+      "symbol": "COCHINSHIP",
+      "isin": "INE704P01017",
+      "series": "EQ",
+      "date": "03-Feb-2026",
+      "close": 1508.5,
+      "subject": "Interim Dividend - Rs 3.50 Per Share"
+    },
+    {
+      "company": "Cochin Shipyard Limited",
+      "symbol": "COCHINSHIP",
+      "isin": "INE704P01017",
+      "series": "EQ",
+      "date": "18-Sep-2026",
+      "close": 1398,
+      "subject": "Dividend - Rs 1.5 Per Share"
+    }
+  ]
+}

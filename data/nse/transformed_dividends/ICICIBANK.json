@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "company": "ICICI Bank Limited",
+      "symbol": "ICICIBANK",
+      "isin": "INE090A01013",
+      "series": "EQ",
+      "date": "03-Aug-2026",
+      "close": 1460,
+      "subject": "Dividend - Rs 12 Per Share"
+    }
+  ]
+}

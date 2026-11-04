@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Infosys Limited",
+      "symbol": "INFY",
+      "isin": "INE009A01021",
+      "series": "EQ",
+      "date": "2026-06-10",
+      "close": 1145.3,
+      "dividend_type": "final",
+      "dividend_amount": 25.0,
+      "dividend_percent": 2.1828
+    },
+    {
+      "company": "Infosys Limited",
+      "symbol": "INFY",
+      "isin": "INE009A01021",
+      "series": "EQ",
+      "date": "2026-11-03",
+      "close": 1148.1,
+      "dividend_type": "interim",
+      "dividend_amount": 26.0,
+      "dividend_percent": 2.2646
+    }
+  ]
+}

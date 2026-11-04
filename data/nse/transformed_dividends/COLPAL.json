@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "company": "Colgate Palmolive (India) Limited",
+      "symbol": "COLPAL",
+      "isin": "INE259A01022",
+      "series": "EQ",
+      "date": "03-Nov-2025",
+      "close": 2200.4,
+      "subject": "Interim Dividend - Rs 24 Per Share"
+    },
+    {
+      "company": "Colgate Palmolive (India) Limited",
+      "symbol": "COLPAL",
+      "isin": "INE259A01022",
+      "series": "EQ",
+      "date": "01-Jun-2026",
+      "close": 1990.1,
+      "subject": "Interim Dividend - Rs 24 Per Share"
+    },
+    {
+      "company": "Colgate Palmolive (India) Limited",
+      "symbol": "COLPAL",
+      "isin": "INE259A01022",
+      "series": "EQ",
+      "date": "02-Nov-2026",
+      "close": 1575,
+      "subject": "Interim Dividend - Rs 24 Per Share"
+    }
+  ]
+}

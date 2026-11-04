@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Bank of Baroda",
+      "symbol": "BANKBARODA",
+      "isin": "INE028A01013",
+      "series": "EQ",
+      "date": "2026-06-05",
+      "close": 263.7,
+      "dividend_type": "final",
+      "dividend_amount": 8.5,
+      "dividend_percent": 3.2234
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Waaree Energies Limited",
+      "symbol": "WAAREEENER",
+      "isin": "INE377N01017",
+      "series": "EQ",
+      "date": "2026-09-11",
+      "close": 2625,
+      "dividend_type": "final",
+      "dividend_amount": 2.0,
+      "dividend_percent": 0.0762
+    }
+  ]
+}

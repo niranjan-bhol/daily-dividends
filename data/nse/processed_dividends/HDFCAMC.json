@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "HDFC Asset Management Company Limited",
+      "symbol": "HDFCAMC",
+      "isin": "INE127D01025",
+      "series": "EQ",
+      "date": "2026-06-05",
+      "close": 2495.9,
+      "dividend_type": "final",
+      "dividend_amount": 54.0,
+      "dividend_percent": 2.1635
+    }
+  ]
+}

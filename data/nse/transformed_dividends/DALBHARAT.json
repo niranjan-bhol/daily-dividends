@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Dalmia Bharat Limited",
+      "symbol": "DALBHARAT",
+      "isin": "INE00R701025",
+      "series": "EQ",
+      "date": "23-Jun-2026",
+      "close": 1680.6,
+      "subject": "Dividend - Rs 5 Per Share"
+    },
+    {
+      "company": "Dalmia Bharat Limited",
+      "symbol": "DALBHARAT",
+      "isin": "INE00R701025",
+      "series": "EQ",
+      "date": "30-Oct-2026",
+      "close": 1326.2,
+      "subject": "Interim Dividend - Rs 4 Per Share"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "360 ONE WAM LIMITED",
+      "symbol": "360ONE",
+      "isin": "INE466L01020",
+      "series": "EQ",
+      "date": "27-Apr-2026",
+      "close": 1042.05,
+      "subject": "Interim Dividend - Rs 6 Per Share"
+    },
+    {
+      "company": "360 ONE WAM LIMITED",
+      "symbol": "360ONE",
+      "isin": "INE466L01020",
+      "series": "EQ",
+      "date": "23-Oct-2026",
+      "close": 997.1,
+      "subject": "Interim Dividend - Rs 7.50 Per Share"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Bank of India",
+      "symbol": "BANKINDIA",
+      "isin": "INE084A01016",
+      "series": "EQ",
+      "date": "2026-05-29",
+      "close": 139.91,
+      "dividend_type": "final",
+      "dividend_amount": 4.65,
+      "dividend_percent": 3.3236
+    }
+  ]
+}

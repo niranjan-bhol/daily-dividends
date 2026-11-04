@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Hindustan Aeronautics Limited",
+      "symbol": "HAL",
+      "isin": "INE066F01012",
+      "series": "EQ",
+      "date": "18-Feb-2026",
+      "close": 4251.1,
+      "subject": "Interim Dividend - Rs 35 Per Share"
+    },
+    {
+      "company": "Hindustan Aeronautics Limited",
+      "symbol": "HAL",
+      "isin": "INE066F01012",
+      "series": "EQ",
+      "date": "14-Aug-2026",
+      "close": 5029.9,
+      "subject": "Dividend - Rs 10 Per Sh"
+    }
+  ]
+}

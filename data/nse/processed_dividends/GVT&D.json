@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "GE Vernova T&D India Limited",
+      "symbol": "GVT&D",
+      "isin": "INE200A01026",
+      "series": "EQ",
+      "date": "2026-08-21",
+      "close": 4127.2,
+      "dividend_type": "final",
+      "dividend_amount": 10.0,
+      "dividend_percent": 0.2423
+    }
+  ]
+}

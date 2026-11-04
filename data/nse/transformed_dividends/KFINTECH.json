@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "company": "Kfin Technologies Limited",
+      "symbol": "KFINTECH",
+      "isin": "INE138Y01010",
+      "series": "EQ",
+      "date": "15-Jul-2026",
+      "close": 893.95,
+      "subject": "Dividend - Rs 12 Per Share"
+    }
+  ]
+}

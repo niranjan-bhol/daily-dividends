@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "AWL Agri Business Limited",
+      "symbol": "AWL",
+      "isin": "INE699H01024",
+      "series": "EQ",
+      "date": "2026-06-19",
+      "close": 184.31,
+      "dividend_type": "final",
+      "dividend_amount": 1.0,
+      "dividend_percent": 0.5426
+    }
+  ]
+}

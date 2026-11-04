@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Cemindia Projects Limited",
+      "symbol": "CEMPRO",
+      "isin": "INE686A01026",
+      "series": "EQ",
+      "date": "2026-06-12",
+      "close": 1122.4,
+      "dividend_type": "final",
+      "dividend_amount": 3.0,
+      "dividend_percent": 0.2673
+    }
+  ]
+}

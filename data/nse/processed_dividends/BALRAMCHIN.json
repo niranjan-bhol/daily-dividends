@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Balrampur Chini Mills Limited",
+      "symbol": "BALRAMCHIN",
+      "isin": "INE119A01028",
+      "series": "EQ",
+      "date": "2025-11-17",
+      "close": 471.9,
+      "dividend_type": "interim",
+      "dividend_amount": 3.5,
+      "dividend_percent": 0.7417
+    }
+  ]
+}

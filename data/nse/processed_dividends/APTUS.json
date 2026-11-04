@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Aptus Value Housing Finance India Limited",
+      "symbol": "APTUS",
+      "isin": "INE852O01025",
+      "series": "EQ",
+      "date": "2025-11-07",
+      "close": 292.4,
+      "dividend_type": "interim",
+      "dividend_amount": 2.0,
+      "dividend_percent": 0.684
+    },
+    {
+      "company": "Aptus Value Housing Finance India Limited",
+      "symbol": "APTUS",
+      "isin": "INE852O01025",
+      "series": "EQ",
+      "date": "2026-05-15",
+      "close": 264.45,
+      "dividend_type": "interim",
+      "dividend_amount": 2.5,
+      "dividend_percent": 0.9454
+    }
+  ]
+}

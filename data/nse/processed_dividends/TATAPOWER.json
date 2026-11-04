@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Tata Power Company Limited",
+      "symbol": "TATAPOWER",
+      "isin": "INE245A01013",
+      "series": "EQ",
+      "date": "2026-06-23",
+      "close": 398.3,
+      "dividend_type": "final",
+      "dividend_amount": 2.5,
+      "dividend_percent": 0.6277
+    }
+  ]
+}

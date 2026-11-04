@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Siemens Limited",
+      "symbol": "SIEMENS",
+      "isin": "INE003A01024",
+      "series": "EQ",
+      "date": "2026-07-29",
+      "close": 3650.8,
+      "dividend_type": "final",
+      "dividend_amount": 18.0,
+      "dividend_percent": 0.493
+    }
+  ]
+}

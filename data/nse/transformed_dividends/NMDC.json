@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "NMDC Limited",
+      "symbol": "NMDC",
+      "isin": "INE584A01023",
+      "series": "EQ",
+      "date": "13-Feb-2026",
+      "close": 79.43,
+      "subject": "Interim Dividend - Rs 2.50 Per Share"
+    },
+    {
+      "company": "NMDC Limited",
+      "symbol": "NMDC",
+      "isin": "INE584A01023",
+      "series": "EQ",
+      "date": "05-Oct-2026",
+      "close": 73.74,
+      "subject": "Dividend - Re 1 Per Share"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "company": "Chennai Petroleum Corporation Limited",
+      "symbol": "CHENNPETRO",
+      "isin": "INE178A01016",
+      "series": "EQ",
+      "date": "2026-04-02",
+      "close": 1032.25,
+      "dividend_type": "interim",
+      "dividend_amount": 8.0,
+      "dividend_percent": 0.775
+    },
+    {
+      "company": "Chennai Petroleum Corporation Limited",
+      "symbol": "CHENNPETRO",
+      "isin": "INE178A01016",
+      "series": "EQ",
+      "date": "2026-08-07",
+      "close": 1275.4,
+      "dividend_type": "final",
+      "dividend_amount": 54.0,
+      "dividend_percent": 4.234
+    },
+    {
+      "company": "Chennai Petroleum Corporation Limited",
+      "symbol": "CHENNPETRO",
+      "isin": "INE178A01016",
+      "series": "EQ",
+      "date": "2026-10-30",
+      "close": 1511.5,
+      "dividend_type": "interim",
+      "dividend_amount": 25.0,
+      "dividend_percent": 1.654
+    }
+  ]
+}

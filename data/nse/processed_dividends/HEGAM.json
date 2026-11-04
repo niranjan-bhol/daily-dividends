@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "HEG Advanced Materials Limited",
+      "symbol": "HEG",
+      "isin": "INE545A01024",
+      "series": "EQ",
+      "date": "2026-07-22",
+      "close": 598.85,
+      "dividend_type": "final",
+      "dividend_amount": 3.4,
+      "dividend_percent": 0.5678
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "company": "Computer Age Management Services Limited",
+      "symbol": "CAMS",
+      "isin": "INE596I01012",
+      "series": "EQ",
+      "date": "07-Nov-2025",
+      "close": 3795.3,
+      "subject": "Interim Dividend - Rs 14 Per Share"
+    },
+    {
+      "company": "Computer Age Management Services Limited",
+      "symbol": "CAMS",
+      "isin": "INE596I01012",
+      "series": "EQ",
+      "date": "30-Jan-2026",
+      "close": 695.05,
+      "subject": "Interim Dividend - Rs 3.50 Per Share"
+    },
+    {
+      "company": "Computer Age Management Services Limited",
+      "symbol": "CAMS",
+      "isin": "INE596I01012",
+      "series": "EQ",
+      "date": "10-Jul-2026",
+      "close": 790.5,
+      "subject": "Dividend - Rs 4 Per Share"
+    },
+    {
+      "company": "Computer Age Management Services Limited",
+      "symbol": "CAMS",
+      "isin": "INE596I01012",
+      "series": "EQ",
+      "date": "12-Aug-2026",
+      "close": 777.4,
+      "subject": "Interim Dividend - Rs 2.50 Per Share"
+    }
+  ]
+}

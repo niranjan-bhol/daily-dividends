@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Ashok Leyland Limited",
+      "symbol": "ASHOKLEY",
+      "isin": "INE208A01029",
+      "series": "EQ",
+      "date": "18-Nov-2025",
+      "close": 147.23,
+      "subject": "Interim Dividend - Re 1 Per Share"
+    },
+    {
+      "company": "Ashok Leyland Limited",
+      "symbol": "ASHOKLEY",
+      "isin": "INE208A01029",
+      "series": "EQ",
+      "date": "03-Jun-2026",
+      "close": 145.84,
+      "subject": "Interim Dividend - Rs 2.50 Per Share"
+    }
+  ]
+}

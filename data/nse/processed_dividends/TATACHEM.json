@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Tata Chemicals Limited",
+      "symbol": "TATACHEM",
+      "isin": "INE092A01019",
+      "series": "EQ",
+      "date": "2026-06-10",
+      "close": 720.4,
+      "dividend_type": "final",
+      "dividend_amount": 11.0,
+      "dividend_percent": 1.5269
+    }
+  ]
+}

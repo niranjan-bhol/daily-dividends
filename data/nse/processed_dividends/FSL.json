@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Firstsource Solutions Limited",
+      "symbol": "FSL",
+      "isin": "INE684F01012",
+      "series": "EQ",
+      "date": "2026-02-20",
+      "close": 243.15,
+      "dividend_type": "interim",
+      "dividend_amount": 5.5,
+      "dividend_percent": 2.262
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Welspun Living Limited",
+      "symbol": "WELSPUNLIV",
+      "isin": "INE192B01031",
+      "series": "EQ",
+      "date": "2026-07-10",
+      "close": 166.17,
+      "dividend_type": "final",
+      "dividend_amount": 0.1,
+      "dividend_percent": 0.0602
+    }
+  ]
+}

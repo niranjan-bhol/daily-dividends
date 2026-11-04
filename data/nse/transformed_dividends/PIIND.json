@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "PI Industries Limited",
+      "symbol": "PIIND",
+      "isin": "INE603J01014",
+      "series": "EQ",
+      "date": "23-Feb-2026",
+      "close": 3119.5,
+      "subject": "Interim Dividend - Rs 5 Per Share"
+    },
+    {
+      "company": "PI Industries Limited",
+      "symbol": "PIIND",
+      "isin": "INE603J01014",
+      "series": "EQ",
+      "date": "07-Aug-2026",
+      "close": 2774.6,
+      "subject": "Dividend - Rs 10 Per Share"
+    }
+  ]
+}

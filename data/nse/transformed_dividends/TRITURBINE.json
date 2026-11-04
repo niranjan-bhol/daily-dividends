@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Triveni Turbine Limited",
+      "symbol": "TRITURBINE",
+      "isin": "INE152M01016",
+      "series": "EQ",
+      "date": "09-Feb-2026",
+      "close": 502.55,
+      "subject": "Interim Dividend - Rs 2.25 Per Share"
+    },
+    {
+      "company": "Triveni Turbine Limited",
+      "symbol": "TRITURBINE",
+      "isin": "INE152M01016",
+      "series": "EQ",
+      "date": "02-Sep-2026",
+      "close": 565.2,
+      "subject": "Dividend - Rs 2 Per Share"
+    }
+  ]
+}

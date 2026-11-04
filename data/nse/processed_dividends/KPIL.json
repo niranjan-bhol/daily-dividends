@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Kalpataru Projects International Limited",
+      "symbol": "KPIL",
+      "isin": "INE220B01022",
+      "series": "EQ",
+      "date": "2026-06-29",
+      "close": 1346.1,
+      "dividend_type": "final",
+      "dividend_amount": 11.0,
+      "dividend_percent": 0.8172
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "L&T Technology Services Limited",
+      "symbol": "LTTS",
+      "isin": "INE010V01017",
+      "series": "EQ",
+      "date": "22-May-2026",
+      "close": 3419.3,
+      "subject": "Dividend - Rs 40 Per Share"
+    },
+    {
+      "company": "L&T Technology Services Limited",
+      "symbol": "LTTS",
+      "isin": "INE010V01017",
+      "series": "EQ",
+      "date": "27-Oct-2026",
+      "close": 4174.2,
+      "subject": "Interim Dividend - Rs 20 Per Share"
+    }
+  ]
+}

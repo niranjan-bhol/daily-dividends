@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "company": "Oberoi Realty Limited",
+      "symbol": "OBEROIRLTY",
+      "isin": "INE093I01010",
+      "series": "EQ",
+      "date": "2026-01-23",
+      "close": 1453.9,
+      "dividend_type": "interim",
+      "dividend_amount": 2.0,
+      "dividend_percent": 0.1376
+    },
+    {
+      "company": "Oberoi Realty Limited",
+      "symbol": "OBEROIRLTY",
+      "isin": "INE093I01010",
+      "series": "EQ",
+      "date": "2026-05-14",
+      "close": 1637.6,
+      "dividend_type": "interim",
+      "dividend_amount": 2.0,
+      "dividend_percent": 0.1221
+    },
+    {
+      "company": "Oberoi Realty Limited",
+      "symbol": "OBEROIRLTY",
+      "isin": "INE093I01010",
+      "series": "EQ",
+      "date": "2026-07-23",
+      "close": 1818.1,
+      "dividend_type": "interim",
+      "dividend_amount": 2.0,
+      "dividend_percent": 0.11
+    },
+    {
+      "company": "Oberoi Realty Limited",
+      "symbol": "OBEROIRLTY",
+      "isin": "INE093I01010",
+      "series": "EQ",
+      "date": "2026-10-23",
+      "close": 1612.7,
+      "dividend_type": "interim",
+      "dividend_amount": 2.0,
+      "dividend_percent": 0.124
+    }
+  ]
+}

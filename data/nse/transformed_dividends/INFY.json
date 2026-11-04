@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Infosys Limited",
+      "symbol": "INFY",
+      "isin": "INE009A01021",
+      "series": "EQ",
+      "date": "10-Jun-2026",
+      "close": 1145.3,
+      "subject": "Dividend - Rs 25 Per Share"
+    },
+    {
+      "company": "Infosys Limited",
+      "symbol": "INFY",
+      "isin": "INE009A01021",
+      "series": "EQ",
+      "date": "03-Nov-2026",
+      "close": 1148.1,
+      "subject": "Interim Dividend - Rs 26 Per Share"
+    }
+  ]
+}

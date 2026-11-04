@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Voltas Limited",
+      "symbol": "VOLTAS",
+      "isin": "INE226A01021",
+      "series": "EQ",
+      "date": "2026-06-12",
+      "close": 1285.4,
+      "dividend_type": "final",
+      "dividend_amount": 4.0,
+      "dividend_percent": 0.3112
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Fortis Healthcare Limited",
+      "symbol": "FORTIS",
+      "isin": "INE061F01013",
+      "series": "EQ",
+      "date": "2026-07-24",
+      "close": 948.7,
+      "dividend_type": "final",
+      "dividend_amount": 1.0,
+      "dividend_percent": 0.1054
+    }
+  ]
+}

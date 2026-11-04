@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "IIFL Finance Limited",
+      "symbol": "IIFL",
+      "isin": "INE530B01024",
+      "series": "EQ",
+      "date": "2026-01-29",
+      "close": 546,
+      "dividend_type": "interim",
+      "dividend_amount": 4.0,
+      "dividend_percent": 0.7326
+    }
+  ]
+}

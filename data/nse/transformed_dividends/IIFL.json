@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "company": "IIFL Finance Limited",
+      "symbol": "IIFL",
+      "isin": "INE530B01024",
+      "series": "EQ",
+      "date": "29-Jan-2026",
+      "close": 546,
+      "subject": "Interim Dividend - Rs 4 Per Share"
+    }
+  ]
+}

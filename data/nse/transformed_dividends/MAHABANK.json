@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Bank of Maharashtra",
+      "symbol": "MAHABANK",
+      "isin": "INE457A01014",
+      "series": "EQ",
+      "date": "20-Jan-2026",
+      "close": 63.92,
+      "subject": "Interim Dividend - Re 1 Per Share"
+    },
+    {
+      "company": "Bank of Maharashtra",
+      "symbol": "MAHABANK",
+      "isin": "INE457A01014",
+      "series": "EQ",
+      "date": "05-Jun-2026",
+      "close": 79.19,
+      "subject": "Dividend - Rs 1.20 Per Sh"
+    }
+  ]
+}

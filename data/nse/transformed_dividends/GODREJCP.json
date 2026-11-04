@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "company": "Godrej Consumer Products Limited",
+      "symbol": "GODREJCP",
+      "isin": "INE102D01028",
+      "series": "EQ",
+      "date": "07-Nov-2025",
+      "close": 1121.8,
+      "subject": "Interim Dividend - Rs 5 Per Share"
+    },
+    {
+      "company": "Godrej Consumer Products Limited",
+      "symbol": "GODREJCP",
+      "isin": "INE102D01028",
+      "series": "EQ",
+      "date": "30-Jan-2026",
+      "close": 1154.1,
+      "subject": "Interim Dividend - Rs 5 Per Share"
+    },
+    {
+      "company": "Godrej Consumer Products Limited",
+      "symbol": "GODREJCP",
+      "isin": "INE102D01028",
+      "series": "EQ",
+      "date": "12-May-2026",
+      "close": 1030.2,
+      "subject": "Interim Dividend - Rs 5 Per Share"
+    },
+    {
+      "company": "Godrej Consumer Products Limited",
+      "symbol": "GODREJCP",
+      "isin": "INE102D01028",
+      "series": "EQ",
+      "date": "13-Aug-2026",
+      "close": 936.9,
+      "subject": "Interim Dividend - Rs 5 Per Share"
+    }
+  ]
+}

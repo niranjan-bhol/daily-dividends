@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "SBI Cards and Payment Services Limited",
+      "symbol": "SBICARD",
+      "isin": "INE018E01016",
+      "series": "EQ",
+      "date": "2026-03-11",
+      "close": 715,
+      "dividend_type": "interim",
+      "dividend_amount": 2.5,
+      "dividend_percent": 0.3497
+    }
+  ]
+}

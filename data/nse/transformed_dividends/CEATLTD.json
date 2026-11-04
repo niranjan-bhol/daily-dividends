@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "company": "CEAT Limited",
+      "symbol": "CEATLTD",
+      "isin": "INE482A01020",
+      "series": "EQ",
+      "date": "31-Jul-2026",
+      "close": 3429.9,
+      "subject": "Dividend - Rs 35 Per Share"
+    }
+  ]
+}

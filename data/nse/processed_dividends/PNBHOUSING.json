@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "PNB Housing Finance Limited",
+      "symbol": "PNBHOUSING",
+      "isin": "INE572E01012",
+      "series": "EQ",
+      "date": "2026-07-31",
+      "close": 1053.1,
+      "dividend_type": "final",
+      "dividend_amount": 8.0,
+      "dividend_percent": 0.7597
+    }
+  ]
+}

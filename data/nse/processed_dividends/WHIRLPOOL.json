@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Whirlpool of India Limited",
+      "symbol": "WHIRLPOOL",
+      "isin": "INE716A01013",
+      "series": "EQ",
+      "date": "2026-08-28",
+      "close": 813.25,
+      "dividend_type": "final",
+      "dividend_amount": 5.0,
+      "dividend_percent": 0.6148
+    }
+  ]
+}

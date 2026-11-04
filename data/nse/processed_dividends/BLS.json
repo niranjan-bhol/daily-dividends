@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "BLS International Services Limited",
+      "symbol": "BLS",
+      "isin": "INE153T01019",
+      "series": "EQ",
+      "date": "2026-02-13",
+      "close": 269.3,
+      "dividend_type": "interim",
+      "dividend_amount": 2.0,
+      "dividend_percent": 0.7427
+    },
+    {
+      "company": "BLS International Services Limited",
+      "symbol": "BLS",
+      "isin": "INE153T01019",
+      "series": "EQ",
+      "date": "2026-09-16",
+      "close": 226.74,
+      "dividend_type": "final",
+      "dividend_amount": 0.5,
+      "dividend_percent": 0.2205
+    }
+  ]
+}

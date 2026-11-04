@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Union Bank of India",
+      "symbol": "UNIONBANK",
+      "isin": "INE692A01016",
+      "series": "EQ",
+      "date": "2026-07-03",
+      "close": 163.09,
+      "dividend_type": "final",
+      "dividend_amount": 5.0,
+      "dividend_percent": 3.0658
+    }
+  ]
+}

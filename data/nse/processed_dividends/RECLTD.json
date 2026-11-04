@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "company": "REC Limited",
+      "symbol": "RECLTD",
+      "isin": "INE020B01018",
+      "series": "EQ",
+      "date": "2026-02-06",
+      "close": 372.5,
+      "dividend_type": "interim",
+      "dividend_amount": 4.6,
+      "dividend_percent": 1.2349
+    },
+    {
+      "company": "REC Limited",
+      "symbol": "RECLTD",
+      "isin": "INE020B01018",
+      "series": "EQ",
+      "date": "2026-03-20",
+      "close": 330.5,
+      "dividend_type": "interim",
+      "dividend_amount": 3.2,
+      "dividend_percent": 0.9682
+    },
+    {
+      "company": "REC Limited",
+      "symbol": "RECLTD",
+      "isin": "INE020B01018",
+      "series": "EQ",
+      "date": "2026-07-31",
+      "close": 372.95,
+      "dividend_type": "interim",
+      "dividend_amount": 4.25,
+      "dividend_percent": 1.1396
+    },
+    {
+      "company": "REC Limited",
+      "symbol": "RECLTD",
+      "isin": "INE020B01018",
+      "series": "EQ",
+      "date": "2026-08-14",
+      "close": 335,
+      "dividend_type": "final",
+      "dividend_amount": 1.55,
+      "dividend_percent": 0.4627
+    },
+    {
+      "company": "REC Limited",
+      "symbol": "RECLTD",
+      "isin": "INE020B01018",
+      "series": "EQ",
+      "date": "2026-10-30",
+      "close": 285.6,
+      "dividend_type": "interim",
+      "dividend_amount": 3.5,
+      "dividend_percent": 1.2255
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Welspun Corp Limited",
+      "symbol": "WELCORP",
+      "isin": "INE191B01025",
+      "series": "EQ",
+      "date": "2026-06-30",
+      "close": 1521.9,
+      "dividend_type": "final",
+      "dividend_amount": 5.0,
+      "dividend_percent": 0.3285
+    }
+  ]
+}

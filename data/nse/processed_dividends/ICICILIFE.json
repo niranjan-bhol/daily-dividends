@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "ICICI Life Insurance Limited",
+      "symbol": "ICICIPRULI",
+      "isin": "INE726G01019",
+      "series": "EQ",
+      "date": "2026-06-05",
+      "close": 483.25,
+      "dividend_type": "final",
+      "dividend_amount": 1.65,
+      "dividend_percent": 0.3414
+    }
+  ]
+}

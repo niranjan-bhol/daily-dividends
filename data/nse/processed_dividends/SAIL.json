@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Steel Authority of India Limited",
+      "symbol": "SAIL",
+      "isin": "INE114A01011",
+      "series": "EQ",
+      "date": "2026-09-30",
+      "close": 181.49,
+      "dividend_type": "final",
+      "dividend_amount": 2.35,
+      "dividend_percent": 1.2948
+    }
+  ]
+}

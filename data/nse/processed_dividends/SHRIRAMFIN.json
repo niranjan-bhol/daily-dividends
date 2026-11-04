@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "company": "Shriram Finance Limited",
+      "symbol": "SHRIRAMFIN",
+      "isin": "INE721A01013",
+      "series": "EQ",
+      "date": "2025-11-07",
+      "close": 816.35,
+      "dividend_type": "interim",
+      "dividend_amount": 4.8,
+      "dividend_percent": 0.588
+    },
+    {
+      "company": "Shriram Finance Limited",
+      "symbol": "SHRIRAMFIN",
+      "isin": "INE721A01013",
+      "series": "EQ",
+      "date": "2026-07-03",
+      "close": 1063.6,
+      "dividend_type": "final",
+      "dividend_amount": 6.0,
+      "dividend_percent": 0.5641
+    },
+    {
+      "company": "Shriram Finance Limited",
+      "symbol": "SHRIRAMFIN",
+      "isin": "INE721A01013",
+      "series": "EQ",
+      "date": "2026-10-29",
+      "close": 841.1,
+      "dividend_type": "interim",
+      "dividend_amount": 6.5,
+      "dividend_percent": 0.7728
+    }
+  ]
+}

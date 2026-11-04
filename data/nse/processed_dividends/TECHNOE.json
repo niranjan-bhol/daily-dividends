@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "company": "Techno Electric & Engineering Company Limited",
+      "symbol": "TECHNOE",
+      "isin": "INE285K01026",
+      "series": "EQ",
+      "date": "2026-09-11",
+      "close": 972.15,
+      "dividend_type": "final",
+      "dividend_amount": 7.0,
+      "dividend_percent": 0.7201
+    }
+  ]
+}

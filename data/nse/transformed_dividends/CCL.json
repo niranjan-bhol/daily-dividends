@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "CCL Products (India) Limited",
+      "symbol": "CCL",
+      "isin": "INE421D01014",
+      "series": "EQ",
+      "date": "10-Feb-2026",
+      "close": 1031.05,
+      "subject": "Interim Dividend - Rs 2.75 Per Share"
+    },
+    {
+      "company": "CCL Products (India) Limited",
+      "symbol": "CCL",
+      "isin": "INE421D01014",
+      "series": "EQ",
+      "date": "01-Sep-2026",
+      "close": 1100.1,
+      "subject": "Dividend - Rs 3 Per Share"
+    }
+  ]
+}

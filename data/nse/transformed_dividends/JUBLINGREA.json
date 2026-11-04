@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "Jubilant Ingrevia Limited",
+      "symbol": "JUBLINGREA",
+      "isin": "INE0BY001018",
+      "series": "EQ",
+      "date": "10-Feb-2026",
+      "close": 660.4,
+      "subject": "Interim Dividend - Rs 2.50 Per Share"
+    },
+    {
+      "company": "Jubilant Ingrevia Limited",
+      "symbol": "JUBLINGREA",
+      "isin": "INE0BY001018",
+      "series": "EQ",
+      "date": "24-Jul-2026",
+      "close": 725.55,
+      "subject": "Dividend - Rs 2.50 Per Share"
+    }
+  ]
+}

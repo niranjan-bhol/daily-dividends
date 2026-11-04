@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "company": "The Great Eastern Shipping Company Limited",
+      "symbol": "GESHIP",
+      "isin": "INE017A01032",
+      "series": "EQ",
+      "date": "2025-11-13",
+      "close": 1136,
+      "dividend_type": "interim",
+      "dividend_amount": 7.2,
+      "dividend_percent": 0.6338
+    },
+    {
+      "company": "The Great Eastern Shipping Company Limited",
+      "symbol": "GESHIP",
+      "isin": "INE017A01032",
+      "series": "EQ",
+      "date": "2026-02-04",
+      "close": 1238.8,
+      "dividend_type": "interim",
+      "dividend_amount": 9.0,
+      "dividend_percent": 0.7265
+    },
+    {
+      "company": "The Great Eastern Shipping Company Limited",
+      "symbol": "GESHIP",
+      "isin": "INE017A01032",
+      "series": "EQ",
+      "date": "2026-05-20",
+      "close": 1665.4,
+      "dividend_type": "interim",
+      "dividend_amount": 11.7,
+      "dividend_percent": 0.7025
+    },
+    {
+      "company": "The Great Eastern Shipping Company Limited",
+      "symbol": "GESHIP",
+      "isin": "INE017A01032",
+      "series": "EQ",
+      "date": "2026-08-07",
+      "close": 1341.8,
+      "dividend_type": "interim",
+      "dividend_amount": 14.4,
+      "dividend_percent": 1.0732
+    }
+  ]
+}

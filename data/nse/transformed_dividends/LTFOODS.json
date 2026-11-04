@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "company": "LT Foods Limited",
+      "symbol": "LTFOODS",
+      "isin": "INE818H01020",
+      "series": "EQ",
+      "date": "02-Feb-2026",
+      "close": 360.4,
+      "subject": "Interim Dividend - Re 1 Per Share"
+    },
+    {
+      "company": "LT Foods Limited",
+      "symbol": "LTFOODS",
+      "isin": "INE818H01020",
+      "series": "EQ",
+      "date": "18-Sep-2026",
+      "close": 423.2,
+      "subject": "Dividend - Re 1 Per Share"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "company": "Hindustan Petroleum Corporation Limited",
+      "symbol": "HINDPETRO",
+      "isin": "INE094A01015",
+      "series": "EQ",
+      "date": "2025-11-06",
+      "close": 473.15,
+      "dividend_type": "interim",
+      "dividend_amount": 5.0,
+      "dividend_percent": 1.0567
+    },
+    {
+      "company": "Hindustan Petroleum Corporation Limited",
+      "symbol": "HINDPETRO",
+      "isin": "INE094A01015",
+      "series": "EQ",
+      "date": "2026-08-14",
+      "close": 373.5,
+      "dividend_type": "final",
+      "dividend_amount": 19.25,
+      "dividend_percent": 5.1539
+    }
+  ]
+}
