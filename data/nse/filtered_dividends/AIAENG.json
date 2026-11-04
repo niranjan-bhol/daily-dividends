@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "AIAENG",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "04-Sep-2026",
+      "CH_PREVIOUS_CLS_PRICE": 4272.4,
+      "CH_OPENING_PRICE": 4250,
+      "CH_TRADE_HIGH_PRICE": 4272.4,
+      "CH_TRADE_LOW_PRICE": 4206,
+      "CH_LAST_TRADED_PRICE": 4211,
+      "CH_CLOSING_PRICE": 4231.2,
+      "VWAP": 4250.57,
+      "CH_TOT_TRADED_QTY": 117943,
+      "CH_TOT_TRADED_VAL": 501324698.2,
+      "CH_TOTAL_TRADES": 5899,
+      "CH_TIMESTAMP": "2026-09-03T18:30:00.000Z",
+      "COP_DELIV_QTY": 107862,
+      "COP_DELIV_PERC": 91.45,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "AIA Engineering Limited",
+          "exDate": "04-Sep-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE212H01026",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "05-Sep-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 16 Per Share",
+          "symbol": "AIAENG"
+        }
+      ]
+    }
+  ]
+}

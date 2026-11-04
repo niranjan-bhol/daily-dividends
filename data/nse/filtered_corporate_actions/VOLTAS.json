@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "VOLTAS",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "12-Jun-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1277.3,
+      "CH_OPENING_PRICE": 1285,
+      "CH_TRADE_HIGH_PRICE": 1305,
+      "CH_TRADE_LOW_PRICE": 1273.1,
+      "CH_LAST_TRADED_PRICE": 1283.6,
+      "CH_CLOSING_PRICE": 1285.4,
+      "VWAP": 1285.65,
+      "CH_TOT_TRADED_QTY": 548090,
+      "CH_TOT_TRADED_VAL": 704654634.9,
+      "CH_TOTAL_TRADES": 21831,
+      "CH_TIMESTAMP": "2026-06-11T18:30:00.000Z",
+      "COP_DELIV_QTY": 232182,
+      "COP_DELIV_PERC": 42.36,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Voltas Limited",
+          "exDate": "12-Jun-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE226A01021",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "12-Jun-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 4 Per Share",
+          "symbol": "VOLTAS"
+        }
+      ]
+    }
+  ]
+}

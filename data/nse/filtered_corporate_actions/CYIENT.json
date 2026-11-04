@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "CYIENT",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "17-Jun-2026",
+      "CH_PREVIOUS_CLS_PRICE": 907.65,
+      "CH_OPENING_PRICE": 865,
+      "CH_TRADE_HIGH_PRICE": 884,
+      "CH_TRADE_LOW_PRICE": 855.15,
+      "CH_LAST_TRADED_PRICE": 872.4,
+      "CH_CLOSING_PRICE": 876.15,
+      "VWAP": 866.76,
+      "CH_TOT_TRADED_QTY": 1532390,
+      "CH_TOT_TRADED_VAL": 1328219216.3,
+      "CH_TOTAL_TRADES": 52012,
+      "CH_TIMESTAMP": "2026-06-16T18:30:00.000Z",
+      "COP_DELIV_QTY": 467077,
+      "COP_DELIV_PERC": 30.48,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Cyient Limited",
+          "exDate": "17-Jun-2026",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE136B01020",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "17-Jun-2026",
+          "series": "EQ",
+          "subject": "Buy Back",
+          "symbol": "CYIENT"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "CYIENT",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "28-Oct-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1182.3,
+      "CH_OPENING_PRICE": 1179.2,
+      "CH_TRADE_HIGH_PRICE": 1193.2,
+      "CH_TRADE_LOW_PRICE": 1148.6,
+      "CH_LAST_TRADED_PRICE": 1159,
+      "CH_CLOSING_PRICE": 1156.7,
+      "VWAP": 1162.99,
+      "CH_TOT_TRADED_QTY": 1052570,
+      "CH_TOT_TRADED_VAL": 1224123558.7,
+      "CH_TOTAL_TRADES": 62792,
+      "CH_TIMESTAMP": "2026-10-27T18:30:00.000Z",
+      "COP_DELIV_QTY": 447486,
+      "COP_DELIV_PERC": 42.51,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Cyient Limited",
+          "exDate": "28-Oct-2026",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE136B01020",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "28-Oct-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 12 Per Share",
+          "symbol": "CYIENT"
+        }
+      ]
+    }
+  ]
+}

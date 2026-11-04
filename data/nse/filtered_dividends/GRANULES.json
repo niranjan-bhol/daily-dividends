@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "GRANULES",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "30-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 841.85,
+      "CH_OPENING_PRICE": 841.95,
+      "CH_TRADE_HIGH_PRICE": 852.75,
+      "CH_TRADE_LOW_PRICE": 831.65,
+      "CH_LAST_TRADED_PRICE": 833,
+      "CH_CLOSING_PRICE": 833.95,
+      "VWAP": 841.14,
+      "CH_TOT_TRADED_QTY": 781533,
+      "CH_TOT_TRADED_VAL": 657377576.2,
+      "CH_TOTAL_TRADES": 19467,
+      "CH_TIMESTAMP": "2026-07-29T18:30:00.000Z",
+      "COP_DELIV_QTY": 380493,
+      "COP_DELIV_PERC": 48.69,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Granules India Limited",
+          "exDate": "30-Jul-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE101D01012",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "30-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 1.75 Per Share",
+          "symbol": "GRANULES"
+        }
+      ]
+    }
+  ]
+}

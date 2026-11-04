@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "BEL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "06-Mar-2026",
+      "CH_PREVIOUS_CLS_PRICE": 460,
+      "CH_OPENING_PRICE": 462,
+      "CH_TRADE_HIGH_PRICE": 473.45,
+      "CH_TRADE_LOW_PRICE": 460.35,
+      "CH_LAST_TRADED_PRICE": 469.6,
+      "CH_CLOSING_PRICE": 468.45,
+      "VWAP": 469.46,
+      "CH_TOT_TRADED_QTY": 28154230,
+      "CH_TOT_TRADED_VAL": 13217400042.1,
+      "CH_TOTAL_TRADES": 248841,
+      "CH_TIMESTAMP": "2026-03-05T18:30:00.000Z",
+      "COP_DELIV_QTY": 10016361,
+      "COP_DELIV_PERC": 35.58,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Bharat Electronics Limited",
+          "exDate": "06-Mar-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE263A01016",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "06-Mar-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 1.95 Per Share",
+          "symbol": "BEL"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "BEL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "13-Aug-2026",
+      "CH_PREVIOUS_CLS_PRICE": 405.7,
+      "CH_OPENING_PRICE": 405.7,
+      "CH_TRADE_HIGH_PRICE": 412,
+      "CH_TRADE_LOW_PRICE": 402.9,
+      "CH_LAST_TRADED_PRICE": 410.5,
+      "CH_CLOSING_PRICE": 410.5,
+      "VWAP": 408.52,
+      "CH_TOT_TRADED_QTY": 13819369,
+      "CH_TOT_TRADED_VAL": 5645427034.3,
+      "CH_TOTAL_TRADES": 160125,
+      "CH_TIMESTAMP": "2026-08-12T18:30:00.000Z",
+      "COP_DELIV_QTY": 7115008,
+      "COP_DELIV_PERC": 51.49,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Bharat Electronics Limited",
+          "exDate": "13-Aug-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE263A01016",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "13-Aug-2026",
+          "series": "EQ",
+          "subject": "Dividend - Re 0.55 Per Share",
+          "symbol": "BEL"
+        }
+      ]
+    }
+  ]
+}

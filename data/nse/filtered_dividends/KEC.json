@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "KEC",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "07-Aug-2026",
+      "CH_PREVIOUS_CLS_PRICE": 477.7,
+      "CH_OPENING_PRICE": 475,
+      "CH_TRADE_HIGH_PRICE": 480.45,
+      "CH_TRADE_LOW_PRICE": 472.1,
+      "CH_LAST_TRADED_PRICE": 477.6,
+      "CH_CLOSING_PRICE": 478.85,
+      "VWAP": 476.93,
+      "CH_TOT_TRADED_QTY": 585339,
+      "CH_TOT_TRADED_VAL": 279167771.35,
+      "CH_TOTAL_TRADES": 18298,
+      "CH_TIMESTAMP": "2026-08-06T18:30:00.000Z",
+      "COP_DELIV_QTY": 316198,
+      "COP_DELIV_PERC": 54.02,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "KEC International Limited",
+          "exDate": "07-Aug-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE389H01014",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "07-Aug-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 5.50 Per Share",
+          "symbol": "KEC"
+        }
+      ]
+    }
+  ]
+}

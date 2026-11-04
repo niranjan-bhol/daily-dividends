@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "HAVELLS",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "23-Jan-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1311.8,
+      "CH_OPENING_PRICE": 1324,
+      "CH_TRADE_HIGH_PRICE": 1324,
+      "CH_TRADE_LOW_PRICE": 1280,
+      "CH_LAST_TRADED_PRICE": 1285,
+      "CH_CLOSING_PRICE": 1287,
+      "VWAP": 1297.75,
+      "CH_TOT_TRADED_QTY": 783770,
+      "CH_TOT_TRADED_VAL": 1017137475.8,
+      "CH_TOTAL_TRADES": 36942,
+      "CH_TIMESTAMP": "2026-01-22T18:30:00.000Z",
+      "COP_DELIV_QTY": 339458,
+      "COP_DELIV_PERC": 43.31,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Havells India Limited",
+          "exDate": "23-Jan-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE176B01018",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "23-Jan-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 4 Per Share",
+          "symbol": "HAVELLS"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "HAVELLS",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "22-May-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1209.7,
+      "CH_OPENING_PRICE": 1217.4,
+      "CH_TRADE_HIGH_PRICE": 1217.4,
+      "CH_TRADE_LOW_PRICE": 1198,
+      "CH_LAST_TRADED_PRICE": 1201,
+      "CH_CLOSING_PRICE": 1200.9,
+      "VWAP": 1201.64,
+      "CH_TOT_TRADED_QTY": 581336,
+      "CH_TOT_TRADED_VAL": 698556795.4,
+      "CH_TOTAL_TRADES": 29718,
+      "CH_TIMESTAMP": "2026-05-21T18:30:00.000Z",
+      "COP_DELIV_QTY": 302809,
+      "COP_DELIV_PERC": 52.09,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Havells India Limited",
+          "exDate": "22-May-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE176B01018",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "24-May-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 6 Per Share",
+          "symbol": "HAVELLS"
+        }
+      ]
+    }
+  ]
+}

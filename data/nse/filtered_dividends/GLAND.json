@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "GLAND",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "11-Aug-2026",
+      "CH_PREVIOUS_CLS_PRICE": 2667.3,
+      "CH_OPENING_PRICE": 2845.5,
+      "CH_TRADE_HIGH_PRICE": 2988.4,
+      "CH_TRADE_LOW_PRICE": 2808,
+      "CH_LAST_TRADED_PRICE": 2933,
+      "CH_CLOSING_PRICE": 2924.4,
+      "VWAP": 2897.26,
+      "CH_TOT_TRADED_QTY": 8760097,
+      "CH_TOT_TRADED_VAL": 25380240103.9,
+      "CH_TOTAL_TRADES": 485597,
+      "CH_TIMESTAMP": "2026-08-10T18:30:00.000Z",
+      "COP_DELIV_QTY": 1328146,
+      "COP_DELIV_PERC": 15.16,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Gland Pharma Limited",
+          "exDate": "11-Aug-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE068V01023",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "11-Aug-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 20 Per Sh",
+          "symbol": "GLAND"
+        }
+      ]
+    }
+  ]
+}

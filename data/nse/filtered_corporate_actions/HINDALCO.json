@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "HINDALCO",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "10-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 963.45,
+      "CH_OPENING_PRICE": 976,
+      "CH_TRADE_HIGH_PRICE": 985.6,
+      "CH_TRADE_LOW_PRICE": 964.7,
+      "CH_LAST_TRADED_PRICE": 968.45,
+      "CH_CLOSING_PRICE": 967.45,
+      "VWAP": 972.98,
+      "CH_TOT_TRADED_QTY": 5859033,
+      "CH_TOT_TRADED_VAL": 5700750873.35,
+      "CH_TOTAL_TRADES": 89991,
+      "CH_TIMESTAMP": "2026-07-09T18:30:00.000Z",
+      "COP_DELIV_QTY": 3272288,
+      "COP_DELIV_PERC": 55.85,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Hindalco Industries Limited",
+          "exDate": "10-Jul-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE038A01020",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "10-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 5 Per Share",
+          "symbol": "HINDALCO"
+        }
+      ]
+    }
+  ]
+}

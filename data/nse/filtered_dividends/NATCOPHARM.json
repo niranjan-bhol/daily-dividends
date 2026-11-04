@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "NATCOPHARM",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "20-Nov-2025",
+      "CH_PREVIOUS_CLS_PRICE": 830.15,
+      "CH_OPENING_PRICE": 831.7,
+      "CH_TRADE_HIGH_PRICE": 887.65,
+      "CH_TRADE_LOW_PRICE": 828.3,
+      "CH_LAST_TRADED_PRICE": 869,
+      "CH_CLOSING_PRICE": 869.3,
+      "VWAP": 871.84,
+      "CH_TOT_TRADED_QTY": 7751429,
+      "CH_TOT_TRADED_VAL": 6757994376.25,
+      "CH_TOTAL_TRADES": 171673,
+      "CH_TIMESTAMP": "2025-11-19T18:30:00.000Z",
+      "COP_DELIV_QTY": 1455008,
+      "COP_DELIV_PERC": 18.77,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Natco Pharma Limited",
+          "exDate": "20-Nov-2025",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE987B01018",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "20-Nov-2025",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 1.50 Per Share",
+          "symbol": "NATCOPHARM"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "NATCOPHARM",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "18-Feb-2026",
+      "CH_PREVIOUS_CLS_PRICE": 884.7,
+      "CH_OPENING_PRICE": 883.1,
+      "CH_TRADE_HIGH_PRICE": 898.5,
+      "CH_TRADE_LOW_PRICE": 862.85,
+      "CH_LAST_TRADED_PRICE": 890.9,
+      "CH_CLOSING_PRICE": 890.5,
+      "VWAP": 880.17,
+      "CH_TOT_TRADED_QTY": 1068111,
+      "CH_TOT_TRADED_VAL": 940116495.6,
+      "CH_TOTAL_TRADES": 34121,
+      "CH_TIMESTAMP": "2026-02-17T18:30:00.000Z",
+      "COP_DELIV_QTY": 272443,
+      "COP_DELIV_PERC": 25.51,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Natco Pharma Limited",
+          "exDate": "18-Feb-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE987B01018",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "18-Feb-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 1.50 Per Share",
+          "symbol": "NATCOPHARM"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "NATCOPHARM",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "20-Aug-2026",
+      "CH_PREVIOUS_CLS_PRICE": 886.85,
+      "CH_OPENING_PRICE": 890.5,
+      "CH_TRADE_HIGH_PRICE": 895.35,
+      "CH_TRADE_LOW_PRICE": 874.55,
+      "CH_LAST_TRADED_PRICE": 878.3,
+      "CH_CLOSING_PRICE": 877.5,
+      "VWAP": 882.97,
+      "CH_TOT_TRADED_QTY": 275997,
+      "CH_TOT_TRADED_VAL": 243698076.3,
+      "CH_TOTAL_TRADES": 18100,
+      "CH_TIMESTAMP": "2026-08-19T18:30:00.000Z",
+      "COP_DELIV_QTY": 135323,
+      "COP_DELIV_PERC": 49.03,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Natco Pharma Limited",
+          "exDate": "20-Aug-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE987B01018",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "20-Aug-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 1.50 Per Share",
+          "symbol": "NATCOPHARM"
+        }
+      ]
+    }
+  ]
+}

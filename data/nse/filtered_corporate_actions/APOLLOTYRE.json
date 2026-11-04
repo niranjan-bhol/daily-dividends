@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "APOLLOTYRE",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "10-Feb-2026",
+      "CH_PREVIOUS_CLS_PRICE": 505.95,
+      "CH_OPENING_PRICE": 507,
+      "CH_TRADE_HIGH_PRICE": 515.6,
+      "CH_TRADE_LOW_PRICE": 503.25,
+      "CH_LAST_TRADED_PRICE": 507.05,
+      "CH_CLOSING_PRICE": 507.2,
+      "VWAP": 508.18,
+      "CH_TOT_TRADED_QTY": 1060494,
+      "CH_TOT_TRADED_VAL": 538926226.05,
+      "CH_TOTAL_TRADES": 25904,
+      "CH_TIMESTAMP": "2026-02-09T18:30:00.000Z",
+      "COP_DELIV_QTY": 406905,
+      "COP_DELIV_PERC": 38.37,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Apollo Tyres Limited",
+          "exDate": "10-Feb-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE438A01022",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "10-Feb-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 3.50 Per Share",
+          "symbol": "APOLLOTYRE"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "APOLLOTYRE",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "10-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 439.65,
+      "CH_OPENING_PRICE": 442.75,
+      "CH_TRADE_HIGH_PRICE": 446.25,
+      "CH_TRADE_LOW_PRICE": 438.1,
+      "CH_LAST_TRADED_PRICE": 441,
+      "CH_CLOSING_PRICE": 440.1,
+      "VWAP": 441.52,
+      "CH_TOT_TRADED_QTY": 496648,
+      "CH_TOT_TRADED_VAL": 219277925.5,
+      "CH_TOTAL_TRADES": 16895,
+      "CH_TIMESTAMP": "2026-07-09T18:30:00.000Z",
+      "COP_DELIV_QTY": 188888,
+      "COP_DELIV_PERC": 38.03,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Apollo Tyres Limited",
+          "exDate": "10-Jul-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE438A01022",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "10-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs2.50 Per Share",
+          "symbol": "APOLLOTYRE"
+        }
+      ]
+    }
+  ]
+}

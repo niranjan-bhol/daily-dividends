@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "EMAMILTD",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "14-Nov-2025",
+      "CH_PREVIOUS_CLS_PRICE": 522.2,
+      "CH_OPENING_PRICE": 514.95,
+      "CH_TRADE_HIGH_PRICE": 529,
+      "CH_TRADE_LOW_PRICE": 510,
+      "CH_LAST_TRADED_PRICE": 522,
+      "CH_CLOSING_PRICE": 520.35,
+      "VWAP": 516.01,
+      "CH_TOT_TRADED_QTY": 395051,
+      "CH_TOT_TRADED_VAL": 203849586.7,
+      "CH_TOTAL_TRADES": 22117,
+      "CH_TIMESTAMP": "2025-11-13T18:30:00.000Z",
+      "COP_DELIV_QTY": 231160,
+      "COP_DELIV_PERC": 58.51,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Emami Limited",
+          "exDate": "14-Nov-2025",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE548C01024",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "14-Nov-2025",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 4 Per Share",
+          "symbol": "EMAMILTD"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "EMAMILTD",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "10-Feb-2026",
+      "CH_PREVIOUS_CLS_PRICE": 506.85,
+      "CH_OPENING_PRICE": 506.85,
+      "CH_TRADE_HIGH_PRICE": 508.2,
+      "CH_TRADE_LOW_PRICE": 495,
+      "CH_LAST_TRADED_PRICE": 499.4,
+      "CH_CLOSING_PRICE": 499.1,
+      "VWAP": 500.38,
+      "CH_TOT_TRADED_QTY": 1008046,
+      "CH_TOT_TRADED_VAL": 504409751.45,
+      "CH_TOTAL_TRADES": 41095,
+      "CH_TIMESTAMP": "2026-02-09T18:30:00.000Z",
+      "COP_DELIV_QTY": 589655,
+      "COP_DELIV_PERC": 58.49,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Emami Limited",
+          "exDate": "10-Feb-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE548C01024",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "10-Feb-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 6 Per Share",
+          "symbol": "EMAMILTD"
+        }
+      ]
+    }
+  ]
+}

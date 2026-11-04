@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "NTPC",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "07-Nov-2025",
+      "CH_PREVIOUS_CLS_PRICE": 326.65,
+      "CH_OPENING_PRICE": 324.4,
+      "CH_TRADE_HIGH_PRICE": 327.1,
+      "CH_TRADE_LOW_PRICE": 320.85,
+      "CH_LAST_TRADED_PRICE": 326,
+      "CH_CLOSING_PRICE": 326.1,
+      "VWAP": 324.82,
+      "CH_TOT_TRADED_QTY": 8578167,
+      "CH_TOT_TRADED_VAL": 2786341752.9,
+      "CH_TOTAL_TRADES": 112832,
+      "CH_TIMESTAMP": "2025-11-06T18:30:00.000Z",
+      "COP_DELIV_QTY": 5777378,
+      "COP_DELIV_PERC": 67.35,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "NTPC Limited",
+          "exDate": "07-Nov-2025",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE733E01010",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "07-Nov-2025",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 2.75 Per Share",
+          "symbol": "NTPC"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "NTPC",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "06-Feb-2026",
+      "CH_PREVIOUS_CLS_PRICE": 367,
+      "CH_OPENING_PRICE": 361.8,
+      "CH_TRADE_HIGH_PRICE": 365.95,
+      "CH_TRADE_LOW_PRICE": 361,
+      "CH_LAST_TRADED_PRICE": 363.7,
+      "CH_CLOSING_PRICE": 365.05,
+      "VWAP": 363.21,
+      "CH_TOT_TRADED_QTY": 7328789,
+      "CH_TOT_TRADED_VAL": 2661906029.65,
+      "CH_TOTAL_TRADES": 87860,
+      "CH_TIMESTAMP": "2026-02-05T18:30:00.000Z",
+      "COP_DELIV_QTY": 4251137,
+      "COP_DELIV_PERC": 58.01,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "NTPC Limited",
+          "exDate": "06-Feb-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE733E01010",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "06-Feb-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 2.75 Per Share",
+          "symbol": "NTPC"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "NTPC",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "02-Sep-2026",
+      "CH_PREVIOUS_CLS_PRICE": 327.5,
+      "CH_OPENING_PRICE": 324,
+      "CH_TRADE_HIGH_PRICE": 331.1,
+      "CH_TRADE_LOW_PRICE": 321,
+      "CH_LAST_TRADED_PRICE": 330,
+      "CH_CLOSING_PRICE": 330,
+      "VWAP": 327.5,
+      "CH_TOT_TRADED_QTY": 11993091,
+      "CH_TOT_TRADED_VAL": 3927701357.65,
+      "CH_TOTAL_TRADES": 110755,
+      "CH_TIMESTAMP": "2026-09-01T18:30:00.000Z",
+      "COP_DELIV_QTY": 7006636,
+      "COP_DELIV_PERC": 58.42,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "NTPC Limited",
+          "exDate": "02-Sep-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE733E01010",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "02-Sep-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 3.50 Per Share",
+          "symbol": "NTPC"
+        }
+      ]
+    }
+  ]
+}

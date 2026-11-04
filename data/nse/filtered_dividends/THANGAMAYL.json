@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "THANGAMAYL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "22-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 6453,
+      "CH_OPENING_PRICE": 6489.5,
+      "CH_TRADE_HIGH_PRICE": 6560,
+      "CH_TRADE_LOW_PRICE": 6346,
+      "CH_LAST_TRADED_PRICE": 6471,
+      "CH_CLOSING_PRICE": 6476,
+      "VWAP": 6458.95,
+      "CH_TOT_TRADED_QTY": 103870,
+      "CH_TOT_TRADED_VAL": 670891035.5,
+      "CH_TOTAL_TRADES": 17000,
+      "CH_TIMESTAMP": "2026-07-21T18:30:00.000Z",
+      "COP_DELIV_QTY": 24656,
+      "COP_DELIV_PERC": 23.74,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Thangamayil Jewellery Limited",
+          "exDate": "22-Jul-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE085J01014",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "22-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 18 Per Share",
+          "symbol": "THANGAMAYL"
+        }
+      ]
+    }
+  ]
+}

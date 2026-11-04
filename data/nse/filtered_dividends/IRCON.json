@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "IRCON",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "17-Feb-2026",
+      "CH_PREVIOUS_CLS_PRICE": 153.1,
+      "CH_OPENING_PRICE": 152.15,
+      "CH_TRADE_HIGH_PRICE": 153.9,
+      "CH_TRADE_LOW_PRICE": 151.6,
+      "CH_LAST_TRADED_PRICE": 152.2,
+      "CH_CLOSING_PRICE": 152.15,
+      "VWAP": 152.72,
+      "CH_TOT_TRADED_QTY": 1356365,
+      "CH_TOT_TRADED_VAL": 207150166.61,
+      "CH_TOTAL_TRADES": 17049,
+      "CH_TIMESTAMP": "2026-02-16T18:30:00.000Z",
+      "COP_DELIV_QTY": 439793,
+      "COP_DELIV_PERC": 32.42,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Ircon International Limited",
+          "exDate": "17-Feb-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE962Y01013",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "17-Feb-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 1.20 Per Share",
+          "symbol": "IRCON"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "IRCON",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "17-Sep-2026",
+      "CH_PREVIOUS_CLS_PRICE": 108.51,
+      "CH_OPENING_PRICE": 108.5,
+      "CH_TRADE_HIGH_PRICE": 110.63,
+      "CH_TRADE_LOW_PRICE": 106.8,
+      "CH_LAST_TRADED_PRICE": 108.12,
+      "CH_CLOSING_PRICE": 107.86,
+      "VWAP": 108.26,
+      "CH_TOT_TRADED_QTY": 2796585,
+      "CH_TOT_TRADED_VAL": 302771645.73,
+      "CH_TOTAL_TRADES": 31033,
+      "CH_TIMESTAMP": "2026-09-16T18:30:00.000Z",
+      "COP_DELIV_QTY": 1067921,
+      "COP_DELIV_PERC": 38.19,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Ircon International Limited",
+          "exDate": "17-Sep-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE962Y01013",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "17-Sep-2026",
+          "series": "EQ",
+          "subject": "Dividend - Re 0.70 Per Share",
+          "symbol": "IRCON"
+        }
+      ]
+    }
+  ]
+}

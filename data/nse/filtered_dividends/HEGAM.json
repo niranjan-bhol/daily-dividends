@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "HEG",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "22-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 604.95,
+      "CH_OPENING_PRICE": 603,
+      "CH_TRADE_HIGH_PRICE": 607.5,
+      "CH_TRADE_LOW_PRICE": 593.45,
+      "CH_LAST_TRADED_PRICE": 599,
+      "CH_CLOSING_PRICE": 598.85,
+      "VWAP": 600.55,
+      "CH_TOT_TRADED_QTY": 1035151,
+      "CH_TOT_TRADED_VAL": 621661444.65,
+      "CH_TOTAL_TRADES": 25486,
+      "CH_TIMESTAMP": "2026-07-21T18:30:00.000Z",
+      "COP_DELIV_QTY": 551960,
+      "COP_DELIV_PERC": 53.32,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "HEG Advanced Materials Limited",
+          "exDate": "22-Jul-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE545A01024",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "22-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 3.40 Per Share",
+          "symbol": "HEGAM"
+        }
+      ]
+    }
+  ]
+}

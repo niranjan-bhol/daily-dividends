@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "NUVAMA",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "11-Nov-2025",
+      "CH_PREVIOUS_CLS_PRICE": 7468.5,
+      "CH_OPENING_PRICE": 7410,
+      "CH_TRADE_HIGH_PRICE": 7448.5,
+      "CH_TRADE_LOW_PRICE": 7251,
+      "CH_LAST_TRADED_PRICE": 7345,
+      "CH_CLOSING_PRICE": 7346.5,
+      "VWAP": 7354.4,
+      "CH_TOT_TRADED_QTY": 93670,
+      "CH_TOT_TRADED_VAL": 688886851,
+      "CH_TOTAL_TRADES": 14886,
+      "CH_TIMESTAMP": "2025-11-10T18:30:00.000Z",
+      "COP_DELIV_QTY": 39356,
+      "COP_DELIV_PERC": 42.02,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Nuvama Wealth Management Limited",
+          "exDate": "11-Nov-2025",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE531F01015",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "11-Nov-2025",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 70 Per Share",
+          "symbol": "NUVAMA"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "NUVAMA",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "26-Dec-2025",
+      "CH_PREVIOUS_CLS_PRICE": 7615,
+      "CH_OPENING_PRICE": 1520,
+      "CH_TRADE_HIGH_PRICE": 1531,
+      "CH_TRADE_LOW_PRICE": 1478,
+      "CH_LAST_TRADED_PRICE": 1488,
+      "CH_CLOSING_PRICE": 1493.5,
+      "VWAP": 1505.7,
+      "CH_TOT_TRADED_QTY": 736850,
+      "CH_TOT_TRADED_VAL": 1109477067.5,
+      "CH_TOTAL_TRADES": 33660,
+      "CH_TIMESTAMP": "2025-12-25T18:30:00.000Z",
+      "COP_DELIV_QTY": 263449,
+      "COP_DELIV_PERC": 35.75,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Nuvama Wealth Management Limited",
+          "exDate": "26-Dec-2025",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE531F01015",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "26-Dec-2025",
+          "series": "EQ",
+          "subject": "Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share",
+          "symbol": "NUVAMA"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "NUVAMA",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "15-May-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1477.9,
+      "CH_OPENING_PRICE": 1472,
+      "CH_TRADE_HIGH_PRICE": 1505.4,
+      "CH_TRADE_LOW_PRICE": 1453.7,
+      "CH_LAST_TRADED_PRICE": 1456,
+      "CH_CLOSING_PRICE": 1458.5,
+      "VWAP": 1479.59,
+      "CH_TOT_TRADED_QTY": 447569,
+      "CH_TOT_TRADED_VAL": 662218328.7,
+      "CH_TOTAL_TRADES": 19738,
+      "CH_TIMESTAMP": "2026-05-14T18:30:00.000Z",
+      "COP_DELIV_QTY": 146340,
+      "COP_DELIV_PERC": 32.7,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Nuvama Wealth Management Limited",
+          "exDate": "15-May-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE531F01015",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "15-May-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 14 Per Share",
+          "symbol": "NUVAMA"
+        }
+      ]
+    }
+  ]
+}

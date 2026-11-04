@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "RELIANCE",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "05-Jun-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1303.7,
+      "CH_OPENING_PRICE": 1304.5,
+      "CH_TRADE_HIGH_PRICE": 1306,
+      "CH_TRADE_LOW_PRICE": 1288,
+      "CH_LAST_TRADED_PRICE": 1291.4,
+      "CH_CLOSING_PRICE": 1291,
+      "VWAP": 1294.8,
+      "CH_TOT_TRADED_QTY": 17785223,
+      "CH_TOT_TRADED_VAL": 23028393410,
+      "CH_TOTAL_TRADES": 356802,
+      "CH_TIMESTAMP": "2026-06-04T18:30:00.000Z",
+      "COP_DELIV_QTY": 11637226,
+      "COP_DELIV_PERC": 65.43,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Reliance Industries Limited",
+          "exDate": "05-Jun-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE002A01018",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "05-Jun-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 6 Per Share",
+          "symbol": "RELIANCE"
+        }
+      ]
+    }
+  ]
+}

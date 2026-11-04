@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "SJVN",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "20-Feb-2026",
+      "CH_PREVIOUS_CLS_PRICE": 75.14,
+      "CH_OPENING_PRICE": 74.5,
+      "CH_TRADE_HIGH_PRICE": 75.77,
+      "CH_TRADE_LOW_PRICE": 73.5,
+      "CH_LAST_TRADED_PRICE": 75,
+      "CH_CLOSING_PRICE": 75.3,
+      "VWAP": 75,
+      "CH_TOT_TRADED_QTY": 4761094,
+      "CH_TOT_TRADED_VAL": 357089644.71,
+      "CH_TOTAL_TRADES": 33615,
+      "CH_TIMESTAMP": "2026-02-19T18:30:00.000Z",
+      "COP_DELIV_QTY": 1499617,
+      "COP_DELIV_PERC": 31.5,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "SJVN Limited",
+          "exDate": "20-Feb-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE002L01015",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "20-Feb-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 1.15 Per Share",
+          "symbol": "SJVN"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "SJVN",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "24-Aug-2026",
+      "CH_PREVIOUS_CLS_PRICE": 66.06,
+      "CH_OPENING_PRICE": 66.5,
+      "CH_TRADE_HIGH_PRICE": 66.79,
+      "CH_TRADE_LOW_PRICE": 65.67,
+      "CH_LAST_TRADED_PRICE": 65.72,
+      "CH_CLOSING_PRICE": 65.8,
+      "VWAP": 66.1,
+      "CH_TOT_TRADED_QTY": 1173125,
+      "CH_TOT_TRADED_VAL": 77549177.37,
+      "CH_TOTAL_TRADES": 11428,
+      "CH_TIMESTAMP": "2026-08-23T18:30:00.000Z",
+      "COP_DELIV_QTY": 643465,
+      "COP_DELIV_PERC": 54.85,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "SJVN Limited",
+          "exDate": "24-Aug-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE002L01015",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "24-Aug-2026",
+          "series": "EQ",
+          "subject": "Dividend - Re 0.35 Per Share",
+          "symbol": "SJVN"
+        }
+      ]
+    }
+  ]
+}

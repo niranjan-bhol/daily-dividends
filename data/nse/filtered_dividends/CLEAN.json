@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "CLEAN",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "06-Feb-2026",
+      "CH_PREVIOUS_CLS_PRICE": 809.65,
+      "CH_OPENING_PRICE": 808.2,
+      "CH_TRADE_HIGH_PRICE": 808.2,
+      "CH_TRADE_LOW_PRICE": 791,
+      "CH_LAST_TRADED_PRICE": 795.9,
+      "CH_CLOSING_PRICE": 797.25,
+      "VWAP": 796.87,
+      "CH_TOT_TRADED_QTY": 159205,
+      "CH_TOT_TRADED_VAL": 126866391.7,
+      "CH_TOTAL_TRADES": 11584,
+      "CH_TIMESTAMP": "2026-02-05T18:30:00.000Z",
+      "COP_DELIV_QTY": 84198,
+      "COP_DELIV_PERC": 52.89,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Clean Science and Technology Limited",
+          "exDate": "06-Feb-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE227W01023",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "06-Feb-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 2 Per Share",
+          "symbol": "CLEAN"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "CLEAN",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "04-Sep-2026",
+      "CH_PREVIOUS_CLS_PRICE": 852.95,
+      "CH_OPENING_PRICE": 853.5,
+      "CH_TRADE_HIGH_PRICE": 855.95,
+      "CH_TRADE_LOW_PRICE": 834,
+      "CH_LAST_TRADED_PRICE": 835,
+      "CH_CLOSING_PRICE": 836.15,
+      "VWAP": 842.15,
+      "CH_TOT_TRADED_QTY": 297191,
+      "CH_TOT_TRADED_VAL": 250280688,
+      "CH_TOTAL_TRADES": 19595,
+      "CH_TIMESTAMP": "2026-09-03T18:30:00.000Z",
+      "COP_DELIV_QTY": 133291,
+      "COP_DELIV_PERC": 44.85,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Clean Science and Technology Limited",
+          "exDate": "04-Sep-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE227W01023",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "05-Sep-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 4 Per Share",
+          "symbol": "CLEAN"
+        }
+      ]
+    }
+  ]
+}

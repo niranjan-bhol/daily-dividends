@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "DOMS",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "27-Aug-2026",
+      "CH_PREVIOUS_CLS_PRICE": 2204,
+      "CH_OPENING_PRICE": 2209,
+      "CH_TRADE_HIGH_PRICE": 2235,
+      "CH_TRADE_LOW_PRICE": 2201.2,
+      "CH_LAST_TRADED_PRICE": 2204.2,
+      "CH_CLOSING_PRICE": 2214.9,
+      "VWAP": 2219.4,
+      "CH_TOT_TRADED_QTY": 13731,
+      "CH_TOT_TRADED_VAL": 30474544.8,
+      "CH_TOTAL_TRADES": 3895,
+      "CH_TIMESTAMP": "2026-08-26T18:30:00.000Z",
+      "COP_DELIV_QTY": 5734,
+      "COP_DELIV_PERC": 41.76,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "DOMS Industries Limited",
+          "exDate": "27-Aug-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE321T01012",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "27-Aug-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 3.65 Per Share",
+          "symbol": "DOMS"
+        }
+      ]
+    }
+  ]
+}

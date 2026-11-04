@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "BHEL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "17-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 435.4,
+      "CH_OPENING_PRICE": 445,
+      "CH_TRADE_HIGH_PRICE": 446.5,
+      "CH_TRADE_LOW_PRICE": 420.3,
+      "CH_LAST_TRADED_PRICE": 421.3,
+      "CH_CLOSING_PRICE": 422,
+      "VWAP": 435.32,
+      "CH_TOT_TRADED_QTY": 48217882,
+      "CH_TOT_TRADED_VAL": 20990100197.2,
+      "CH_TOTAL_TRADES": 467135,
+      "CH_TIMESTAMP": "2026-07-16T18:30:00.000Z",
+      "COP_DELIV_QTY": 16334516,
+      "COP_DELIV_PERC": 33.88,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Bharat Heavy Electricals Limited",
+          "exDate": "17-Jul-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE257A01018",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "17-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 1.40 Per Share",
+          "symbol": "BHEL"
+        }
+      ]
+    }
+  ]
+}

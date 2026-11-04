@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "LALPATHLAB",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "07-Nov-2025",
+      "CH_PREVIOUS_CLS_PRICE": 3108,
+      "CH_OPENING_PRICE": 3108,
+      "CH_TRADE_HIGH_PRICE": 3110,
+      "CH_TRADE_LOW_PRICE": 3042.2,
+      "CH_LAST_TRADED_PRICE": 3099.1,
+      "CH_CLOSING_PRICE": 3096.7,
+      "VWAP": 3074.71,
+      "CH_TOT_TRADED_QTY": 61145,
+      "CH_TOT_TRADED_VAL": 188003105.8,
+      "CH_TOTAL_TRADES": 12104,
+      "CH_TIMESTAMP": "2025-11-06T18:30:00.000Z",
+      "COP_DELIV_QTY": 28529,
+      "COP_DELIV_PERC": 46.66,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Dr. Lal Path Labs Ltd.",
+          "exDate": "07-Nov-2025",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE600L01024",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "07-Nov-2025",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 7 Per Share",
+          "symbol": "LALPATHLAB"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "LALPATHLAB",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "05-Feb-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1406.8,
+      "CH_OPENING_PRICE": 1400.5,
+      "CH_TRADE_HIGH_PRICE": 1416,
+      "CH_TRADE_LOW_PRICE": 1385,
+      "CH_LAST_TRADED_PRICE": 1410,
+      "CH_CLOSING_PRICE": 1411,
+      "VWAP": 1404.14,
+      "CH_TOT_TRADED_QTY": 213161,
+      "CH_TOT_TRADED_VAL": 299306913.2,
+      "CH_TOTAL_TRADES": 24990,
+      "CH_TIMESTAMP": "2026-02-04T18:30:00.000Z",
+      "COP_DELIV_QTY": 125446,
+      "COP_DELIV_PERC": 58.85,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Dr. Lal Path Labs Ltd.",
+          "exDate": "05-Feb-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE600L01024",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "05-Feb-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 3.50 Per Share",
+          "symbol": "LALPATHLAB"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "LALPATHLAB",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "25-Jun-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1660,
+      "CH_OPENING_PRICE": 1660,
+      "CH_TRADE_HIGH_PRICE": 1698.6,
+      "CH_TRADE_LOW_PRICE": 1660,
+      "CH_LAST_TRADED_PRICE": 1691,
+      "CH_CLOSING_PRICE": 1689.2,
+      "VWAP": 1686.45,
+      "CH_TOT_TRADED_QTY": 262380,
+      "CH_TOT_TRADED_VAL": 442490351.2,
+      "CH_TOTAL_TRADES": 27125,
+      "CH_TIMESTAMP": "2026-06-24T18:30:00.000Z",
+      "COP_DELIV_QTY": 165500,
+      "COP_DELIV_PERC": 63.08,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Dr. Lal Path Labs Ltd.",
+          "exDate": "25-Jun-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE600L01024",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "26-Jun-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 4 Per Share",
+          "symbol": "LALPATHLAB"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "LALPATHLAB",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "30-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1882.5,
+      "CH_OPENING_PRICE": 1880,
+      "CH_TRADE_HIGH_PRICE": 1919.8,
+      "CH_TRADE_LOW_PRICE": 1869.9,
+      "CH_LAST_TRADED_PRICE": 1870,
+      "CH_CLOSING_PRICE": 1878.8,
+      "VWAP": 1896.1,
+      "CH_TOT_TRADED_QTY": 609085,
+      "CH_TOT_TRADED_VAL": 1154883100.2,
+      "CH_TOTAL_TRADES": 38925,
+      "CH_TIMESTAMP": "2026-07-29T18:30:00.000Z",
+      "COP_DELIV_QTY": 377491,
+      "COP_DELIV_PERC": 61.98,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Dr. Lal Path Labs Ltd.",
+          "exDate": "30-Jul-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE600L01024",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "30-Jul-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 5 Per Share",
+          "symbol": "LALPATHLAB"
+        }
+      ]
+    }
+  ]
+}

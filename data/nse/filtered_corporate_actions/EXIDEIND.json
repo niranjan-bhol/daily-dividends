@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "EXIDEIND",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "03-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 419.35,
+      "CH_OPENING_PRICE": 421.15,
+      "CH_TRADE_HIGH_PRICE": 422.1,
+      "CH_TRADE_LOW_PRICE": 413.6,
+      "CH_LAST_TRADED_PRICE": 416.25,
+      "CH_CLOSING_PRICE": 416.6,
+      "VWAP": 417.97,
+      "CH_TOT_TRADED_QTY": 3780016,
+      "CH_TOT_TRADED_VAL": 1579930069.15,
+      "CH_TOTAL_TRADES": 46517,
+      "CH_TIMESTAMP": "2026-07-02T18:30:00.000Z",
+      "COP_DELIV_QTY": 1264900,
+      "COP_DELIV_PERC": 33.46,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Exide Industries Limited",
+          "exDate": "03-Jul-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE302A01020",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "03-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 2 Per Share",
+          "symbol": "EXIDEIND"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "PGEL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "18-Sep-2026",
+      "CH_PREVIOUS_CLS_PRICE": 529.35,
+      "CH_OPENING_PRICE": 529.35,
+      "CH_TRADE_HIGH_PRICE": 541.45,
+      "CH_TRADE_LOW_PRICE": 529.15,
+      "CH_LAST_TRADED_PRICE": 529.15,
+      "CH_CLOSING_PRICE": 529.15,
+      "VWAP": 534.5,
+      "CH_TOT_TRADED_QTY": 570498,
+      "CH_TOT_TRADED_VAL": 304929097.7,
+      "CH_TOTAL_TRADES": 11710,
+      "CH_TIMESTAMP": "2026-09-17T18:30:00.000Z",
+      "COP_DELIV_QTY": 234236,
+      "COP_DELIV_PERC": 41.06,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "PG Electroplast Limited",
+          "exDate": "18-Sep-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE457L01011",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "18-Sep-2026",
+          "series": "EQ",
+          "subject": "Dividend - Re 0.25 Per Share",
+          "symbol": "PGEL"
+        }
+      ]
+    }
+  ]
+}

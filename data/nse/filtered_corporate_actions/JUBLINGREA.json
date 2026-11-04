@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "JUBLINGREA",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "10-Feb-2026",
+      "CH_PREVIOUS_CLS_PRICE": 663.35,
+      "CH_OPENING_PRICE": 666.8,
+      "CH_TRADE_HIGH_PRICE": 681.9,
+      "CH_TRADE_LOW_PRICE": 656.95,
+      "CH_LAST_TRADED_PRICE": 662.5,
+      "CH_CLOSING_PRICE": 660.4,
+      "VWAP": 666.78,
+      "CH_TOT_TRADED_QTY": 210665,
+      "CH_TOT_TRADED_VAL": 140466610.5,
+      "CH_TOTAL_TRADES": 13171,
+      "CH_TIMESTAMP": "2026-02-09T18:30:00.000Z",
+      "COP_DELIV_QTY": 88679,
+      "COP_DELIV_PERC": 42.09,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Jubilant Ingrevia Limited",
+          "exDate": "10-Feb-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE0BY001018",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "10-Feb-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 2.50 Per Share",
+          "symbol": "JUBLINGREA"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "JUBLINGREA",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "24-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 745.05,
+      "CH_OPENING_PRICE": 745,
+      "CH_TRADE_HIGH_PRICE": 745.05,
+      "CH_TRADE_LOW_PRICE": 723,
+      "CH_LAST_TRADED_PRICE": 725,
+      "CH_CLOSING_PRICE": 725.55,
+      "VWAP": 731.77,
+      "CH_TOT_TRADED_QTY": 373158,
+      "CH_TOT_TRADED_VAL": 273064198.45,
+      "CH_TOTAL_TRADES": 19079,
+      "CH_TIMESTAMP": "2026-07-23T18:30:00.000Z",
+      "COP_DELIV_QTY": 200909,
+      "COP_DELIV_PERC": 53.84,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Jubilant Ingrevia Limited",
+          "exDate": "24-Jul-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE0BY001018",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "24-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 2.50 Per Share",
+          "symbol": "JUBLINGREA"
+        }
+      ]
+    }
+  ]
+}

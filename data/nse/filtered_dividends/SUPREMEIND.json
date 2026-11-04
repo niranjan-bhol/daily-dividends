@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "SUPREMEIND",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "03-Nov-2025",
+      "CH_PREVIOUS_CLS_PRICE": 3812.5,
+      "CH_OPENING_PRICE": 3800,
+      "CH_TRADE_HIGH_PRICE": 3939,
+      "CH_TRADE_LOW_PRICE": 3788.1,
+      "CH_LAST_TRADED_PRICE": 3920.3,
+      "CH_CLOSING_PRICE": 3929.5,
+      "VWAP": 3891.8,
+      "CH_TOT_TRADED_QTY": 316701,
+      "CH_TOT_TRADED_VAL": 1232536064.7,
+      "CH_TOTAL_TRADES": 26069,
+      "CH_TIMESTAMP": "2025-11-02T18:30:00.000Z",
+      "COP_DELIV_QTY": 165374,
+      "COP_DELIV_PERC": 52.22,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Supreme Industries Limited",
+          "exDate": "03-Nov-2025",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE195A01010",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "03-Nov-2025",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 11 Per Share",
+          "symbol": "SUPREMEIND"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "SUPREMEIND",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "25-Jun-2026",
+      "CH_PREVIOUS_CLS_PRICE": 3560.4,
+      "CH_OPENING_PRICE": 3549.5,
+      "CH_TRADE_HIGH_PRICE": 3549.7,
+      "CH_TRADE_LOW_PRICE": 3406.9,
+      "CH_LAST_TRADED_PRICE": 3423.7,
+      "CH_CLOSING_PRICE": 3421.9,
+      "VWAP": 3437.87,
+      "CH_TOT_TRADED_QTY": 546323,
+      "CH_TOT_TRADED_VAL": 1878187782.8,
+      "CH_TOTAL_TRADES": 43382,
+      "CH_TIMESTAMP": "2026-06-24T18:30:00.000Z",
+      "COP_DELIV_QTY": 321937,
+      "COP_DELIV_PERC": 58.93,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Supreme Industries Limited",
+          "exDate": "25-Jun-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE195A01010",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "26-Jun-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 25 Per Share",
+          "symbol": "SUPREMEIND"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "SUPREMEIND",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "30-Oct-2026",
+      "CH_PREVIOUS_CLS_PRICE": 3210,
+      "CH_OPENING_PRICE": 3210,
+      "CH_TRADE_HIGH_PRICE": 3218.6,
+      "CH_TRADE_LOW_PRICE": 3127,
+      "CH_LAST_TRADED_PRICE": 3150,
+      "CH_CLOSING_PRICE": 3150,
+      "VWAP": 3153.47,
+      "CH_TOT_TRADED_QTY": 147887,
+      "CH_TOT_TRADED_VAL": 466356683.3,
+      "CH_TOTAL_TRADES": 14233,
+      "CH_TIMESTAMP": "2026-10-29T18:30:00.000Z",
+      "COP_DELIV_QTY": 80486,
+      "COP_DELIV_PERC": 54.42,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Supreme Industries Limited",
+          "exDate": "30-Oct-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE195A01010",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "30-Oct-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 12 Per Share",
+          "symbol": "SUPREMEIND"
+        }
+      ]
+    }
+  ]
+}

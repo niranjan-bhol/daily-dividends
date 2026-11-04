@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "ICICIAMC",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "21-Jan-2026",
+      "CH_PREVIOUS_CLS_PRICE": 2827.9,
+      "CH_OPENING_PRICE": 2810,
+      "CH_TRADE_HIGH_PRICE": 2850,
+      "CH_TRADE_LOW_PRICE": 2731.3,
+      "CH_LAST_TRADED_PRICE": 2847,
+      "CH_CLOSING_PRICE": 2843.3,
+      "VWAP": 2792.97,
+      "CH_TOT_TRADED_QTY": 556931,
+      "CH_TOT_TRADED_VAL": 1555493349.5,
+      "CH_TOTAL_TRADES": 45531,
+      "CH_TIMESTAMP": "2026-01-20T18:30:00.000Z",
+      "COP_DELIV_QTY": 204752,
+      "COP_DELIV_PERC": 36.76,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "ICICI Prudential Asset Management Company Limited",
+          "exDate": "21-Jan-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE346A01027",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "21-Jan-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 14.85 Per Share",
+          "symbol": "ICICIAMC"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "ICICIAMC",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "12-Jun-2026",
+      "CH_PREVIOUS_CLS_PRICE": 3206.2,
+      "CH_OPENING_PRICE": 3290,
+      "CH_TRADE_HIGH_PRICE": 3330.2,
+      "CH_TRADE_LOW_PRICE": 3210,
+      "CH_LAST_TRADED_PRICE": 3245,
+      "CH_CLOSING_PRICE": 3238.8,
+      "VWAP": 3245.18,
+      "CH_TOT_TRADED_QTY": 721491,
+      "CH_TOT_TRADED_VAL": 2341364762.3,
+      "CH_TOTAL_TRADES": 63525,
+      "CH_TIMESTAMP": "2026-06-11T18:30:00.000Z",
+      "COP_DELIV_QTY": 472275,
+      "COP_DELIV_PERC": 65.46,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "ICICI Prudential Asset Management Company Limited",
+          "exDate": "12-Jun-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE346A01027",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "12-Jun-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 12.40 Per Share",
+          "symbol": "ICICIAMC"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "ICICIAMC",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "21-Oct-2026",
+      "CH_PREVIOUS_CLS_PRICE": 2775.5,
+      "CH_OPENING_PRICE": 2764,
+      "CH_TRADE_HIGH_PRICE": 2764,
+      "CH_TRADE_LOW_PRICE": 2695,
+      "CH_LAST_TRADED_PRICE": 2723.9,
+      "CH_CLOSING_PRICE": 2717.3,
+      "VWAP": 2721.25,
+      "CH_TOT_TRADED_QTY": 430807,
+      "CH_TOT_TRADED_VAL": 1172334461.1,
+      "CH_TOTAL_TRADES": 45294,
+      "CH_TIMESTAMP": "2026-10-20T18:30:00.000Z",
+      "COP_DELIV_QTY": 250547,
+      "COP_DELIV_PERC": 58.16,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "ICICI Prudential Asset Management Company Limited",
+          "exDate": "21-Oct-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE346A01027",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "21-Oct-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 30 Per Share",
+          "symbol": "ICICIAMC"
+        }
+      ]
+    }
+  ]
+}

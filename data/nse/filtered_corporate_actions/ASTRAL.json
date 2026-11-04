@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "ASTRAL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "11-Nov-2025",
+      "CH_PREVIOUS_CLS_PRICE": 1568.4,
+      "CH_OPENING_PRICE": 1568,
+      "CH_TRADE_HIGH_PRICE": 1575.8,
+      "CH_TRADE_LOW_PRICE": 1550,
+      "CH_LAST_TRADED_PRICE": 1557.1,
+      "CH_CLOSING_PRICE": 1555.8,
+      "VWAP": 1558.51,
+      "CH_TOT_TRADED_QTY": 274619,
+      "CH_TOT_TRADED_VAL": 427996242.7,
+      "CH_TOTAL_TRADES": 28430,
+      "CH_TIMESTAMP": "2025-11-10T18:30:00.000Z",
+      "COP_DELIV_QTY": 152294,
+      "COP_DELIV_PERC": 55.46,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Astral Limited",
+          "exDate": "11-Nov-2025",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE006I01012",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "11-Nov-2025",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 1.50 Per Share",
+          "symbol": "ASTRAL"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "ASTRAL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "14-Aug-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1592,
+      "CH_OPENING_PRICE": 1592,
+      "CH_TRADE_HIGH_PRICE": 1597,
+      "CH_TRADE_LOW_PRICE": 1552.2,
+      "CH_LAST_TRADED_PRICE": 1556.3,
+      "CH_CLOSING_PRICE": 1556.3,
+      "VWAP": 1572.5,
+      "CH_TOT_TRADED_QTY": 889819,
+      "CH_TOT_TRADED_VAL": 1399239236.2,
+      "CH_TOTAL_TRADES": 31620,
+      "CH_TIMESTAMP": "2026-08-13T18:30:00.000Z",
+      "COP_DELIV_QTY": 243272,
+      "COP_DELIV_PERC": 27.34,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Astral Limited",
+          "exDate": "14-Aug-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE006I01012",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "14-Aug-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 2.50 Per Share",
+          "symbol": "ASTRAL"
+        }
+      ]
+    }
+  ]
+}

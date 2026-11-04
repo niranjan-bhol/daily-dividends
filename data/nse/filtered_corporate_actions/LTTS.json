@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "LTTS",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "22-May-2026",
+      "CH_PREVIOUS_CLS_PRICE": 3587.3,
+      "CH_OPENING_PRICE": 3565,
+      "CH_TRADE_HIGH_PRICE": 3565,
+      "CH_TRADE_LOW_PRICE": 3407,
+      "CH_LAST_TRADED_PRICE": 3420,
+      "CH_CLOSING_PRICE": 3419.3,
+      "VWAP": 3462.87,
+      "CH_TOT_TRADED_QTY": 120238,
+      "CH_TOT_TRADED_VAL": 416368137.8,
+      "CH_TOTAL_TRADES": 15548,
+      "CH_TIMESTAMP": "2026-05-21T18:30:00.000Z",
+      "COP_DELIV_QTY": 60886,
+      "COP_DELIV_PERC": 50.64,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "L&T Technology Services Limited",
+          "exDate": "22-May-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE010V01017",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "22-May-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 40 Per Share",
+          "symbol": "LTTS"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "LTTS",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "27-Oct-2026",
+      "CH_PREVIOUS_CLS_PRICE": 4035.6,
+      "CH_OPENING_PRICE": 4035.5,
+      "CH_TRADE_HIGH_PRICE": 4190,
+      "CH_TRADE_LOW_PRICE": 3995.1,
+      "CH_LAST_TRADED_PRICE": 4165,
+      "CH_CLOSING_PRICE": 4174.2,
+      "VWAP": 4118.43,
+      "CH_TOT_TRADED_QTY": 371312,
+      "CH_TOT_TRADED_VAL": 1529222829.7,
+      "CH_TOTAL_TRADES": 42967,
+      "CH_TIMESTAMP": "2026-10-26T18:30:00.000Z",
+      "COP_DELIV_QTY": 123845,
+      "COP_DELIV_PERC": 33.35,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "L&T Technology Services Limited",
+          "exDate": "27-Oct-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE010V01017",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "27-Oct-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 20 Per Share",
+          "symbol": "LTTS"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "EMCURE",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "04-Sep-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1854.7,
+      "CH_OPENING_PRICE": 1888,
+      "CH_TRADE_HIGH_PRICE": 1935,
+      "CH_TRADE_LOW_PRICE": 1874.7,
+      "CH_LAST_TRADED_PRICE": 1925.9,
+      "CH_CLOSING_PRICE": 1927.6,
+      "VWAP": 1914.94,
+      "CH_TOT_TRADED_QTY": 276608,
+      "CH_TOT_TRADED_VAL": 529689047.4,
+      "CH_TOTAL_TRADES": 24433,
+      "CH_TIMESTAMP": "2026-09-03T18:30:00.000Z",
+      "COP_DELIV_QTY": 112894,
+      "COP_DELIV_PERC": 40.81,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Emcure Pharmaceuticals Limited",
+          "exDate": "04-Sep-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE168P01015",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "04-Sep-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 3.60 Per Share",
+          "symbol": "EMCURE"
+        }
+      ]
+    }
+  ]
+}

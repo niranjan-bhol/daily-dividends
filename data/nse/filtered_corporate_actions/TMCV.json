@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "TMCV",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "12-Jun-2026",
+      "CH_PREVIOUS_CLS_PRICE": 358.35,
+      "CH_OPENING_PRICE": 363,
+      "CH_TRADE_HIGH_PRICE": 398,
+      "CH_TRADE_LOW_PRICE": 361.5,
+      "CH_LAST_TRADED_PRICE": 390.25,
+      "CH_CLOSING_PRICE": 390.3,
+      "VWAP": 379.45,
+      "CH_TOT_TRADED_QTY": 21118400,
+      "CH_TOT_TRADED_VAL": 8013283705.25,
+      "CH_TOTAL_TRADES": 216958,
+      "CH_TIMESTAMP": "2026-06-11T18:30:00.000Z",
+      "COP_DELIV_QTY": 7920581,
+      "COP_DELIV_PERC": 37.51,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Tata Motors Limited",
+          "exDate": "12-Jun-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE1TAE01010",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "12-Jun-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 4 Per Share",
+          "symbol": "TMCV"
+        }
+      ]
+    }
+  ]
+}

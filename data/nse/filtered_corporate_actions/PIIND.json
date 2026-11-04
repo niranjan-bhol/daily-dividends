@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "PIIND",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "23-Feb-2026",
+      "CH_PREVIOUS_CLS_PRICE": 3048,
+      "CH_OPENING_PRICE": 3057.5,
+      "CH_TRADE_HIGH_PRICE": 3135.5,
+      "CH_TRADE_LOW_PRICE": 3048,
+      "CH_LAST_TRADED_PRICE": 3123,
+      "CH_CLOSING_PRICE": 3119.5,
+      "VWAP": 3094.44,
+      "CH_TOT_TRADED_QTY": 286156,
+      "CH_TOT_TRADED_VAL": 885492042.3,
+      "CH_TOTAL_TRADES": 24641,
+      "CH_TIMESTAMP": "2026-02-22T18:30:00.000Z",
+      "COP_DELIV_QTY": 140887,
+      "COP_DELIV_PERC": 49.23,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "PI Industries Limited",
+          "exDate": "23-Feb-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE603J01014",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "23-Feb-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 5 Per Share",
+          "symbol": "PIIND"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "PIIND",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "07-Aug-2026",
+      "CH_PREVIOUS_CLS_PRICE": 2796,
+      "CH_OPENING_PRICE": 2778.4,
+      "CH_TRADE_HIGH_PRICE": 2796.6,
+      "CH_TRADE_LOW_PRICE": 2751.2,
+      "CH_LAST_TRADED_PRICE": 2774.6,
+      "CH_CLOSING_PRICE": 2774.6,
+      "VWAP": 2769,
+      "CH_TOT_TRADED_QTY": 85234,
+      "CH_TOT_TRADED_VAL": 236012642.7,
+      "CH_TOTAL_TRADES": 7552,
+      "CH_TIMESTAMP": "2026-08-06T18:30:00.000Z",
+      "COP_DELIV_QTY": 36283,
+      "COP_DELIV_PERC": 42.57,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "PI Industries Limited",
+          "exDate": "07-Aug-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE603J01014",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "07-Aug-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 10 Per Share",
+          "symbol": "PIIND"
+        }
+      ]
+    }
+  ]
+}

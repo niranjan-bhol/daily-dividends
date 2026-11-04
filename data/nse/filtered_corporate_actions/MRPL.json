@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "MRPL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "11-Mar-2026",
+      "CH_PREVIOUS_CLS_PRICE": 193.6,
+      "CH_OPENING_PRICE": 190.1,
+      "CH_TRADE_HIGH_PRICE": 195.49,
+      "CH_TRADE_LOW_PRICE": 185.09,
+      "CH_LAST_TRADED_PRICE": 186.86,
+      "CH_CLOSING_PRICE": 186.92,
+      "VWAP": 190.73,
+      "CH_TOT_TRADED_QTY": 5960972,
+      "CH_TOT_TRADED_VAL": 1136948436.93,
+      "CH_TOTAL_TRADES": 42358,
+      "CH_TIMESTAMP": "2026-03-10T18:30:00.000Z",
+      "COP_DELIV_QTY": 1525468,
+      "COP_DELIV_PERC": 25.59,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Mangalore Refinery and Petrochemicals Limited",
+          "exDate": "11-Mar-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE103A01014",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "11-Mar-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 4 Per Share",
+          "symbol": "MRPL"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "MRPL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "21-Oct-2026",
+      "CH_PREVIOUS_CLS_PRICE": 173.72,
+      "CH_OPENING_PRICE": 173,
+      "CH_TRADE_HIGH_PRICE": 174.09,
+      "CH_TRADE_LOW_PRICE": 166.64,
+      "CH_LAST_TRADED_PRICE": 167.2,
+      "CH_CLOSING_PRICE": 167.52,
+      "VWAP": 169.54,
+      "CH_TOT_TRADED_QTY": 6127959,
+      "CH_TOT_TRADED_VAL": 1038953040.69,
+      "CH_TOTAL_TRADES": 41620,
+      "CH_TIMESTAMP": "2026-10-20T18:30:00.000Z",
+      "COP_DELIV_QTY": 1772180,
+      "COP_DELIV_PERC": 28.92,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Mangalore Refinery and Petrochemicals Limited",
+          "exDate": "21-Oct-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE103A01014",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "21-Oct-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 3 Per Share",
+          "symbol": "MRPL"
+        }
+      ]
+    }
+  ]
+}

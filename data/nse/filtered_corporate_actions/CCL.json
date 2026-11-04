@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "CCL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "10-Feb-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1020.9,
+      "CH_OPENING_PRICE": 1027,
+      "CH_TRADE_HIGH_PRICE": 1047.3,
+      "CH_TRADE_LOW_PRICE": 1024.75,
+      "CH_LAST_TRADED_PRICE": 1031.9,
+      "CH_CLOSING_PRICE": 1031.05,
+      "VWAP": 1032.13,
+      "CH_TOT_TRADED_QTY": 183345,
+      "CH_TOT_TRADED_VAL": 189235029.25,
+      "CH_TOTAL_TRADES": 11287,
+      "CH_TIMESTAMP": "2026-02-09T18:30:00.000Z",
+      "COP_DELIV_QTY": 116666,
+      "COP_DELIV_PERC": 63.63,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "CCL Products (India) Limited",
+          "exDate": "10-Feb-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE421D01014",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "10-Feb-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 2.75 Per Share",
+          "symbol": "CCL"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "CCL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "01-Sep-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1079.8,
+      "CH_OPENING_PRICE": 1084.1,
+      "CH_TRADE_HIGH_PRICE": 1106.4,
+      "CH_TRADE_LOW_PRICE": 1075.6,
+      "CH_LAST_TRADED_PRICE": 1096,
+      "CH_CLOSING_PRICE": 1100.1,
+      "VWAP": 1095.22,
+      "CH_TOT_TRADED_QTY": 99628,
+      "CH_TOT_TRADED_VAL": 109114502.2,
+      "CH_TOTAL_TRADES": 11666,
+      "CH_TIMESTAMP": "2026-08-31T18:30:00.000Z",
+      "COP_DELIV_QTY": 44737,
+      "COP_DELIV_PERC": 44.9,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "CCL Products (India) Limited",
+          "exDate": "01-Sep-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE421D01014",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "01-Sep-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 3 Per Share",
+          "symbol": "CCL"
+        }
+      ]
+    }
+  ]
+}

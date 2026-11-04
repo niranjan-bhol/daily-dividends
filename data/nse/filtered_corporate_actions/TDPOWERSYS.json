@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "TDPOWERSYS",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "06-Nov-2025",
+      "CH_PREVIOUS_CLS_PRICE": 820.05,
+      "CH_OPENING_PRICE": 814.05,
+      "CH_TRADE_HIGH_PRICE": 823,
+      "CH_TRADE_LOW_PRICE": 794.05,
+      "CH_LAST_TRADED_PRICE": 802,
+      "CH_CLOSING_PRICE": 797.85,
+      "VWAP": 806.81,
+      "CH_TOT_TRADED_QTY": 1336345,
+      "CH_TOT_TRADED_VAL": 1078178013.05,
+      "CH_TOTAL_TRADES": 52078,
+      "CH_TIMESTAMP": "2025-11-05T18:30:00.000Z",
+      "COP_DELIV_QTY": 595317,
+      "COP_DELIV_PERC": 44.55,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "TD Power Systems Limited",
+          "exDate": "06-Nov-2025",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE419M01019",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "06-Nov-2025",
+          "series": "EQ",
+          "subject": "Interim Dividend - Re 1 Per Share",
+          "symbol": "TDPOWERSYS"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "TDPOWERSYS",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "05-Aug-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1127.5,
+      "CH_OPENING_PRICE": 1142,
+      "CH_TRADE_HIGH_PRICE": 1207,
+      "CH_TRADE_LOW_PRICE": 1131.2,
+      "CH_LAST_TRADED_PRICE": 1200,
+      "CH_CLOSING_PRICE": 1201.9,
+      "VWAP": 1179.57,
+      "CH_TOT_TRADED_QTY": 1950548,
+      "CH_TOT_TRADED_VAL": 2300806641.8,
+      "CH_TOTAL_TRADES": 75404,
+      "CH_TIMESTAMP": "2026-08-04T18:30:00.000Z",
+      "COP_DELIV_QTY": 1008694,
+      "COP_DELIV_PERC": 51.71,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "TD Power Systems Limited",
+          "exDate": "05-Aug-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE419M01019",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "05-Aug-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 1.10 Per Share",
+          "symbol": "TDPOWERSYS"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "TDPOWERSYS",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "24-Aug-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1534.8,
+      "CH_OPENING_PRICE": 775,
+      "CH_TRADE_HIGH_PRICE": 793.5,
+      "CH_TRADE_LOW_PRICE": 760.7,
+      "CH_LAST_TRADED_PRICE": 782.5,
+      "CH_CLOSING_PRICE": 780.1,
+      "VWAP": 775.54,
+      "CH_TOT_TRADED_QTY": 1410792,
+      "CH_TOT_TRADED_VAL": 1094128966.7,
+      "CH_TOTAL_TRADES": 53506,
+      "CH_TIMESTAMP": "2026-08-23T18:30:00.000Z",
+      "COP_DELIV_QTY": 622615,
+      "COP_DELIV_PERC": 44.13,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "TD Power Systems Limited",
+          "exDate": "24-Aug-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE419M01019",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "24-Aug-2026",
+          "series": "EQ",
+          "subject": "Face Value Split (Sub-Division) - From Rs 2/- Per Share To Re 1/- Per Share",
+          "symbol": "TDPOWERSYS"
+        }
+      ]
+    }
+  ]
+}

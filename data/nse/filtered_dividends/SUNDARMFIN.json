@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "SUNDARMFIN",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "06-Feb-2026",
+      "CH_PREVIOUS_CLS_PRICE": 5321,
+      "CH_OPENING_PRICE": 5321,
+      "CH_TRADE_HIGH_PRICE": 5450,
+      "CH_TRADE_LOW_PRICE": 5299.5,
+      "CH_LAST_TRADED_PRICE": 5450,
+      "CH_CLOSING_PRICE": 5439,
+      "VWAP": 5408.67,
+      "CH_TOT_TRADED_QTY": 47992,
+      "CH_TOT_TRADED_VAL": 259572706,
+      "CH_TOTAL_TRADES": 9902,
+      "CH_TIMESTAMP": "2026-02-05T18:30:00.000Z",
+      "COP_DELIV_QTY": 27752,
+      "COP_DELIV_PERC": 57.83,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Sundaram Finance Limited",
+          "exDate": "06-Feb-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE660A01013",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "06-Feb-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 16 Per Share",
+          "symbol": "SUNDARMFIN"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "SUNDARMFIN",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "06-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 4575.4,
+      "CH_OPENING_PRICE": 4590,
+      "CH_TRADE_HIGH_PRICE": 4610,
+      "CH_TRADE_LOW_PRICE": 4531,
+      "CH_LAST_TRADED_PRICE": 4608,
+      "CH_CLOSING_PRICE": 4601.2,
+      "VWAP": 4570.48,
+      "CH_TOT_TRADED_QTY": 60955,
+      "CH_TOT_TRADED_VAL": 278593486.2,
+      "CH_TOTAL_TRADES": 10077,
+      "CH_TIMESTAMP": "2026-07-05T18:30:00.000Z",
+      "COP_DELIV_QTY": 41682,
+      "COP_DELIV_PERC": 68.38,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Sundaram Finance Limited",
+          "exDate": "06-Jul-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE660A01013",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "06-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 24 Per Share",
+          "symbol": "SUNDARMFIN"
+        }
+      ]
+    }
+  ]
+}

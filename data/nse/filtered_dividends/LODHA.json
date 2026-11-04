@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "LODHA",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "07-Aug-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1214,
+      "CH_OPENING_PRICE": 1214,
+      "CH_TRADE_HIGH_PRICE": 1225,
+      "CH_TRADE_LOW_PRICE": 1204.7,
+      "CH_LAST_TRADED_PRICE": 1218.7,
+      "CH_CLOSING_PRICE": 1218.7,
+      "VWAP": 1213.91,
+      "CH_TOT_TRADED_QTY": 890480,
+      "CH_TOT_TRADED_VAL": 1080959143.4,
+      "CH_TOTAL_TRADES": 25695,
+      "CH_TIMESTAMP": "2026-08-06T18:30:00.000Z",
+      "COP_DELIV_QTY": 435543,
+      "COP_DELIV_PERC": 48.91,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Lodha Developers Limited",
+          "exDate": "07-Aug-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE670K01029",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "07-Aug-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 4.25 Per Share",
+          "symbol": "LODHA"
+        }
+      ]
+    }
+  ]
+}

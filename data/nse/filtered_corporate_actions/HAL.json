@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "HAL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "18-Feb-2026",
+      "CH_PREVIOUS_CLS_PRICE": 4247.6,
+      "CH_OPENING_PRICE": 4235,
+      "CH_TRADE_HIGH_PRICE": 4267.5,
+      "CH_TRADE_LOW_PRICE": 4182.1,
+      "CH_LAST_TRADED_PRICE": 4247.6,
+      "CH_CLOSING_PRICE": 4251.1,
+      "VWAP": 4227.83,
+      "CH_TOT_TRADED_QTY": 821047,
+      "CH_TOT_TRADED_VAL": 3471250016.8,
+      "CH_TOTAL_TRADES": 51763,
+      "CH_TIMESTAMP": "2026-02-17T18:30:00.000Z",
+      "COP_DELIV_QTY": 309511,
+      "COP_DELIV_PERC": 37.7,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Hindustan Aeronautics Limited",
+          "exDate": "18-Feb-2026",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE066F01012",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "18-Feb-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 35 Per Share",
+          "symbol": "HAL"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "HAL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "14-Aug-2026",
+      "CH_PREVIOUS_CLS_PRICE": 4945,
+      "CH_OPENING_PRICE": 4940,
+      "CH_TRADE_HIGH_PRICE": 5047,
+      "CH_TRADE_LOW_PRICE": 4924.2,
+      "CH_LAST_TRADED_PRICE": 5029.9,
+      "CH_CLOSING_PRICE": 5029.9,
+      "VWAP": 4989.33,
+      "CH_TOT_TRADED_QTY": 1537351,
+      "CH_TOT_TRADED_VAL": 7670347928.2,
+      "CH_TOTAL_TRADES": 73873,
+      "CH_TIMESTAMP": "2026-08-13T18:30:00.000Z",
+      "COP_DELIV_QTY": 953191,
+      "COP_DELIV_PERC": 62,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Hindustan Aeronautics Limited",
+          "exDate": "14-Aug-2026",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE066F01012",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "14-Aug-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 10 Per Sh",
+          "symbol": "HAL"
+        }
+      ]
+    }
+  ]
+}

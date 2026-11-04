@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "ACMESOLAR",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "06-Feb-2026",
+      "CH_PREVIOUS_CLS_PRICE": 227.11,
+      "CH_OPENING_PRICE": 227.11,
+      "CH_TRADE_HIGH_PRICE": 227.11,
+      "CH_TRADE_LOW_PRICE": 220.2,
+      "CH_LAST_TRADED_PRICE": 221.95,
+      "CH_CLOSING_PRICE": 221.59,
+      "VWAP": 223.49,
+      "CH_TOT_TRADED_QTY": 292514,
+      "CH_TOT_TRADED_VAL": 65375326.84,
+      "CH_TOTAL_TRADES": 8237,
+      "CH_TIMESTAMP": "2026-02-05T18:30:00.000Z",
+      "COP_DELIV_QTY": 114815,
+      "COP_DELIV_PERC": 39.25,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Acme Solar Holdings Limited",
+          "exDate": "06-Feb-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE622W01025",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "06-Feb-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Re 0.20 Per Share",
+          "symbol": "ACMESOLAR"
+        }
+      ]
+    }
+  ]
+}

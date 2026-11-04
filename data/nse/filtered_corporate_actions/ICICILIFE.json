@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "ICICIPRULI",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "05-Jun-2026",
+      "CH_PREVIOUS_CLS_PRICE": 477.1,
+      "CH_OPENING_PRICE": 479.05,
+      "CH_TRADE_HIGH_PRICE": 490.4,
+      "CH_TRADE_LOW_PRICE": 477.25,
+      "CH_LAST_TRADED_PRICE": 485.3,
+      "CH_CLOSING_PRICE": 483.25,
+      "VWAP": 485.57,
+      "CH_TOT_TRADED_QTY": 1629387,
+      "CH_TOT_TRADED_VAL": 791181487.15,
+      "CH_TOTAL_TRADES": 35342,
+      "CH_TIMESTAMP": "2026-06-04T18:30:00.000Z",
+      "COP_DELIV_QTY": 608110,
+      "COP_DELIV_PERC": 37.32,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "ICICI Life Insurance Limited",
+          "exDate": "05-Jun-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE726G01019",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "05-Jun-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 1.65 Per Share",
+          "symbol": "ICICILIFE"
+        }
+      ]
+    }
+  ]
+}

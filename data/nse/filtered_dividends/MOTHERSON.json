@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "MOTHERSON",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "27-Mar-2026",
+      "CH_PREVIOUS_CLS_PRICE": 113.13,
+      "CH_OPENING_PRICE": 112.5,
+      "CH_TRADE_HIGH_PRICE": 112.5,
+      "CH_TRADE_LOW_PRICE": 109.2,
+      "CH_LAST_TRADED_PRICE": 109.52,
+      "CH_CLOSING_PRICE": 109.38,
+      "VWAP": 110.01,
+      "CH_TOT_TRADED_QTY": 24039957,
+      "CH_TOT_TRADED_VAL": 2644612625.11,
+      "CH_TOTAL_TRADES": 170383,
+      "CH_TIMESTAMP": "2026-03-26T18:30:00.000Z",
+      "COP_DELIV_QTY": 12752229,
+      "COP_DELIV_PERC": 53.05,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Samvardhana Motherson International Limited",
+          "exDate": "27-Mar-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE775A01035",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "27-Mar-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Re 0.35 Per Share",
+          "symbol": "MOTHERSON"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "MOTHERSON",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "14-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 144.06,
+      "CH_OPENING_PRICE": 143.25,
+      "CH_TRADE_HIGH_PRICE": 143.55,
+      "CH_TRADE_LOW_PRICE": 141.29,
+      "CH_LAST_TRADED_PRICE": 142.5,
+      "CH_CLOSING_PRICE": 142.06,
+      "VWAP": 142.04,
+      "CH_TOT_TRADED_QTY": 12934232,
+      "CH_TOT_TRADED_VAL": 1837156028.78,
+      "CH_TOTAL_TRADES": 54256,
+      "CH_TIMESTAMP": "2026-07-13T18:30:00.000Z",
+      "COP_DELIV_QTY": 7374904,
+      "COP_DELIV_PERC": 57.02,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Samvardhana Motherson International Limited",
+          "exDate": "14-Jul-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE775A01035",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "14-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 0.25 Per Share",
+          "symbol": "MOTHERSON"
+        }
+      ]
+    }
+  ]
+}

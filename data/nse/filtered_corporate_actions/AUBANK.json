@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "AUBANK",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "31-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1030.7,
+      "CH_OPENING_PRICE": 1035,
+      "CH_TRADE_HIGH_PRICE": 1057.4,
+      "CH_TRADE_LOW_PRICE": 1034.9,
+      "CH_LAST_TRADED_PRICE": 1046,
+      "CH_CLOSING_PRICE": 1047.3,
+      "VWAP": 1045.49,
+      "CH_TOT_TRADED_QTY": 2215780,
+      "CH_TOT_TRADED_VAL": 2316577106.4,
+      "CH_TOTAL_TRADES": 59241,
+      "CH_TIMESTAMP": "2026-07-30T18:30:00.000Z",
+      "COP_DELIV_QTY": 1405536,
+      "COP_DELIV_PERC": 63.43,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "AU Small Finance Bank Limited",
+          "exDate": "31-Jul-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE949L01017",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "31-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Re 1 Per Share",
+          "symbol": "AUBANK"
+        }
+      ]
+    }
+  ]
+}

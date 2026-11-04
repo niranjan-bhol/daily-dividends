@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "BHARTIHEXA",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "31-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1654,
+      "CH_OPENING_PRICE": 1635,
+      "CH_TRADE_HIGH_PRICE": 1644.9,
+      "CH_TRADE_LOW_PRICE": 1598.1,
+      "CH_LAST_TRADED_PRICE": 1616,
+      "CH_CLOSING_PRICE": 1607.5,
+      "VWAP": 1612.03,
+      "CH_TOT_TRADED_QTY": 185923,
+      "CH_TOT_TRADED_VAL": 299713873.7,
+      "CH_TOTAL_TRADES": 22831,
+      "CH_TIMESTAMP": "2026-07-30T18:30:00.000Z",
+      "COP_DELIV_QTY": 110118,
+      "COP_DELIV_PERC": 59.23,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Bharti Hexacom Limited",
+          "exDate": "31-Jul-2026",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE343G01021",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "31-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 18 Per Share",
+          "symbol": "BHARTIHEXA"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "FORTIS",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "24-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 943.65,
+      "CH_OPENING_PRICE": 940,
+      "CH_TRADE_HIGH_PRICE": 951.05,
+      "CH_TRADE_LOW_PRICE": 927.7,
+      "CH_LAST_TRADED_PRICE": 946,
+      "CH_CLOSING_PRICE": 948.7,
+      "VWAP": 942.38,
+      "CH_TOT_TRADED_QTY": 503448,
+      "CH_TOT_TRADED_VAL": 474441286.6,
+      "CH_TOTAL_TRADES": 16635,
+      "CH_TIMESTAMP": "2026-07-23T18:30:00.000Z",
+      "COP_DELIV_QTY": 258535,
+      "COP_DELIV_PERC": 51.35,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Fortis Healthcare Limited",
+          "exDate": "24-Jul-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE061F01013",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "24-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Re 1 Per Share",
+          "symbol": "FORTIS"
+        }
+      ]
+    }
+  ]
+}

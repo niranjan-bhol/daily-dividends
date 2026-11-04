@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "MAZDOCK",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "04-Nov-2025",
+      "CH_PREVIOUS_CLS_PRICE": 2748.6,
+      "CH_OPENING_PRICE": 2745.1,
+      "CH_TRADE_HIGH_PRICE": 2749.8,
+      "CH_TRADE_LOW_PRICE": 2678,
+      "CH_LAST_TRADED_PRICE": 2682,
+      "CH_CLOSING_PRICE": 2683,
+      "VWAP": 2702.69,
+      "CH_TOT_TRADED_QTY": 898162,
+      "CH_TOT_TRADED_VAL": 2427450610.7,
+      "CH_TOTAL_TRADES": 57985,
+      "CH_TIMESTAMP": "2025-11-03T18:30:00.000Z",
+      "COP_DELIV_QTY": 360647,
+      "COP_DELIV_PERC": 40.15,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Mazagon Dock Shipbuilders Limited",
+          "exDate": "04-Nov-2025",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE249Z01012",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "04-Nov-2025",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 6 Per Share",
+          "symbol": "MAZDOCK"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "MAZDOCK",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "13-Feb-2026",
+      "CH_PREVIOUS_CLS_PRICE": 2414.9,
+      "CH_OPENING_PRICE": 2400,
+      "CH_TRADE_HIGH_PRICE": 2405,
+      "CH_TRADE_LOW_PRICE": 2340,
+      "CH_LAST_TRADED_PRICE": 2344,
+      "CH_CLOSING_PRICE": 2350.2,
+      "VWAP": 2367.1,
+      "CH_TOT_TRADED_QTY": 848843,
+      "CH_TOT_TRADED_VAL": 2009298161.2,
+      "CH_TOTAL_TRADES": 40224,
+      "CH_TIMESTAMP": "2026-02-12T18:30:00.000Z",
+      "COP_DELIV_QTY": 288514,
+      "COP_DELIV_PERC": 33.99,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Mazagon Dock Shipbuilders Limited",
+          "exDate": "13-Feb-2026",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE249Z01012",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "13-Feb-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 7.50 Per Share",
+          "symbol": "MAZDOCK"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "MAZDOCK",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "20-Aug-2026",
+      "CH_PREVIOUS_CLS_PRICE": 2563.8,
+      "CH_OPENING_PRICE": 2567.5,
+      "CH_TRADE_HIGH_PRICE": 2583.2,
+      "CH_TRADE_LOW_PRICE": 2552,
+      "CH_LAST_TRADED_PRICE": 2570,
+      "CH_CLOSING_PRICE": 2570,
+      "VWAP": 2569.47,
+      "CH_TOT_TRADED_QTY": 467904,
+      "CH_TOT_TRADED_VAL": 1202267152.9,
+      "CH_TOTAL_TRADES": 23714,
+      "CH_TIMESTAMP": "2026-08-19T18:30:00.000Z",
+      "COP_DELIV_QTY": 159995,
+      "COP_DELIV_PERC": 34.19,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Mazagon Dock Shipbuilders Limited",
+          "exDate": "20-Aug-2026",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE249Z01012",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "20-Aug-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 4.62 Per Share",
+          "symbol": "MAZDOCK"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "MAZDOCK",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "03-Nov-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1736.6,
+      "CH_OPENING_PRICE": 1758,
+      "CH_TRADE_HIGH_PRICE": 1831.5,
+      "CH_TRADE_LOW_PRICE": 1734.9,
+      "CH_LAST_TRADED_PRICE": 1785.1,
+      "CH_CLOSING_PRICE": 1785.1,
+      "VWAP": 1803.76,
+      "CH_TOT_TRADED_QTY": 2135717,
+      "CH_TOT_TRADED_VAL": 3852329818.9,
+      "CH_TOTAL_TRADES": 83203,
+      "CH_TIMESTAMP": "2026-11-02T18:30:00.000Z",
+      "COP_DELIV_QTY": 486535,
+      "COP_DELIV_PERC": 22.78,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Mazagon Dock Shipbuilders Limited",
+          "exDate": "03-Nov-2026",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE249Z01012",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "03-Nov-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 5 Per Share",
+          "symbol": "MAZDOCK"
+        }
+      ]
+    }
+  ]
+}

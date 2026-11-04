@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "IDFCFIRSTB",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "07-Aug-2026",
+      "CH_PREVIOUS_CLS_PRICE": 85.35,
+      "CH_OPENING_PRICE": 85,
+      "CH_TRADE_HIGH_PRICE": 85.14,
+      "CH_TRADE_LOW_PRICE": 84.35,
+      "CH_LAST_TRADED_PRICE": 84.62,
+      "CH_CLOSING_PRICE": 84.62,
+      "VWAP": 84.81,
+      "CH_TOT_TRADED_QTY": 9539702,
+      "CH_TOT_TRADED_VAL": 809106674.74,
+      "CH_TOTAL_TRADES": 45972,
+      "CH_TIMESTAMP": "2026-08-06T18:30:00.000Z",
+      "COP_DELIV_QTY": 5865909,
+      "COP_DELIV_PERC": 61.49,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "IDFC First Bank Limited",
+          "exDate": "07-Aug-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE092T01019",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "07-Aug-2026",
+          "series": "EQ",
+          "subject": "Dividend - Re 0.25 Per Share",
+          "symbol": "IDFCFIRSTB"
+        }
+      ]
+    }
+  ]
+}

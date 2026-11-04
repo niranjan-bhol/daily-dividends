@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "JSWENERGY",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "05-Jun-2026",
+      "CH_PREVIOUS_CLS_PRICE": 590.05,
+      "CH_OPENING_PRICE": 591,
+      "CH_TRADE_HIGH_PRICE": 592.9,
+      "CH_TRADE_LOW_PRICE": 575.75,
+      "CH_LAST_TRADED_PRICE": 581,
+      "CH_CLOSING_PRICE": 584.2,
+      "VWAP": 583.9,
+      "CH_TOT_TRADED_QTY": 1509598,
+      "CH_TOT_TRADED_VAL": 881459461.3,
+      "CH_TOTAL_TRADES": 32581,
+      "CH_TIMESTAMP": "2026-06-04T18:30:00.000Z",
+      "COP_DELIV_QTY": 520332,
+      "COP_DELIV_PERC": 34.47,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "JSW Energy Limited",
+          "exDate": "05-Jun-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE121E01018",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "05-Jun-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 2 Per Share",
+          "symbol": "JSWENERGY"
+        }
+      ]
+    }
+  ]
+}

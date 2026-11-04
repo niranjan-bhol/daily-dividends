@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "UBL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "07-Aug-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1415.3,
+      "CH_OPENING_PRICE": 1408.2,
+      "CH_TRADE_HIGH_PRICE": 1408.2,
+      "CH_TRADE_LOW_PRICE": 1377.5,
+      "CH_LAST_TRADED_PRICE": 1397,
+      "CH_CLOSING_PRICE": 1400.3,
+      "VWAP": 1397.22,
+      "CH_TOT_TRADED_QTY": 99991,
+      "CH_TOT_TRADED_VAL": 139709691.2,
+      "CH_TOTAL_TRADES": 8141,
+      "CH_TIMESTAMP": "2026-08-06T18:30:00.000Z",
+      "COP_DELIV_QTY": 41614,
+      "COP_DELIV_PERC": 41.62,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "United Breweries Limited",
+          "exDate": "07-Aug-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE686F01025",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "07-Aug-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 10 Per Share",
+          "symbol": "UBL"
+        }
+      ]
+    }
+  ]
+}

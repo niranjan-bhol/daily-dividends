@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "INDHOTEL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "23-Jun-2026",
+      "CH_PREVIOUS_CLS_PRICE": 733,
+      "CH_OPENING_PRICE": 730,
+      "CH_TRADE_HIGH_PRICE": 731.2,
+      "CH_TRADE_LOW_PRICE": 717.5,
+      "CH_LAST_TRADED_PRICE": 725.9,
+      "CH_CLOSING_PRICE": 724.05,
+      "VWAP": 723.61,
+      "CH_TOT_TRADED_QTY": 2944232,
+      "CH_TOT_TRADED_VAL": 2130481892.75,
+      "CH_TOTAL_TRADES": 45894,
+      "CH_TIMESTAMP": "2026-06-22T18:30:00.000Z",
+      "COP_DELIV_QTY": 2063255,
+      "COP_DELIV_PERC": 70.08,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "The Indian Hotels Company Limited",
+          "exDate": "23-Jun-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE053A01029",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "23-Jun-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 3.25 Per Share",
+          "symbol": "INDHOTEL"
+        }
+      ]
+    }
+  ]
+}

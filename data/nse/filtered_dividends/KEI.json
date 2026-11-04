@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "KEI",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "28-Jan-2026",
+      "CH_PREVIOUS_CLS_PRICE": 3805.2,
+      "CH_OPENING_PRICE": 3830,
+      "CH_TRADE_HIGH_PRICE": 3898,
+      "CH_TRADE_LOW_PRICE": 3826.1,
+      "CH_LAST_TRADED_PRICE": 3870,
+      "CH_CLOSING_PRICE": 3879.1,
+      "VWAP": 3858.65,
+      "CH_TOT_TRADED_QTY": 116453,
+      "CH_TOT_TRADED_VAL": 449350901,
+      "CH_TOTAL_TRADES": 18630,
+      "CH_TIMESTAMP": "2026-01-27T18:30:00.000Z",
+      "COP_DELIV_QTY": 47419,
+      "COP_DELIV_PERC": 40.72,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "KEI Industries Limited",
+          "exDate": "28-Jan-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE878B01027",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "28-Jan-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 4.50 Per Share",
+          "symbol": "KEI"
+        }
+      ]
+    }
+  ]
+}

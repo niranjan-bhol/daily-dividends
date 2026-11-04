@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "KOTAKBANK",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "14-Jan-2026",
+      "CH_PREVIOUS_CLS_PRICE": 2132.6,
+      "CH_OPENING_PRICE": 426,
+      "CH_TRADE_HIGH_PRICE": 427.6,
+      "CH_TRADE_LOW_PRICE": 418.8,
+      "CH_LAST_TRADED_PRICE": 420.2,
+      "CH_CLOSING_PRICE": 421,
+      "VWAP": 424.04,
+      "CH_TOT_TRADED_QTY": 10818517,
+      "CH_TOT_TRADED_VAL": 4587503004.6,
+      "CH_TOTAL_TRADES": 167999,
+      "CH_TIMESTAMP": "2026-01-13T18:30:00.000Z",
+      "COP_DELIV_QTY": 7414337,
+      "COP_DELIV_PERC": 68.53,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Kotak Mahindra Bank Limited",
+          "exDate": "14-Jan-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE237A01010",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "14-Jan-2026",
+          "series": "EQ",
+          "subject": "Face Value Split (Sub-Division) - From Rs 5/- Per Share To Re 1/- Per Share",
+          "symbol": "KOTAKBANK"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "KOTAKBANK",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "17-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 377.15,
+      "CH_OPENING_PRICE": 377.5,
+      "CH_TRADE_HIGH_PRICE": 391.8,
+      "CH_TRADE_LOW_PRICE": 375.7,
+      "CH_LAST_TRADED_PRICE": 390.7,
+      "CH_CLOSING_PRICE": 389.95,
+      "VWAP": 385.76,
+      "CH_TOT_TRADED_QTY": 17847316,
+      "CH_TOT_TRADED_VAL": 6884701921.05,
+      "CH_TOTAL_TRADES": 168736,
+      "CH_TIMESTAMP": "2026-07-16T18:30:00.000Z",
+      "COP_DELIV_QTY": 10190959,
+      "COP_DELIV_PERC": 57.1,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Kotak Mahindra Bank Limited",
+          "exDate": "17-Jul-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE237A01010",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "17-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 0.65 Per Share",
+          "symbol": "KOTAKBANK"
+        }
+      ]
+    }
+  ]
+}

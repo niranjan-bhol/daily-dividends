@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "ADANIPORTS",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "12-Jun-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1787.1,
+      "CH_OPENING_PRICE": 1804,
+      "CH_TRADE_HIGH_PRICE": 1818,
+      "CH_TRADE_LOW_PRICE": 1777.9,
+      "CH_LAST_TRADED_PRICE": 1809.4,
+      "CH_CLOSING_PRICE": 1812.9,
+      "VWAP": 1800.77,
+      "CH_TOT_TRADED_QTY": 2325897,
+      "CH_TOT_TRADED_VAL": 4188400718,
+      "CH_TOTAL_TRADES": 67163,
+      "CH_TIMESTAMP": "2026-06-11T18:30:00.000Z",
+      "COP_DELIV_QTY": 1321568,
+      "COP_DELIV_PERC": 56.82,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Adani Ports and Special Economic Zone Limited",
+          "exDate": "12-Jun-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE742F01042",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "12-Jun-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 7.50 Per Share",
+          "symbol": "ADANIPORTS"
+        }
+      ]
+    }
+  ]
+}

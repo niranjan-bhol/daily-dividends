@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "NATIONALUM",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "14-Nov-2025",
+      "CH_PREVIOUS_CLS_PRICE": 268.67,
+      "CH_OPENING_PRICE": 263.2,
+      "CH_TRADE_HIGH_PRICE": 267.68,
+      "CH_TRADE_LOW_PRICE": 260.18,
+      "CH_LAST_TRADED_PRICE": 263.49,
+      "CH_CLOSING_PRICE": 262.57,
+      "VWAP": 262.99,
+      "CH_TOT_TRADED_QTY": 10276305,
+      "CH_TOT_TRADED_VAL": 2702593609.07,
+      "CH_TOTAL_TRADES": 73447,
+      "CH_TIMESTAMP": "2025-11-13T18:30:00.000Z",
+      "COP_DELIV_QTY": 4205267,
+      "COP_DELIV_PERC": 40.92,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "National Aluminium Company Limited",
+          "exDate": "14-Nov-2025",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE139A01026",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "14-Nov-2025",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 4 Per Share",
+          "symbol": "NATIONALUM"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "NATIONALUM",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "06-Feb-2026",
+      "CH_PREVIOUS_CLS_PRICE": 363.85,
+      "CH_OPENING_PRICE": 356,
+      "CH_TRADE_HIGH_PRICE": 357.5,
+      "CH_TRADE_LOW_PRICE": 349.55,
+      "CH_LAST_TRADED_PRICE": 353.4,
+      "CH_CLOSING_PRICE": 354.65,
+      "VWAP": 352.87,
+      "CH_TOT_TRADED_QTY": 12608116,
+      "CH_TOT_TRADED_VAL": 4449029610.15,
+      "CH_TOTAL_TRADES": 106051,
+      "CH_TIMESTAMP": "2026-02-05T18:30:00.000Z",
+      "COP_DELIV_QTY": 6447672,
+      "COP_DELIV_PERC": 51.14,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "National Aluminium Company Limited",
+          "exDate": "06-Feb-2026",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE139A01026",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "06-Feb-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 4.50 Per Share",
+          "symbol": "NATIONALUM"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "NATIONALUM",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "08-May-2026",
+      "CH_PREVIOUS_CLS_PRICE": 403.5,
+      "CH_OPENING_PRICE": 403.2,
+      "CH_TRADE_HIGH_PRICE": 403.9,
+      "CH_TRADE_LOW_PRICE": 396.15,
+      "CH_LAST_TRADED_PRICE": 402,
+      "CH_CLOSING_PRICE": 401.95,
+      "VWAP": 400.01,
+      "CH_TOT_TRADED_QTY": 5777370,
+      "CH_TOT_TRADED_VAL": 2311016744.65,
+      "CH_TOTAL_TRADES": 64253,
+      "CH_TIMESTAMP": "2026-05-07T18:30:00.000Z",
+      "COP_DELIV_QTY": 2543817,
+      "COP_DELIV_PERC": 44.03,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "National Aluminium Company Limited",
+          "exDate": "08-May-2026",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE139A01026",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "08-May-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 2 Per Share",
+          "symbol": "NATIONALUM"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "NATIONALUM",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "24-Aug-2026",
+      "CH_PREVIOUS_CLS_PRICE": 394.45,
+      "CH_OPENING_PRICE": 398.45,
+      "CH_TRADE_HIGH_PRICE": 405,
+      "CH_TRADE_LOW_PRICE": 397.5,
+      "CH_LAST_TRADED_PRICE": 403.3,
+      "CH_CLOSING_PRICE": 403.3,
+      "VWAP": 402,
+      "CH_TOT_TRADED_QTY": 7285035,
+      "CH_TOT_TRADED_VAL": 2928594866.45,
+      "CH_TOTAL_TRADES": 80206,
+      "CH_TIMESTAMP": "2026-08-23T18:30:00.000Z",
+      "COP_DELIV_QTY": 2817047,
+      "COP_DELIV_PERC": 38.67,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "National Aluminium Company Limited",
+          "exDate": "24-Aug-2026",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE139A01026",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "24-Aug-2026",
+          "series": "EQ",
+          "subject": "Dividend - Re 1 Per Share",
+          "symbol": "NATIONALUM"
+        }
+      ]
+    }
+  ]
+}

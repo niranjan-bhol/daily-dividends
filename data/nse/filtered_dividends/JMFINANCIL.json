@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "JMFINANCIL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "14-Nov-2025",
+      "CH_PREVIOUS_CLS_PRICE": 154.1,
+      "CH_OPENING_PRICE": 154.8,
+      "CH_TRADE_HIGH_PRICE": 154.8,
+      "CH_TRADE_LOW_PRICE": 149.05,
+      "CH_LAST_TRADED_PRICE": 150.41,
+      "CH_CLOSING_PRICE": 150.67,
+      "VWAP": 150.83,
+      "CH_TOT_TRADED_QTY": 3558536,
+      "CH_TOT_TRADED_VAL": 536725872.54,
+      "CH_TOTAL_TRADES": 34235,
+      "CH_TIMESTAMP": "2025-11-13T18:30:00.000Z",
+      "COP_DELIV_QTY": 1494296,
+      "COP_DELIV_PERC": 41.99,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "JM Financial Limited",
+          "exDate": "14-Nov-2025",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE780C01023",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "14-Nov-2025",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 1.50 Per Share",
+          "symbol": "JMFINANCIL"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "JMFINANCIL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "12-Jun-2026",
+      "CH_PREVIOUS_CLS_PRICE": 115.69,
+      "CH_OPENING_PRICE": 116.5,
+      "CH_TRADE_HIGH_PRICE": 122,
+      "CH_TRADE_LOW_PRICE": 116.17,
+      "CH_LAST_TRADED_PRICE": 120.9,
+      "CH_CLOSING_PRICE": 120.63,
+      "VWAP": 119.2,
+      "CH_TOT_TRADED_QTY": 4099737,
+      "CH_TOT_TRADED_VAL": 488671494.74,
+      "CH_TOTAL_TRADES": 37166,
+      "CH_TIMESTAMP": "2026-06-11T18:30:00.000Z",
+      "COP_DELIV_QTY": 1757231,
+      "COP_DELIV_PERC": 42.86,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "JM Financial Limited",
+          "exDate": "12-Jun-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE780C01023",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "12-Jun-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 1.75 Per Share",
+          "symbol": "JMFINANCIL"
+        }
+      ]
+    }
+  ]
+}

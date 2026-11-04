@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "DATAPATTNS",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "24-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 4597.5,
+      "CH_OPENING_PRICE": 4540,
+      "CH_TRADE_HIGH_PRICE": 4668.3,
+      "CH_TRADE_LOW_PRICE": 4421.2,
+      "CH_LAST_TRADED_PRICE": 4580,
+      "CH_CLOSING_PRICE": 4584.5,
+      "VWAP": 4547.77,
+      "CH_TOT_TRADED_QTY": 1344404,
+      "CH_TOT_TRADED_VAL": 6114046070.9,
+      "CH_TOTAL_TRADES": 108893,
+      "CH_TIMESTAMP": "2026-07-23T18:30:00.000Z",
+      "COP_DELIV_QTY": 188602,
+      "COP_DELIV_PERC": 14.03,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Data Patterns (India) Limited",
+          "exDate": "24-Jul-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE0IX101010",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "24-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 10 Per Share",
+          "symbol": "DATAPATTNS"
+        }
+      ]
+    }
+  ]
+}

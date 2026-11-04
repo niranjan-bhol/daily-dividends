@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "ARE&M",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "13-Nov-2025",
+      "CH_PREVIOUS_CLS_PRICE": 964.1,
+      "CH_OPENING_PRICE": 965,
+      "CH_TRADE_HIGH_PRICE": 974,
+      "CH_TRADE_LOW_PRICE": 962.7,
+      "CH_LAST_TRADED_PRICE": 967,
+      "CH_CLOSING_PRICE": 966.9,
+      "VWAP": 967.26,
+      "CH_TOT_TRADED_QTY": 303294,
+      "CH_TOT_TRADED_VAL": 293363233,
+      "CH_TOTAL_TRADES": 17757,
+      "CH_TIMESTAMP": "2025-11-12T18:30:00.000Z",
+      "COP_DELIV_QTY": 173729,
+      "COP_DELIV_PERC": 57.28,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Amara Raja Energy & Mobility Limited",
+          "exDate": "13-Nov-2025",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE885A01032",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "13-Nov-2025",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 5.40 Per Share",
+          "symbol": "ARE&M"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "ARE&M",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "27-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 872.9,
+      "CH_OPENING_PRICE": 875.95,
+      "CH_TRADE_HIGH_PRICE": 882,
+      "CH_TRADE_LOW_PRICE": 870.45,
+      "CH_LAST_TRADED_PRICE": 875,
+      "CH_CLOSING_PRICE": 874,
+      "VWAP": 875.81,
+      "CH_TOT_TRADED_QTY": 273424,
+      "CH_TOT_TRADED_VAL": 239468209.35,
+      "CH_TOTAL_TRADES": 15652,
+      "CH_TIMESTAMP": "2026-07-26T18:30:00.000Z",
+      "COP_DELIV_QTY": 139218,
+      "COP_DELIV_PERC": 50.92,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Amara Raja Energy & Mobility Limited",
+          "exDate": "27-Jul-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE885A01032",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "27-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 5.20 Per Share",
+          "symbol": "ARE&M"
+        }
+      ]
+    }
+  ]
+}

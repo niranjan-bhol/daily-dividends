@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "GAIL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "05-Feb-2026",
+      "CH_PREVIOUS_CLS_PRICE": 165.41,
+      "CH_OPENING_PRICE": 161.52,
+      "CH_TRADE_HIGH_PRICE": 161.6,
+      "CH_TRADE_LOW_PRICE": 159.41,
+      "CH_LAST_TRADED_PRICE": 160.1,
+      "CH_CLOSING_PRICE": 160.18,
+      "VWAP": 160.25,
+      "CH_TOT_TRADED_QTY": 13323350,
+      "CH_TOT_TRADED_VAL": 2135006034.85,
+      "CH_TOTAL_TRADES": 82475,
+      "CH_TIMESTAMP": "2026-02-04T18:30:00.000Z",
+      "COP_DELIV_QTY": 7936112,
+      "COP_DELIV_PERC": 59.57,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "GAIL (India) Limited",
+          "exDate": "05-Feb-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE129A01019",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "05-Feb-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 5 Per Share",
+          "symbol": "GAIL"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "GAIL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "02-Sep-2026",
+      "CH_PREVIOUS_CLS_PRICE": 172.69,
+      "CH_OPENING_PRICE": 172.6,
+      "CH_TRADE_HIGH_PRICE": 173.6,
+      "CH_TRADE_LOW_PRICE": 171.02,
+      "CH_LAST_TRADED_PRICE": 173,
+      "CH_CLOSING_PRICE": 173,
+      "VWAP": 172.21,
+      "CH_TOT_TRADED_QTY": 5580510,
+      "CH_TOT_TRADED_VAL": 961037860.08,
+      "CH_TOTAL_TRADES": 59418,
+      "CH_TIMESTAMP": "2026-09-01T18:30:00.000Z",
+      "COP_DELIV_QTY": 3172768,
+      "COP_DELIV_PERC": 56.85,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "GAIL (India) Limited",
+          "exDate": "02-Sep-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE129A01019",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "02-Sep-2026",
+          "series": "EQ",
+          "subject": "Dividend - Re 0.50 Per Share",
+          "symbol": "GAIL"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "RRKABEL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "07-Nov-2025",
+      "CH_PREVIOUS_CLS_PRICE": 1398.4,
+      "CH_OPENING_PRICE": 1379.9,
+      "CH_TRADE_HIGH_PRICE": 1390.1,
+      "CH_TRADE_LOW_PRICE": 1353.1,
+      "CH_LAST_TRADED_PRICE": 1380,
+      "CH_CLOSING_PRICE": 1376.9,
+      "VWAP": 1368.75,
+      "CH_TOT_TRADED_QTY": 187310,
+      "CH_TOT_TRADED_VAL": 256381199.8,
+      "CH_TOTAL_TRADES": 13879,
+      "CH_TIMESTAMP": "2025-11-06T18:30:00.000Z",
+      "COP_DELIV_QTY": 65035,
+      "COP_DELIV_PERC": 34.72,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "R R Kabel Limited",
+          "exDate": "07-Nov-2025",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE777K01022",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "07-Nov-2025",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 4 Per Share",
+          "symbol": "RRKABEL"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "RRKABEL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "16-Jun-2026",
+      "CH_PREVIOUS_CLS_PRICE": 2187.4,
+      "CH_OPENING_PRICE": 2210,
+      "CH_TRADE_HIGH_PRICE": 2277.7,
+      "CH_TRADE_LOW_PRICE": 2178,
+      "CH_LAST_TRADED_PRICE": 2208,
+      "CH_CLOSING_PRICE": 2201.1,
+      "VWAP": 2237.54,
+      "CH_TOT_TRADED_QTY": 1037972,
+      "CH_TOT_TRADED_VAL": 2322501910.1,
+      "CH_TOTAL_TRADES": 70352,
+      "CH_TIMESTAMP": "2026-06-15T18:30:00.000Z",
+      "COP_DELIV_QTY": 284219,
+      "COP_DELIV_PERC": 27.38,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "R R Kabel Limited",
+          "exDate": "16-Jun-2026",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE777K01022",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "16-Jun-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 5.50 Per Share",
+          "symbol": "RRKABEL"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "RRKABEL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "03-Nov-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1955.4,
+      "CH_OPENING_PRICE": 1970,
+      "CH_TRADE_HIGH_PRICE": 2020.1,
+      "CH_TRADE_LOW_PRICE": 1916,
+      "CH_LAST_TRADED_PRICE": 2000,
+      "CH_CLOSING_PRICE": 2000.5,
+      "VWAP": 1977.63,
+      "CH_TOT_TRADED_QTY": 696647,
+      "CH_TOT_TRADED_VAL": 1377712527,
+      "CH_TOTAL_TRADES": 62060,
+      "CH_TIMESTAMP": "2026-11-02T18:30:00.000Z",
+      "COP_DELIV_QTY": 287074,
+      "COP_DELIV_PERC": 41.21,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "R R Kabel Limited",
+          "exDate": "03-Nov-2026",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE777K01022",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "03-Nov-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 6.50 Per Share",
+          "symbol": "RRKABEL"
+        }
+      ]
+    }
+  ]
+}

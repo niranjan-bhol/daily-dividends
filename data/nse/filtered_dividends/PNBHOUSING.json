@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "PNBHOUSING",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "31-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1033.1,
+      "CH_OPENING_PRICE": 1033,
+      "CH_TRADE_HIGH_PRICE": 1059.4,
+      "CH_TRADE_LOW_PRICE": 1028.1,
+      "CH_LAST_TRADED_PRICE": 1045.5,
+      "CH_CLOSING_PRICE": 1053.1,
+      "VWAP": 1047.31,
+      "CH_TOT_TRADED_QTY": 1118030,
+      "CH_TOT_TRADED_VAL": 1170925650.9,
+      "CH_TOTAL_TRADES": 41504,
+      "CH_TIMESTAMP": "2026-07-30T18:30:00.000Z",
+      "COP_DELIV_QTY": 490504,
+      "COP_DELIV_PERC": 43.87,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "PNB Housing Finance Limited",
+          "exDate": "31-Jul-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE572E01012",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "31-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 8 Per Share",
+          "symbol": "PNBHOUSING"
+        }
+      ]
+    }
+  ]
+}

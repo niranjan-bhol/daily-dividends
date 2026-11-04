@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "BDL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "09-Feb-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1268.4,
+      "CH_OPENING_PRICE": 1277,
+      "CH_TRADE_HIGH_PRICE": 1306.8,
+      "CH_TRADE_LOW_PRICE": 1261.6,
+      "CH_LAST_TRADED_PRICE": 1304,
+      "CH_CLOSING_PRICE": 1303.2,
+      "VWAP": 1290.18,
+      "CH_TOT_TRADED_QTY": 1599071,
+      "CH_TOT_TRADED_VAL": 2063093759.3,
+      "CH_TOTAL_TRADES": 48551,
+      "CH_TIMESTAMP": "2026-02-08T18:30:00.000Z",
+      "COP_DELIV_QTY": 439951,
+      "COP_DELIV_PERC": 27.51,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Bharat Dynamics Limited",
+          "exDate": "09-Feb-2026",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE171Z01018",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "09-Feb-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 4.50 Per Share",
+          "symbol": "BDL"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "BDL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "21-Sep-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1196.6,
+      "CH_OPENING_PRICE": 1180,
+      "CH_TRADE_HIGH_PRICE": 1182.9,
+      "CH_TRADE_LOW_PRICE": 1164.3,
+      "CH_LAST_TRADED_PRICE": 1175,
+      "CH_CLOSING_PRICE": 1175,
+      "VWAP": 1173.43,
+      "CH_TOT_TRADED_QTY": 841005,
+      "CH_TOT_TRADED_VAL": 986859090.3,
+      "CH_TOTAL_TRADES": 33027,
+      "CH_TIMESTAMP": "2026-09-20T18:30:00.000Z",
+      "COP_DELIV_QTY": 318022,
+      "COP_DELIV_PERC": 37.81,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Bharat Dynamics Limited",
+          "exDate": "21-Sep-2026",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE171Z01018",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "21-Sep-2026",
+          "series": "EQ",
+          "subject": "Dividend - Re 0.40 Per Share",
+          "symbol": "BDL"
+        }
+      ]
+    }
+  ]
+}

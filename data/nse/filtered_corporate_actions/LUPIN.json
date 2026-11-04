@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "LUPIN",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "17-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 2500.5,
+      "CH_OPENING_PRICE": 2480.7,
+      "CH_TRADE_HIGH_PRICE": 2489.6,
+      "CH_TRADE_LOW_PRICE": 2428,
+      "CH_LAST_TRADED_PRICE": 2443,
+      "CH_CLOSING_PRICE": 2443.2,
+      "VWAP": 2444.93,
+      "CH_TOT_TRADED_QTY": 678414,
+      "CH_TOT_TRADED_VAL": 1658675258.1,
+      "CH_TOTAL_TRADES": 33919,
+      "CH_TIMESTAMP": "2026-07-16T18:30:00.000Z",
+      "COP_DELIV_QTY": 420669,
+      "COP_DELIV_PERC": 62.01,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Lupin Limited",
+          "exDate": "17-Jul-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE326A01029",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "17-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 18 Per Share",
+          "symbol": "LUPIN"
+        }
+      ]
+    }
+  ]
+}

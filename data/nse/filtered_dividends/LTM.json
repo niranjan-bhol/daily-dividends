@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "LTM",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "25-May-2026",
+      "CH_PREVIOUS_CLS_PRICE": 4007.8,
+      "CH_OPENING_PRICE": 4000,
+      "CH_TRADE_HIGH_PRICE": 4008.9,
+      "CH_TRADE_LOW_PRICE": 3901,
+      "CH_LAST_TRADED_PRICE": 4002.9,
+      "CH_CLOSING_PRICE": 3991.6,
+      "VWAP": 3959.02,
+      "CH_TOT_TRADED_QTY": 541005,
+      "CH_TOT_TRADED_VAL": 2141849058.2,
+      "CH_TOTAL_TRADES": 38992,
+      "CH_TIMESTAMP": "2026-05-24T18:30:00.000Z",
+      "COP_DELIV_QTY": 164031,
+      "COP_DELIV_PERC": 30.32,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "LTM Limited",
+          "exDate": "25-May-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE214T01019",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "25-May-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 53 Per Share",
+          "symbol": "LTM"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "LTM",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "23-Oct-2026",
+      "CH_PREVIOUS_CLS_PRICE": 4274,
+      "CH_OPENING_PRICE": 4318.3,
+      "CH_TRADE_HIGH_PRICE": 4382.9,
+      "CH_TRADE_LOW_PRICE": 4100,
+      "CH_LAST_TRADED_PRICE": 4134,
+      "CH_CLOSING_PRICE": 4134,
+      "VWAP": 4222.41,
+      "CH_TOT_TRADED_QTY": 572717,
+      "CH_TOT_TRADED_VAL": 2418247143.7,
+      "CH_TOTAL_TRADES": 54259,
+      "CH_TIMESTAMP": "2026-10-22T18:30:00.000Z",
+      "COP_DELIV_QTY": 132959,
+      "COP_DELIV_PERC": 23.22,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "LTM Limited",
+          "exDate": "23-Oct-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE214T01019",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "23-Oct-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 25 Per Share",
+          "symbol": "LTM"
+        }
+      ]
+    }
+  ]
+}

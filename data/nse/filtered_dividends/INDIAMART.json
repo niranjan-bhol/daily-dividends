@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "INDIAMART",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "19-Jun-2026",
+      "CH_PREVIOUS_CLS_PRICE": 2137.7,
+      "CH_OPENING_PRICE": 2080.9,
+      "CH_TRADE_HIGH_PRICE": 2115.1,
+      "CH_TRADE_LOW_PRICE": 2060.1,
+      "CH_LAST_TRADED_PRICE": 2090,
+      "CH_CLOSING_PRICE": 2089.4,
+      "VWAP": 2094.04,
+      "CH_TOT_TRADED_QTY": 143738,
+      "CH_TOT_TRADED_VAL": 300993034.3,
+      "CH_TOTAL_TRADES": 16238,
+      "CH_TIMESTAMP": "2026-06-18T18:30:00.000Z",
+      "COP_DELIV_QTY": 91562,
+      "COP_DELIV_PERC": 63.7,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Indiamart Intermesh Limited",
+          "exDate": "19-Jun-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE933S01016",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "19-Jun-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 30 Per Share/ Special Dividend - Rs 30 Per Share",
+          "symbol": "INDIAMART"
+        }
+      ]
+    }
+  ]
+}

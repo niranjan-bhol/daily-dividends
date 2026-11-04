@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "BRITANNIA",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "31-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 5524.5,
+      "CH_OPENING_PRICE": 5445,
+      "CH_TRADE_HIGH_PRICE": 5460,
+      "CH_TRADE_LOW_PRICE": 5364,
+      "CH_LAST_TRADED_PRICE": 5405,
+      "CH_CLOSING_PRICE": 5416.5,
+      "VWAP": 5404.26,
+      "CH_TOT_TRADED_QTY": 428290,
+      "CH_TOT_TRADED_VAL": 2314591904,
+      "CH_TOTAL_TRADES": 35139,
+      "CH_TIMESTAMP": "2026-07-30T18:30:00.000Z",
+      "COP_DELIV_QTY": 251042,
+      "COP_DELIV_PERC": 58.61,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Britannia Industries Limited",
+          "exDate": "31-Jul-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE216A01014",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "31-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 90.50 Per Share",
+          "symbol": "BRITANNIA"
+        }
+      ]
+    }
+  ]
+}

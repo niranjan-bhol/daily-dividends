@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "MAXHEALTH",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "03-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1127.4,
+      "CH_OPENING_PRICE": 1145,
+      "CH_TRADE_HIGH_PRICE": 1160,
+      "CH_TRADE_LOW_PRICE": 1129.7,
+      "CH_LAST_TRADED_PRICE": 1150.1,
+      "CH_CLOSING_PRICE": 1153.4,
+      "VWAP": 1148.31,
+      "CH_TOT_TRADED_QTY": 1456459,
+      "CH_TOT_TRADED_VAL": 1672469695.8,
+      "CH_TOTAL_TRADES": 51846,
+      "CH_TIMESTAMP": "2026-07-02T18:30:00.000Z",
+      "COP_DELIV_QTY": 651845,
+      "COP_DELIV_PERC": 44.76,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Max Healthcare Institute Limited",
+          "exDate": "03-Jul-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE027H01010",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "03-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 2 Per Share",
+          "symbol": "MAXHEALTH"
+        }
+      ]
+    }
+  ]
+}

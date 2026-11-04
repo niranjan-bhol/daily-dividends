@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "BSE",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "10-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 3805.7,
+      "CH_OPENING_PRICE": 3815,
+      "CH_TRADE_HIGH_PRICE": 3849,
+      "CH_TRADE_LOW_PRICE": 3760.1,
+      "CH_LAST_TRADED_PRICE": 3812,
+      "CH_CLOSING_PRICE": 3811.6,
+      "VWAP": 3799.6,
+      "CH_TOT_TRADED_QTY": 2355651,
+      "CH_TOT_TRADED_VAL": 8950539033.5,
+      "CH_TOTAL_TRADES": 112249,
+      "CH_TIMESTAMP": "2026-07-09T18:30:00.000Z",
+      "COP_DELIV_QTY": 792378,
+      "COP_DELIV_PERC": 33.64,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "BSE Limited",
+          "exDate": "10-Jul-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE118H01025",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "10-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 10 Per Share",
+          "symbol": "BSE"
+        }
+      ]
+    }
+  ]
+}

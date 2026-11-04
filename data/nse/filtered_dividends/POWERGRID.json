@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "POWERGRID",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "10-Nov-2025",
+      "CH_PREVIOUS_CLS_PRICE": 272,
+      "CH_OPENING_PRICE": 268.6,
+      "CH_TRADE_HIGH_PRICE": 270.55,
+      "CH_TRADE_LOW_PRICE": 266.55,
+      "CH_LAST_TRADED_PRICE": 268.35,
+      "CH_CLOSING_PRICE": 268.2,
+      "VWAP": 268.98,
+      "CH_TOT_TRADED_QTY": 10717941,
+      "CH_TOT_TRADED_VAL": 2882873871.4,
+      "CH_TOTAL_TRADES": 95966,
+      "CH_TIMESTAMP": "2025-11-09T18:30:00.000Z",
+      "COP_DELIV_QTY": 7010409,
+      "COP_DELIV_PERC": 65.41,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Power Grid Corporation of India Limited",
+          "exDate": "10-Nov-2025",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE752E01010",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "10-Nov-2025",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 4.50 Per Share",
+          "symbol": "POWERGRID"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "POWERGRID",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "09-Feb-2026",
+      "CH_PREVIOUS_CLS_PRICE": 292.75,
+      "CH_OPENING_PRICE": 292.5,
+      "CH_TRADE_HIGH_PRICE": 292.55,
+      "CH_TRADE_LOW_PRICE": 288,
+      "CH_LAST_TRADED_PRICE": 289.35,
+      "CH_CLOSING_PRICE": 289.75,
+      "VWAP": 289.63,
+      "CH_TOT_TRADED_QTY": 13114576,
+      "CH_TOT_TRADED_VAL": 3798362933.95,
+      "CH_TOTAL_TRADES": 75558,
+      "CH_TIMESTAMP": "2026-02-08T18:30:00.000Z",
+      "COP_DELIV_QTY": 9177391,
+      "COP_DELIV_PERC": 69.98,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Power Grid Corporation of India Limited",
+          "exDate": "09-Feb-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE752E01010",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "09-Feb-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 3.25 Per Share",
+          "symbol": "POWERGRID"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "POWERGRID",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "13-Aug-2026",
+      "CH_PREVIOUS_CLS_PRICE": 269.45,
+      "CH_OPENING_PRICE": 269,
+      "CH_TRADE_HIGH_PRICE": 269,
+      "CH_TRADE_LOW_PRICE": 266.05,
+      "CH_LAST_TRADED_PRICE": 266.6,
+      "CH_CLOSING_PRICE": 266.6,
+      "VWAP": 267.19,
+      "CH_TOT_TRADED_QTY": 9715149,
+      "CH_TOT_TRADED_VAL": 2595758440.55,
+      "CH_TOTAL_TRADES": 113947,
+      "CH_TIMESTAMP": "2026-08-12T18:30:00.000Z",
+      "COP_DELIV_QTY": 6079117,
+      "COP_DELIV_PERC": 62.57,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Power Grid Corporation of India Limited",
+          "exDate": "13-Aug-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE752E01010",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "13-Aug-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 1.25 Per Share",
+          "symbol": "POWERGRID"
+        }
+      ]
+    }
+  ]
+}

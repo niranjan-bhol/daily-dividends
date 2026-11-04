@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "SUNTV",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "20-Nov-2025",
+      "CH_PREVIOUS_CLS_PRICE": 559.95,
+      "CH_OPENING_PRICE": 556,
+      "CH_TRADE_HIGH_PRICE": 558.45,
+      "CH_TRADE_LOW_PRICE": 534.65,
+      "CH_LAST_TRADED_PRICE": 535,
+      "CH_CLOSING_PRICE": 537.1,
+      "VWAP": 541.88,
+      "CH_TOT_TRADED_QTY": 559273,
+      "CH_TOT_TRADED_VAL": 303056079.35,
+      "CH_TOTAL_TRADES": 24916,
+      "CH_TIMESTAMP": "2025-11-19T18:30:00.000Z",
+      "COP_DELIV_QTY": 296244,
+      "COP_DELIV_PERC": 52.97,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Sun TV Network Limited",
+          "exDate": "20-Nov-2025",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE424H01027",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "20-Nov-2025",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 3.75 Per Share",
+          "symbol": "SUNTV"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "SUNTV",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "12-Feb-2026",
+      "CH_PREVIOUS_CLS_PRICE": 613.15,
+      "CH_OPENING_PRICE": 608.4,
+      "CH_TRADE_HIGH_PRICE": 620.6,
+      "CH_TRADE_LOW_PRICE": 598.85,
+      "CH_LAST_TRADED_PRICE": 601,
+      "CH_CLOSING_PRICE": 601.9,
+      "VWAP": 606.62,
+      "CH_TOT_TRADED_QTY": 199280,
+      "CH_TOT_TRADED_VAL": 120887471,
+      "CH_TOTAL_TRADES": 12339,
+      "CH_TIMESTAMP": "2026-02-11T18:30:00.000Z",
+      "COP_DELIV_QTY": 61037,
+      "COP_DELIV_PERC": 30.63,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Sun TV Network Limited",
+          "exDate": "12-Feb-2026",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE424H01027",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "12-Feb-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 2.50 Per Share",
+          "symbol": "SUNTV"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "SUNTV",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "12-Mar-2026",
+      "CH_PREVIOUS_CLS_PRICE": 578,
+      "CH_OPENING_PRICE": 572,
+      "CH_TRADE_HIGH_PRICE": 597.8,
+      "CH_TRADE_LOW_PRICE": 565.6,
+      "CH_LAST_TRADED_PRICE": 587.9,
+      "CH_CLOSING_PRICE": 593.3,
+      "VWAP": 590.11,
+      "CH_TOT_TRADED_QTY": 220104,
+      "CH_TOT_TRADED_VAL": 129885088.3,
+      "CH_TOTAL_TRADES": 13507,
+      "CH_TIMESTAMP": "2026-03-11T18:30:00.000Z",
+      "COP_DELIV_QTY": 74418,
+      "COP_DELIV_PERC": 33.81,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Sun TV Network Limited",
+          "exDate": "12-Mar-2026",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE424H01027",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "12-Mar-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 1.25 Per Share",
+          "symbol": "SUNTV"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "SUNTV",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "18-Aug-2026",
+      "CH_PREVIOUS_CLS_PRICE": 488.25,
+      "CH_OPENING_PRICE": 485,
+      "CH_TRADE_HIGH_PRICE": 486.95,
+      "CH_TRADE_LOW_PRICE": 482.15,
+      "CH_LAST_TRADED_PRICE": 482.7,
+      "CH_CLOSING_PRICE": 482.8,
+      "VWAP": 483.62,
+      "CH_TOT_TRADED_QTY": 162286,
+      "CH_TOT_TRADED_VAL": 78484529.15,
+      "CH_TOTAL_TRADES": 6430,
+      "CH_TIMESTAMP": "2026-08-17T18:30:00.000Z",
+      "COP_DELIV_QTY": 95813,
+      "COP_DELIV_PERC": 59.04,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Sun TV Network Limited",
+          "exDate": "18-Aug-2026",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE424H01027",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "18-Aug-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 5 Per Share",
+          "symbol": "SUNTV"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "TRIDENT",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "22-May-2026",
+      "CH_PREVIOUS_CLS_PRICE": 24.61,
+      "CH_OPENING_PRICE": 24.49,
+      "CH_TRADE_HIGH_PRICE": 24.6,
+      "CH_TRADE_LOW_PRICE": 24.11,
+      "CH_LAST_TRADED_PRICE": 24.35,
+      "CH_CLOSING_PRICE": 24.4,
+      "VWAP": 24.35,
+      "CH_TOT_TRADED_QTY": 5667894,
+      "CH_TOT_TRADED_VAL": 137994933.08,
+      "CH_TOTAL_TRADES": 13063,
+      "CH_TIMESTAMP": "2026-05-21T18:30:00.000Z",
+      "COP_DELIV_QTY": 2363601,
+      "COP_DELIV_PERC": 41.7,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Trident Limited",
+          "exDate": "22-May-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE064C01014",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "23-May-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs  0.50 Per Share",
+          "symbol": "TRIDENT"
+        }
+      ]
+    }
+  ]
+}

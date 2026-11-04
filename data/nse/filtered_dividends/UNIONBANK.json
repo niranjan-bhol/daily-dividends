@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "UNIONBANK",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "03-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 174.35,
+      "CH_OPENING_PRICE": 168.79,
+      "CH_TRADE_HIGH_PRICE": 168.79,
+      "CH_TRADE_LOW_PRICE": 161.6,
+      "CH_LAST_TRADED_PRICE": 163.09,
+      "CH_CLOSING_PRICE": 163.09,
+      "VWAP": 163.16,
+      "CH_TOT_TRADED_QTY": 33777663,
+      "CH_TOT_TRADED_VAL": 5511016039.08,
+      "CH_TOTAL_TRADES": 115017,
+      "CH_TIMESTAMP": "2026-07-02T18:30:00.000Z",
+      "COP_DELIV_QTY": 12679589,
+      "COP_DELIV_PERC": 37.54,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Union Bank of India",
+          "exDate": "03-Jul-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE692A01016",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "03-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 5 Per Share",
+          "symbol": "UNIONBANK"
+        }
+      ]
+    }
+  ]
+}

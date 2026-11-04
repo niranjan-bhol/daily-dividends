@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "RUBICON",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "07-Aug-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1533.4,
+      "CH_OPENING_PRICE": 1533.4,
+      "CH_TRADE_HIGH_PRICE": 1574,
+      "CH_TRADE_LOW_PRICE": 1530.1,
+      "CH_LAST_TRADED_PRICE": 1558.7,
+      "CH_CLOSING_PRICE": 1553.2,
+      "VWAP": 1558.48,
+      "CH_TOT_TRADED_QTY": 98121,
+      "CH_TOT_TRADED_VAL": 152919377.3,
+      "CH_TOTAL_TRADES": 10008,
+      "CH_TIMESTAMP": "2026-08-06T18:30:00.000Z",
+      "COP_DELIV_QTY": 28511,
+      "COP_DELIV_PERC": 29.06,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Rubicon Research Limited",
+          "exDate": "07-Aug-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE506V01022",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "07-Aug-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 1.50 Per Share",
+          "symbol": "RUBICON"
+        }
+      ]
+    }
+  ]
+}

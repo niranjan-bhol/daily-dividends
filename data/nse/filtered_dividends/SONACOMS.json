@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "SONACOMS",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "30-Jan-2026",
+      "CH_PREVIOUS_CLS_PRICE": 494.05,
+      "CH_OPENING_PRICE": 490,
+      "CH_TRADE_HIGH_PRICE": 497.4,
+      "CH_TRADE_LOW_PRICE": 488.75,
+      "CH_LAST_TRADED_PRICE": 493,
+      "CH_CLOSING_PRICE": 495.75,
+      "VWAP": 493.49,
+      "CH_TOT_TRADED_QTY": 1859620,
+      "CH_TOT_TRADED_VAL": 917701935.95,
+      "CH_TOTAL_TRADES": 36185,
+      "CH_TIMESTAMP": "2026-01-29T18:30:00.000Z",
+      "COP_DELIV_QTY": 1033648,
+      "COP_DELIV_PERC": 55.58,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Sona BLW Precision Forgings Limited",
+          "exDate": "30-Jan-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE073K01018",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "30-Jan-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 1.60 Per Share",
+          "symbol": "SONACOMS"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "SONACOMS",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "25-Jun-2026",
+      "CH_PREVIOUS_CLS_PRICE": 621.1,
+      "CH_OPENING_PRICE": 624,
+      "CH_TRADE_HIGH_PRICE": 632.2,
+      "CH_TRADE_LOW_PRICE": 617.25,
+      "CH_LAST_TRADED_PRICE": 619.4,
+      "CH_CLOSING_PRICE": 619.25,
+      "VWAP": 627,
+      "CH_TOT_TRADED_QTY": 3276539,
+      "CH_TOT_TRADED_VAL": 2054376817.4,
+      "CH_TOTAL_TRADES": 48180,
+      "CH_TIMESTAMP": "2026-06-24T18:30:00.000Z",
+      "COP_DELIV_QTY": 1794627,
+      "COP_DELIV_PERC": 54.77,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Sona BLW Precision Forgings Limited",
+          "exDate": "25-Jun-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE073K01018",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "26-Jun-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 1.80 Per Share",
+          "symbol": "SONACOMS"
+        }
+      ]
+    }
+  ]
+}

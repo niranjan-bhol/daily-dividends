@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "ONGC",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "14-Nov-2025",
+      "CH_PREVIOUS_CLS_PRICE": 250.85,
+      "CH_OPENING_PRICE": 245.5,
+      "CH_TRADE_HIGH_PRICE": 249.65,
+      "CH_TRADE_LOW_PRICE": 245.1,
+      "CH_LAST_TRADED_PRICE": 247.5,
+      "CH_CLOSING_PRICE": 247.6,
+      "VWAP": 247.64,
+      "CH_TOT_TRADED_QTY": 9185042,
+      "CH_TOT_TRADED_VAL": 2274590691.6,
+      "CH_TOTAL_TRADES": 80309,
+      "CH_TIMESTAMP": "2025-11-13T18:30:00.000Z",
+      "COP_DELIV_QTY": 4965792,
+      "COP_DELIV_PERC": 54.06,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Oil & Natural Gas Corporation Limited",
+          "exDate": "14-Nov-2025",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE213A01011",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "14-Nov-2025",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 6 Per Share",
+          "symbol": "ONGC"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "ONGC",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "18-Feb-2026",
+      "CH_PREVIOUS_CLS_PRICE": 271.85,
+      "CH_OPENING_PRICE": 265,
+      "CH_TRADE_HIGH_PRICE": 266.1,
+      "CH_TRADE_LOW_PRICE": 262.55,
+      "CH_LAST_TRADED_PRICE": 264.7,
+      "CH_CLOSING_PRICE": 264.6,
+      "VWAP": 264.12,
+      "CH_TOT_TRADED_QTY": 11621040,
+      "CH_TOT_TRADED_VAL": 3069337980.8,
+      "CH_TOTAL_TRADES": 208148,
+      "CH_TIMESTAMP": "2026-02-17T18:30:00.000Z",
+      "COP_DELIV_QTY": 6100437,
+      "COP_DELIV_PERC": 52.49,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Oil & Natural Gas Corporation Limited",
+          "exDate": "18-Feb-2026",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE213A01011",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "18-Feb-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 6.25 Per Share",
+          "symbol": "ONGC"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "ONGC",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "04-Sep-2026",
+      "CH_PREVIOUS_CLS_PRICE": 236,
+      "CH_OPENING_PRICE": 235.44,
+      "CH_TRADE_HIGH_PRICE": 235.44,
+      "CH_TRADE_LOW_PRICE": 233.6,
+      "CH_LAST_TRADED_PRICE": 234.65,
+      "CH_CLOSING_PRICE": 234.65,
+      "VWAP": 234.58,
+      "CH_TOT_TRADED_QTY": 5338085,
+      "CH_TOT_TRADED_VAL": 1252209953.16,
+      "CH_TOTAL_TRADES": 49732,
+      "CH_TIMESTAMP": "2026-09-03T18:30:00.000Z",
+      "COP_DELIV_QTY": 3164036,
+      "COP_DELIV_PERC": 59.27,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Oil & Natural Gas Corporation Limited",
+          "exDate": "04-Sep-2026",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE213A01011",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "04-Sep-2026",
+          "series": "EQ",
+          "subject": "Dividend - Re 1 Per Share",
+          "symbol": "ONGC"
+        }
+      ]
+    }
+  ]
+}

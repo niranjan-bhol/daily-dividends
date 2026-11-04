@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "MSUMI",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "14-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 40.54,
+      "CH_OPENING_PRICE": 40.2,
+      "CH_TRADE_HIGH_PRICE": 40.2,
+      "CH_TRADE_LOW_PRICE": 38.75,
+      "CH_LAST_TRADED_PRICE": 39.65,
+      "CH_CLOSING_PRICE": 39.61,
+      "VWAP": 39.34,
+      "CH_TOT_TRADED_QTY": 17017512,
+      "CH_TOT_TRADED_VAL": 669458783.37,
+      "CH_TOTAL_TRADES": 45444,
+      "CH_TIMESTAMP": "2026-07-13T18:30:00.000Z",
+      "COP_DELIV_QTY": 8712292,
+      "COP_DELIV_PERC": 51.2,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Motherson Sumi Wiring India Limited",
+          "exDate": "14-Jul-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE0FS801015",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "14-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Re 0.58 Per Share",
+          "symbol": "MSUMI"
+        }
+      ]
+    }
+  ]
+}

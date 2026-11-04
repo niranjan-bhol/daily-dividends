@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "OIL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "21-Nov-2025",
+      "CH_PREVIOUS_CLS_PRICE": 436.2,
+      "CH_OPENING_PRICE": 431.9,
+      "CH_TRADE_HIGH_PRICE": 432.9,
+      "CH_TRADE_LOW_PRICE": 423.5,
+      "CH_LAST_TRADED_PRICE": 425.9,
+      "CH_CLOSING_PRICE": 425.05,
+      "VWAP": 426.7,
+      "CH_TOT_TRADED_QTY": 3508596,
+      "CH_TOT_TRADED_VAL": 1497113481.4,
+      "CH_TOTAL_TRADES": 35145,
+      "CH_TIMESTAMP": "2025-11-20T18:30:00.000Z",
+      "COP_DELIV_QTY": 1500198,
+      "COP_DELIV_PERC": 42.76,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Oil India Limited",
+          "exDate": "21-Nov-2025",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE274J01014",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "21-Nov-2025",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 3.50 Per Share",
+          "symbol": "OIL"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "OIL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "18-Feb-2026",
+      "CH_PREVIOUS_CLS_PRICE": 464.7,
+      "CH_OPENING_PRICE": 458,
+      "CH_TRADE_HIGH_PRICE": 458,
+      "CH_TRADE_LOW_PRICE": 446,
+      "CH_LAST_TRADED_PRICE": 453.55,
+      "CH_CLOSING_PRICE": 453.45,
+      "VWAP": 450.26,
+      "CH_TOT_TRADED_QTY": 4052059,
+      "CH_TOT_TRADED_VAL": 1824496152.85,
+      "CH_TOTAL_TRADES": 56777,
+      "CH_TIMESTAMP": "2026-02-17T18:30:00.000Z",
+      "COP_DELIV_QTY": 1516021,
+      "COP_DELIV_PERC": 37.41,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Oil India Limited",
+          "exDate": "18-Feb-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE274J01014",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "18-Feb-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 7 Per Share",
+          "symbol": "OIL"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "OIL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "04-Sep-2026",
+      "CH_PREVIOUS_CLS_PRICE": 490,
+      "CH_OPENING_PRICE": 492,
+      "CH_TRADE_HIGH_PRICE": 492.55,
+      "CH_TRADE_LOW_PRICE": 486.5,
+      "CH_LAST_TRADED_PRICE": 488.3,
+      "CH_CLOSING_PRICE": 488.3,
+      "VWAP": 489.26,
+      "CH_TOT_TRADED_QTY": 1259478,
+      "CH_TOT_TRADED_VAL": 616213591.55,
+      "CH_TOTAL_TRADES": 18062,
+      "CH_TIMESTAMP": "2026-09-03T18:30:00.000Z",
+      "COP_DELIV_QTY": 732490,
+      "COP_DELIV_PERC": 58.16,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Oil India Limited",
+          "exDate": "04-Sep-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE274J01014",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "04-Sep-2026",
+          "series": "EQ",
+          "subject": "Dividend - Re 1 Per Share",
+          "symbol": "OIL"
+        }
+      ]
+    }
+  ]
+}

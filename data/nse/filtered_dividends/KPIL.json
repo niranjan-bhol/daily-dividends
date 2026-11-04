@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "KPIL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "29-Jun-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1384.2,
+      "CH_OPENING_PRICE": 1376.9,
+      "CH_TRADE_HIGH_PRICE": 1404.7,
+      "CH_TRADE_LOW_PRICE": 1338.2,
+      "CH_LAST_TRADED_PRICE": 1350,
+      "CH_CLOSING_PRICE": 1346.1,
+      "VWAP": 1357.59,
+      "CH_TOT_TRADED_QTY": 430829,
+      "CH_TOT_TRADED_VAL": 584887215.3,
+      "CH_TOTAL_TRADES": 34169,
+      "CH_TIMESTAMP": "2026-06-28T18:30:00.000Z",
+      "COP_DELIV_QTY": 254185,
+      "COP_DELIV_PERC": 59,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Kalpataru Projects International Limited",
+          "exDate": "29-Jun-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE220B01022",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "29-Jun-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 11 Per Share",
+          "symbol": "KPIL"
+        }
+      ]
+    }
+  ]
+}

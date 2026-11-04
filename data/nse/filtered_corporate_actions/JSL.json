@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "JSL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "29-Jan-2026",
+      "CH_PREVIOUS_CLS_PRICE": 809,
+      "CH_OPENING_PRICE": 813.95,
+      "CH_TRADE_HIGH_PRICE": 835.95,
+      "CH_TRADE_LOW_PRICE": 804.95,
+      "CH_LAST_TRADED_PRICE": 809.95,
+      "CH_CLOSING_PRICE": 810.1,
+      "VWAP": 813.87,
+      "CH_TOT_TRADED_QTY": 597453,
+      "CH_TOT_TRADED_VAL": 486247589.9,
+      "CH_TOTAL_TRADES": 39530,
+      "CH_TIMESTAMP": "2026-01-28T18:30:00.000Z",
+      "COP_DELIV_QTY": 300831,
+      "COP_DELIV_PERC": 50.35,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Jindal Stainless Limited",
+          "exDate": "29-Jan-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE220G01021",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "29-Jan-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Re 1 Per Share",
+          "symbol": "JSL"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "JSL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "21-Aug-2026",
+      "CH_PREVIOUS_CLS_PRICE": 718.4,
+      "CH_OPENING_PRICE": 718.4,
+      "CH_TRADE_HIGH_PRICE": 720,
+      "CH_TRADE_LOW_PRICE": 700,
+      "CH_LAST_TRADED_PRICE": 701,
+      "CH_CLOSING_PRICE": 701.35,
+      "VWAP": 707.23,
+      "CH_TOT_TRADED_QTY": 338384,
+      "CH_TOT_TRADED_VAL": 239316436.05,
+      "CH_TOTAL_TRADES": 22215,
+      "CH_TIMESTAMP": "2026-08-20T18:30:00.000Z",
+      "COP_DELIV_QTY": 209567,
+      "COP_DELIV_PERC": 61.93,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Jindal Stainless Limited",
+          "exDate": "21-Aug-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE220G01021",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "21-Aug-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 3 Per Share",
+          "symbol": "JSL"
+        }
+      ]
+    }
+  ]
+}

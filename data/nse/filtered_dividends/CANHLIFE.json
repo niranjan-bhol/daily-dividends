@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "CANHLIFE",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "14-Aug-2026",
+      "CH_PREVIOUS_CLS_PRICE": 150.23,
+      "CH_OPENING_PRICE": 150.31,
+      "CH_TRADE_HIGH_PRICE": 150.47,
+      "CH_TRADE_LOW_PRICE": 148.23,
+      "CH_LAST_TRADED_PRICE": 149.2,
+      "CH_CLOSING_PRICE": 148.71,
+      "VWAP": 148.95,
+      "CH_TOT_TRADED_QTY": 187916,
+      "CH_TOT_TRADED_VAL": 27989848.43,
+      "CH_TOTAL_TRADES": 3164,
+      "CH_TIMESTAMP": "2026-08-13T18:30:00.000Z",
+      "COP_DELIV_QTY": 72629,
+      "COP_DELIV_PERC": 38.65,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Canara HSBC Life Insurance Company Limited",
+          "exDate": "14-Aug-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE01TY01017",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "14-Aug-2026",
+          "series": "EQ",
+          "subject": "Dividend - Re 0.40 Per Share",
+          "symbol": "CANHLIFE"
+        }
+      ]
+    }
+  ]
+}

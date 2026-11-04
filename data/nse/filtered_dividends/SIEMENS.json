@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "SIEMENS",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "29-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 3681,
+      "CH_OPENING_PRICE": 3660,
+      "CH_TRADE_HIGH_PRICE": 3681.1,
+      "CH_TRADE_LOW_PRICE": 3576.1,
+      "CH_LAST_TRADED_PRICE": 3651.5,
+      "CH_CLOSING_PRICE": 3650.8,
+      "VWAP": 3644.31,
+      "CH_TOT_TRADED_QTY": 234026,
+      "CH_TOT_TRADED_VAL": 852863602.6,
+      "CH_TOTAL_TRADES": 19137,
+      "CH_TIMESTAMP": "2026-07-28T18:30:00.000Z",
+      "COP_DELIV_QTY": 69464,
+      "COP_DELIV_PERC": 29.68,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Siemens Limited",
+          "exDate": "29-Jul-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE003A01024",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "29-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 18 Per Share",
+          "symbol": "SIEMENS"
+        }
+      ]
+    }
+  ]
+}

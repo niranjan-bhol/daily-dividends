@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "PETRONET",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "14-Nov-2025",
+      "CH_PREVIOUS_CLS_PRICE": 278.9,
+      "CH_OPENING_PRICE": 271.9,
+      "CH_TRADE_HIGH_PRICE": 275.3,
+      "CH_TRADE_LOW_PRICE": 271.45,
+      "CH_LAST_TRADED_PRICE": 274.2,
+      "CH_CLOSING_PRICE": 273.6,
+      "VWAP": 273.29,
+      "CH_TOT_TRADED_QTY": 1790555,
+      "CH_TOT_TRADED_VAL": 489340125.25,
+      "CH_TOTAL_TRADES": 38391,
+      "CH_TIMESTAMP": "2025-11-13T18:30:00.000Z",
+      "COP_DELIV_QTY": 898787,
+      "COP_DELIV_PERC": 50.2,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Petronet LNG Limited",
+          "exDate": "14-Nov-2025",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE347G01014",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "14-Nov-2025",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 7 Per Share",
+          "symbol": "PETRONET"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "PETRONET",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "12-Jun-2026",
+      "CH_PREVIOUS_CLS_PRICE": 263.05,
+      "CH_OPENING_PRICE": 265,
+      "CH_TRADE_HIGH_PRICE": 275.2,
+      "CH_TRADE_LOW_PRICE": 264,
+      "CH_LAST_TRADED_PRICE": 274.6,
+      "CH_CLOSING_PRICE": 274.75,
+      "VWAP": 270.83,
+      "CH_TOT_TRADED_QTY": 3007620,
+      "CH_TOT_TRADED_VAL": 814561660.35,
+      "CH_TOTAL_TRADES": 38970,
+      "CH_TIMESTAMP": "2026-06-11T18:30:00.000Z",
+      "COP_DELIV_QTY": 1617322,
+      "COP_DELIV_PERC": 53.77,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Petronet LNG Limited",
+          "exDate": "12-Jun-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE347G01014",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "12-Jun-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 3 Per Share",
+          "symbol": "PETRONET"
+        }
+      ]
+    }
+  ]
+}

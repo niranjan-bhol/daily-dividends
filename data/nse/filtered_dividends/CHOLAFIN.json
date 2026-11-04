@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "CHOLAFIN",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "05-Feb-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1739.5,
+      "CH_OPENING_PRICE": 1740,
+      "CH_TRADE_HIGH_PRICE": 1745,
+      "CH_TRADE_LOW_PRICE": 1717.1,
+      "CH_LAST_TRADED_PRICE": 1721.6,
+      "CH_CLOSING_PRICE": 1722.3,
+      "VWAP": 1725.25,
+      "CH_TOT_TRADED_QTY": 391219,
+      "CH_TOT_TRADED_VAL": 674952317.2,
+      "CH_TOTAL_TRADES": 28155,
+      "CH_TIMESTAMP": "2026-02-04T18:30:00.000Z",
+      "COP_DELIV_QTY": 201189,
+      "COP_DELIV_PERC": 51.43,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Cholamandalam Investment and Finance Company Limited",
+          "exDate": "05-Feb-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE121A01016",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "05-Feb-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 1.30 Per Share",
+          "symbol": "CHOLAFIN"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "CHOLAFIN",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "21-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1782.8,
+      "CH_OPENING_PRICE": 1782,
+      "CH_TRADE_HIGH_PRICE": 1782,
+      "CH_TRADE_LOW_PRICE": 1753.5,
+      "CH_LAST_TRADED_PRICE": 1758.8,
+      "CH_CLOSING_PRICE": 1758.8,
+      "VWAP": 1761.93,
+      "CH_TOT_TRADED_QTY": 1351990,
+      "CH_TOT_TRADED_VAL": 2382116554.9,
+      "CH_TOTAL_TRADES": 68146,
+      "CH_TIMESTAMP": "2026-07-20T18:30:00.000Z",
+      "COP_DELIV_QTY": 899984,
+      "COP_DELIV_PERC": 66.57,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Cholamandalam Investment and Finance Company Limited",
+          "exDate": "21-Jul-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE121A01016",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "21-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Re 0.70 Per Share",
+          "symbol": "CHOLAFIN"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "ZFCVINDIA",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "10-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 2311.6,
+      "CH_OPENING_PRICE": 2323.2,
+      "CH_TRADE_HIGH_PRICE": 2356.9,
+      "CH_TRADE_LOW_PRICE": 2319,
+      "CH_LAST_TRADED_PRICE": 2333.3,
+      "CH_CLOSING_PRICE": 2333.8,
+      "VWAP": 2335.39,
+      "CH_TOT_TRADED_QTY": 246194,
+      "CH_TOT_TRADED_VAL": 574958229.7,
+      "CH_TOTAL_TRADES": 22115,
+      "CH_TIMESTAMP": "2026-07-09T18:30:00.000Z",
+      "COP_DELIV_QTY": 192668,
+      "COP_DELIV_PERC": 78.26,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "ZF Commercial Vehicle Control Systems India Limited",
+          "exDate": "10-Jul-2026",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE342J01019",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "10-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 4 Per Share",
+          "symbol": "ZFCVINDIA"
+        }
+      ]
+    }
+  ]
+}

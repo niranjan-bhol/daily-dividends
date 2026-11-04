@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "BHARTIARTL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "24-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1931,
+      "CH_OPENING_PRICE": 1900.2,
+      "CH_TRADE_HIGH_PRICE": 1905,
+      "CH_TRADE_LOW_PRICE": 1878,
+      "CH_LAST_TRADED_PRICE": 1901,
+      "CH_CLOSING_PRICE": 1898.2,
+      "VWAP": 1890.45,
+      "CH_TOT_TRADED_QTY": 4483600,
+      "CH_TOT_TRADED_VAL": 8476001400.9,
+      "CH_TOTAL_TRADES": 103200,
+      "CH_TIMESTAMP": "2026-07-23T18:30:00.000Z",
+      "COP_DELIV_QTY": 2960112,
+      "COP_DELIV_PERC": 66.02,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Bharti Airtel Limited",
+          "exDate": "24-Jul-2026",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE397D01024",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "24-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 24 Per Share",
+          "symbol": "BHARTIARTL"
+        }
+      ]
+    }
+  ]
+}

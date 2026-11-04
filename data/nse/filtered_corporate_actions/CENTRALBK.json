@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "CENTRALBK",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "23-Jan-2026",
+      "CH_PREVIOUS_CLS_PRICE": 37.2,
+      "CH_OPENING_PRICE": 37.35,
+      "CH_TRADE_HIGH_PRICE": 37.35,
+      "CH_TRADE_LOW_PRICE": 36.2,
+      "CH_LAST_TRADED_PRICE": 36.32,
+      "CH_CLOSING_PRICE": 36.31,
+      "VWAP": 36.7,
+      "CH_TOT_TRADED_QTY": 5119690,
+      "CH_TOT_TRADED_VAL": 187876879.12,
+      "CH_TOTAL_TRADES": 16233,
+      "CH_TIMESTAMP": "2026-01-22T18:30:00.000Z",
+      "COP_DELIV_QTY": 2762294,
+      "COP_DELIV_PERC": 53.95,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Central Bank of India",
+          "exDate": "23-Jan-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE483A01010",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "23-Jan-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Re 0.20 Per Share",
+          "symbol": "CENTRALBK"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "CENTRALBK",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "08-May-2026",
+      "CH_PREVIOUS_CLS_PRICE": 37.24,
+      "CH_OPENING_PRICE": 36.84,
+      "CH_TRADE_HIGH_PRICE": 36.93,
+      "CH_TRADE_LOW_PRICE": 36.36,
+      "CH_LAST_TRADED_PRICE": 36.54,
+      "CH_CLOSING_PRICE": 36.51,
+      "VWAP": 36.63,
+      "CH_TOT_TRADED_QTY": 3872917,
+      "CH_TOT_TRADED_VAL": 141869917.5,
+      "CH_TOTAL_TRADES": 15250,
+      "CH_TIMESTAMP": "2026-05-07T18:30:00.000Z",
+      "COP_DELIV_QTY": 1951656,
+      "COP_DELIV_PERC": 50.39,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Central Bank of India",
+          "exDate": "08-May-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE483A01010",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "08-May-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 0.60 Per Share",
+          "symbol": "CENTRALBK"
+        }
+      ]
+    }
+  ]
+}

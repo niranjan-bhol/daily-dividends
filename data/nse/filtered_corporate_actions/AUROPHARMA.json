@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "AUROPHARMA",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "17-Apr-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1386.5,
+      "CH_OPENING_PRICE": 1388.9,
+      "CH_TRADE_HIGH_PRICE": 1394.9,
+      "CH_TRADE_LOW_PRICE": 1375.3,
+      "CH_LAST_TRADED_PRICE": 1385,
+      "CH_CLOSING_PRICE": 1386,
+      "VWAP": 1385.98,
+      "CH_TOT_TRADED_QTY": 1612415,
+      "CH_TOT_TRADED_VAL": 2234775090.3,
+      "CH_TOTAL_TRADES": 49053,
+      "CH_TIMESTAMP": "2026-04-16T18:30:00.000Z",
+      "COP_DELIV_QTY": 827111,
+      "COP_DELIV_PERC": 51.3,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Aurobindo Pharma Limited",
+          "exDate": "17-Apr-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE406A01029",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "17-Apr-2026",
+          "series": "EQ",
+          "subject": "Buy Back",
+          "symbol": "AUROPHARMA"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "MEDANTA",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "14-Aug-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1410.4,
+      "CH_OPENING_PRICE": 1410,
+      "CH_TRADE_HIGH_PRICE": 1429.9,
+      "CH_TRADE_LOW_PRICE": 1390.4,
+      "CH_LAST_TRADED_PRICE": 1429,
+      "CH_CLOSING_PRICE": 1422.6,
+      "VWAP": 1417.16,
+      "CH_TOT_TRADED_QTY": 296264,
+      "CH_TOT_TRADED_VAL": 419854943.7,
+      "CH_TOTAL_TRADES": 11636,
+      "CH_TIMESTAMP": "2026-08-13T18:30:00.000Z",
+      "COP_DELIV_QTY": 206388,
+      "COP_DELIV_PERC": 69.66,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Global Health Limited",
+          "exDate": "14-Aug-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE474Q01031",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "14-Aug-2026",
+          "series": "EQ",
+          "subject": "Dividend - Re 0.50 Per Share",
+          "symbol": "MEDANTA"
+        }
+      ]
+    }
+  ]
+}

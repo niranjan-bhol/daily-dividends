@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "GODFRYPHLP",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "10-Nov-2025",
+      "CH_PREVIOUS_CLS_PRICE": 3031,
+      "CH_OPENING_PRICE": 3028.1,
+      "CH_TRADE_HIGH_PRICE": 3032.3,
+      "CH_TRADE_LOW_PRICE": 2984,
+      "CH_LAST_TRADED_PRICE": 2995,
+      "CH_CLOSING_PRICE": 2998.7,
+      "VWAP": 3000.25,
+      "CH_TOT_TRADED_QTY": 244944,
+      "CH_TOT_TRADED_VAL": 734892679.7,
+      "CH_TOTAL_TRADES": 25116,
+      "CH_TIMESTAMP": "2025-11-09T18:30:00.000Z",
+      "COP_DELIV_QTY": 101190,
+      "COP_DELIV_PERC": 41.31,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Godfrey Phillips India Limited",
+          "exDate": "10-Nov-2025",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE260B01010",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "10-Nov-2025",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 17 Per Share",
+          "symbol": "GODFRYPHLP"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "GODFRYPHLP",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "11-Aug-2026",
+      "CH_PREVIOUS_CLS_PRICE": 2289,
+      "CH_OPENING_PRICE": 2262,
+      "CH_TRADE_HIGH_PRICE": 2272.9,
+      "CH_TRADE_LOW_PRICE": 2212,
+      "CH_LAST_TRADED_PRICE": 2224.9,
+      "CH_CLOSING_PRICE": 2224.9,
+      "VWAP": 2236.91,
+      "CH_TOT_TRADED_QTY": 327551,
+      "CH_TOT_TRADED_VAL": 732701491.4,
+      "CH_TOTAL_TRADES": 23675,
+      "CH_TIMESTAMP": "2026-08-10T18:30:00.000Z",
+      "COP_DELIV_QTY": 122419,
+      "COP_DELIV_PERC": 37.37,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Godfrey Phillips India Limited",
+          "exDate": "11-Aug-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE260B01010",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "11-Aug-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 33 Per Sh",
+          "symbol": "GODFRYPHLP"
+        }
+      ]
+    }
+  ]
+}

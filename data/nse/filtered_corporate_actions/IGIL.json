@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "IGIL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "17-Feb-2026",
+      "CH_PREVIOUS_CLS_PRICE": 326.6,
+      "CH_OPENING_PRICE": 324.2,
+      "CH_TRADE_HIGH_PRICE": 333.45,
+      "CH_TRADE_LOW_PRICE": 322.25,
+      "CH_LAST_TRADED_PRICE": 330.2,
+      "CH_CLOSING_PRICE": 330.25,
+      "VWAP": 330.11,
+      "CH_TOT_TRADED_QTY": 366402,
+      "CH_TOT_TRADED_VAL": 120951754.55,
+      "CH_TOTAL_TRADES": 9534,
+      "CH_TIMESTAMP": "2026-02-16T18:30:00.000Z",
+      "COP_DELIV_QTY": 175167,
+      "COP_DELIV_PERC": 47.81,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "International Gemological Institute Limited",
+          "exDate": "17-Feb-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE0Q9301021",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "17-Feb-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 2.50 Per Share",
+          "symbol": "IGIL"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "IGIL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "24-Aug-2026",
+      "CH_PREVIOUS_CLS_PRICE": 340.6,
+      "CH_OPENING_PRICE": 338.9,
+      "CH_TRADE_HIGH_PRICE": 345.7,
+      "CH_TRADE_LOW_PRICE": 335.05,
+      "CH_LAST_TRADED_PRICE": 342,
+      "CH_CLOSING_PRICE": 340.65,
+      "VWAP": 339.05,
+      "CH_TOT_TRADED_QTY": 459825,
+      "CH_TOT_TRADED_VAL": 155904729.2,
+      "CH_TOTAL_TRADES": 19790,
+      "CH_TIMESTAMP": "2026-08-23T18:30:00.000Z",
+      "COP_DELIV_QTY": 273094,
+      "COP_DELIV_PERC": 59.39,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "International Gemological Institute Limited",
+          "exDate": "24-Aug-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE0Q9301021",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "24-Aug-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 2.55 Per Share",
+          "symbol": "IGIL"
+        }
+      ]
+    }
+  ]
+}

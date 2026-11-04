@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "BALKRISIND",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "07-Nov-2025",
+      "CH_PREVIOUS_CLS_PRICE": 2340.8,
+      "CH_OPENING_PRICE": 2338.2,
+      "CH_TRADE_HIGH_PRICE": 2339.4,
+      "CH_TRADE_LOW_PRICE": 2291,
+      "CH_LAST_TRADED_PRICE": 2322,
+      "CH_CLOSING_PRICE": 2321.6,
+      "VWAP": 2316.03,
+      "CH_TOT_TRADED_QTY": 81220,
+      "CH_TOT_TRADED_VAL": 188108070.2,
+      "CH_TOTAL_TRADES": 13363,
+      "CH_TIMESTAMP": "2025-11-06T18:30:00.000Z",
+      "COP_DELIV_QTY": 42639,
+      "COP_DELIV_PERC": 52.5,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Balkrishna Industries Limited",
+          "exDate": "07-Nov-2025",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE787D01018",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "07-Nov-2025",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 4 Per Share",
+          "symbol": "BALKRISIND"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "BALKRISIND",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "02-Feb-2026",
+      "CH_PREVIOUS_CLS_PRICE": 2298.2,
+      "CH_OPENING_PRICE": 2290.2,
+      "CH_TRADE_HIGH_PRICE": 2327.3,
+      "CH_TRADE_LOW_PRICE": 2226.1,
+      "CH_LAST_TRADED_PRICE": 2291.1,
+      "CH_CLOSING_PRICE": 2293.8,
+      "VWAP": 2269.6,
+      "CH_TOT_TRADED_QTY": 173624,
+      "CH_TOT_TRADED_VAL": 394057531.1,
+      "CH_TOTAL_TRADES": 23173,
+      "CH_TIMESTAMP": "2026-02-01T18:30:00.000Z",
+      "COP_DELIV_QTY": 105689,
+      "COP_DELIV_PERC": 60.87,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Balkrishna Industries Limited",
+          "exDate": "02-Feb-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE787D01018",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "02-Feb-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 4 Per Share",
+          "symbol": "BALKRISIND"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "BALKRISIND",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "17-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 2145,
+      "CH_OPENING_PRICE": 2154.9,
+      "CH_TRADE_HIGH_PRICE": 2154.9,
+      "CH_TRADE_LOW_PRICE": 2058,
+      "CH_LAST_TRADED_PRICE": 2069.5,
+      "CH_CLOSING_PRICE": 2065.3,
+      "VWAP": 2083.2,
+      "CH_TOT_TRADED_QTY": 314551,
+      "CH_TOT_TRADED_VAL": 655274019.1,
+      "CH_TOTAL_TRADES": 26544,
+      "CH_TIMESTAMP": "2026-07-16T18:30:00.000Z",
+      "COP_DELIV_QTY": 214604,
+      "COP_DELIV_PERC": 68.23,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Balkrishna Industries Limited",
+          "exDate": "17-Jul-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE787D01018",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "17-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 4 Per Share",
+          "symbol": "BALKRISIND"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "BALKRISIND",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "04-Aug-2026",
+      "CH_PREVIOUS_CLS_PRICE": 2492.2,
+      "CH_OPENING_PRICE": 2479.7,
+      "CH_TRADE_HIGH_PRICE": 2530,
+      "CH_TRADE_LOW_PRICE": 2412.4,
+      "CH_LAST_TRADED_PRICE": 2445,
+      "CH_CLOSING_PRICE": 2491.9,
+      "VWAP": 2509.42,
+      "CH_TOT_TRADED_QTY": 275218,
+      "CH_TOT_TRADED_VAL": 690638643,
+      "CH_TOTAL_TRADES": 22452,
+      "CH_TIMESTAMP": "2026-08-03T18:30:00.000Z",
+      "COP_DELIV_QTY": 115511,
+      "COP_DELIV_PERC": 41.97,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Balkrishna Industries Limited",
+          "exDate": "04-Aug-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE787D01018",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "04-Aug-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 4 Per Share",
+          "symbol": "BALKRISIND"
+        }
+      ]
+    }
+  ]
+}

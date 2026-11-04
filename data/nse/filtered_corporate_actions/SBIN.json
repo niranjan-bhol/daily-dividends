@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "SBIN",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "15-May-2026",
+      "CH_PREVIOUS_CLS_PRICE": 979.9,
+      "CH_OPENING_PRICE": 971.2,
+      "CH_TRADE_HIGH_PRICE": 972.5,
+      "CH_TRADE_LOW_PRICE": 957,
+      "CH_LAST_TRADED_PRICE": 961.6,
+      "CH_CLOSING_PRICE": 963.2,
+      "VWAP": 966.7,
+      "CH_TOT_TRADED_QTY": 26972493,
+      "CH_TOT_TRADED_VAL": 26074390324.8,
+      "CH_TOTAL_TRADES": 298397,
+      "CH_TIMESTAMP": "2026-05-14T18:30:00.000Z",
+      "COP_DELIV_QTY": 16782316,
+      "COP_DELIV_PERC": 62.22,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "State Bank of India",
+          "exDate": "15-May-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE062A01012",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "16-May-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 17.35 Per Share",
+          "symbol": "SBIN"
+        }
+      ]
+    }
+  ]
+}

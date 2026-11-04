@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "ELECON",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "12-Jun-2026",
+      "CH_PREVIOUS_CLS_PRICE": 528.1,
+      "CH_OPENING_PRICE": 534.8,
+      "CH_TRADE_HIGH_PRICE": 551.5,
+      "CH_TRADE_LOW_PRICE": 528.7,
+      "CH_LAST_TRADED_PRICE": 533.9,
+      "CH_CLOSING_PRICE": 536.85,
+      "VWAP": 541.24,
+      "CH_TOT_TRADED_QTY": 1246417,
+      "CH_TOT_TRADED_VAL": 674616195.5,
+      "CH_TOTAL_TRADES": 32849,
+      "CH_TIMESTAMP": "2026-06-11T18:30:00.000Z",
+      "COP_DELIV_QTY": 377160,
+      "COP_DELIV_PERC": 30.26,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Elecon Engineering Company Limited",
+          "exDate": "12-Jun-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE205B01023",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "12-Jun-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 1.5 Per Share",
+          "symbol": "ELECON"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "ELECON",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "21-Oct-2026",
+      "CH_PREVIOUS_CLS_PRICE": 460.7,
+      "CH_OPENING_PRICE": 456.55,
+      "CH_TRADE_HIGH_PRICE": 465.8,
+      "CH_TRADE_LOW_PRICE": 428.75,
+      "CH_LAST_TRADED_PRICE": 431,
+      "CH_CLOSING_PRICE": 433.25,
+      "VWAP": 437.93,
+      "CH_TOT_TRADED_QTY": 1175402,
+      "CH_TOT_TRADED_VAL": 514740091,
+      "CH_TOTAL_TRADES": 45998,
+      "CH_TIMESTAMP": "2026-10-20T18:30:00.000Z",
+      "COP_DELIV_QTY": 560080,
+      "COP_DELIV_PERC": 47.65,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Elecon Engineering Company Limited",
+          "exDate": "21-Oct-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE205B01023",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "21-Oct-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Re 0.50 Per Share",
+          "symbol": "ELECON"
+        }
+      ]
+    }
+  ]
+}

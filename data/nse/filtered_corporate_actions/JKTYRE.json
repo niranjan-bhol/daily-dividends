@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "JKTYRE",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "30-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 401.55,
+      "CH_OPENING_PRICE": 398,
+      "CH_TRADE_HIGH_PRICE": 403.7,
+      "CH_TRADE_LOW_PRICE": 393,
+      "CH_LAST_TRADED_PRICE": 398.05,
+      "CH_CLOSING_PRICE": 397.25,
+      "VWAP": 398.35,
+      "CH_TOT_TRADED_QTY": 513327,
+      "CH_TOT_TRADED_VAL": 204484372.6,
+      "CH_TOTAL_TRADES": 13507,
+      "CH_TIMESTAMP": "2026-07-29T18:30:00.000Z",
+      "COP_DELIV_QTY": 209027,
+      "COP_DELIV_PERC": 40.72,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "JK Tyre & Industries Limited",
+          "exDate": "30-Jul-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE573A01034",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "30-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 4 Per Share",
+          "symbol": "JKTYRE"
+        }
+      ]
+    }
+  ]
+}

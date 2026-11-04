@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "BRIGADE",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "17-Jun-2026",
+      "CH_PREVIOUS_CLS_PRICE": 720.25,
+      "CH_OPENING_PRICE": 559.7,
+      "CH_TRADE_HIGH_PRICE": 595.95,
+      "CH_TRADE_LOW_PRICE": 555.05,
+      "CH_LAST_TRADED_PRICE": 565,
+      "CH_CLOSING_PRICE": 565.85,
+      "VWAP": 572.64,
+      "CH_TOT_TRADED_QTY": 7407008,
+      "CH_TOT_TRADED_VAL": 4241554435,
+      "CH_TOTAL_TRADES": 139218,
+      "CH_TIMESTAMP": "2026-06-16T18:30:00.000Z",
+      "COP_DELIV_QTY": 810174,
+      "COP_DELIV_PERC": 10.94,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Brigade Enterprises Limited",
+          "exDate": "17-Jun-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE791I01019",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "17-Jun-2026",
+          "series": "EQ",
+          "subject": "Bonus 1:3",
+          "symbol": "BRIGADE"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "BRIGADE",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "05-Aug-2026",
+      "CH_PREVIOUS_CLS_PRICE": 580.2,
+      "CH_OPENING_PRICE": 583.1,
+      "CH_TRADE_HIGH_PRICE": 588.45,
+      "CH_TRADE_LOW_PRICE": 567.6,
+      "CH_LAST_TRADED_PRICE": 570.95,
+      "CH_CLOSING_PRICE": 570.3,
+      "VWAP": 576.34,
+      "CH_TOT_TRADED_QTY": 167388,
+      "CH_TOT_TRADED_VAL": 96472722.65,
+      "CH_TOTAL_TRADES": 14104,
+      "CH_TIMESTAMP": "2026-08-04T18:30:00.000Z",
+      "COP_DELIV_QTY": 74819,
+      "COP_DELIV_PERC": 44.7,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Brigade Enterprises Limited",
+          "exDate": "05-Aug-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE791I01019",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "05-Aug-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 2 Per Share",
+          "symbol": "BRIGADE"
+        }
+      ]
+    }
+  ]
+}

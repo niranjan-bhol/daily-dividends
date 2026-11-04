@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "TATACONSUM",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "25-May-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1191.8,
+      "CH_OPENING_PRICE": 1191,
+      "CH_TRADE_HIGH_PRICE": 1198.6,
+      "CH_TRADE_LOW_PRICE": 1181.5,
+      "CH_LAST_TRADED_PRICE": 1187,
+      "CH_CLOSING_PRICE": 1187.2,
+      "VWAP": 1187.55,
+      "CH_TOT_TRADED_QTY": 1811755,
+      "CH_TOT_TRADED_VAL": 2151550862.3,
+      "CH_TOTAL_TRADES": 36815,
+      "CH_TIMESTAMP": "2026-05-24T18:30:00.000Z",
+      "COP_DELIV_QTY": 1124121,
+      "COP_DELIV_PERC": 62.05,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "TATA CONSUMER PRODUCTS LIMITED",
+          "exDate": "25-May-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE192A01025",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "25-May-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 10 Per Share",
+          "symbol": "TATACONSUM"
+        }
+      ]
+    }
+  ]
+}

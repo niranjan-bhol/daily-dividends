@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "CUMMINSIND",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "11-Feb-2026",
+      "CH_PREVIOUS_CLS_PRICE": 4418.3,
+      "CH_OPENING_PRICE": 4418,
+      "CH_TRADE_HIGH_PRICE": 4469.9,
+      "CH_TRADE_LOW_PRICE": 4349.6,
+      "CH_LAST_TRADED_PRICE": 4372.3,
+      "CH_CLOSING_PRICE": 4363.2,
+      "VWAP": 4403.48,
+      "CH_TOT_TRADED_QTY": 291346,
+      "CH_TOT_TRADED_VAL": 1282935477.9,
+      "CH_TOTAL_TRADES": 33650,
+      "CH_TIMESTAMP": "2026-02-10T18:30:00.000Z",
+      "COP_DELIV_QTY": 124940,
+      "COP_DELIV_PERC": 42.88,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Cummins India Limited",
+          "exDate": "11-Feb-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE298A01020",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "11-Feb-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 20 Per Share",
+          "symbol": "CUMMINSIND"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "CUMMINSIND",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "17-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 5592,
+      "CH_OPENING_PRICE": 5582,
+      "CH_TRADE_HIGH_PRICE": 5582,
+      "CH_TRADE_LOW_PRICE": 5390,
+      "CH_LAST_TRADED_PRICE": 5436,
+      "CH_CLOSING_PRICE": 5448,
+      "VWAP": 5441.13,
+      "CH_TOT_TRADED_QTY": 666621,
+      "CH_TOT_TRADED_VAL": 3627171838.5,
+      "CH_TOTAL_TRADES": 62652,
+      "CH_TIMESTAMP": "2026-07-16T18:30:00.000Z",
+      "COP_DELIV_QTY": 405822,
+      "COP_DELIV_PERC": 60.88,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Cummins India Limited",
+          "exDate": "17-Jul-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE298A01020",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "17-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 46 Per Share",
+          "symbol": "CUMMINSIND"
+        }
+      ]
+    }
+  ]
+}

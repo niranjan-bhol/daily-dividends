@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "CONCORDBIO",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "24-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1268.5,
+      "CH_OPENING_PRICE": 1268.5,
+      "CH_TRADE_HIGH_PRICE": 1272.2,
+      "CH_TRADE_LOW_PRICE": 1238,
+      "CH_LAST_TRADED_PRICE": 1248,
+      "CH_CLOSING_PRICE": 1248.5,
+      "VWAP": 1251.59,
+      "CH_TOT_TRADED_QTY": 50664,
+      "CH_TOT_TRADED_VAL": 63410710.9,
+      "CH_TOTAL_TRADES": 8862,
+      "CH_TIMESTAMP": "2026-07-23T18:30:00.000Z",
+      "COP_DELIV_QTY": 22742,
+      "COP_DELIV_PERC": 44.89,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Concord Biotech Limited",
+          "exDate": "24-Jul-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE338H01029",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "24-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 7.55 Per Share",
+          "symbol": "CONCORDBIO"
+        }
+      ]
+    }
+  ]
+}

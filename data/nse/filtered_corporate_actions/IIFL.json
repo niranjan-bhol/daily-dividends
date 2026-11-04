@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "IIFL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "29-Jan-2026",
+      "CH_PREVIOUS_CLS_PRICE": 544.6,
+      "CH_OPENING_PRICE": 544.9,
+      "CH_TRADE_HIGH_PRICE": 566,
+      "CH_TRADE_LOW_PRICE": 540.45,
+      "CH_LAST_TRADED_PRICE": 544,
+      "CH_CLOSING_PRICE": 546,
+      "VWAP": 553.53,
+      "CH_TOT_TRADED_QTY": 3915806,
+      "CH_TOT_TRADED_VAL": 2167534535,
+      "CH_TOTAL_TRADES": 69835,
+      "CH_TIMESTAMP": "2026-01-28T18:30:00.000Z",
+      "COP_DELIV_QTY": 1581315,
+      "COP_DELIV_PERC": 40.38,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "IIFL Finance Limited",
+          "exDate": "29-Jan-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE530B01024",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "29-Jan-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 4 Per Share",
+          "symbol": "IIFL"
+        }
+      ]
+    }
+  ]
+}

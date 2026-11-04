@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "BIOCON",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "03-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 418.6,
+      "CH_OPENING_PRICE": 418.6,
+      "CH_TRADE_HIGH_PRICE": 428.8,
+      "CH_TRADE_LOW_PRICE": 418.6,
+      "CH_LAST_TRADED_PRICE": 427.75,
+      "CH_CLOSING_PRICE": 426.8,
+      "VWAP": 425.39,
+      "CH_TOT_TRADED_QTY": 6403875,
+      "CH_TOT_TRADED_VAL": 2724159291.2,
+      "CH_TOTAL_TRADES": 52077,
+      "CH_TIMESTAMP": "2026-07-02T18:30:00.000Z",
+      "COP_DELIV_QTY": 3478552,
+      "COP_DELIV_PERC": 54.32,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Biocon Limited",
+          "exDate": "03-Jul-2026",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE376G01013",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "03-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Re 0.50 Per Share",
+          "symbol": "BIOCON"
+        }
+      ]
+    }
+  ]
+}

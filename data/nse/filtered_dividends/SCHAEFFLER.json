@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "SCHAEFFLER",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "23-Apr-2026",
+      "CH_PREVIOUS_CLS_PRICE": 4288.8,
+      "CH_OPENING_PRICE": 4274.8,
+      "CH_TRADE_HIGH_PRICE": 4351,
+      "CH_TRADE_LOW_PRICE": 4172.3,
+      "CH_LAST_TRADED_PRICE": 4225,
+      "CH_CLOSING_PRICE": 4220.1,
+      "VWAP": 4242.86,
+      "CH_TOT_TRADED_QTY": 120501,
+      "CH_TOT_TRADED_VAL": 511268729.2,
+      "CH_TOTAL_TRADES": 20177,
+      "CH_TIMESTAMP": "2026-04-22T18:30:00.000Z",
+      "COP_DELIV_QTY": 60392,
+      "COP_DELIV_PERC": 50.12,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Schaeffler India Limited",
+          "exDate": "23-Apr-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE513A01014",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "23-Apr-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 35 Per Share",
+          "symbol": "SCHAEFFLER"
+        }
+      ]
+    }
+  ]
+}

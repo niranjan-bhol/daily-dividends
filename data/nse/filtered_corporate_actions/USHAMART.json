@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "USHAMART",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "13-Aug-2026",
+      "CH_PREVIOUS_CLS_PRICE": 502.9,
+      "CH_OPENING_PRICE": 499,
+      "CH_TRADE_HIGH_PRICE": 504.5,
+      "CH_TRADE_LOW_PRICE": 490.25,
+      "CH_LAST_TRADED_PRICE": 497.7,
+      "CH_CLOSING_PRICE": 497.35,
+      "VWAP": 495.5,
+      "CH_TOT_TRADED_QTY": 385740,
+      "CH_TOT_TRADED_VAL": 191132494.7,
+      "CH_TOTAL_TRADES": 14698,
+      "CH_TIMESTAMP": "2026-08-12T18:30:00.000Z",
+      "COP_DELIV_QTY": 196846,
+      "COP_DELIV_PERC": 51.03,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Usha Martin Limited",
+          "exDate": "13-Aug-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE228A01035",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "13-Aug-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 3.75 Per Share",
+          "symbol": "USHAMART"
+        }
+      ]
+    }
+  ]
+}

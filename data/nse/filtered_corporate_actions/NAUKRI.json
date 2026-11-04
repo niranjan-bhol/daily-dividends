@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "NAUKRI",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "21-Nov-2025",
+      "CH_PREVIOUS_CLS_PRICE": 1365.4,
+      "CH_OPENING_PRICE": 1364,
+      "CH_TRADE_HIGH_PRICE": 1364,
+      "CH_TRADE_LOW_PRICE": 1333,
+      "CH_LAST_TRADED_PRICE": 1335,
+      "CH_CLOSING_PRICE": 1340.4,
+      "VWAP": 1347.8,
+      "CH_TOT_TRADED_QTY": 792639,
+      "CH_TOT_TRADED_VAL": 1068315576.1,
+      "CH_TOTAL_TRADES": 29168,
+      "CH_TIMESTAMP": "2025-11-20T18:30:00.000Z",
+      "COP_DELIV_QTY": 505460,
+      "COP_DELIV_PERC": 63.77,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Info Edge (India) Limited",
+          "exDate": "21-Nov-2025",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE663F01024",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "21-Nov-2025",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 2.40 Per Share",
+          "symbol": "NAUKRI"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "NAUKRI",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "20-Feb-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1094.4,
+      "CH_OPENING_PRICE": 1094.4,
+      "CH_TRADE_HIGH_PRICE": 1098.8,
+      "CH_TRADE_LOW_PRICE": 1065,
+      "CH_LAST_TRADED_PRICE": 1074.5,
+      "CH_CLOSING_PRICE": 1074.8,
+      "VWAP": 1085.04,
+      "CH_TOT_TRADED_QTY": 1770081,
+      "CH_TOT_TRADED_VAL": 1920614058.3,
+      "CH_TOTAL_TRADES": 44703,
+      "CH_TIMESTAMP": "2026-02-19T18:30:00.000Z",
+      "COP_DELIV_QTY": 927723,
+      "COP_DELIV_PERC": 52.41,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Info Edge (India) Limited",
+          "exDate": "20-Feb-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE663F01024",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "20-Feb-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 2.40 Per Share",
+          "symbol": "NAUKRI"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "NAUKRI",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "24-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1169.95,
+      "CH_OPENING_PRICE": 1150,
+      "CH_TRADE_HIGH_PRICE": 1177.5,
+      "CH_TRADE_LOW_PRICE": 1140,
+      "CH_LAST_TRADED_PRICE": 1162,
+      "CH_CLOSING_PRICE": 1165.5,
+      "VWAP": 1160.8,
+      "CH_TOT_TRADED_QTY": 1248750,
+      "CH_TOT_TRADED_VAL": 1449554717.3,
+      "CH_TOTAL_TRADES": 52684,
+      "CH_TIMESTAMP": "2026-07-23T18:30:00.000Z",
+      "COP_DELIV_QTY": 634472,
+      "COP_DELIV_PERC": 50.81,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Info Edge (India) Limited",
+          "exDate": "24-Jul-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE663F01024",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "24-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 3.60 Per Share",
+          "symbol": "NAUKRI"
+        }
+      ]
+    }
+  ]
+}

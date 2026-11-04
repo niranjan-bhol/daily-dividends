@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "ZEEL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "10-Sep-2026",
+      "CH_PREVIOUS_CLS_PRICE": 85.71,
+      "CH_OPENING_PRICE": 84.4,
+      "CH_TRADE_HIGH_PRICE": 85.1,
+      "CH_TRADE_LOW_PRICE": 80.26,
+      "CH_LAST_TRADED_PRICE": 81.1,
+      "CH_CLOSING_PRICE": 80.95,
+      "VWAP": 82.07,
+      "CH_TOT_TRADED_QTY": 22803793,
+      "CH_TOT_TRADED_VAL": 1871557978.35,
+      "CH_TOTAL_TRADES": 79621,
+      "CH_TIMESTAMP": "2026-09-09T18:30:00.000Z",
+      "COP_DELIV_QTY": 7377650,
+      "COP_DELIV_PERC": 32.35,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Zee Entertainment Enterprises Limited",
+          "exDate": "10-Sep-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE256A01028",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "10-Sep-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 2 Per Share",
+          "symbol": "ZEEL"
+        }
+      ]
+    }
+  ]
+}

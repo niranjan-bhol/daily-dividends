@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "EMMVEE",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "18-Sep-2026",
+      "CH_PREVIOUS_CLS_PRICE": 325.5,
+      "CH_OPENING_PRICE": 328.65,
+      "CH_TRADE_HIGH_PRICE": 333,
+      "CH_TRADE_LOW_PRICE": 326.6,
+      "CH_LAST_TRADED_PRICE": 329,
+      "CH_CLOSING_PRICE": 328,
+      "VWAP": 329.44,
+      "CH_TOT_TRADED_QTY": 974170,
+      "CH_TOT_TRADED_VAL": 320927556,
+      "CH_TOTAL_TRADES": 26528,
+      "CH_TIMESTAMP": "2026-09-17T18:30:00.000Z",
+      "COP_DELIV_QTY": 457752,
+      "COP_DELIV_PERC": 46.99,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Emmvee Photovoltaic Power Limited",
+          "exDate": "18-Sep-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE1C6T01020",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "18-Sep-2026",
+          "series": "EQ",
+          "subject": "Dividend - Re 1 Per Sh",
+          "symbol": "EMMVEE"
+        }
+      ]
+    }
+  ]
+}

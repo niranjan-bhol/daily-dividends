@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "MCX",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "02-Jan-2026",
+      "CH_PREVIOUS_CLS_PRICE": 10989,
+      "CH_OPENING_PRICE": 2230,
+      "CH_TRADE_HIGH_PRICE": 2278,
+      "CH_TRADE_LOW_PRICE": 2190,
+      "CH_LAST_TRADED_PRICE": 2219,
+      "CH_CLOSING_PRICE": 2216,
+      "VWAP": 2229.42,
+      "CH_TOT_TRADED_QTY": 3418580,
+      "CH_TOT_TRADED_VAL": 7621454246,
+      "CH_TOTAL_TRADES": 128404,
+      "CH_TIMESTAMP": "2026-01-01T18:30:00.000Z",
+      "COP_DELIV_QTY": 1512872,
+      "COP_DELIV_PERC": 44.25,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Multi Commodity Exchange of India Limited",
+          "exDate": "02-Jan-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE745G01035",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "02-Jan-2026",
+          "series": "EQ",
+          "subject": "Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share",
+          "symbol": "MCX"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "MCX",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "28-Aug-2026",
+      "CH_PREVIOUS_CLS_PRICE": 3273,
+      "CH_OPENING_PRICE": 3273.1,
+      "CH_TRADE_HIGH_PRICE": 3339,
+      "CH_TRADE_LOW_PRICE": 3245,
+      "CH_LAST_TRADED_PRICE": 3332,
+      "CH_CLOSING_PRICE": 3332,
+      "VWAP": 3303.53,
+      "CH_TOT_TRADED_QTY": 1360874,
+      "CH_TOT_TRADED_VAL": 4495686806.9,
+      "CH_TOTAL_TRADES": 71961,
+      "CH_TIMESTAMP": "2026-08-27T18:30:00.000Z",
+      "COP_DELIV_QTY": 502572,
+      "COP_DELIV_PERC": 36.93,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Multi Commodity Exchange of India Limited",
+          "exDate": "28-Aug-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE745G01035",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "28-Aug-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 8 Per Share",
+          "symbol": "MCX"
+        }
+      ]
+    }
+  ]
+}

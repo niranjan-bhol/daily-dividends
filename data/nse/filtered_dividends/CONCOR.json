@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "CONCOR",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "20-Nov-2025",
+      "CH_PREVIOUS_CLS_PRICE": 517.55,
+      "CH_OPENING_PRICE": 519.9,
+      "CH_TRADE_HIGH_PRICE": 519.9,
+      "CH_TRADE_LOW_PRICE": 513.4,
+      "CH_LAST_TRADED_PRICE": 516.55,
+      "CH_CLOSING_PRICE": 515.4,
+      "VWAP": 516.7,
+      "CH_TOT_TRADED_QTY": 3145380,
+      "CH_TOT_TRADED_VAL": 1625225399,
+      "CH_TOTAL_TRADES": 50003,
+      "CH_TIMESTAMP": "2025-11-19T18:30:00.000Z",
+      "COP_DELIV_QTY": 2392445,
+      "COP_DELIV_PERC": 76.06,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Container Corporation of India Limited",
+          "exDate": "20-Nov-2025",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE111A01017",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "20-Nov-2025",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs  2.60 Per Share",
+          "symbol": "CONCOR"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "CONCOR",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "09-Feb-2026",
+      "CH_PREVIOUS_CLS_PRICE": 509.5,
+      "CH_OPENING_PRICE": 515,
+      "CH_TRADE_HIGH_PRICE": 516.15,
+      "CH_TRADE_LOW_PRICE": 508.25,
+      "CH_LAST_TRADED_PRICE": 513.5,
+      "CH_CLOSING_PRICE": 513.6,
+      "VWAP": 513.07,
+      "CH_TOT_TRADED_QTY": 788634,
+      "CH_TOT_TRADED_VAL": 404622608.5,
+      "CH_TOTAL_TRADES": 30833,
+      "CH_TIMESTAMP": "2026-02-08T18:30:00.000Z",
+      "COP_DELIV_QTY": 334990,
+      "COP_DELIV_PERC": 42.48,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Container Corporation of India Limited",
+          "exDate": "09-Feb-2026",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE111A01017",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "09-Feb-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 3.40 Per Share",
+          "symbol": "CONCOR"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "CONCOR",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "04-Aug-2026",
+      "CH_PREVIOUS_CLS_PRICE": 525,
+      "CH_OPENING_PRICE": 526.05,
+      "CH_TRADE_HIGH_PRICE": 526.1,
+      "CH_TRADE_LOW_PRICE": 514,
+      "CH_LAST_TRADED_PRICE": 515,
+      "CH_CLOSING_PRICE": 515,
+      "VWAP": 518.36,
+      "CH_TOT_TRADED_QTY": 1523968,
+      "CH_TOT_TRADED_VAL": 789965998.6,
+      "CH_TOTAL_TRADES": 35323,
+      "CH_TIMESTAMP": "2026-08-03T18:30:00.000Z",
+      "COP_DELIV_QTY": 853235,
+      "COP_DELIV_PERC": 55.99,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Container Corporation of India Limited",
+          "exDate": "04-Aug-2026",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE111A01017",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "04-Aug-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 1.60 Per Share",
+          "symbol": "CONCOR"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "CONCOR",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "21-Sep-2026",
+      "CH_PREVIOUS_CLS_PRICE": 504.55,
+      "CH_OPENING_PRICE": 498.6,
+      "CH_TRADE_HIGH_PRICE": 501.95,
+      "CH_TRADE_LOW_PRICE": 487.05,
+      "CH_LAST_TRADED_PRICE": 487.05,
+      "CH_CLOSING_PRICE": 487.05,
+      "VWAP": 492.29,
+      "CH_TOT_TRADED_QTY": 885349,
+      "CH_TOT_TRADED_VAL": 435845856.6,
+      "CH_TOTAL_TRADES": 17662,
+      "CH_TIMESTAMP": "2026-09-20T18:30:00.000Z",
+      "COP_DELIV_QTY": 378912,
+      "COP_DELIV_PERC": 42.8,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Container Corporation of India Limited",
+          "exDate": "21-Sep-2026",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE111A01017",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "21-Sep-2026",
+          "series": "EQ",
+          "subject": "Dividend - Re 1 Per Sh",
+          "symbol": "CONCOR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "ANANTRAJ",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "31-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 609.6,
+      "CH_OPENING_PRICE": 613.1,
+      "CH_TRADE_HIGH_PRICE": 632.4,
+      "CH_TRADE_LOW_PRICE": 608.5,
+      "CH_LAST_TRADED_PRICE": 622,
+      "CH_CLOSING_PRICE": 624.5,
+      "VWAP": 622.58,
+      "CH_TOT_TRADED_QTY": 4084776,
+      "CH_TOT_TRADED_VAL": 2543085962.75,
+      "CH_TOTAL_TRADES": 43432,
+      "CH_TIMESTAMP": "2026-07-30T18:30:00.000Z",
+      "COP_DELIV_QTY": 2280530,
+      "COP_DELIV_PERC": 55.83,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Anant Raj Limited",
+          "exDate": "31-Jul-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE242C01024",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "31-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Re 1 Per Share",
+          "symbol": "ANANTRAJ"
+        }
+      ]
+    }
+  ]
+}

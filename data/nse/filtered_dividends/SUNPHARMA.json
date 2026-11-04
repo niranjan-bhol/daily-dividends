@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "SUNPHARMA",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "05-Feb-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1704.4,
+      "CH_OPENING_PRICE": 1699,
+      "CH_TRADE_HIGH_PRICE": 1710,
+      "CH_TRADE_LOW_PRICE": 1684.3,
+      "CH_LAST_TRADED_PRICE": 1703.1,
+      "CH_CLOSING_PRICE": 1702.6,
+      "VWAP": 1700.8,
+      "CH_TOT_TRADED_QTY": 3074842,
+      "CH_TOT_TRADED_VAL": 5229686194.9,
+      "CH_TOTAL_TRADES": 108065,
+      "CH_TIMESTAMP": "2026-02-04T18:30:00.000Z",
+      "COP_DELIV_QTY": 2437754,
+      "COP_DELIV_PERC": 79.28,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Sun Pharmaceutical Industries Limited",
+          "exDate": "05-Feb-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE044A01028",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "05-Feb-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 11 Per Share",
+          "symbol": "SUNPHARMA"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "SUNPHARMA",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "07-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1912.8,
+      "CH_OPENING_PRICE": 1900.6,
+      "CH_TRADE_HIGH_PRICE": 1924.9,
+      "CH_TRADE_LOW_PRICE": 1898.6,
+      "CH_LAST_TRADED_PRICE": 1902.7,
+      "CH_CLOSING_PRICE": 1903.4,
+      "VWAP": 1909.78,
+      "CH_TOT_TRADED_QTY": 2060613,
+      "CH_TOT_TRADED_VAL": 3935313752.3,
+      "CH_TOTAL_TRADES": 103252,
+      "CH_TIMESTAMP": "2026-07-06T18:30:00.000Z",
+      "COP_DELIV_QTY": 1201059,
+      "COP_DELIV_PERC": 58.29,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Sun Pharmaceutical Industries Limited",
+          "exDate": "07-Jul-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE044A01028",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "07-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 5 Per Share",
+          "symbol": "SUNPHARMA"
+        }
+      ]
+    }
+  ]
+}

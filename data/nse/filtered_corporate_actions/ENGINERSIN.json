@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "ENGINERSIN",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "04-Dec-2025",
+      "CH_PREVIOUS_CLS_PRICE": 198.4,
+      "CH_OPENING_PRICE": 196.26,
+      "CH_TRADE_HIGH_PRICE": 202,
+      "CH_TRADE_LOW_PRICE": 196,
+      "CH_LAST_TRADED_PRICE": 201.29,
+      "CH_CLOSING_PRICE": 201.62,
+      "VWAP": 199.96,
+      "CH_TOT_TRADED_QTY": 1822430,
+      "CH_TOT_TRADED_VAL": 364411543.73,
+      "CH_TOTAL_TRADES": 22596,
+      "CH_TIMESTAMP": "2025-12-03T18:30:00.000Z",
+      "COP_DELIV_QTY": 894895,
+      "COP_DELIV_PERC": 49.1,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Engineers India Limited",
+          "exDate": "04-Dec-2025",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE510A01010",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "04-Dec-2025",
+          "series": "EQ",
+          "subject": "Interim Dividend - Re 1 Per Share",
+          "symbol": "ENGINERSIN"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "ENGINERSIN",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "06-Mar-2026",
+      "CH_PREVIOUS_CLS_PRICE": 204.86,
+      "CH_OPENING_PRICE": 204.4,
+      "CH_TRADE_HIGH_PRICE": 209.18,
+      "CH_TRADE_LOW_PRICE": 203.9,
+      "CH_LAST_TRADED_PRICE": 204.9,
+      "CH_CLOSING_PRICE": 204.87,
+      "VWAP": 206.67,
+      "CH_TOT_TRADED_QTY": 3287405,
+      "CH_TOT_TRADED_VAL": 679418920.58,
+      "CH_TOTAL_TRADES": 29610,
+      "CH_TIMESTAMP": "2026-03-05T18:30:00.000Z",
+      "COP_DELIV_QTY": 1150308,
+      "COP_DELIV_PERC": 34.99,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Engineers India Limited",
+          "exDate": "06-Mar-2026",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE510A01010",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "06-Mar-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 1.50 Per Share",
+          "symbol": "ENGINERSIN"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "ENGINERSIN",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "24-Sep-2026",
+      "CH_PREVIOUS_CLS_PRICE": 306.2,
+      "CH_OPENING_PRICE": 303.5,
+      "CH_TRADE_HIGH_PRICE": 305.65,
+      "CH_TRADE_LOW_PRICE": 295,
+      "CH_LAST_TRADED_PRICE": 297,
+      "CH_CLOSING_PRICE": 296.65,
+      "VWAP": 299.7,
+      "CH_TOT_TRADED_QTY": 4627761,
+      "CH_TOT_TRADED_VAL": 1386919444.55,
+      "CH_TOTAL_TRADES": 64293,
+      "CH_TIMESTAMP": "2026-09-23T18:30:00.000Z",
+      "COP_DELIV_QTY": 1490701,
+      "COP_DELIV_PERC": 32.21,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Engineers India Limited",
+          "exDate": "24-Sep-2026",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE510A01010",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "24-Sep-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 2.50 Per Share",
+          "symbol": "ENGINERSIN"
+        }
+      ]
+    }
+  ]
+}

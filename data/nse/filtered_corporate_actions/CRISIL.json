@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "CRISIL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "02-Apr-2026",
+      "CH_PREVIOUS_CLS_PRICE": 3814.9,
+      "CH_OPENING_PRICE": 3770,
+      "CH_TRADE_HIGH_PRICE": 3770,
+      "CH_TRADE_LOW_PRICE": 3686,
+      "CH_LAST_TRADED_PRICE": 3710,
+      "CH_CLOSING_PRICE": 3705.9,
+      "VWAP": 3705.84,
+      "CH_TOT_TRADED_QTY": 161372,
+      "CH_TOT_TRADED_VAL": 598019338.5,
+      "CH_TOTAL_TRADES": 15123,
+      "CH_TIMESTAMP": "2026-04-01T18:30:00.000Z",
+      "COP_DELIV_QTY": 124561,
+      "COP_DELIV_PERC": 77.19,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Crisil Limited",
+          "exDate": "02-Apr-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE007A01017",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "03-Apr-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 28 Per Share",
+          "symbol": "CRISIL"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "CRISIL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "23-Apr-2026",
+      "CH_PREVIOUS_CLS_PRICE": 4345.8,
+      "CH_OPENING_PRICE": 4300,
+      "CH_TRADE_HIGH_PRICE": 4385,
+      "CH_TRADE_LOW_PRICE": 4290,
+      "CH_LAST_TRADED_PRICE": 4361.5,
+      "CH_CLOSING_PRICE": 4353.9,
+      "VWAP": 4350.09,
+      "CH_TOT_TRADED_QTY": 45352,
+      "CH_TOT_TRADED_VAL": 197285227.1,
+      "CH_TOTAL_TRADES": 7970,
+      "CH_TIMESTAMP": "2026-04-22T18:30:00.000Z",
+      "COP_DELIV_QTY": 21616,
+      "COP_DELIV_PERC": 47.66,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Crisil Limited",
+          "exDate": "23-Apr-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE007A01017",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "23-Apr-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 9 Per Share",
+          "symbol": "CRISIL"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "CRISIL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "27-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 4347.2,
+      "CH_OPENING_PRICE": 4350,
+      "CH_TRADE_HIGH_PRICE": 4502.9,
+      "CH_TRADE_LOW_PRICE": 4347.2,
+      "CH_LAST_TRADED_PRICE": 4490,
+      "CH_CLOSING_PRICE": 4486.3,
+      "VWAP": 4466.83,
+      "CH_TOT_TRADED_QTY": 59947,
+      "CH_TOT_TRADED_VAL": 267772914.2,
+      "CH_TOTAL_TRADES": 13254,
+      "CH_TIMESTAMP": "2026-07-26T18:30:00.000Z",
+      "COP_DELIV_QTY": 28774,
+      "COP_DELIV_PERC": 48,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Crisil Limited",
+          "exDate": "27-Jul-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE007A01017",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "27-Jul-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 10  Per Share",
+          "symbol": "CRISIL"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "CRISIL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "29-Oct-2026",
+      "CH_PREVIOUS_CLS_PRICE": 4671.4,
+      "CH_OPENING_PRICE": 4653,
+      "CH_TRADE_HIGH_PRICE": 4713,
+      "CH_TRADE_LOW_PRICE": 4577,
+      "CH_LAST_TRADED_PRICE": 4619.3,
+      "CH_CLOSING_PRICE": 4598.4,
+      "VWAP": 4632.95,
+      "CH_TOT_TRADED_QTY": 18589,
+      "CH_TOT_TRADED_VAL": 86121907.3,
+      "CH_TOTAL_TRADES": 6852,
+      "CH_TIMESTAMP": "2026-10-28T18:30:00.000Z",
+      "COP_DELIV_QTY": 8402,
+      "COP_DELIV_PERC": 45.2,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Crisil Limited",
+          "exDate": "29-Oct-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE007A01017",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "29-Oct-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 17 Per Share",
+          "symbol": "CRISIL"
+        }
+      ]
+    }
+  ]
+}

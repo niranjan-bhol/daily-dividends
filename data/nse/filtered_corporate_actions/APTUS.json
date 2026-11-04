@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "APTUS",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "07-Nov-2025",
+      "CH_PREVIOUS_CLS_PRICE": 294.85,
+      "CH_OPENING_PRICE": 294.85,
+      "CH_TRADE_HIGH_PRICE": 294.85,
+      "CH_TRADE_LOW_PRICE": 287.45,
+      "CH_LAST_TRADED_PRICE": 292.2,
+      "CH_CLOSING_PRICE": 292.4,
+      "VWAP": 291.21,
+      "CH_TOT_TRADED_QTY": 1075032,
+      "CH_TOT_TRADED_VAL": 313058901.95,
+      "CH_TOTAL_TRADES": 28693,
+      "CH_TIMESTAMP": "2025-11-06T18:30:00.000Z",
+      "COP_DELIV_QTY": 553331,
+      "COP_DELIV_PERC": 51.47,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Aptus Value Housing Finance India Limited",
+          "exDate": "07-Nov-2025",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE852O01025",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "07-Nov-2025",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 2 Per Share",
+          "symbol": "APTUS"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "APTUS",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "15-May-2026",
+      "CH_PREVIOUS_CLS_PRICE": 269.8,
+      "CH_OPENING_PRICE": 269.8,
+      "CH_TRADE_HIGH_PRICE": 271.4,
+      "CH_TRADE_LOW_PRICE": 262,
+      "CH_LAST_TRADED_PRICE": 262,
+      "CH_CLOSING_PRICE": 264.45,
+      "VWAP": 265.49,
+      "CH_TOT_TRADED_QTY": 789109,
+      "CH_TOT_TRADED_VAL": 209504295,
+      "CH_TOTAL_TRADES": 20724,
+      "CH_TIMESTAMP": "2026-05-14T18:30:00.000Z",
+      "COP_DELIV_QTY": 499868,
+      "COP_DELIV_PERC": 63.35,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Aptus Value Housing Finance India Limited",
+          "exDate": "15-May-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE852O01025",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "15-May-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 2.50 Per Share",
+          "symbol": "APTUS"
+        }
+      ]
+    }
+  ]
+}

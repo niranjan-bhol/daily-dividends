@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "TATATECH",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "18-Jun-2026",
+      "CH_PREVIOUS_CLS_PRICE": 773.55,
+      "CH_OPENING_PRICE": 764.4,
+      "CH_TRADE_HIGH_PRICE": 765,
+      "CH_TRADE_LOW_PRICE": 751.8,
+      "CH_LAST_TRADED_PRICE": 754.4,
+      "CH_CLOSING_PRICE": 753.7,
+      "VWAP": 758.19,
+      "CH_TOT_TRADED_QTY": 710403,
+      "CH_TOT_TRADED_VAL": 538619781.05,
+      "CH_TOTAL_TRADES": 19235,
+      "CH_TIMESTAMP": "2026-06-17T18:30:00.000Z",
+      "COP_DELIV_QTY": 277333,
+      "COP_DELIV_PERC": 39.04,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Tata Technologies Limited",
+          "exDate": "18-Jun-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE142M01025",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "18-Jun-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 8.35 Per Share & Special Dividend - Rs 3.35 Per Share",
+          "symbol": "TATATECH"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "NAM-INDIA",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "06-Nov-2025",
+      "CH_PREVIOUS_CLS_PRICE": 881.55,
+      "CH_OPENING_PRICE": 876.65,
+      "CH_TRADE_HIGH_PRICE": 878.85,
+      "CH_TRADE_LOW_PRICE": 862.05,
+      "CH_LAST_TRADED_PRICE": 868,
+      "CH_CLOSING_PRICE": 866.85,
+      "VWAP": 869.34,
+      "CH_TOT_TRADED_QTY": 760457,
+      "CH_TOT_TRADED_VAL": 661094547.4,
+      "CH_TOTAL_TRADES": 32599,
+      "CH_TIMESTAMP": "2025-11-05T18:30:00.000Z",
+      "COP_DELIV_QTY": 565503,
+      "COP_DELIV_PERC": 74.36,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Nippon Life India Asset Management Limited",
+          "exDate": "06-Nov-2025",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE298J01013",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "06-Nov-2025",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 9 Per Share",
+          "symbol": "NAM-INDIA"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "NAM-INDIA",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "25-Jun-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1157.4,
+      "CH_OPENING_PRICE": 1148.3,
+      "CH_TRADE_HIGH_PRICE": 1186,
+      "CH_TRADE_LOW_PRICE": 1133.8,
+      "CH_LAST_TRADED_PRICE": 1140,
+      "CH_CLOSING_PRICE": 1139,
+      "VWAP": 1149.21,
+      "CH_TOT_TRADED_QTY": 599710,
+      "CH_TOT_TRADED_VAL": 689192046.3,
+      "CH_TOTAL_TRADES": 24948,
+      "CH_TIMESTAMP": "2026-06-24T18:30:00.000Z",
+      "COP_DELIV_QTY": 269218,
+      "COP_DELIV_PERC": 44.89,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Nippon Life India Asset Management Limited",
+          "exDate": "25-Jun-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE298J01013",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "26-Jun-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 12.50 Per Share",
+          "symbol": "NAM-INDIA"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "NAM-INDIA",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "28-Oct-2026",
+      "CH_PREVIOUS_CLS_PRICE": 943,
+      "CH_OPENING_PRICE": 936,
+      "CH_TRADE_HIGH_PRICE": 939.9,
+      "CH_TRADE_LOW_PRICE": 921.5,
+      "CH_LAST_TRADED_PRICE": 922.5,
+      "CH_CLOSING_PRICE": 922.5,
+      "VWAP": 930.27,
+      "CH_TOT_TRADED_QTY": 919969,
+      "CH_TOT_TRADED_VAL": 855823030.5,
+      "CH_TOTAL_TRADES": 51000,
+      "CH_TIMESTAMP": "2026-10-27T18:30:00.000Z",
+      "COP_DELIV_QTY": 507573,
+      "COP_DELIV_PERC": 55.17,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Nippon Life India Asset Management Limited",
+          "exDate": "28-Oct-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE298J01013",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "28-Oct-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 9.50 Per Share",
+          "symbol": "NAM-INDIA"
+        }
+      ]
+    }
+  ]
+}

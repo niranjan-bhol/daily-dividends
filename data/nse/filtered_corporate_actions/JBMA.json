@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "JBMA",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "09-Sep-2026",
+      "CH_PREVIOUS_CLS_PRICE": 615.35,
+      "CH_OPENING_PRICE": 617.15,
+      "CH_TRADE_HIGH_PRICE": 618.9,
+      "CH_TRADE_LOW_PRICE": 611.55,
+      "CH_LAST_TRADED_PRICE": 614,
+      "CH_CLOSING_PRICE": 614.25,
+      "VWAP": 614.87,
+      "CH_TOT_TRADED_QTY": 158453,
+      "CH_TOT_TRADED_VAL": 97428151.6,
+      "CH_TOTAL_TRADES": 7802,
+      "CH_TIMESTAMP": "2026-09-08T18:30:00.000Z",
+      "COP_DELIV_QTY": 60157,
+      "COP_DELIV_PERC": 37.97,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "JBM Auto Limited",
+          "exDate": "09-Sep-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE927D01010",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "09-Sep-2026",
+          "series": "EQ",
+          "subject": "Dividend - Re 0.85 Per Share",
+          "symbol": "JBMA"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "WIPRO",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "27-Jan-2026",
+      "CH_PREVIOUS_CLS_PRICE": 238.4,
+      "CH_OPENING_PRICE": 235.2,
+      "CH_TRADE_HIGH_PRICE": 236.4,
+      "CH_TRADE_LOW_PRICE": 231.75,
+      "CH_LAST_TRADED_PRICE": 235.4,
+      "CH_CLOSING_PRICE": 234.8,
+      "VWAP": 233.7,
+      "CH_TOT_TRADED_QTY": 15677537,
+      "CH_TOT_TRADED_VAL": 3663786513.3,
+      "CH_TOTAL_TRADES": 160464,
+      "CH_TIMESTAMP": "2026-01-26T18:30:00.000Z",
+      "COP_DELIV_QTY": 9214862,
+      "COP_DELIV_PERC": 58.78,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Wipro Limited",
+          "exDate": "27-Jan-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE075A01022",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "27-Jan-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 6 Per Share",
+          "symbol": "WIPRO"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "WIPRO",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "05-Jun-2026",
+      "CH_PREVIOUS_CLS_PRICE": 204.32,
+      "CH_OPENING_PRICE": 191.52,
+      "CH_TRADE_HIGH_PRICE": 199,
+      "CH_TRADE_LOW_PRICE": 188.15,
+      "CH_LAST_TRADED_PRICE": 198.05,
+      "CH_CLOSING_PRICE": 198.37,
+      "VWAP": 195.67,
+      "CH_TOT_TRADED_QTY": 43539069,
+      "CH_TOT_TRADED_VAL": 8519408470.5,
+      "CH_TOTAL_TRADES": 204926,
+      "CH_TIMESTAMP": "2026-06-04T18:30:00.000Z",
+      "COP_DELIV_QTY": 9820147,
+      "COP_DELIV_PERC": 22.55,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Wipro Limited",
+          "exDate": "05-Jun-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE075A01022",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "05-Jun-2026",
+          "series": "EQ",
+          "subject": "Buy Back",
+          "symbol": "WIPRO"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "WIPRO",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "27-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 177.12,
+      "CH_OPENING_PRICE": 177.5,
+      "CH_TRADE_HIGH_PRICE": 178.78,
+      "CH_TRADE_LOW_PRICE": 175.61,
+      "CH_LAST_TRADED_PRICE": 178.35,
+      "CH_CLOSING_PRICE": 178.53,
+      "VWAP": 177.36,
+      "CH_TOT_TRADED_QTY": 12504426,
+      "CH_TOT_TRADED_VAL": 2217796971.54,
+      "CH_TOTAL_TRADES": 75289,
+      "CH_TIMESTAMP": "2026-07-26T18:30:00.000Z",
+      "COP_DELIV_QTY": 4884575,
+      "COP_DELIV_PERC": 39.06,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Wipro Limited",
+          "exDate": "27-Jul-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE075A01022",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "27-Jul-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 2 Per Share",
+          "symbol": "WIPRO"
+        }
+      ]
+    }
+  ]
+}

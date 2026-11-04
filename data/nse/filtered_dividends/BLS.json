@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "BLS",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "13-Feb-2026",
+      "CH_PREVIOUS_CLS_PRICE": 280.45,
+      "CH_OPENING_PRICE": 279.5,
+      "CH_TRADE_HIGH_PRICE": 279.5,
+      "CH_TRADE_LOW_PRICE": 267.7,
+      "CH_LAST_TRADED_PRICE": 269.05,
+      "CH_CLOSING_PRICE": 269.3,
+      "VWAP": 272.16,
+      "CH_TOT_TRADED_QTY": 1252022,
+      "CH_TOT_TRADED_VAL": 340745429.6,
+      "CH_TOTAL_TRADES": 25136,
+      "CH_TIMESTAMP": "2026-02-12T18:30:00.000Z",
+      "COP_DELIV_QTY": 496365,
+      "COP_DELIV_PERC": 39.65,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "BLS International Services Limited",
+          "exDate": "13-Feb-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE153T01019",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "13-Feb-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 2 Per Share",
+          "symbol": "BLS"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "BLS",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "16-Sep-2026",
+      "CH_PREVIOUS_CLS_PRICE": 228.51,
+      "CH_OPENING_PRICE": 230,
+      "CH_TRADE_HIGH_PRICE": 231.93,
+      "CH_TRADE_LOW_PRICE": 221.34,
+      "CH_LAST_TRADED_PRICE": 227.3,
+      "CH_CLOSING_PRICE": 226.74,
+      "VWAP": 225.65,
+      "CH_TOT_TRADED_QTY": 913859,
+      "CH_TOT_TRADED_VAL": 206211490,
+      "CH_TOTAL_TRADES": 20341,
+      "CH_TIMESTAMP": "2026-09-15T18:30:00.000Z",
+      "COP_DELIV_QTY": 390539,
+      "COP_DELIV_PERC": 42.74,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "BLS International Services Limited",
+          "exDate": "16-Sep-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE153T01019",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "16-Sep-2026",
+          "series": "EQ",
+          "subject": "Dividend - Re 0.50 Per Share",
+          "symbol": "BLS"
+        }
+      ]
+    }
+  ]
+}

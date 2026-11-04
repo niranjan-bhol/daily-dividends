@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "HSCL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "22-May-2026",
+      "CH_PREVIOUS_CLS_PRICE": 590.55,
+      "CH_OPENING_PRICE": 596,
+      "CH_TRADE_HIGH_PRICE": 597.4,
+      "CH_TRADE_LOW_PRICE": 579.35,
+      "CH_LAST_TRADED_PRICE": 582,
+      "CH_CLOSING_PRICE": 587.15,
+      "VWAP": 590.19,
+      "CH_TOT_TRADED_QTY": 5185493,
+      "CH_TOT_TRADED_VAL": 3060433653,
+      "CH_TOTAL_TRADES": 38695,
+      "CH_TIMESTAMP": "2026-05-21T18:30:00.000Z",
+      "COP_DELIV_QTY": 731135,
+      "COP_DELIV_PERC": 14.1,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Himadri Speciality Chemical Limited",
+          "exDate": "22-May-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE019C01026",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "22-May-2026",
+          "series": "EQ",
+          "subject": "Dividend - Re 0.80 Per Share",
+          "symbol": "HSCL"
+        }
+      ]
+    }
+  ]
+}

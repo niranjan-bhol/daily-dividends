@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "RBLBANK",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "14-Aug-2026",
+      "CH_PREVIOUS_CLS_PRICE": 387.25,
+      "CH_OPENING_PRICE": 387.25,
+      "CH_TRADE_HIGH_PRICE": 388.3,
+      "CH_TRADE_LOW_PRICE": 382.25,
+      "CH_LAST_TRADED_PRICE": 385,
+      "CH_CLOSING_PRICE": 385,
+      "VWAP": 385.35,
+      "CH_TOT_TRADED_QTY": 1471037,
+      "CH_TOT_TRADED_VAL": 566869265.5,
+      "CH_TOTAL_TRADES": 21229,
+      "CH_TIMESTAMP": "2026-08-13T18:30:00.000Z",
+      "COP_DELIV_QTY": 708484,
+      "COP_DELIV_PERC": 48.16,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "RBL Bank Limited",
+          "exDate": "14-Aug-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE976G01028",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "14-Aug-2026",
+          "series": "EQ",
+          "subject": "Dividend - Re 1 Per Share",
+          "symbol": "RBLBANK"
+        }
+      ]
+    }
+  ]
+}

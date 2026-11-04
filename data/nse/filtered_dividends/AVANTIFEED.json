@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "AVANTIFEED",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "07-Aug-2026",
+      "CH_PREVIOUS_CLS_PRICE": 891.9,
+      "CH_OPENING_PRICE": 885.3,
+      "CH_TRADE_HIGH_PRICE": 909.85,
+      "CH_TRADE_LOW_PRICE": 881.05,
+      "CH_LAST_TRADED_PRICE": 909,
+      "CH_CLOSING_PRICE": 906.55,
+      "VWAP": 898.66,
+      "CH_TOT_TRADED_QTY": 402557,
+      "CH_TOT_TRADED_VAL": 361760289.45,
+      "CH_TOTAL_TRADES": 17436,
+      "CH_TIMESTAMP": "2026-08-06T18:30:00.000Z",
+      "COP_DELIV_QTY": 174660,
+      "COP_DELIV_PERC": 43.39,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Avanti Feeds Limited",
+          "exDate": "07-Aug-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE871C01012",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "07-Aug-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 10 Per Share",
+          "symbol": "AVANTIFEED"
+        }
+      ]
+    }
+  ]
+}

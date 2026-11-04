@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "TATAELXSI",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "10-Jun-2026",
+      "CH_PREVIOUS_CLS_PRICE": 4257.2,
+      "CH_OPENING_PRICE": 4205.2,
+      "CH_TRADE_HIGH_PRICE": 4215.4,
+      "CH_TRADE_LOW_PRICE": 4075.8,
+      "CH_LAST_TRADED_PRICE": 4092.6,
+      "CH_CLOSING_PRICE": 4092.2,
+      "VWAP": 4144.9,
+      "CH_TOT_TRADED_QTY": 265490,
+      "CH_TOT_TRADED_VAL": 1100428435.7,
+      "CH_TOTAL_TRADES": 27697,
+      "CH_TIMESTAMP": "2026-06-09T18:30:00.000Z",
+      "COP_DELIV_QTY": 104956,
+      "COP_DELIV_PERC": 39.53,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Tata Elxsi Limited",
+          "exDate": "10-Jun-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE670A01012",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "10-Jun-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 75 Per Share",
+          "symbol": "TATAELXSI"
+        }
+      ]
+    }
+  ]
+}

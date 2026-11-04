@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "MAHABANK",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "20-Jan-2026",
+      "CH_PREVIOUS_CLS_PRICE": 66.77,
+      "CH_OPENING_PRICE": 66.35,
+      "CH_TRADE_HIGH_PRICE": 66.99,
+      "CH_TRADE_LOW_PRICE": 63.6,
+      "CH_LAST_TRADED_PRICE": 64.01,
+      "CH_CLOSING_PRICE": 63.92,
+      "VWAP": 64.74,
+      "CH_TOT_TRADED_QTY": 22802538,
+      "CH_TOT_TRADED_VAL": 1476347598.27,
+      "CH_TOTAL_TRADES": 68338,
+      "CH_TIMESTAMP": "2026-01-19T18:30:00.000Z",
+      "COP_DELIV_QTY": 10728992,
+      "COP_DELIV_PERC": 47.05,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Bank of Maharashtra",
+          "exDate": "20-Jan-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE457A01014",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "20-Jan-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Re 1 Per Share",
+          "symbol": "MAHABANK"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "MAHABANK",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "05-Jun-2026",
+      "CH_PREVIOUS_CLS_PRICE": 79.9,
+      "CH_OPENING_PRICE": 79.19,
+      "CH_TRADE_HIGH_PRICE": 80.77,
+      "CH_TRADE_LOW_PRICE": 79,
+      "CH_LAST_TRADED_PRICE": 79.25,
+      "CH_CLOSING_PRICE": 79.19,
+      "VWAP": 79.67,
+      "CH_TOT_TRADED_QTY": 12711478,
+      "CH_TOT_TRADED_VAL": 1012683803.93,
+      "CH_TOTAL_TRADES": 55358,
+      "CH_TIMESTAMP": "2026-06-04T18:30:00.000Z",
+      "COP_DELIV_QTY": 4825622,
+      "COP_DELIV_PERC": 37.96,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Bank of Maharashtra",
+          "exDate": "05-Jun-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE457A01014",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "05-Jun-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 1.20 Per Sh",
+          "symbol": "MAHABANK"
+        }
+      ]
+    }
+  ]
+}

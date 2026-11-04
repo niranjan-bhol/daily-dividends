@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "M&M",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "03-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 3175.4,
+      "CH_OPENING_PRICE": 3194,
+      "CH_TRADE_HIGH_PRICE": 3197,
+      "CH_TRADE_LOW_PRICE": 3127.3,
+      "CH_LAST_TRADED_PRICE": 3137.6,
+      "CH_CLOSING_PRICE": 3136.9,
+      "VWAP": 3149.07,
+      "CH_TOT_TRADED_QTY": 2414988,
+      "CH_TOT_TRADED_VAL": 7604957781.5,
+      "CH_TOTAL_TRADES": 108527,
+      "CH_TIMESTAMP": "2026-07-02T18:30:00.000Z",
+      "COP_DELIV_QTY": 1388539,
+      "COP_DELIV_PERC": 57.5,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Mahindra & Mahindra Limited",
+          "exDate": "03-Jul-2026",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE101A01026",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "03-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 33 Per Share",
+          "symbol": "M&M"
+        }
+      ]
+    }
+  ]
+}

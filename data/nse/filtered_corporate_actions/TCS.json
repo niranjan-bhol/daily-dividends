@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "TCS",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "16-Jan-2026",
+      "CH_PREVIOUS_CLS_PRICE": 3192.5,
+      "CH_OPENING_PRICE": 3219.4,
+      "CH_TRADE_HIGH_PRICE": 3221.9,
+      "CH_TRADE_LOW_PRICE": 3171,
+      "CH_LAST_TRADED_PRICE": 3209,
+      "CH_CLOSING_PRICE": 3206.7,
+      "VWAP": 3200.62,
+      "CH_TOT_TRADED_QTY": 4293470,
+      "CH_TOT_TRADED_VAL": 13741776327.9,
+      "CH_TOTAL_TRADES": 149121,
+      "CH_TIMESTAMP": "2026-01-15T18:30:00.000Z",
+      "COP_DELIV_QTY": 2649992,
+      "COP_DELIV_PERC": 61.72,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Tata Consultancy Services Limited",
+          "exDate": "16-Jan-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE467B01029",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "17-Jan-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend Rs 11 Per Share/ Special Dividend Rs 46 Per Share",
+          "symbol": "TCS"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "TCS",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "25-May-2026",
+      "CH_PREVIOUS_CLS_PRICE": 2317.3,
+      "CH_OPENING_PRICE": 2325,
+      "CH_TRADE_HIGH_PRICE": 2326.1,
+      "CH_TRADE_LOW_PRICE": 2293,
+      "CH_LAST_TRADED_PRICE": 2307.4,
+      "CH_CLOSING_PRICE": 2308.2,
+      "VWAP": 2310.3,
+      "CH_TOT_TRADED_QTY": 3298364,
+      "CH_TOT_TRADED_VAL": 7620224109.5,
+      "CH_TOTAL_TRADES": 75809,
+      "CH_TIMESTAMP": "2026-05-24T18:30:00.000Z",
+      "COP_DELIV_QTY": 2096906,
+      "COP_DELIV_PERC": 63.57,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Tata Consultancy Services Limited",
+          "exDate": "25-May-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE467B01029",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "25-May-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 31 Per Share",
+          "symbol": "TCS"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "TCS",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "15-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 2200.6,
+      "CH_OPENING_PRICE": 2174.1,
+      "CH_TRADE_HIGH_PRICE": 2202.9,
+      "CH_TRADE_LOW_PRICE": 2145.4,
+      "CH_LAST_TRADED_PRICE": 2187,
+      "CH_CLOSING_PRICE": 2189.2,
+      "VWAP": 2184.51,
+      "CH_TOT_TRADED_QTY": 5426489,
+      "CH_TOT_TRADED_VAL": 11854245157.3,
+      "CH_TOTAL_TRADES": 196320,
+      "CH_TIMESTAMP": "2026-07-14T18:30:00.000Z",
+      "COP_DELIV_QTY": 2548846,
+      "COP_DELIV_PERC": 46.97,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Tata Consultancy Services Limited",
+          "exDate": "15-Jul-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE467B01029",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "15-Jul-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 12 Per Share",
+          "symbol": "TCS"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "TCS",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "14-Oct-2026",
+      "CH_PREVIOUS_CLS_PRICE": 2269.3,
+      "CH_OPENING_PRICE": 2274,
+      "CH_TRADE_HIGH_PRICE": 2335.8,
+      "CH_TRADE_LOW_PRICE": 2265.6,
+      "CH_LAST_TRADED_PRICE": 2304.9,
+      "CH_CLOSING_PRICE": 2304.9,
+      "VWAP": 2309.6,
+      "CH_TOT_TRADED_QTY": 12145767,
+      "CH_TOT_TRADED_VAL": 28051802801.2,
+      "CH_TOTAL_TRADES": 330172,
+      "CH_TIMESTAMP": "2026-10-13T18:30:00.000Z",
+      "COP_DELIV_QTY": 7475392,
+      "COP_DELIV_PERC": 61.55,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Tata Consultancy Services Limited",
+          "exDate": "14-Oct-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE467B01029",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "14-Oct-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 12 Per Share",
+          "symbol": "TCS"
+        }
+      ]
+    }
+  ]
+}

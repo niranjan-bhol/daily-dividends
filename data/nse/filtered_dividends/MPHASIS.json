@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "MPHASIS",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "08-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 2374.6,
+      "CH_OPENING_PRICE": 2323,
+      "CH_TRADE_HIGH_PRICE": 2325,
+      "CH_TRADE_LOW_PRICE": 2232.3,
+      "CH_LAST_TRADED_PRICE": 2240.7,
+      "CH_CLOSING_PRICE": 2241.9,
+      "VWAP": 2286.03,
+      "CH_TOT_TRADED_QTY": 690474,
+      "CH_TOT_TRADED_VAL": 1578444009.3,
+      "CH_TOTAL_TRADES": 44060,
+      "CH_TIMESTAMP": "2026-07-07T18:30:00.000Z",
+      "COP_DELIV_QTY": 255049,
+      "COP_DELIV_PERC": 36.94,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "MphasiS Limited",
+          "exDate": "08-Jul-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE356A01018",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "08-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 62 Per Share",
+          "symbol": "MPHASIS"
+        }
+      ]
+    }
+  ]
+}

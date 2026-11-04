@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "COFORGE",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "30-Jan-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1678.1,
+      "CH_OPENING_PRICE": 1655.1,
+      "CH_TRADE_HIGH_PRICE": 1668.5,
+      "CH_TRADE_LOW_PRICE": 1644.6,
+      "CH_LAST_TRADED_PRICE": 1653.3,
+      "CH_CLOSING_PRICE": 1653.8,
+      "VWAP": 1659.05,
+      "CH_TOT_TRADED_QTY": 1487848,
+      "CH_TOT_TRADED_VAL": 2468413425.1,
+      "CH_TOTAL_TRADES": 51455,
+      "CH_TIMESTAMP": "2026-01-29T18:30:00.000Z",
+      "COP_DELIV_QTY": 924053,
+      "COP_DELIV_PERC": 62.11,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Coforge Limited",
+          "exDate": "30-Jan-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE591G01017",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "31-Jan-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 4 Per Share",
+          "symbol": "COFORGE"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "COFORGE",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "03-Aug-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1721,
+      "CH_OPENING_PRICE": 1739,
+      "CH_TRADE_HIGH_PRICE": 1771,
+      "CH_TRADE_LOW_PRICE": 1719,
+      "CH_LAST_TRADED_PRICE": 1768,
+      "CH_CLOSING_PRICE": 1768,
+      "VWAP": 1746.03,
+      "CH_TOT_TRADED_QTY": 2365023,
+      "CH_TOT_TRADED_VAL": 4129402307.1,
+      "CH_TOTAL_TRADES": 65382,
+      "CH_TIMESTAMP": "2026-08-02T18:30:00.000Z",
+      "COP_DELIV_QTY": 1108155,
+      "COP_DELIV_PERC": 46.86,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Coforge Limited",
+          "exDate": "03-Aug-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE591G01017",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "03-Aug-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 4 Per Share",
+          "symbol": "COFORGE"
+        }
+      ]
+    }
+  ]
+}

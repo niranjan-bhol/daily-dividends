@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "RADICO",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "24-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 4065.3,
+      "CH_OPENING_PRICE": 4065,
+      "CH_TRADE_HIGH_PRICE": 4118,
+      "CH_TRADE_LOW_PRICE": 4038.9,
+      "CH_LAST_TRADED_PRICE": 4114,
+      "CH_CLOSING_PRICE": 4091.3,
+      "VWAP": 4083.65,
+      "CH_TOT_TRADED_QTY": 343711,
+      "CH_TOT_TRADED_VAL": 1403594920.7,
+      "CH_TOTAL_TRADES": 42550,
+      "CH_TIMESTAMP": "2026-07-23T18:30:00.000Z",
+      "COP_DELIV_QTY": 190080,
+      "COP_DELIV_PERC": 55.3,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Radico Khaitan Limited",
+          "exDate": "24-Jul-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE944F01028",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "24-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 9 Per Share",
+          "symbol": "RADICO"
+        }
+      ]
+    }
+  ]
+}

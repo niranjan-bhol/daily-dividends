@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "BIRET",
+      "CH_SERIES": "RR",
+      "mTIMESTAMP": "07-Nov-2025",
+      "CH_PREVIOUS_CLS_PRICE": 343.84,
+      "CH_OPENING_PRICE": 341,
+      "CH_TRADE_HIGH_PRICE": 342.9,
+      "CH_TRADE_LOW_PRICE": 337.51,
+      "CH_LAST_TRADED_PRICE": 338.2,
+      "CH_CLOSING_PRICE": 338.72,
+      "VWAP": 340.07,
+      "CH_TOT_TRADED_QTY": 211224,
+      "CH_TOT_TRADED_VAL": 71830310.39,
+      "CH_TOTAL_TRADES": 9305,
+      "CH_TIMESTAMP": "2025-11-06T18:30:00.000Z",
+      "COP_DELIV_QTY": 184745,
+      "COP_DELIV_PERC": 87.46,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Brookfield India Real Estate Trust",
+          "exDate": "07-Nov-2025",
+          "faceVal": "275",
+          "ind": "-",
+          "isin": "INE0FDU25010",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "08-Nov-2025",
+          "series": "RR",
+          "subject": "Distribution - Rs 5.25 Per Unit Consisting Of Interest - Rs 1.85 Per Unit/ Repayment Of Shareholder Loan - Rs 2.53 Per Unit/ Dividend - Re 0.83 Per Unit/ Interest On Fixed Deposit - Re 0.04 Per Unit",
+          "symbol": "BIRET"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "BIRET",
+      "CH_SERIES": "RR",
+      "mTIMESTAMP": "03-Feb-2026",
+      "CH_PREVIOUS_CLS_PRICE": 364.51,
+      "CH_OPENING_PRICE": 363.9,
+      "CH_TRADE_HIGH_PRICE": 364,
+      "CH_TRADE_LOW_PRICE": 345.1,
+      "CH_LAST_TRADED_PRICE": 350.4,
+      "CH_CLOSING_PRICE": 349.43,
+      "VWAP": 351.3,
+      "CH_TOT_TRADED_QTY": 2917364,
+      "CH_TOT_TRADED_VAL": 1024884445.74,
+      "CH_TOTAL_TRADES": 31440,
+      "CH_TIMESTAMP": "2026-02-02T18:30:00.000Z",
+      "COP_DELIV_QTY": 2734549,
+      "COP_DELIV_PERC": 93.73,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Brookfield India Real Estate Trust",
+          "exDate": "03-Feb-2026",
+          "faceVal": "275",
+          "ind": "-",
+          "isin": "INE0FDU25010",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "03-Feb-2026",
+          "series": "RR",
+          "subject": "Distribution - Rs 5.40 Per Unit Consisting Of Interest - Rs 1.59 Per Unit/ Repayment Of Spv Debt - Rs 2.60 Per Unit/ Dividend - Re 0.94 Per Unit/ Interest On Fixed Deposit - Re 0.27 Per Unit",
+          "symbol": "BIRET"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "BIRET",
+      "CH_SERIES": "RR",
+      "mTIMESTAMP": "14-May-2026",
+      "CH_PREVIOUS_CLS_PRICE": 326.7,
+      "CH_OPENING_PRICE": 322.45,
+      "CH_TRADE_HIGH_PRICE": 322.8,
+      "CH_TRADE_LOW_PRICE": 320.41,
+      "CH_LAST_TRADED_PRICE": 321.8,
+      "CH_CLOSING_PRICE": 321.98,
+      "VWAP": 321.57,
+      "CH_TOT_TRADED_QTY": 523554,
+      "CH_TOT_TRADED_VAL": 168361275.69,
+      "CH_TOTAL_TRADES": 6340,
+      "CH_TIMESTAMP": "2026-05-13T18:30:00.000Z",
+      "COP_DELIV_QTY": 464641,
+      "COP_DELIV_PERC": 88.75,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Brookfield India Real Estate Trust",
+          "exDate": "14-May-2026",
+          "faceVal": "275",
+          "ind": "-",
+          "isin": "INE0FDU25010",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "14-May-2026",
+          "series": "RR",
+          "subject": "Distribution - Rs 5.50 Per Unit Consisting Of Interest - Rs 1.60 Per Unit/ Repayment Of Spv Debt - Rs 2.96 Per Unit/ Dividend - Re 0.88 Per Unit/ Interest On Fixed Deposit - Re 0.06 Per Unit",
+          "symbol": "BIRET"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "BIRET",
+      "CH_SERIES": "RR",
+      "mTIMESTAMP": "13-Aug-2026",
+      "CH_PREVIOUS_CLS_PRICE": 345.68,
+      "CH_OPENING_PRICE": 342,
+      "CH_TRADE_HIGH_PRICE": 346.95,
+      "CH_TRADE_LOW_PRICE": 341.5,
+      "CH_LAST_TRADED_PRICE": 346.84,
+      "CH_CLOSING_PRICE": 346.23,
+      "VWAP": 344.21,
+      "CH_TOT_TRADED_QTY": 371917,
+      "CH_TOT_TRADED_VAL": 128015922.33,
+      "CH_TOTAL_TRADES": 11006,
+      "CH_TIMESTAMP": "2026-08-12T18:30:00.000Z",
+      "COP_DELIV_QTY": 319673,
+      "COP_DELIV_PERC": 85.95,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Brookfield India Real Estate Trust",
+          "exDate": "13-Aug-2026",
+          "faceVal": "275",
+          "ind": "-",
+          "isin": "INE0FDU25010",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "13-Aug-2026",
+          "series": "RR",
+          "subject": "Distribution - Rs 5.60 Per Unit Consisting Of Interest - Rs 1.65 Per Unit/ Repayment Of Spv Debt - Rs 2.67 Per Unit/ Dividend - Re 0.93 Per Unit/ Interest On Fixed Deposit - Re 0.35 Per Unit",
+          "symbol": "BIRET"
+        }
+      ]
+    }
+  ]
+}

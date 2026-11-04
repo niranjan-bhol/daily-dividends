@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "KFINTECH",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "15-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 898.25,
+      "CH_OPENING_PRICE": 888,
+      "CH_TRADE_HIGH_PRICE": 912.8,
+      "CH_TRADE_LOW_PRICE": 884,
+      "CH_LAST_TRADED_PRICE": 894.5,
+      "CH_CLOSING_PRICE": 893.95,
+      "VWAP": 899.59,
+      "CH_TOT_TRADED_QTY": 858718,
+      "CH_TOT_TRADED_VAL": 772495775.85,
+      "CH_TOTAL_TRADES": 27596,
+      "CH_TIMESTAMP": "2026-07-14T18:30:00.000Z",
+      "COP_DELIV_QTY": 318201,
+      "COP_DELIV_PERC": 37.06,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Kfin Technologies Limited",
+          "exDate": "15-Jul-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE138Y01010",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "15-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 12 Per Share",
+          "symbol": "KFINTECH"
+        }
+      ]
+    }
+  ]
+}

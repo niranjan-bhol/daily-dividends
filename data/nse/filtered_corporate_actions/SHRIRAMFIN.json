@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "SHRIRAMFIN",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "07-Nov-2025",
+      "CH_PREVIOUS_CLS_PRICE": 792.5,
+      "CH_OPENING_PRICE": 792.5,
+      "CH_TRADE_HIGH_PRICE": 820,
+      "CH_TRADE_LOW_PRICE": 780.8,
+      "CH_LAST_TRADED_PRICE": 817.7,
+      "CH_CLOSING_PRICE": 816.35,
+      "VWAP": 807.27,
+      "CH_TOT_TRADED_QTY": 9765252,
+      "CH_TOT_TRADED_VAL": 7883240411.8,
+      "CH_TOTAL_TRADES": 232482,
+      "CH_TIMESTAMP": "2025-11-06T18:30:00.000Z",
+      "COP_DELIV_QTY": 4747264,
+      "COP_DELIV_PERC": 48.61,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Shriram Finance Limited",
+          "exDate": "07-Nov-2025",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE721A01013",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "07-Nov-2025",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 4.80 Per Share",
+          "symbol": "SHRIRAMFIN"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "SHRIRAMFIN",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "03-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1066.7,
+      "CH_OPENING_PRICE": 1081.5,
+      "CH_TRADE_HIGH_PRICE": 1081.5,
+      "CH_TRADE_LOW_PRICE": 1060.1,
+      "CH_LAST_TRADED_PRICE": 1061.8,
+      "CH_CLOSING_PRICE": 1063.6,
+      "VWAP": 1071.41,
+      "CH_TOT_TRADED_QTY": 3603167,
+      "CH_TOT_TRADED_VAL": 3860455436.2,
+      "CH_TOTAL_TRADES": 86768,
+      "CH_TIMESTAMP": "2026-07-02T18:30:00.000Z",
+      "COP_DELIV_QTY": 2090359,
+      "COP_DELIV_PERC": 58.01,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Shriram Finance Limited",
+          "exDate": "03-Jul-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE721A01013",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "03-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 6 Per Share",
+          "symbol": "SHRIRAMFIN"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "SHRIRAMFIN",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "29-Oct-2026",
+      "CH_PREVIOUS_CLS_PRICE": 832.55,
+      "CH_OPENING_PRICE": 826.35,
+      "CH_TRADE_HIGH_PRICE": 843,
+      "CH_TRADE_LOW_PRICE": 820.8,
+      "CH_LAST_TRADED_PRICE": 841.1,
+      "CH_CLOSING_PRICE": 841.1,
+      "VWAP": 835.13,
+      "CH_TOT_TRADED_QTY": 4944633,
+      "CH_TOT_TRADED_VAL": 4129425472.3,
+      "CH_TOTAL_TRADES": 94714,
+      "CH_TIMESTAMP": "2026-10-28T18:30:00.000Z",
+      "COP_DELIV_QTY": 2673883,
+      "COP_DELIV_PERC": 54.08,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Shriram Finance Limited",
+          "exDate": "29-Oct-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE721A01013",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "29-Oct-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 6.50 Per Share",
+          "symbol": "SHRIRAMFIN"
+        }
+      ]
+    }
+  ]
+}

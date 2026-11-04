@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "ESCORTS",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "16-Feb-2026",
+      "CH_PREVIOUS_CLS_PRICE": 3586.6,
+      "CH_OPENING_PRICE": 3586.6,
+      "CH_TRADE_HIGH_PRICE": 3605,
+      "CH_TRADE_LOW_PRICE": 3505.8,
+      "CH_LAST_TRADED_PRICE": 3510,
+      "CH_CLOSING_PRICE": 3521,
+      "VWAP": 3544.48,
+      "CH_TOT_TRADED_QTY": 85081,
+      "CH_TOT_TRADED_VAL": 301568084.4,
+      "CH_TOTAL_TRADES": 22044,
+      "CH_TIMESTAMP": "2026-02-15T18:30:00.000Z",
+      "COP_DELIV_QTY": 53701,
+      "COP_DELIV_PERC": 63.12,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Escorts Kubota Limited",
+          "exDate": "16-Feb-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE042A01014",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "16-Feb-2026",
+          "series": "EQ",
+          "subject": "Special Dividend - Rs 18 Per Share",
+          "symbol": "ESCORTS"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "ESCORTS",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "03-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 2949.4,
+      "CH_OPENING_PRICE": 2950,
+      "CH_TRADE_HIGH_PRICE": 2985,
+      "CH_TRADE_LOW_PRICE": 2924,
+      "CH_LAST_TRADED_PRICE": 2971,
+      "CH_CLOSING_PRICE": 2964.9,
+      "VWAP": 2956.46,
+      "CH_TOT_TRADED_QTY": 82653,
+      "CH_TOT_TRADED_VAL": 244360119.4,
+      "CH_TOTAL_TRADES": 7338,
+      "CH_TIMESTAMP": "2026-07-02T18:30:00.000Z",
+      "COP_DELIV_QTY": 40653,
+      "COP_DELIV_PERC": 49.19,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Escorts Kubota Limited",
+          "exDate": "03-Jul-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE042A01014",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "03-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 33 Per Share",
+          "symbol": "ESCORTS"
+        }
+      ]
+    }
+  ]
+}

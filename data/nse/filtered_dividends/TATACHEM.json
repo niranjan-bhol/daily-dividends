@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "TATACHEM",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "10-Jun-2026",
+      "CH_PREVIOUS_CLS_PRICE": 726.45,
+      "CH_OPENING_PRICE": 717.1,
+      "CH_TRADE_HIGH_PRICE": 755.9,
+      "CH_TRADE_LOW_PRICE": 715.05,
+      "CH_LAST_TRADED_PRICE": 719,
+      "CH_CLOSING_PRICE": 720.4,
+      "VWAP": 739.56,
+      "CH_TOT_TRADED_QTY": 1797412,
+      "CH_TOT_TRADED_VAL": 1329291503.9,
+      "CH_TOTAL_TRADES": 52588,
+      "CH_TIMESTAMP": "2026-06-09T18:30:00.000Z",
+      "COP_DELIV_QTY": 565288,
+      "COP_DELIV_PERC": 31.45,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Tata Chemicals Limited",
+          "exDate": "10-Jun-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE092A01019",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "10-Jun-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 11 Per Share",
+          "symbol": "TATACHEM"
+        }
+      ]
+    }
+  ]
+}

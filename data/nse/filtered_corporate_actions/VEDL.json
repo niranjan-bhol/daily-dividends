@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "VEDL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "27-Mar-2026",
+      "CH_PREVIOUS_CLS_PRICE": 669.65,
+      "CH_OPENING_PRICE": 655.45,
+      "CH_TRADE_HIGH_PRICE": 666.7,
+      "CH_TRADE_LOW_PRICE": 648.05,
+      "CH_LAST_TRADED_PRICE": 649.3,
+      "CH_CLOSING_PRICE": 649.4,
+      "VWAP": 653.22,
+      "CH_TOT_TRADED_QTY": 17226044,
+      "CH_TOT_TRADED_VAL": 11252458955.05,
+      "CH_TOTAL_TRADES": 220787,
+      "CH_TIMESTAMP": "2026-03-26T18:30:00.000Z",
+      "COP_DELIV_QTY": 10309527,
+      "COP_DELIV_PERC": 59.85,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Vedanta Limited",
+          "exDate": "27-Mar-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE205A01025",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "28-Mar-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 11 Per Share",
+          "symbol": "VEDL"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "VEDL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "30-Apr-2026",
+      "CH_PREVIOUS_CLS_PRICE": 773.6,
+      "CH_OPENING_PRICE": 289.5,
+      "CH_TRADE_HIGH_PRICE": 292,
+      "CH_TRADE_LOW_PRICE": 268.7,
+      "CH_LAST_TRADED_PRICE": 273,
+      "CH_CLOSING_PRICE": 271.55,
+      "VWAP": 276.89,
+      "CH_TOT_TRADED_QTY": 73870853,
+      "CH_TOT_TRADED_VAL": 20454319175.5,
+      "CH_TOTAL_TRADES": 839839,
+      "CH_TIMESTAMP": "2026-04-29T18:30:00.000Z",
+      "COP_DELIV_QTY": 37087810,
+      "COP_DELIV_PERC": 50.21,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Vedanta Limited",
+          "exDate": "30-Apr-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE205A01025",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "01-May-2026",
+          "series": "EQ",
+          "subject": "Demerger",
+          "symbol": "VEDL"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "VEDL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "14-Oct-2026",
+      "CH_PREVIOUS_CLS_PRICE": 256.3,
+      "CH_OPENING_PRICE": 253.75,
+      "CH_TRADE_HIGH_PRICE": 253.85,
+      "CH_TRADE_LOW_PRICE": 249.65,
+      "CH_LAST_TRADED_PRICE": 250,
+      "CH_CLOSING_PRICE": 250,
+      "VWAP": 251.37,
+      "CH_TOT_TRADED_QTY": 13989600,
+      "CH_TOT_TRADED_VAL": 3516608719.6,
+      "CH_TOTAL_TRADES": 102949,
+      "CH_TIMESTAMP": "2026-10-13T18:30:00.000Z",
+      "COP_DELIV_QTY": 6790502,
+      "COP_DELIV_PERC": 48.54,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Vedanta Limited",
+          "exDate": "14-Oct-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE205A01025",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "14-Oct-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 5 Per Share",
+          "symbol": "VEDL"
+        }
+      ]
+    }
+  ]
+}

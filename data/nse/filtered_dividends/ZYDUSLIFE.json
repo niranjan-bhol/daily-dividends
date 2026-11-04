@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "ZYDUSLIFE",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "24-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1113.8,
+      "CH_OPENING_PRICE": 1109,
+      "CH_TRADE_HIGH_PRICE": 1119.6,
+      "CH_TRADE_LOW_PRICE": 1099,
+      "CH_LAST_TRADED_PRICE": 1111.8,
+      "CH_CLOSING_PRICE": 1108.7,
+      "VWAP": 1108,
+      "CH_TOT_TRADED_QTY": 837032,
+      "CH_TOT_TRADED_VAL": 927432326.2,
+      "CH_TOTAL_TRADES": 30275,
+      "CH_TIMESTAMP": "2026-07-23T18:30:00.000Z",
+      "COP_DELIV_QTY": 447545,
+      "COP_DELIV_PERC": 53.47,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Zydus Lifesciences Limited",
+          "exDate": "24-Jul-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE010B01027",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "24-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Re 1 Per Share",
+          "symbol": "ZYDUSLIFE"
+        }
+      ]
+    }
+  ]
+}

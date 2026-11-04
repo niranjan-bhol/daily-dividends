@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "VBL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "08-Apr-2026",
+      "CH_PREVIOUS_CLS_PRICE": 400.85,
+      "CH_OPENING_PRICE": 412.9,
+      "CH_TRADE_HIGH_PRICE": 424,
+      "CH_TRADE_LOW_PRICE": 411.05,
+      "CH_LAST_TRADED_PRICE": 423.8,
+      "CH_CLOSING_PRICE": 421.9,
+      "VWAP": 418.93,
+      "CH_TOT_TRADED_QTY": 6926186,
+      "CH_TOT_TRADED_VAL": 2901621693.55,
+      "CH_TOTAL_TRADES": 73650,
+      "CH_TIMESTAMP": "2026-04-07T18:30:00.000Z",
+      "COP_DELIV_QTY": 3342783,
+      "COP_DELIV_PERC": 48.26,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Varun Beverages Limited",
+          "exDate": "08-Apr-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE200M01013",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "08-Apr-2026",
+          "series": "EQ",
+          "subject": "Dividend - Re 0.50 Per Share",
+          "symbol": "VBL"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "VBL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "30-Apr-2026",
+      "CH_PREVIOUS_CLS_PRICE": 523.1,
+      "CH_OPENING_PRICE": 523.1,
+      "CH_TRADE_HIGH_PRICE": 523.9,
+      "CH_TRADE_LOW_PRICE": 509.25,
+      "CH_LAST_TRADED_PRICE": 516.3,
+      "CH_CLOSING_PRICE": 513.7,
+      "VWAP": 513.71,
+      "CH_TOT_TRADED_QTY": 7127837,
+      "CH_TOT_TRADED_VAL": 3661639316.7,
+      "CH_TOTAL_TRADES": 73109,
+      "CH_TIMESTAMP": "2026-04-29T18:30:00.000Z",
+      "COP_DELIV_QTY": 4210589,
+      "COP_DELIV_PERC": 59.07,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Varun Beverages Limited",
+          "exDate": "30-Apr-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE200M01013",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "01-May-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Re 0.50 Per Share",
+          "symbol": "VBL"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "VBL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "31-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 451.35,
+      "CH_OPENING_PRICE": 451,
+      "CH_TRADE_HIGH_PRICE": 451,
+      "CH_TRADE_LOW_PRICE": 439.85,
+      "CH_LAST_TRADED_PRICE": 440,
+      "CH_CLOSING_PRICE": 442.3,
+      "VWAP": 444.57,
+      "CH_TOT_TRADED_QTY": 7987191,
+      "CH_TOT_TRADED_VAL": 3550903251.35,
+      "CH_TOTAL_TRADES": 104117,
+      "CH_TIMESTAMP": "2026-07-30T18:30:00.000Z",
+      "COP_DELIV_QTY": 5110122,
+      "COP_DELIV_PERC": 63.98,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Varun Beverages Limited",
+          "exDate": "31-Jul-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE200M01013",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "01-Aug-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Re 0.50 Per Share",
+          "symbol": "VBL"
+        }
+      ]
+    }
+  ]
+}

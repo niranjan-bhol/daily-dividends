@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "TORNTPOWER",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "16-Feb-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1462.6,
+      "CH_OPENING_PRICE": 1445,
+      "CH_TRADE_HIGH_PRICE": 1477,
+      "CH_TRADE_LOW_PRICE": 1439.8,
+      "CH_LAST_TRADED_PRICE": 1467.5,
+      "CH_CLOSING_PRICE": 1471.4,
+      "VWAP": 1464.64,
+      "CH_TOT_TRADED_QTY": 471535,
+      "CH_TOT_TRADED_VAL": 690629113.8,
+      "CH_TOTAL_TRADES": 25845,
+      "CH_TIMESTAMP": "2026-02-15T18:30:00.000Z",
+      "COP_DELIV_QTY": 149183,
+      "COP_DELIV_PERC": 31.64,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Torrent Power Limited",
+          "exDate": "16-Feb-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE813H01021",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "16-Feb-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 15 Per Share",
+          "symbol": "TORNTPOWER"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "TORNTPOWER",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "19-Jun-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1448.6,
+      "CH_OPENING_PRICE": 1455,
+      "CH_TRADE_HIGH_PRICE": 1455,
+      "CH_TRADE_LOW_PRICE": 1419.3,
+      "CH_LAST_TRADED_PRICE": 1440.8,
+      "CH_CLOSING_PRICE": 1438.4,
+      "VWAP": 1433.96,
+      "CH_TOT_TRADED_QTY": 389436,
+      "CH_TOT_TRADED_VAL": 558437498.6,
+      "CH_TOTAL_TRADES": 27063,
+      "CH_TIMESTAMP": "2026-06-18T18:30:00.000Z",
+      "COP_DELIV_QTY": 217367,
+      "COP_DELIV_PERC": 55.82,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Torrent Power Limited",
+          "exDate": "19-Jun-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE813H01021",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "19-Jun-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 5 Per Share",
+          "symbol": "TORNTPOWER"
+        }
+      ]
+    }
+  ]
+}

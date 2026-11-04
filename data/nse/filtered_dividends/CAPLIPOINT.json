@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "CAPLIPOINT",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "29-May-2026",
+      "CH_PREVIOUS_CLS_PRICE": 2023.3,
+      "CH_OPENING_PRICE": 2023,
+      "CH_TRADE_HIGH_PRICE": 2086.5,
+      "CH_TRADE_LOW_PRICE": 2012,
+      "CH_LAST_TRADED_PRICE": 2012,
+      "CH_CLOSING_PRICE": 2024.5,
+      "VWAP": 2052.12,
+      "CH_TOT_TRADED_QTY": 97307,
+      "CH_TOT_TRADED_VAL": 199685829.3,
+      "CH_TOTAL_TRADES": 10755,
+      "CH_TIMESTAMP": "2026-05-28T18:30:00.000Z",
+      "COP_DELIV_QTY": 47129,
+      "COP_DELIV_PERC": 48.43,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Caplin Point Laboratories Limited",
+          "exDate": "29-May-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE475E01018",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "30-May-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 4 Per Share",
+          "symbol": "CAPLIPOINT"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "CAPLIPOINT",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "18-Sep-2026",
+      "CH_PREVIOUS_CLS_PRICE": 2596.6,
+      "CH_OPENING_PRICE": 2596.5,
+      "CH_TRADE_HIGH_PRICE": 2780,
+      "CH_TRADE_LOW_PRICE": 2596,
+      "CH_LAST_TRADED_PRICE": 2770,
+      "CH_CLOSING_PRICE": 2748.6,
+      "VWAP": 2719.31,
+      "CH_TOT_TRADED_QTY": 308471,
+      "CH_TOT_TRADED_VAL": 838827182,
+      "CH_TOTAL_TRADES": 31973,
+      "CH_TIMESTAMP": "2026-09-17T18:30:00.000Z",
+      "COP_DELIV_QTY": 77924,
+      "COP_DELIV_PERC": 25.26,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Caplin Point Laboratories Limited",
+          "exDate": "18-Sep-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE475E01018",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "18-Sep-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 4 Per Share",
+          "symbol": "CAPLIPOINT"
+        }
+      ]
+    }
+  ]
+}

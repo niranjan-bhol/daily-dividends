@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "IEX",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "04-Feb-2026",
+      "CH_PREVIOUS_CLS_PRICE": 126.26,
+      "CH_OPENING_PRICE": 126,
+      "CH_TRADE_HIGH_PRICE": 128.09,
+      "CH_TRADE_LOW_PRICE": 124.89,
+      "CH_LAST_TRADED_PRICE": 127.7,
+      "CH_CLOSING_PRICE": 127.69,
+      "VWAP": 126.51,
+      "CH_TOT_TRADED_QTY": 6394701,
+      "CH_TOT_TRADED_VAL": 809017740.51,
+      "CH_TOTAL_TRADES": 38549,
+      "CH_TIMESTAMP": "2026-02-03T18:30:00.000Z",
+      "COP_DELIV_QTY": 2532600,
+      "COP_DELIV_PERC": 39.6,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Indian Energy Exchange Limited",
+          "exDate": "04-Feb-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE022Q01012",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "04-Feb-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 1.50 Per Share",
+          "symbol": "IEX"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "IEX",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "15-May-2026",
+      "CH_PREVIOUS_CLS_PRICE": 128.44,
+      "CH_OPENING_PRICE": 127.02,
+      "CH_TRADE_HIGH_PRICE": 127.5,
+      "CH_TRADE_LOW_PRICE": 125,
+      "CH_LAST_TRADED_PRICE": 125.24,
+      "CH_CLOSING_PRICE": 125.27,
+      "VWAP": 125.98,
+      "CH_TOT_TRADED_QTY": 3538830,
+      "CH_TOT_TRADED_VAL": 445827401.16,
+      "CH_TOTAL_TRADES": 22063,
+      "CH_TIMESTAMP": "2026-05-14T18:30:00.000Z",
+      "COP_DELIV_QTY": 1309122,
+      "COP_DELIV_PERC": 36.99,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Indian Energy Exchange Limited",
+          "exDate": "15-May-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE022Q01012",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "15-May-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 2 Per Share",
+          "symbol": "IEX"
+        }
+      ]
+    }
+  ]
+}

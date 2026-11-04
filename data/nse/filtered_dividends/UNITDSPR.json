@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "UNITDSPR",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "27-Jan-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1333,
+      "CH_OPENING_PRICE": 1329.1,
+      "CH_TRADE_HIGH_PRICE": 1329.1,
+      "CH_TRADE_LOW_PRICE": 1300.1,
+      "CH_LAST_TRADED_PRICE": 1312,
+      "CH_CLOSING_PRICE": 1311.5,
+      "VWAP": 1312.81,
+      "CH_TOT_TRADED_QTY": 830607,
+      "CH_TOT_TRADED_VAL": 1090430863.5,
+      "CH_TOTAL_TRADES": 52104,
+      "CH_TIMESTAMP": "2026-01-26T18:30:00.000Z",
+      "COP_DELIV_QTY": 416186,
+      "COP_DELIV_PERC": 50.11,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "United Spirits Limited",
+          "exDate": "27-Jan-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE854D01024",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "27-Jan-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 6 Per Share",
+          "symbol": "UNITDSPR"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "UNITDSPR",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "08-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1439.4,
+      "CH_OPENING_PRICE": 1427,
+      "CH_TRADE_HIGH_PRICE": 1427,
+      "CH_TRADE_LOW_PRICE": 1397.8,
+      "CH_LAST_TRADED_PRICE": 1422.2,
+      "CH_CLOSING_PRICE": 1408.8,
+      "VWAP": 1411.77,
+      "CH_TOT_TRADED_QTY": 2405459,
+      "CH_TOT_TRADED_VAL": 3395960048.9,
+      "CH_TOTAL_TRADES": 56440,
+      "CH_TIMESTAMP": "2026-07-07T18:30:00.000Z",
+      "COP_DELIV_QTY": 1593118,
+      "COP_DELIV_PERC": 66.23,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "United Spirits Limited",
+          "exDate": "08-Jul-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE854D01024",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "08-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 11 Per Share",
+          "symbol": "UNITDSPR"
+        }
+      ]
+    }
+  ]
+}

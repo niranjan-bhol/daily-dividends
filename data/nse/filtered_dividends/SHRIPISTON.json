@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "SHRIPISTON",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "06-Feb-2026",
+      "CH_PREVIOUS_CLS_PRICE": 3037.7,
+      "CH_OPENING_PRICE": 3037.7,
+      "CH_TRADE_HIGH_PRICE": 3063.8,
+      "CH_TRADE_LOW_PRICE": 2936.4,
+      "CH_LAST_TRADED_PRICE": 2945,
+      "CH_CLOSING_PRICE": 2967.2,
+      "VWAP": 2989.37,
+      "CH_TOT_TRADED_QTY": 95709,
+      "CH_TOT_TRADED_VAL": 286110013.8,
+      "CH_TOTAL_TRADES": 17704,
+      "CH_TIMESTAMP": "2026-02-05T18:30:00.000Z",
+      "COP_DELIV_QTY": 45524,
+      "COP_DELIV_PERC": 47.57,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "SPR Auto Technologies Limited",
+          "exDate": "06-Feb-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE526E01018",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "06-Feb-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 5 Per Share",
+          "symbol": "SHRIPISTON"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "SHRIPISTON",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "20-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 4169.9,
+      "CH_OPENING_PRICE": 4169.9,
+      "CH_TRADE_HIGH_PRICE": 4250,
+      "CH_TRADE_LOW_PRICE": 4130.8,
+      "CH_LAST_TRADED_PRICE": 4230,
+      "CH_CLOSING_PRICE": 4233.8,
+      "VWAP": 4178.07,
+      "CH_TOT_TRADED_QTY": 173971,
+      "CH_TOT_TRADED_VAL": 726862726.9,
+      "CH_TOTAL_TRADES": 11364,
+      "CH_TIMESTAMP": "2026-07-19T18:30:00.000Z",
+      "COP_DELIV_QTY": 139252,
+      "COP_DELIV_PERC": 80.04,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "SPR Auto Technologies Limited",
+          "exDate": "20-Jul-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE526E01018",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "20-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 5 Per Share",
+          "symbol": "SHRIPISTON"
+        }
+      ]
+    }
+  ]
+}

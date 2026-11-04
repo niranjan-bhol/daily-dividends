@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "HDFCBANK",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "19-Jun-2026",
+      "CH_PREVIOUS_CLS_PRICE": 799,
+      "CH_OPENING_PRICE": 788.7,
+      "CH_TRADE_HIGH_PRICE": 789.05,
+      "CH_TRADE_LOW_PRICE": 776.2,
+      "CH_LAST_TRADED_PRICE": 781,
+      "CH_CLOSING_PRICE": 779.8,
+      "VWAP": 780.8,
+      "CH_TOT_TRADED_QTY": 33798761,
+      "CH_TOT_TRADED_VAL": 26389948086.3,
+      "CH_TOTAL_TRADES": 342920,
+      "CH_TIMESTAMP": "2026-06-18T18:30:00.000Z",
+      "COP_DELIV_QTY": 21270632,
+      "COP_DELIV_PERC": 62.93,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "HDFC Bank Limited",
+          "exDate": "19-Jun-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE040A01018",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "19-Jun-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 13 Per Share",
+          "symbol": "HDFCBANK"
+        }
+      ]
+    }
+  ]
+}

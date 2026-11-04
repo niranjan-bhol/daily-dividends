@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "INDUSTOWER",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "10-Aug-2026",
+      "CH_PREVIOUS_CLS_PRICE": 386,
+      "CH_OPENING_PRICE": 374,
+      "CH_TRADE_HIGH_PRICE": 377.15,
+      "CH_TRADE_LOW_PRICE": 363.5,
+      "CH_LAST_TRADED_PRICE": 368,
+      "CH_CLOSING_PRICE": 368,
+      "VWAP": 370.35,
+      "CH_TOT_TRADED_QTY": 9015128,
+      "CH_TOT_TRADED_VAL": 3338792329.8,
+      "CH_TOTAL_TRADES": 87905,
+      "CH_TIMESTAMP": "2026-08-09T18:30:00.000Z",
+      "COP_DELIV_QTY": 5318250,
+      "COP_DELIV_PERC": 58.99,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Indus Towers Limited",
+          "exDate": "10-Aug-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE121J01017",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "10-Aug-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 14 Per Share",
+          "symbol": "INDUSTOWER"
+        }
+      ]
+    }
+  ]
+}

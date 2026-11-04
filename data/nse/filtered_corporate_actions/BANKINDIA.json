@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "BANKINDIA",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "29-May-2026",
+      "CH_PREVIOUS_CLS_PRICE": 147,
+      "CH_OPENING_PRICE": 142.48,
+      "CH_TRADE_HIGH_PRICE": 144.16,
+      "CH_TRADE_LOW_PRICE": 139.5,
+      "CH_LAST_TRADED_PRICE": 140,
+      "CH_CLOSING_PRICE": 139.91,
+      "VWAP": 141.75,
+      "CH_TOT_TRADED_QTY": 12099858,
+      "CH_TOT_TRADED_VAL": 1715154175.53,
+      "CH_TOTAL_TRADES": 50978,
+      "CH_TIMESTAMP": "2026-05-28T18:30:00.000Z",
+      "COP_DELIV_QTY": 5251314,
+      "COP_DELIV_PERC": 43.4,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Bank of India",
+          "exDate": "29-May-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE084A01016",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "29-May-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 4.65 Per Share",
+          "symbol": "BANKINDIA"
+        }
+      ]
+    }
+  ]
+}

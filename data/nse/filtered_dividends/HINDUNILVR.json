@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "HINDUNILVR",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "07-Nov-2025",
+      "CH_PREVIOUS_CLS_PRICE": 2436,
+      "CH_OPENING_PRICE": 2417,
+      "CH_TRADE_HIGH_PRICE": 2425,
+      "CH_TRADE_LOW_PRICE": 2400.6,
+      "CH_LAST_TRADED_PRICE": 2416.8,
+      "CH_CLOSING_PRICE": 2414,
+      "VWAP": 2415.47,
+      "CH_TOT_TRADED_QTY": 817896,
+      "CH_TOT_TRADED_VAL": 1975599206.2,
+      "CH_TOTAL_TRADES": 55901,
+      "CH_TIMESTAMP": "2025-11-06T18:30:00.000Z",
+      "COP_DELIV_QTY": 511000,
+      "COP_DELIV_PERC": 62.48,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Hindustan Unilever Limited",
+          "exDate": "07-Nov-2025",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE030A01027",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "07-Nov-2025",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 19 Per Share",
+          "symbol": "HINDUNILVR"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "HINDUNILVR",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "23-Jun-2026",
+      "CH_PREVIOUS_CLS_PRICE": 2184.9,
+      "CH_OPENING_PRICE": 2160.1,
+      "CH_TRADE_HIGH_PRICE": 2179.7,
+      "CH_TRADE_LOW_PRICE": 2156,
+      "CH_LAST_TRADED_PRICE": 2160,
+      "CH_CLOSING_PRICE": 2160.1,
+      "VWAP": 2165.87,
+      "CH_TOT_TRADED_QTY": 710082,
+      "CH_TOT_TRADED_VAL": 1537946418.3,
+      "CH_TOTAL_TRADES": 34816,
+      "CH_TIMESTAMP": "2026-06-22T18:30:00.000Z",
+      "COP_DELIV_QTY": 397387,
+      "COP_DELIV_PERC": 55.96,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Hindustan Unilever Limited",
+          "exDate": "23-Jun-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE030A01027",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "23-Jun-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 22 Per Share",
+          "symbol": "HINDUNILVR"
+        }
+      ]
+    }
+  ]
+}

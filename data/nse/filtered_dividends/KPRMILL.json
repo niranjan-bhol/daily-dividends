@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "KPRMILL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "13-Feb-2026",
+      "CH_PREVIOUS_CLS_PRICE": 897.8,
+      "CH_OPENING_PRICE": 897,
+      "CH_TRADE_HIGH_PRICE": 988.7,
+      "CH_TRADE_LOW_PRICE": 869.05,
+      "CH_LAST_TRADED_PRICE": 926,
+      "CH_CLOSING_PRICE": 930.5,
+      "VWAP": 948.59,
+      "CH_TOT_TRADED_QTY": 3875768,
+      "CH_TOT_TRADED_VAL": 3676521138,
+      "CH_TOTAL_TRADES": 112956,
+      "CH_TIMESTAMP": "2026-02-12T18:30:00.000Z",
+      "COP_DELIV_QTY": 426535,
+      "COP_DELIV_PERC": 11.01,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "K.P.R. Mill Limited",
+          "exDate": "13-Feb-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE930H01015",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "13-Feb-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 2.50 Per Share",
+          "symbol": "KPRMILL"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "KPRMILL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "20-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1140.3,
+      "CH_OPENING_PRICE": 1147.8,
+      "CH_TRADE_HIGH_PRICE": 1157.5,
+      "CH_TRADE_LOW_PRICE": 1110.1,
+      "CH_LAST_TRADED_PRICE": 1115,
+      "CH_CLOSING_PRICE": 1113.3,
+      "VWAP": 1130.56,
+      "CH_TOT_TRADED_QTY": 288023,
+      "CH_TOT_TRADED_VAL": 325628497.7,
+      "CH_TOTAL_TRADES": 22120,
+      "CH_TIMESTAMP": "2026-07-19T18:30:00.000Z",
+      "COP_DELIV_QTY": 127157,
+      "COP_DELIV_PERC": 44.15,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "K.P.R. Mill Limited",
+          "exDate": "20-Jul-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE930H01015",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "20-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 2.50 Per Share",
+          "symbol": "KPRMILL"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "BEML",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "03-Nov-2025",
+      "CH_PREVIOUS_CLS_PRICE": 4399.8,
+      "CH_OPENING_PRICE": 2188,
+      "CH_TRADE_HIGH_PRICE": 2209,
+      "CH_TRADE_LOW_PRICE": 2164,
+      "CH_LAST_TRADED_PRICE": 2208.5,
+      "CH_CLOSING_PRICE": 2187,
+      "VWAP": 2184.07,
+      "CH_TOT_TRADED_QTY": 333246,
+      "CH_TOT_TRADED_VAL": 727833459.6,
+      "CH_TOTAL_TRADES": 22493,
+      "CH_TIMESTAMP": "2025-11-02T18:30:00.000Z",
+      "COP_DELIV_QTY": 143560,
+      "COP_DELIV_PERC": 43.08,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "BEML Limited",
+          "exDate": "03-Nov-2025",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE258A01016",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "03-Nov-2025",
+          "series": "EQ",
+          "subject": "Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 5/- Per Share",
+          "symbol": "BEML"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "BEML",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "13-Feb-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1740.4,
+      "CH_OPENING_PRICE": 1731.1,
+      "CH_TRADE_HIGH_PRICE": 1748.9,
+      "CH_TRADE_LOW_PRICE": 1700.6,
+      "CH_LAST_TRADED_PRICE": 1731,
+      "CH_CLOSING_PRICE": 1735.9,
+      "VWAP": 1730.4,
+      "CH_TOT_TRADED_QTY": 171064,
+      "CH_TOT_TRADED_VAL": 296009954.8,
+      "CH_TOTAL_TRADES": 16120,
+      "CH_TIMESTAMP": "2026-02-12T18:30:00.000Z",
+      "COP_DELIV_QTY": 47249,
+      "COP_DELIV_PERC": 27.62,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "BEML Limited",
+          "exDate": "13-Feb-2026",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE258A01016",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "13-Feb-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 2.50 Per Share",
+          "symbol": "BEML"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "BEML",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "05-Jun-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1737.1,
+      "CH_OPENING_PRICE": 1747,
+      "CH_TRADE_HIGH_PRICE": 1764,
+      "CH_TRADE_LOW_PRICE": 1721.7,
+      "CH_LAST_TRADED_PRICE": 1741.5,
+      "CH_CLOSING_PRICE": 1742.8,
+      "VWAP": 1743.91,
+      "CH_TOT_TRADED_QTY": 144393,
+      "CH_TOT_TRADED_VAL": 251808520.9,
+      "CH_TOTAL_TRADES": 12090,
+      "CH_TIMESTAMP": "2026-06-04T18:30:00.000Z",
+      "COP_DELIV_QTY": 50209,
+      "COP_DELIV_PERC": 34.77,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "BEML Limited",
+          "exDate": "05-Jun-2026",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE258A01016",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "05-Jun-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 2.30 Per Share",
+          "symbol": "BEML"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "BEML",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "22-Sep-2026",
+      "CH_PREVIOUS_CLS_PRICE": 2097.9,
+      "CH_OPENING_PRICE": 2100,
+      "CH_TRADE_HIGH_PRICE": 2120,
+      "CH_TRADE_LOW_PRICE": 2076.2,
+      "CH_LAST_TRADED_PRICE": 2102,
+      "CH_CLOSING_PRICE": 2096.8,
+      "VWAP": 2098.6,
+      "CH_TOT_TRADED_QTY": 221034,
+      "CH_TOT_TRADED_VAL": 463861319.4,
+      "CH_TOTAL_TRADES": 17731,
+      "CH_TIMESTAMP": "2026-09-21T18:30:00.000Z",
+      "COP_DELIV_QTY": 69274,
+      "COP_DELIV_PERC": 31.34,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "BEML Limited",
+          "exDate": "22-Sep-2026",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE258A01016",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "22-Sep-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 12.28 Per Share",
+          "symbol": "BEML"
+        }
+      ]
+    }
+  ]
+}

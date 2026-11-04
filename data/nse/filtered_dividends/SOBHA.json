@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "SOBHA",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "10-Jul-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1469.8,
+      "CH_OPENING_PRICE": 1470,
+      "CH_TRADE_HIGH_PRICE": 1525,
+      "CH_TRADE_LOW_PRICE": 1451.5,
+      "CH_LAST_TRADED_PRICE": 1520,
+      "CH_CLOSING_PRICE": 1511.3,
+      "VWAP": 1493.49,
+      "CH_TOT_TRADED_QTY": 377210,
+      "CH_TOT_TRADED_VAL": 563358861.1,
+      "CH_TOTAL_TRADES": 27557,
+      "CH_TIMESTAMP": "2026-07-09T18:30:00.000Z",
+      "COP_DELIV_QTY": 156775,
+      "COP_DELIV_PERC": 41.56,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Sobha Limited",
+          "exDate": "10-Jul-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE671H01015",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "10-Jul-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 6 Per Share",
+          "symbol": "SOBHA"
+        }
+      ]
+    }
+  ]
+}

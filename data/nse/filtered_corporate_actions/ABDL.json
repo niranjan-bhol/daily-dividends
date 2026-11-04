@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "ABDL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "25-Jun-2026",
+      "CH_PREVIOUS_CLS_PRICE": 629.05,
+      "CH_OPENING_PRICE": 628.9,
+      "CH_TRADE_HIGH_PRICE": 628.9,
+      "CH_TRADE_LOW_PRICE": 618.35,
+      "CH_LAST_TRADED_PRICE": 624,
+      "CH_CLOSING_PRICE": 622.3,
+      "VWAP": 622.86,
+      "CH_TOT_TRADED_QTY": 137456,
+      "CH_TOT_TRADED_VAL": 85615967.6,
+      "CH_TOTAL_TRADES": 5698,
+      "CH_TIMESTAMP": "2026-06-24T18:30:00.000Z",
+      "COP_DELIV_QTY": 68559,
+      "COP_DELIV_PERC": 49.88,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Allied Blenders and Distillers Limited",
+          "exDate": "25-Jun-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE552Z01027",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "26-Jun-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 5.40 Per Share",
+          "symbol": "ABDL"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "APLAPOLLO",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "08-Sep-2026",
+      "CH_PREVIOUS_CLS_PRICE": 2215,
+      "CH_OPENING_PRICE": 2204.6,
+      "CH_TRADE_HIGH_PRICE": 2204.8,
+      "CH_TRADE_LOW_PRICE": 2165,
+      "CH_LAST_TRADED_PRICE": 2185,
+      "CH_CLOSING_PRICE": 2185,
+      "VWAP": 2180.47,
+      "CH_TOT_TRADED_QTY": 922548,
+      "CH_TOT_TRADED_VAL": 2011586010.8,
+      "CH_TOTAL_TRADES": 38840,
+      "CH_TIMESTAMP": "2026-09-07T18:30:00.000Z",
+      "COP_DELIV_QTY": 559402,
+      "COP_DELIV_PERC": 60.64,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "APL Apollo Tubes Limited",
+          "exDate": "08-Sep-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE702C01019",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "08-Sep-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 8.50 Per Share",
+          "symbol": "APLAPOLLO"
+        }
+      ]
+    }
+  ]
+}

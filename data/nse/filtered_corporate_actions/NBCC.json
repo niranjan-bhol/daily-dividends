@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "NBCC",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "19-Nov-2025",
+      "CH_PREVIOUS_CLS_PRICE": 114.96,
+      "CH_OPENING_PRICE": 114.57,
+      "CH_TRADE_HIGH_PRICE": 114.84,
+      "CH_TRADE_LOW_PRICE": 112.55,
+      "CH_LAST_TRADED_PRICE": 112.9,
+      "CH_CLOSING_PRICE": 113.04,
+      "VWAP": 113.31,
+      "CH_TOT_TRADED_QTY": 6455676,
+      "CH_TOT_TRADED_VAL": 731502106.14,
+      "CH_TOTAL_TRADES": 29074,
+      "CH_TIMESTAMP": "2025-11-18T18:30:00.000Z",
+      "COP_DELIV_QTY": 1862738,
+      "COP_DELIV_PERC": 28.85,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "NBCC (India) Limited",
+          "exDate": "19-Nov-2025",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE095N01015",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "19-Nov-2025",
+          "series": "EQ",
+          "subject": "Interim Dividend - Re 0.21 Per Share",
+          "symbol": "NBCC"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "NBCC",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "25-Feb-2026",
+      "CH_PREVIOUS_CLS_PRICE": 94.54,
+      "CH_OPENING_PRICE": 94.9,
+      "CH_TRADE_HIGH_PRICE": 95.93,
+      "CH_TRADE_LOW_PRICE": 93.74,
+      "CH_LAST_TRADED_PRICE": 94.75,
+      "CH_CLOSING_PRICE": 94.63,
+      "VWAP": 94.85,
+      "CH_TOT_TRADED_QTY": 10414932,
+      "CH_TOT_TRADED_VAL": 987843882.21,
+      "CH_TOTAL_TRADES": 35860,
+      "CH_TIMESTAMP": "2026-02-24T18:30:00.000Z",
+      "COP_DELIV_QTY": 4167273,
+      "COP_DELIV_PERC": 40.01,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "NBCC (India) Limited",
+          "exDate": "25-Feb-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE095N01015",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "25-Feb-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Re 0.12 Per Share",
+          "symbol": "NBCC"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "NBCC",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "17-Aug-2026",
+      "CH_PREVIOUS_CLS_PRICE": 89.15,
+      "CH_OPENING_PRICE": 89.46,
+      "CH_TRADE_HIGH_PRICE": 90.26,
+      "CH_TRADE_LOW_PRICE": 88.54,
+      "CH_LAST_TRADED_PRICE": 89.75,
+      "CH_CLOSING_PRICE": 89.75,
+      "VWAP": 89.55,
+      "CH_TOT_TRADED_QTY": 6941578,
+      "CH_TOT_TRADED_VAL": 621612410.44,
+      "CH_TOTAL_TRADES": 35035,
+      "CH_TIMESTAMP": "2026-08-16T18:30:00.000Z",
+      "COP_DELIV_QTY": 2541592,
+      "COP_DELIV_PERC": 36.61,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "NBCC (India) Limited",
+          "exDate": "17-Aug-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE095N01015",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "17-Aug-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Re 0.15 Per Share",
+          "symbol": "NBCC"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "NBCC",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "28-Aug-2026",
+      "CH_PREVIOUS_CLS_PRICE": 88.6,
+      "CH_OPENING_PRICE": 89.1,
+      "CH_TRADE_HIGH_PRICE": 89.28,
+      "CH_TRADE_LOW_PRICE": 87.15,
+      "CH_LAST_TRADED_PRICE": 87.5,
+      "CH_CLOSING_PRICE": 87.5,
+      "VWAP": 88.04,
+      "CH_TOT_TRADED_QTY": 6704520,
+      "CH_TOT_TRADED_VAL": 590293663.86,
+      "CH_TOTAL_TRADES": 26336,
+      "CH_TIMESTAMP": "2026-08-27T18:30:00.000Z",
+      "COP_DELIV_QTY": 3186527,
+      "COP_DELIV_PERC": 47.53,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "NBCC (India) Limited",
+          "exDate": "28-Aug-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE095N01015",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "28-Aug-2026",
+          "series": "EQ",
+          "subject": "Dividend - Re 0.46 Per Share",
+          "symbol": "NBCC"
+        }
+      ]
+    }
+  ]
+}

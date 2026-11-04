@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "CGCL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "04-Sep-2026",
+      "CH_PREVIOUS_CLS_PRICE": 271.7,
+      "CH_OPENING_PRICE": 274,
+      "CH_TRADE_HIGH_PRICE": 284.8,
+      "CH_TRADE_LOW_PRICE": 271.5,
+      "CH_LAST_TRADED_PRICE": 281.9,
+      "CH_CLOSING_PRICE": 279.9,
+      "VWAP": 276.38,
+      "CH_TOT_TRADED_QTY": 7594713,
+      "CH_TOT_TRADED_VAL": 2098998472.35,
+      "CH_TOTAL_TRADES": 54695,
+      "CH_TIMESTAMP": "2026-09-03T18:30:00.000Z",
+      "COP_DELIV_QTY": 2155505,
+      "COP_DELIV_PERC": 28.38,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Capri Global Capital Limited",
+          "exDate": "04-Sep-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE180C01018",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "04-Sep-2026",
+          "series": "EQ",
+          "subject": "Dividend - Re 0.20 Per Share",
+          "symbol": "CGCL"
+        }
+      ]
+    }
+  ]
+}

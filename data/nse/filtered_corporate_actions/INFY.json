@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "INFY",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "14-Nov-2025",
+      "CH_PREVIOUS_CLS_PRICE": 1541.8,
+      "CH_OPENING_PRICE": 1520,
+      "CH_TRADE_HIGH_PRICE": 1530,
+      "CH_TRADE_LOW_PRICE": 1488.8,
+      "CH_LAST_TRADED_PRICE": 1505.8,
+      "CH_CLOSING_PRICE": 1502.8,
+      "VWAP": 1502.86,
+      "CH_TOT_TRADED_QTY": 9739549,
+      "CH_TOT_TRADED_VAL": 14637169031.7,
+      "CH_TOTAL_TRADES": 236102,
+      "CH_TIMESTAMP": "2025-11-13T18:30:00.000Z",
+      "COP_DELIV_QTY": 5702326,
+      "COP_DELIV_PERC": 58.55,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Infosys Limited",
+          "exDate": "14-Nov-2025",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE009A01021",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "14-Nov-2025",
+          "series": "EQ",
+          "subject": "Buy Back",
+          "symbol": "INFY"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "INFY",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "10-Jun-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1180.3,
+      "CH_OPENING_PRICE": 1160.1,
+      "CH_TRADE_HIGH_PRICE": 1171.4,
+      "CH_TRADE_LOW_PRICE": 1143.3,
+      "CH_LAST_TRADED_PRICE": 1144,
+      "CH_CLOSING_PRICE": 1145.3,
+      "VWAP": 1154.24,
+      "CH_TOT_TRADED_QTY": 8887626,
+      "CH_TOT_TRADED_VAL": 10258450697.6,
+      "CH_TOTAL_TRADES": 174623,
+      "CH_TIMESTAMP": "2026-06-09T18:30:00.000Z",
+      "COP_DELIV_QTY": 4258395,
+      "COP_DELIV_PERC": 47.91,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Infosys Limited",
+          "exDate": "10-Jun-2026",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE009A01021",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "10-Jun-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 25 Per Share",
+          "symbol": "INFY"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "INFY",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "03-Nov-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1161,
+      "CH_OPENING_PRICE": 1155.7,
+      "CH_TRADE_HIGH_PRICE": 1162,
+      "CH_TRADE_LOW_PRICE": 1133.5,
+      "CH_LAST_TRADED_PRICE": 1148.1,
+      "CH_CLOSING_PRICE": 1148.1,
+      "VWAP": 1143.2,
+      "CH_TOT_TRADED_QTY": 10495455,
+      "CH_TOT_TRADED_VAL": 11998372994.3,
+      "CH_TOTAL_TRADES": 136979,
+      "CH_TIMESTAMP": "2026-11-02T18:30:00.000Z",
+      "COP_DELIV_QTY": 5787897,
+      "COP_DELIV_PERC": 55.15,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Infosys Limited",
+          "exDate": "03-Nov-2026",
+          "faceVal": "5",
+          "ind": "-",
+          "isin": "INE009A01021",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "03-Nov-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 26 Per Share",
+          "symbol": "INFY"
+        }
+      ]
+    }
+  ]
+}

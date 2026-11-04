@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "TATASTEEL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "12-Jun-2026",
+      "CH_PREVIOUS_CLS_PRICE": 197.96,
+      "CH_OPENING_PRICE": 200,
+      "CH_TRADE_HIGH_PRICE": 200.82,
+      "CH_TRADE_LOW_PRICE": 195.8,
+      "CH_LAST_TRADED_PRICE": 197.83,
+      "CH_CLOSING_PRICE": 197.86,
+      "VWAP": 197.15,
+      "CH_TOT_TRADED_QTY": 27622963,
+      "CH_TOT_TRADED_VAL": 5445854338.36,
+      "CH_TOTAL_TRADES": 295521,
+      "CH_TIMESTAMP": "2026-06-11T18:30:00.000Z",
+      "COP_DELIV_QTY": 12719970,
+      "COP_DELIV_PERC": 46.05,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Tata Steel Limited",
+          "exDate": "12-Jun-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE081A01012",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "12-Jun-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 4 Per Share",
+          "symbol": "TATASTEEL"
+        }
+      ]
+    }
+  ]
+}

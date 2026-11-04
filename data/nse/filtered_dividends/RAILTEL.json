@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "RAILTEL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "04-Nov-2025",
+      "CH_PREVIOUS_CLS_PRICE": 369.75,
+      "CH_OPENING_PRICE": 369,
+      "CH_TRADE_HIGH_PRICE": 370.5,
+      "CH_TRADE_LOW_PRICE": 362.8,
+      "CH_LAST_TRADED_PRICE": 363.35,
+      "CH_CLOSING_PRICE": 364.2,
+      "VWAP": 365.88,
+      "CH_TOT_TRADED_QTY": 501538,
+      "CH_TOT_TRADED_VAL": 183501123.35,
+      "CH_TOTAL_TRADES": 11672,
+      "CH_TIMESTAMP": "2025-11-03T18:30:00.000Z",
+      "COP_DELIV_QTY": 232777,
+      "COP_DELIV_PERC": 46.41,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Railtel Corporation Of India Limited",
+          "exDate": "04-Nov-2025",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE0DD101019",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "04-Nov-2025",
+          "series": "EQ",
+          "subject": "Interim Dividend - Re 1 Per Share",
+          "symbol": "RAILTEL"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "RAILTEL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "13-Mar-2026",
+      "CH_PREVIOUS_CLS_PRICE": 287.1,
+      "CH_OPENING_PRICE": 285,
+      "CH_TRADE_HIGH_PRICE": 285.8,
+      "CH_TRADE_LOW_PRICE": 276.75,
+      "CH_LAST_TRADED_PRICE": 278,
+      "CH_CLOSING_PRICE": 278,
+      "VWAP": 280.01,
+      "CH_TOT_TRADED_QTY": 655595,
+      "CH_TOT_TRADED_VAL": 183573988.15,
+      "CH_TOTAL_TRADES": 15808,
+      "CH_TIMESTAMP": "2026-03-12T18:30:00.000Z",
+      "COP_DELIV_QTY": 264437,
+      "COP_DELIV_PERC": 40.34,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Railtel Corporation Of India Limited",
+          "exDate": "13-Mar-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE0DD101019",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "13-Mar-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Re 1 Per Share",
+          "symbol": "RAILTEL"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "RAILTEL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "13-Aug-2026",
+      "CH_PREVIOUS_CLS_PRICE": 285.8,
+      "CH_OPENING_PRICE": 284.5,
+      "CH_TRADE_HIGH_PRICE": 287.95,
+      "CH_TRADE_LOW_PRICE": 284.4,
+      "CH_LAST_TRADED_PRICE": 286.15,
+      "CH_CLOSING_PRICE": 285.2,
+      "VWAP": 285.63,
+      "CH_TOT_TRADED_QTY": 300807,
+      "CH_TOT_TRADED_VAL": 85920926,
+      "CH_TOTAL_TRADES": 8568,
+      "CH_TIMESTAMP": "2026-08-12T18:30:00.000Z",
+      "COP_DELIV_QTY": 110427,
+      "COP_DELIV_PERC": 36.71,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Railtel Corporation Of India Limited",
+          "exDate": "13-Aug-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE0DD101019",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "13-Aug-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 1.25 Per Share",
+          "symbol": "RAILTEL"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "RAILTEL",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "30-Oct-2026",
+      "CH_PREVIOUS_CLS_PRICE": 230.2,
+      "CH_OPENING_PRICE": 227.1,
+      "CH_TRADE_HIGH_PRICE": 227.95,
+      "CH_TRADE_LOW_PRICE": 221.1,
+      "CH_LAST_TRADED_PRICE": 222.6,
+      "CH_CLOSING_PRICE": 222.4,
+      "VWAP": 223.71,
+      "CH_TOT_TRADED_QTY": 561081,
+      "CH_TOT_TRADED_VAL": 125517406.7,
+      "CH_TOTAL_TRADES": 13882,
+      "CH_TIMESTAMP": "2026-10-29T18:30:00.000Z",
+      "COP_DELIV_QTY": 246925,
+      "COP_DELIV_PERC": 44.01,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Railtel Corporation Of India Limited",
+          "exDate": "30-Oct-2026",
+          "faceVal": "10",
+          "ind": "-",
+          "isin": "INE0DD101019",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "30-Oct-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Re 1 Per Share",
+          "symbol": "RAILTEL"
+        }
+      ]
+    }
+  ]
+}

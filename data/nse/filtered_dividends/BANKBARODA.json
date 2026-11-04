@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "BANKBARODA",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "05-Jun-2026",
+      "CH_PREVIOUS_CLS_PRICE": 271.3,
+      "CH_OPENING_PRICE": 264.95,
+      "CH_TRADE_HIGH_PRICE": 269.4,
+      "CH_TRADE_LOW_PRICE": 262.8,
+      "CH_LAST_TRADED_PRICE": 264,
+      "CH_CLOSING_PRICE": 263.7,
+      "VWAP": 265.54,
+      "CH_TOT_TRADED_QTY": 23279313,
+      "CH_TOT_TRADED_VAL": 6181703222.9,
+      "CH_TOTAL_TRADES": 81633,
+      "CH_TIMESTAMP": "2026-06-04T18:30:00.000Z",
+      "COP_DELIV_QTY": 8696917,
+      "COP_DELIV_PERC": 37.36,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Bank of Baroda",
+          "exDate": "05-Jun-2026",
+          "faceVal": "2",
+          "ind": "-",
+          "isin": "INE028A01013",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "05-Jun-2026",
+          "series": "EQ",
+          "subject": "Dividend - Rs 8.50 Per Share",
+          "symbol": "BANKBARODA"
+        }
+      ]
+    }
+  ]
+}

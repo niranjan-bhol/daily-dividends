@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "CH_SYMBOL": "GODREJCP",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "07-Nov-2025",
+      "CH_PREVIOUS_CLS_PRICE": 1146,
+      "CH_OPENING_PRICE": 1135.6,
+      "CH_TRADE_HIGH_PRICE": 1139.4,
+      "CH_TRADE_LOW_PRICE": 1118.3,
+      "CH_LAST_TRADED_PRICE": 1125.3,
+      "CH_CLOSING_PRICE": 1121.8,
+      "VWAP": 1129.28,
+      "CH_TOT_TRADED_QTY": 1985895,
+      "CH_TOT_TRADED_VAL": 2242624160.8,
+      "CH_TOTAL_TRADES": 23943,
+      "CH_TIMESTAMP": "2025-11-06T18:30:00.000Z",
+      "COP_DELIV_QTY": 1467688,
+      "COP_DELIV_PERC": 73.91,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Godrej Consumer Products Limited",
+          "exDate": "07-Nov-2025",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE102D01028",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "07-Nov-2025",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 5 Per Share",
+          "symbol": "GODREJCP"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "GODREJCP",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "30-Jan-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1155.3,
+      "CH_OPENING_PRICE": 1155.3,
+      "CH_TRADE_HIGH_PRICE": 1170,
+      "CH_TRADE_LOW_PRICE": 1146.5,
+      "CH_LAST_TRADED_PRICE": 1155,
+      "CH_CLOSING_PRICE": 1154.1,
+      "VWAP": 1155.48,
+      "CH_TOT_TRADED_QTY": 1816812,
+      "CH_TOT_TRADED_VAL": 2099285203.4,
+      "CH_TOTAL_TRADES": 84506,
+      "CH_TIMESTAMP": "2026-01-29T18:30:00.000Z",
+      "COP_DELIV_QTY": 1265785,
+      "COP_DELIV_PERC": 69.67,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Godrej Consumer Products Limited",
+          "exDate": "30-Jan-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE102D01028",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "30-Jan-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 5 Per Share",
+          "symbol": "GODREJCP"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "GODREJCP",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "12-May-2026",
+      "CH_PREVIOUS_CLS_PRICE": 1010.9,
+      "CH_OPENING_PRICE": 1011.1,
+      "CH_TRADE_HIGH_PRICE": 1045.9,
+      "CH_TRADE_LOW_PRICE": 1005.3,
+      "CH_LAST_TRADED_PRICE": 1028,
+      "CH_CLOSING_PRICE": 1030.2,
+      "VWAP": 1029.75,
+      "CH_TOT_TRADED_QTY": 2855474,
+      "CH_TOT_TRADED_VAL": 2940431990.7,
+      "CH_TOTAL_TRADES": 58783,
+      "CH_TIMESTAMP": "2026-05-11T18:30:00.000Z",
+      "COP_DELIV_QTY": 1354116,
+      "COP_DELIV_PERC": 47.42,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Godrej Consumer Products Limited",
+          "exDate": "12-May-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE102D01028",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "12-May-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 5 Per Share",
+          "symbol": "GODREJCP"
+        }
+      ]
+    },
+    {
+      "CH_SYMBOL": "GODREJCP",
+      "CH_SERIES": "EQ",
+      "mTIMESTAMP": "13-Aug-2026",
+      "CH_PREVIOUS_CLS_PRICE": 910,
+      "CH_OPENING_PRICE": 911.4,
+      "CH_TRADE_HIGH_PRICE": 939,
+      "CH_TRADE_LOW_PRICE": 906.3,
+      "CH_LAST_TRADED_PRICE": 936.9,
+      "CH_CLOSING_PRICE": 936.9,
+      "VWAP": 925.19,
+      "CH_TOT_TRADED_QTY": 6814508,
+      "CH_TOT_TRADED_VAL": 6304738108.1,
+      "CH_TOTAL_TRADES": 169823,
+      "CH_TIMESTAMP": "2026-08-12T18:30:00.000Z",
+      "COP_DELIV_QTY": 3494562,
+      "COP_DELIV_PERC": 51.28,
+      "CA": [
+        {
+          "bcEndDate": "-",
+          "bcStartDate": "-",
+          "caBroadcastDate": null,
+          "comp": "Godrej Consumer Products Limited",
+          "exDate": "13-Aug-2026",
+          "faceVal": "1",
+          "ind": "-",
+          "isin": "INE102D01028",
+          "ndEndDate": "-",
+          "ndStartDate": "-",
+          "recDate": "13-Aug-2026",
+          "series": "EQ",
+          "subject": "Interim Dividend - Rs 5 Per Share",
+          "symbol": "GODREJCP"
+        }
+      ]
+    }
+  ]
+}
